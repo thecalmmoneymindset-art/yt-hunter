@@ -6,17 +6,20 @@ Env: YOUTUBE_API_KEY. Optional: MOCK=1 to run offline on sample data."""
 import os, re, json, math, sys, datetime as dt, collections, urllib.parse, urllib.request
 
 KEY = os.environ.get("YOUTUBE_API_KEY", "")
-DAYS = int(os.environ.get("DAYS", "30"))
-PER_QUERY = int(os.environ.get("PER_QUERY", "15"))
-MIN_COMMENTS = int(os.environ.get("MIN_COMMENTS", "25"))
-PAGES = int(os.environ.get("PAGES", "2"))
+DAYS = int(os.environ.get("DAYS", "120"))
+PER_QUERY = int(os.environ.get("PER_QUERY", "25"))
+MIN_COMMENTS = int(os.environ.get("MIN_COMMENTS", "15"))
+PAGES = int(os.environ.get("PAGES", "3"))
 QUERIES = [q.strip() for q in os.environ.get("QUERIES", "").split("|") if q.strip()] or [
-    "best software for small business owners review", "I switched from spreadsheets to software small business",
-    "software I wish existed for my business", "how I automated my boring business with AI",
-    "plumber OR electrician OR cleaner business software app", "landlord OR letting agent software tool review",
-    "restaurant OR cafe owner software problem", "ecommerce seller tool that saves hours",
-    "freelancer invoicing OR admin tool comparison", "app I built for a local business",
-    "notion OR airtable OR excel template business system walkthrough", "what software do you use to run your business",
+    "best software for small business owners", "software for plumbers", "software for electricians",
+    "software for cleaning business", "software for landlords", "software for letting agents",
+    "software for restaurant owners", "software for salon owners", "software for gym owners",
+    "software for accountants", "software for estate agents", "software for dog groomers",
+    "how to run an etsy shop tools", "amazon seller software tools", "freelancer admin tools",
+    "small business spreadsheet to software", "boring business ideas software", "automate my business with AI agents",
+    "app built for local business", "what software do you use to run your business",
+    "customer service software small business", "invoicing software comparison", "scheduling software small business",
+    "quoting software for contractors", "inventory software small business",
 ]
 SIGNALS = {
   "ask_for_tool": r"\b(what('?s| is) (the|this|that) (app|tool|software|website|site|extension)|is there (a|an|any) (app|tool|software|website|way|service)|does (this|anyone|something like) (exist|know)|what (app|tool|software) (is|was|do)|name of (the|this) (app|tool))\b",
@@ -115,7 +118,12 @@ def main():
                 n += 1; rows.append({"video": v["title"], "url": "https://youtu.be/" + v["id"], "signals": r[0],
                                      "score": r[1], "likes": c["likes"], "text": c["text"][:400].replace("\n", " ")})
         per_video.append((n, v))
-    rows.sort(key=lambda r: -r["score"])
+    seen, uniq = set(), []
+    for r in sorted(rows, key=lambda r: -r["score"]):
+        k = re.sub(r"\W+", " ", r["text"].lower())[:120]
+        if k in seen: continue
+        seen.add(k); uniq.append(r)
+    rows = uniq
     today = dt.date.today().isoformat()
     md = ["# YouTube demand report — %s" % today,
           "Videos scanned: %d | signal comments: %d | window: last %d days" % (len(vids), len(rows), DAYS), "",
