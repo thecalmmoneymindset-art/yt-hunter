@@ -11,18 +11,26 @@ PER_QUERY = int(os.environ.get("PER_QUERY", "15"))
 MIN_COMMENTS = int(os.environ.get("MIN_COMMENTS", "25"))
 PAGES = int(os.environ.get("PAGES", "2"))
 QUERIES = [q.strip() for q in os.environ.get("QUERIES", "").split("|") if q.strip()] or [
-    "I built an app that makes money", "micro saas revenue breakdown", "simple app idea making money 2026",
-    "boring business idea profitable", "I built a tool for", "side project MRR", "this didn't exist so I built it",
-    "small business software problem", "automation business I built", "niche app idea validation",
+    "best software for small business owners review", "I switched from spreadsheets to software small business",
+    "software I wish existed for my business", "how I automated my boring business with AI",
+    "plumber OR electrician OR cleaner business software app", "landlord OR letting agent software tool review",
+    "restaurant OR cafe owner software problem", "ecommerce seller tool that saves hours",
+    "freelancer invoicing OR admin tool comparison", "app I built for a local business",
+    "notion OR airtable OR excel template business system walkthrough", "what software do you use to run your business",
 ]
 SIGNALS = {
   "ask_for_tool": r"\b(what('?s| is) (the|this|that) (app|tool|software|website|site|extension)|is there (a|an|any) (app|tool|software|website|way|service)|does (this|anyone|something like) (exist|know)|what (app|tool|software) (is|was|do)|name of (the|this) (app|tool))\b",
-  "would_pay": r"\b(i('d| would| will) (gladly |happily )?(pay|buy|subscribe)|take my money|shut up and take|where do i (sign|pay|buy)|how much (is|does|would)|what('s| is) the (price|cost))\b",
-  "wish_build": r"\b(i wish|someone (should|needs to|please) (build|make|create)|why (isn'?t|doesn'?t) (there|anyone)|need(s)? (this|something like this)|please make)\b",
+  "would_pay": r"\b(i('d| would| will) (gladly |happily )?(pay|buy|subscribe)|take my money|shut up and take|where do i (sign|pay|buy)|what('s| is) the (price|pricing|cost) (of|for)|does it have a (free|paid))\b",
+  "wish_build": r"\b(someone (should|needs to|please) (build|make|create)|why (isn'?t|doesn'?t) (there|anyone)|i wish (there was|there were|it (could|would|had)|this (could|would|had)|i (had|could) (a|an|something))|wish (there was|someone would) )",
   "manual_pain": r"\b(takes? (me )?(hours|forever|ages|so long)|i (currently|still) (do|use|track).{0,30}(manually|spreadsheet|excel)|(manually|by hand)|i hate (doing|having to)|struggling with|nightmare)\b",
-  "link_ask": r"\b(link\??|where can i (get|find|download|buy)|can (you|i) (share|get) (the )?(link|app|tool))\b",
+  "link_ask": r"\b(where can i (get|find|download|buy)|can (you|i) (share|get) (the )?(link|app|tool))\b",
 }
-WEIGHT = {"would_pay": 3.0, "ask_for_tool": 2.0, "wish_build": 2.0, "manual_pain": 2.0, "link_ask": 0.5}
+WEIGHT = {"would_pay": 3.0, "ask_for_tool": 2.5, "wish_build": 2.0, "manual_pain": 2.5, "link_ask": 0.3}
+# comments that are requests to the CREATOR (make a video etc.) or non-English/spam are not product demand
+NOISE = re.compile(r"(please make (a |another |more |the )?(video|tutorial|episode|post|content|part)|make (a |more )?video|video on |tutorial on|full (step|tutorial)|bhai|kaha|kha\b|ka link|link do|pls make|subscribe to my|check out my|whatsapp|telegram|@[a-z0-9_]{4,})", re.I)
+def mostly_english(t):
+    a = sum(1 for ch in t if ord(ch) < 128)
+    return len(t) > 0 and a / len(t) > 0.95
 STOP = set("the a an and or but to of in on for with is are was were be it this that i you we they my your our at as by from so if not no do does did can could would should have has had just very really like get got about what how why when there then than too its it's i'm i've don't can't dont cant im ive one out up all more some any".split())
 
 def api(path, **p):
@@ -68,12 +76,13 @@ def comments(vid):
     return out
 
 def score(c):
+    if NOISE.search(c["text"]) or not mostly_english(c["text"]) or len(c["text"]) < 25: return None
     hits = [k for k, rx in SIGNALS.items() if re.search(rx, c["text"], re.I)]
     if not hits: return None
     s = sum(WEIGHT[h] for h in hits) * (1 + math.log1p(c["likes"]))
     return hits, round(s, 2)
 
-def phrases(texts, n=2):
+def phrases(texts, n=3):
     cnt = collections.Counter()
     for t in texts:
         w = [x for x in re.findall(r"[a-z][a-z']+", t.lower())]
@@ -81,7 +90,7 @@ def phrases(texts, n=2):
             g = w[i:i+n]
             if g[0] in STOP or g[-1] in STOP: continue
             cnt[" ".join(g)] += 1
-    return [(g, c) for g, c in cnt.most_common(40) if c >= 3][:15]
+    return [(g, c) for g, c in cnt.most_common(40) if c >= 2][:15]
 
 def mock():
     vids = [{"id": "MOCK1", "title": "I built a $20K/mo invoice chaser", "channel": "Demo", "views": 90000, "comments": 400, "query": "mock"}]
