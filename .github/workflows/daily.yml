@@ -1,4 +1,4 @@
-name: daily-youtube-demand-scan
+name: daily-demand-scan
 on:
   schedule: [{cron: "0 6 * * *"}]
   workflow_dispatch:
@@ -6,12 +6,25 @@ permissions: {contents: write}
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: python hunter.py
+      - name: YouTube comments
+        continue-on-error: true
+        run: python hunter.py
         env: {YOUTUBE_API_KEY: "${{ secrets.YOUTUBE_API_KEY }}"}
-      - run: |
+      - name: App Store reviews
+        continue-on-error: true
+        run: python appstore.py
+      - name: Stack Exchange unanswered questions
+        continue-on-error: true
+        run: python stackx.py
+        env: {STACKEXCHANGE_KEY: "${{ secrets.STACKEXCHANGE_KEY }}"}
+      - name: Save reports
+        run: |
           git config user.name "hunter-bot"; git config user.email "bot@users.noreply.github.com"
-          git add reports; git commit -m "daily report" || exit 0; git push
+          git add reports; git commit -m "daily reports" || exit 0
+          git pull --rebase -q || true
+          git push
