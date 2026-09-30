@@ -3,27 +3,59 @@
 Finds recent 'I built X / making money' style videos, reads their public comments,
 and surfaces comments where viewers ask for a tool, say they'd pay, or describe manual pain.
 Env: YOUTUBE_API_KEY. Optional: MOCK=1 to run offline on sample data."""
-import os, re, json, math, sys, datetime as dt, collections, urllib.parse, urllib.request
+import os, re, json, math, sys, datetime as dt, collections, urllib.parse, urllib.request, urllib.error
 
 KEY = os.environ.get("YOUTUBE_API_KEY", "")
 DAYS = int(os.environ.get("DAYS", "120"))
 PER_QUERY = int(os.environ.get("PER_QUERY", "25"))
 MIN_COMMENTS = int(os.environ.get("MIN_COMMENTS", "15"))
 PAGES = int(os.environ.get("PAGES", "3"))
-# category -> search queries. Each category is reported separately so no single niche dominates.
+# category -> search queries. Categories rotate daily (CATS_PER_DAY) so the whole list is covered every few days.
 CATEGORIES = {
-  "local trades & services": ["software for plumbers", "app for cleaning business", "quoting software for contractors", "dog groomer booking software"],
-  "property & housing": ["software for landlords", "letting agent software", "renting a flat problems app", "home maintenance tracking app"],
-  "food & hospitality": ["software for restaurant owners", "meal prep business tools", "home bakery business app", "cafe owner software problems"],
-  "health & fitness": ["fitness app I wish existed", "app for tracking medication reminders", "gym owner software", "sleep tracking gadget review"],
-  "parenting & family": ["app for parents organising family", "baby tracking app review", "school admin app for parents", "elderly parent care app"],
+  "AI tools & agents": ["AI tool I wish existed", "AI agent problems small business", "best AI tools people actually pay for"],
+  "AI for small business": ["AI for small business owners", "AI receptionist for local business", "AI automation saving hours business"],
+  "vibe coding & building apps": ["I built an app with AI", "vibe coding problems", "no code app builder problems"],
+  "make money online methods": ["make money online with AI 2026", "side hustle that actually works", "passive income apps review"],
+  "side hustles & selling online": ["side hustle UK", "digital products selling online", "faceless business ideas"],
+  "AI automation services": ["AI automation agency clients", "selling AI services to local businesses", "n8n automation business"],
+  "local trades & services": ["software for plumbers", "app for cleaning business", "quoting software for contractors"],
+  "property & housing": ["software for landlords", "letting agent software", "renting a flat problems app"],
+  "renters & home admin": ["tenant tools app", "household bills tracking app", "moving house checklist tool"],
+  "home DIY & renovation": ["DIY renovation planning tool", "home repair cost estimator", "builder quote comparison"],
+  "gardening & allotments": ["garden planning app", "allotment planner tool", "plant care reminder app"],
+  "food & hospitality": ["software for restaurant owners", "home bakery business app", "cafe owner software problems"],
+  "cooking & meal planning": ["meal planning app problems", "recipe organiser app", "grocery budget tool"],
+  "health & fitness": ["fitness app I wish existed", "medication reminder app", "gym owner software"],
+  "senior & elderly care": ["elderly parent care app", "care home admin software", "dementia care tools"],
+  "parenting & family": ["app for parents organising family", "baby tracking app review", "school admin app for parents"],
+  "weddings & events": ["wedding planning tool", "event planner software", "party planning app"],
   "pets": ["pet owner app idea", "dog walking business software", "pet care gadgets review"],
-  "hobbies & gaming": ["tool for tabletop game masters", "hobby collectors tracking app", "gaming community tool built", "sports fans app built"],
-  "education & study": ["study app students actually use", "exam revision tool", "language learning app problems", "teacher admin tools"],
-  "personal finance & admin": ["budgeting app problems", "tax and admin for freelancers app", "subscription tracker app", "debt payoff app"],
-  "creators & sellers": ["etsy seller tools", "amazon seller software", "tools for youtube creators", "print on demand automation tools"],
+  "hobbies & collecting": ["hobby collectors tracking app", "trading card collection app", "model making tools"],
+  "gaming & tabletop": ["tool for tabletop game masters", "gaming community tool built", "esports team admin tool"],
+  "sports & clubs": ["sports club management software", "amateur football club admin app", "running club tools"],
+  "outdoors & camping": ["camping planning app", "hiking route planning tool", "fishing app idea"],
+  "cycling & running": ["cycling training tool", "running plan app problems", "bike maintenance tracker"],
+  "cars & motoring": ["car maintenance tracker app", "used car buying checker tool", "driving instructor software"],
+  "education & study": ["study app students actually use", "exam revision tool", "teacher admin tools"],
+  "students & campus": ["student budgeting app", "university admin problems tool", "student accommodation tool"],
+  "languages & translation": ["language learning app problems", "translation tool for small business", "learn english app"],
+  "jobs & careers": ["job application tracker tool", "cv builder problems", "freelancer finding clients tool"],
+  "personal finance & admin": ["budgeting app problems", "subscription tracker app", "debt payoff app"],
+  "investing & crypto": ["portfolio tracker problems", "crypto tax tool", "dividend tracker app"],
+  "freelancers & admin": ["invoicing software comparison", "freelancer admin tools", "time tracking app freelancers"],
+  "creators & sellers": ["etsy seller tools", "amazon seller software", "print on demand automation tools"],
+  "resellers & second-hand": ["vinted ebay reseller tools", "reselling inventory tracker", "car boot sale business tools"],
+  "photography & video": ["photographer business software", "wedding photographer workflow tool", "video editor workflow tool"],
+  "music & podcasting": ["musician gig admin tool", "podcast production tool", "music teacher software"],
+  "writing & publishing": ["self publishing tools authors", "writer productivity app", "blogger monetisation tools"],
+  "beauty & personal care": ["salon booking software", "nail tech business app", "barber shop software"],
+  "fashion & clothing": ["small clothing brand tools", "sizing problems online clothes", "wardrobe organiser app"],
+  "smart home & gadgets": ["smart home gadget I wish existed", "useful gadgets review problems", "cable and charger problems"],
   "travel & relocation": ["moving abroad checklist app", "travel planning app problems", "expat admin tools"],
-  "small business software": ["invoicing software comparison", "scheduling software small business", "customer service tool small business", "inventory software small business"],
+  "faith & community": ["mosque or church admin software", "community group management app", "charity volunteer tool"],
+  "small business software": ["scheduling software small business", "customer service tool small business", "inventory software small business"],
+  "construction & trades admin": ["construction site paperwork app", "electrician certificate software", "builder invoicing tool"],
+  "legal & bills admin": ["dispute a parking fine tool", "consumer rights complaint tool", "insurance claim help app"],
 }
 _q = os.environ.get("QUERIES", "")
 if _q.strip():  # custom override: "cat::query|cat::query" or plain "query|query"
@@ -31,16 +63,25 @@ if _q.strip():  # custom override: "cat::query|cat::query" or plain "query|query
     for item in [x.strip() for x in _q.split("|") if x.strip()]:
         c, _, q = item.partition("::")
         (CATEGORIES[c.strip()] if q else CATEGORIES["custom"]).append((q or c).strip())
+PER_DAY = int(os.environ.get("CATS_PER_DAY", "7"))
+_names = list(CATEGORIES)
+if not _q.strip() and PER_DAY < len(_names):
+    _start = (dt.date.today().toordinal() * PER_DAY) % len(_names)
+    _today = [_names[(_start + k) % len(_names)] for k in range(PER_DAY)]
+    CATEGORIES = {c: CATEGORIES[c] for c in _today}
 QUERY_CAT = {q: c for c, qs in CATEGORIES.items() for q in qs}
 QUERIES = list(QUERY_CAT)
+ERRORS = []
+QUOTA_HIT = False
 SIGNALS = {
   "ask_for_tool": r"\b(what('?s| is) (the|this|that) (app|tool|software|website|site|extension)|is there (a|an|any) (app|tool|software|website|way|service)|does (this|anyone|something like) (exist|know)|what (app|tool|software) (is|was|do)|name of (the|this) (app|tool))\b",
   "would_pay": r"\b(i('d| would| will) (gladly |happily )?(pay|buy|subscribe)|take my money|shut up and take|where do i (sign|pay|buy)|what('s| is) the (price|pricing|cost) (of|for)|does it have a (free|paid))\b",
   "wish_build": r"\b(someone (should|needs to|please) (build|make|create)|why (isn'?t|doesn'?t) (there|anyone)|i wish (there was|there were|it (could|would|had)|this (could|would|had)|i (had|could) (a|an|something))|wish (there was|someone would) )",
   "manual_pain": r"(\btakes? (me )?(hours|forever|ages|so long)\b|\b(i|we)\b[^.!?]{0,60}\b(manually|by hand)\b|\b(i|we)\b[^.!?]{0,40}\b(in|on) (a |an )?(spreadsheet|excel)\b|\bi hate (doing|having to)\b|\bstruggling to (find|keep|track|manage|get)\b|\bnightmare (to|when)\b)",
+  "result_report": r"(\bi (tried|made|earned|lost|spent|got)\b[^.!?]{0,60}(\u00a3|\$|\u20ac|\b\d+ ?(k|dollars|pounds|usd)\b)|\b(didn'?t|doesn'?t|did not|does not) work\b|\bscam\b|\bwaste of (time|money)\b|\bnot worth (it|the)\b|\bthis (works|worked) for me\b)",
   "link_ask": r"\b(where can i (get|find|download|buy)|can (you|i) (share|get) (the )?(link|app|tool))\b",
 }
-WEIGHT = {"would_pay": 3.0, "ask_for_tool": 2.5, "wish_build": 2.0, "manual_pain": 2.5, "link_ask": 0.3}
+WEIGHT = {"result_report": 1.5, "would_pay": 3.0, "ask_for_tool": 2.5, "wish_build": 2.0, "manual_pain": 2.5, "link_ask": 0.3}
 # comments that are requests to the CREATOR (make a video etc.) or non-English/spam are not product demand
 NOISE = re.compile(r"(please make (a |another |more |the )?(video|tutorial|episode|post|content|part)|make (a |more )?video|video on |tutorial on|full (step|tutorial)|bhai|kaha|kha\b|ka link|link do|pls make|subscribe to my|check out my|whatsapp|telegram|@[a-z0-9_]{4,})", re.I)
 def mostly_english(t):
@@ -51,13 +92,53 @@ STOP = set("the a an and or but to of in on for with is are was were be it this 
 def api(path, **p):
     p["key"] = KEY
     url = "https://www.googleapis.com/youtube/v3/%s?%s" % (path, urllib.parse.urlencode(p))
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.load(r)
+    global QUOTA_HIT
+    BENIGN = ("commentsdisabled", "videonotfound", "processingfailure", "forbidden")  # normal for some videos, not a scan failure
+    for attempt in (1, 2):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", "ignore")[:300]
+            low = body.lower()
+            if "quota" in low: QUOTA_HIT = True
+            elif e.code >= 500 and attempt == 1: continue          # one retry on server errors
+            if not any(b in low for b in BENIGN) or "quota" in low:
+                ERRORS.append("%s %s" % (e.code, body.replace("\n", " ")))
+            raise
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            if attempt == 1: continue                              # one retry on network blips
+            ERRORS.append("network: %s" % e)
+            raise
+
+POP_CATS = {"1": "Film", "2": "Autos", "10": "Music", "15": "Pets", "17": "Sports", "19": "Travel", "20": "Gaming",
+            "22": "People & Blogs", "23": "Comedy", "24": "Entertainment", "25": "News", "26": "Howto & Style",
+            "27": "Education", "28": "Science & Tech"}
+POP_REGIONS = [r for r in os.environ.get("POP_REGIONS", "GB,US,IN,CA,AU,NG,PK,AE,DE,BR").split(",") if r]
+
+def discover_popular():
+    """Trending videos per YouTube category (1 quota unit per call): covers the 'viral' side cheaply."""
+    out = {}
+    for region in POP_REGIONS:
+        for cid, name in POP_CATS.items():
+            if QUOTA_HIT: return out
+            try:
+                d = api("videos", part="snippet,statistics", chart="mostPopular", videoCategoryId=cid,
+                        regionCode=region, maxResults=25)
+            except Exception:
+                continue
+            for it in d.get("items", []):
+                st = it.get("statistics", {})
+                out[it["id"]] = {"id": it["id"], "title": it["snippet"]["title"], "channel": it["snippet"]["channelTitle"], "desc": it["snippet"].get("description", "")[:700].replace("\n", " "),
+                                 "views": int(st.get("viewCount", 0)), "comments": int(st.get("commentCount", 0)),
+                                 "query": "trending", "cat": "trending: %s (%s)" % (name, region)}
+    return list(out.values())
 
 def discover():
-    since = (dt.datetime.utcnow() - dt.timedelta(days=DAYS)).strftime("%Y-%m-%dT00:00:00Z")
+    since = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=DAYS)).strftime("%Y-%m-%dT00:00:00Z")
     ids = collections.OrderedDict()
     for q in QUERIES:
+        if QUOTA_HIT: break
         try:
             d = api("search", part="snippet", q=q, type="video", order="viewCount",
                     publishedAfter=since, maxResults=PER_QUERY, relevanceLanguage="en")
@@ -70,10 +151,15 @@ def discover():
         d = api("videos", part="snippet,statistics", id=",".join(keys[i:i+50]))
         for it in d.get("items", []):
             st = it.get("statistics", {})
-            vids.append({"id": it["id"], "title": it["snippet"]["title"], "channel": it["snippet"]["channelTitle"],
+            vids.append({"id": it["id"], "title": it["snippet"]["title"], "channel": it["snippet"]["channelTitle"], "desc": it["snippet"].get("description", "")[:700].replace("\n", " "),
                          "views": int(st.get("viewCount", 0)), "comments": int(st.get("commentCount", 0)),
                          "query": ids[it["id"]], "cat": QUERY_CAT.get(ids[it["id"]], "other")})
-    return [v for v in vids if v["comments"] >= MIN_COMMENTS]
+    vids += discover_popular() if os.environ.get("POPULAR", "1") == "1" else []
+    seen_ids, uniq = set(), []
+    for v in vids:
+        if v["id"] in seen_ids: continue
+        seen_ids.add(v["id"]); uniq.append(v)
+    return [v for v in uniq if v["comments"] >= MIN_COMMENTS]
 
 def comments(vid):
     out, tok = [], None
@@ -138,21 +224,25 @@ def main():
     rows = uniq
     today = dt.date.today().isoformat()
     md = ["# YouTube demand report — %s" % today,
-          "Videos scanned: %d | signal comments: %d | window: last %d days" % (len(vids), len(rows), DAYS), "",
+          "Videos scanned: %d | signal comments (all types): %d | window: last %d days" % (len(vids), len(rows), DAYS),
+          "Categories scanned today: %s" % ", ".join(CATEGORIES),
+          ("**WARNING: %d API errors%s. Report is incomplete. First error: %s**" % (len(ERRORS), " (QUOTA EXHAUSTED)" if QUOTA_HIT else "", ERRORS[0])) if ERRORS else "API errors: none", "",
           "## Recurring phrases in signal comments (candidate problems)"]
     md += ["- %s (%d)" % g for g in phrases([r["text"] for r in rows])] or ["- none"]
+    DEMAND = ("ask_for_tool", "would_pay", "wish_build", "manual_pain")
+    demand_rows = [r for r in rows if any(x in DEMAND for x in r["signals"])]
     bycat = collections.defaultdict(list)
-    for r in rows: bycat[r["cat"]].append(r)
+    for r in demand_rows: bycat[r["cat"]].append(r)
     md += ["", "## Signals per category (top 6 each; a category with 0 means nothing found, not nothing exists)"]
-    for cat in CATEGORIES:
-        rs = bycat.get(cat, [])
+    for cat in list(CATEGORIES) + ["trending"]:
+        rs = [r for c2, x in bycat.items() for r in x if (c2 == cat or (cat == "trending" and c2.startswith("trending")))]
         vids_n = len({r["url"] for r in rs})
         md.append("### %s — %d signal comments across %d videos" % (cat, len(rs), vids_n))
         for r in rs[:6]:
             md.append("- [%s] score %s, %d likes — \"%s\" — _%s_ (%s)" % (",".join(r["signals"]), r["score"], r["likes"], r["text"], r["video"], r["url"]))
     md += ["", "## Same ask on 2+ different videos (strongest evidence of a real recurring need)"]
     grams = collections.defaultdict(set)
-    for r in rows:
+    for r in demand_rows:
         w = re.findall(r"[a-z][a-z']+", r["text"].lower())
         for i in range(len(w) - 2):
             g = w[i:i+3]
@@ -160,9 +250,15 @@ def main():
             grams[" ".join(g)].add(r["url"])
     rep = sorted(((g, len(u)) for g, u in grams.items() if len(u) >= 2), key=lambda x: -x[1])[:15]
     md += ["- %s (%d videos)" % x for x in rep] or ["- none yet"]
+    md += ["", "## Money-method verdicts (what viewers say happened when they tried it; anecdotes, not proof)"]
+    ver = [r for r in rows if "result_report" in r["signals"]][:12]
+    for r in ver:
+        md.append("- %d likes — \"%s\" — _%s_ (%s)" % (r["likes"], r["text"], r["video"], r["url"]))
+    if not ver: md.append("- none yet")
     md += ["", "## Videos with most signal comments"]
     for n, v in sorted(per_video, key=lambda x: -x[0])[:15]:
         md.append("- %d signals — %s (%s, %d views) https://youtu.be/%s" % (n, v["title"], v["channel"], v["views"], v["id"]))
+        if n and v.get("desc"): md.append("  - description: %s" % v["desc"][:500])
     os.makedirs("reports", exist_ok=True)
     open("reports/latest.md", "w").write("\n".join(md))
     open("reports/latest.json", "w").write(json.dumps({"date": today, "rows": rows[:200]}, indent=1))
