@@ -1,5 +1,5 @@
 # YouTube demand report — 2026-09-30
-Videos scanned: 168 | signal comments: 53 | window: last 120 days
+Videos scanned: 165 | signal comments: 53 | window: last 120 days
 
 ## Recurring phrases in signal comments (candidate problems)
 - where can find (6)
@@ -50,18 +50,18 @@ Videos scanned: 168 | signal comments: 53 | window: last 120 days
 - [manual_pain] score 2.5, 0 likes — "Just remember, you built a dashboard that would have taken you days or weeks to do manually, and you did it with low effort and in hours. The times we live in are pretty exponential 😵‍💫" — _I Built a FREE App That Runs Your Entire Business_ (https://youtu.be/rKo9iLGjUbs)
 
 ## Videos with most signal comments
-- 6 signals — Beginners Guide To AI Dropshipping (5+ Hour FREE Course) (Jordan Welch, 375137 views) https://youtu.be/DNdBJ5tgyjI
-- 5 signals — You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide) (Dan Martell, 678731 views) https://youtu.be/Bm84BAtOfQw
+- 6 signals — Beginners Guide To AI Dropshipping (5+ Hour FREE Course) (Jordan Welch, 375144 views) https://youtu.be/DNdBJ5tgyjI
+- 5 signals — You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide) (Dan Martell, 678801 views) https://youtu.be/Bm84BAtOfQw
 - 4 signals — Claude Code Google Ads: Automate Everything ($730K Earned) (Jono Catliff, 233320 views) https://youtu.be/-EInjdpjKy0
-- 4 signals — FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step) (Richard Yu, 151096 views) https://youtu.be/gjffmgucDSw
+- 4 signals — FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step) (Richard Yu, 151114 views) https://youtu.be/gjffmgucDSw
 - 3 signals — Claude AI for Real Estate Agents: The ONLY Clear Tutorial of ALL Features (Mike Sherrard, 41011 views) https://youtu.be/jtyC-EBl9Eo
-- 2 signals — I Quit My $250K Tech Job — Now I Make $33K Selling Matcha (CNBC Make It, 1085282 views) https://youtu.be/xQY8m1a86is
+- 2 signals — I Quit My $250K Tech Job — Now I Make $33K Selling Matcha (CNBC Make It, 1085288 views) https://youtu.be/xQY8m1a86is
 - 2 signals — 10 Claude AI Hacks That Save Etsy Sellers Hours (Beginner Friendly!) (Nancy Badillo, 70664 views) https://youtu.be/0UldnSm3gjs
 - 2 signals — I Replaced EVERY Amazon Software Tool with Claude AI (Chris Rawlings, 17346 views) https://youtu.be/_r6_rs-MbQk
-- 2 signals — AI Agents: The Most Valuable Skill You Can Learn in 2026 (Full Course) (Open Residency, 782839 views) https://youtu.be/5p-sq8v3OXw
-- 2 signals — How AI Makes Him Crores: Second Brain, Automations & Systems | Vaibhav Sisinty | FO557 Raj Shamani (Raj Shamani, 1690354 views) https://youtu.be/LqY6hFLMEJw
-- 2 signals — I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial) (Nate Herk | AI Automation, 506759 views) https://youtu.be/TLQLfa7yH4I
+- 2 signals — AI Agents: The Most Valuable Skill You Can Learn in 2026 (Full Course) (Open Residency, 782944 views) https://youtu.be/5p-sq8v3OXw
+- 2 signals — How AI Makes Him Crores: Second Brain, Automations & Systems | Vaibhav Sisinty | FO557 Raj Shamani (Raj Shamani, 1690386 views) https://youtu.be/LqY6hFLMEJw
+- 2 signals — I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial) (Nate Herk | AI Automation, 506778 views) https://youtu.be/TLQLfa7yH4I
 - 1 signals — 🤖Tally में AI से Automatic Entry 😱 | Auto Voucher Entry | Tally Prime 7.1 | Full Detailed Guide (Tally Guruji, 76827 views) https://youtu.be/QJ4NurIjXz8
 - 1 signals — BUSY MAGIC🔥 Future of Accounting Software? | Accounting for Everyone (BUSY Accounting Software, 14625 views) https://youtu.be/Kj45M70maPI
-- 1 signals — How to build a dev team with 4 AI Agents in Claude (Ray Fu, 130012 views) https://youtu.be/gsH0_0gB4IY
+- 1 signals — How to build a dev team with 4 AI Agents in Claude (Ray Fu, 130032 views) https://youtu.be/gsH0_0gB4IY
 - 1 signals — The Only Claude Code Real Estate Ad Workflow You Need in 2026 (Full Guide) (Andy Lo, 50467 views) https://youtu.be/iI_rAephmic
