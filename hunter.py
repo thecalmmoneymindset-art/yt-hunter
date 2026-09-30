@@ -10,22 +10,34 @@ DAYS = int(os.environ.get("DAYS", "120"))
 PER_QUERY = int(os.environ.get("PER_QUERY", "25"))
 MIN_COMMENTS = int(os.environ.get("MIN_COMMENTS", "15"))
 PAGES = int(os.environ.get("PAGES", "3"))
-QUERIES = [q.strip() for q in os.environ.get("QUERIES", "").split("|") if q.strip()] or [
-    "best software for small business owners", "software for plumbers", "software for electricians",
-    "software for cleaning business", "software for landlords", "software for letting agents",
-    "software for restaurant owners", "software for salon owners", "software for gym owners",
-    "software for accountants", "software for estate agents", "software for dog groomers",
-    "how to run an etsy shop tools", "amazon seller software tools", "freelancer admin tools",
-    "small business spreadsheet to software", "boring business ideas software", "automate my business with AI agents",
-    "app built for local business", "what software do you use to run your business",
-    "customer service software small business", "invoicing software comparison", "scheduling software small business",
-    "quoting software for contractors", "inventory software small business",
-]
+# category -> search queries. Each category is reported separately so no single niche dominates.
+CATEGORIES = {
+  "local trades & services": ["software for plumbers", "app for cleaning business", "quoting software for contractors", "dog groomer booking software"],
+  "property & housing": ["software for landlords", "letting agent software", "renting a flat problems app", "home maintenance tracking app"],
+  "food & hospitality": ["software for restaurant owners", "meal prep business tools", "home bakery business app", "cafe owner software problems"],
+  "health & fitness": ["fitness app I wish existed", "app for tracking medication reminders", "gym owner software", "sleep tracking gadget review"],
+  "parenting & family": ["app for parents organising family", "baby tracking app review", "school admin app for parents", "elderly parent care app"],
+  "pets": ["pet owner app idea", "dog walking business software", "pet care gadgets review"],
+  "hobbies & gaming": ["tool for tabletop game masters", "hobby collectors tracking app", "gaming community tool built", "sports fans app built"],
+  "education & study": ["study app students actually use", "exam revision tool", "language learning app problems", "teacher admin tools"],
+  "personal finance & admin": ["budgeting app problems", "tax and admin for freelancers app", "subscription tracker app", "debt payoff app"],
+  "creators & sellers": ["etsy seller tools", "amazon seller software", "tools for youtube creators", "print on demand automation tools"],
+  "travel & relocation": ["moving abroad checklist app", "travel planning app problems", "expat admin tools"],
+  "small business software": ["invoicing software comparison", "scheduling software small business", "customer service tool small business", "inventory software small business"],
+}
+_q = os.environ.get("QUERIES", "")
+if _q.strip():  # custom override: "cat::query|cat::query" or plain "query|query"
+    CATEGORIES = collections.defaultdict(list)
+    for item in [x.strip() for x in _q.split("|") if x.strip()]:
+        c, _, q = item.partition("::")
+        (CATEGORIES[c.strip()] if q else CATEGORIES["custom"]).append((q or c).strip())
+QUERY_CAT = {q: c for c, qs in CATEGORIES.items() for q in qs}
+QUERIES = list(QUERY_CAT)
 SIGNALS = {
   "ask_for_tool": r"\b(what('?s| is) (the|this|that) (app|tool|software|website|site|extension)|is there (a|an|any) (app|tool|software|website|way|service)|does (this|anyone|something like) (exist|know)|what (app|tool|software) (is|was|do)|name of (the|this) (app|tool))\b",
   "would_pay": r"\b(i('d| would| will) (gladly |happily )?(pay|buy|subscribe)|take my money|shut up and take|where do i (sign|pay|buy)|what('s| is) the (price|pricing|cost) (of|for)|does it have a (free|paid))\b",
   "wish_build": r"\b(someone (should|needs to|please) (build|make|create)|why (isn'?t|doesn'?t) (there|anyone)|i wish (there was|there were|it (could|would|had)|this (could|would|had)|i (had|could) (a|an|something))|wish (there was|someone would) )",
-  "manual_pain": r"\b(takes? (me )?(hours|forever|ages|so long)|i (currently|still) (do|use|track).{0,30}(manually|spreadsheet|excel)|(manually|by hand)|i hate (doing|having to)|struggling with|nightmare)\b",
+  "manual_pain": r"(\btakes? (me )?(hours|forever|ages|so long)\b|\b(i|we)\b[^.!?]{0,60}\b(manually|by hand)\b|\b(i|we)\b[^.!?]{0,40}\b(in|on) (a |an )?(spreadsheet|excel)\b|\bi hate (doing|having to)\b|\bstruggling to (find|keep|track|manage|get)\b|\bnightmare (to|when)\b)",
   "link_ask": r"\b(where can i (get|find|download|buy)|can (you|i) (share|get) (the )?(link|app|tool))\b",
 }
 WEIGHT = {"would_pay": 3.0, "ask_for_tool": 2.5, "wish_build": 2.0, "manual_pain": 2.5, "link_ask": 0.3}
@@ -60,7 +72,7 @@ def discover():
             st = it.get("statistics", {})
             vids.append({"id": it["id"], "title": it["snippet"]["title"], "channel": it["snippet"]["channelTitle"],
                          "views": int(st.get("viewCount", 0)), "comments": int(st.get("commentCount", 0)),
-                         "query": ids[it["id"]]})
+                         "query": ids[it["id"]], "cat": QUERY_CAT.get(ids[it["id"]], "other")})
     return [v for v in vids if v["comments"] >= MIN_COMMENTS]
 
 def comments(vid):
@@ -96,7 +108,7 @@ def phrases(texts, n=3):
     return [(g, c) for g, c in cnt.most_common(40) if c >= 2][:15]
 
 def mock():
-    vids = [{"id": "MOCK1", "title": "I built a $20K/mo invoice chaser", "channel": "Demo", "views": 90000, "comments": 400, "query": "mock"}]
+    vids = [{"id": "MOCK1", "title": "I built a $20K/mo invoice chaser", "channel": "Demo", "views": 90000, "comments": 400, "query": "mock", "cat": "small business software"}]
     cm = {"MOCK1": [
         {"text": "What's the app called? Is there a tool that does this for plumbers?", "likes": 40},
         {"text": "I would pay for this, I currently track it manually in a spreadsheet and it takes me hours", "likes": 12},
@@ -115,7 +127,7 @@ def main():
         for c in cm.get(v["id"], []):
             r = score(c)
             if r:
-                n += 1; rows.append({"video": v["title"], "url": "https://youtu.be/" + v["id"], "signals": r[0],
+                n += 1; rows.append({"cat": v.get("cat", "other"), "video": v["title"], "url": "https://youtu.be/" + v["id"], "signals": r[0],
                                      "score": r[1], "likes": c["likes"], "text": c["text"][:400].replace("\n", " ")})
         per_video.append((n, v))
     seen, uniq = set(), []
@@ -129,9 +141,25 @@ def main():
           "Videos scanned: %d | signal comments: %d | window: last %d days" % (len(vids), len(rows), DAYS), "",
           "## Recurring phrases in signal comments (candidate problems)"]
     md += ["- %s (%d)" % g for g in phrases([r["text"] for r in rows])] or ["- none"]
-    md += ["", "## Top signal comments (would-pay / ask-for-tool / wish / manual pain)"]
-    for r in rows[:40]:
-        md.append("- [%s] score %s, %d likes — \"%s\" — _%s_ (%s)" % (",".join(r["signals"]), r["score"], r["likes"], r["text"], r["video"], r["url"]))
+    bycat = collections.defaultdict(list)
+    for r in rows: bycat[r["cat"]].append(r)
+    md += ["", "## Signals per category (top 6 each; a category with 0 means nothing found, not nothing exists)"]
+    for cat in CATEGORIES:
+        rs = bycat.get(cat, [])
+        vids_n = len({r["url"] for r in rs})
+        md.append("### %s — %d signal comments across %d videos" % (cat, len(rs), vids_n))
+        for r in rs[:6]:
+            md.append("- [%s] score %s, %d likes — \"%s\" — _%s_ (%s)" % (",".join(r["signals"]), r["score"], r["likes"], r["text"], r["video"], r["url"]))
+    md += ["", "## Same ask on 2+ different videos (strongest evidence of a real recurring need)"]
+    grams = collections.defaultdict(set)
+    for r in rows:
+        w = re.findall(r"[a-z][a-z']+", r["text"].lower())
+        for i in range(len(w) - 2):
+            g = w[i:i+3]
+            if g[0] in STOP or g[-1] in STOP: continue
+            grams[" ".join(g)].add(r["url"])
+    rep = sorted(((g, len(u)) for g, u in grams.items() if len(u) >= 2), key=lambda x: -x[1])[:15]
+    md += ["- %s (%d videos)" % x for x in rep] or ["- none yet"]
     md += ["", "## Videos with most signal comments"]
     for n, v in sorted(per_video, key=lambda x: -x[0])[:15]:
         md.append("- %d signals — %s (%s, %d views) https://youtu.be/%s" % (n, v["title"], v["channel"], v["views"], v["id"]))
