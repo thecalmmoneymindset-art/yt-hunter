@@ -8,5 +8,5 @@ Runs daily on GitHub Actions, no input from you. Finds recent "I built / making 
 4. Actions tab -> "daily-youtube-demand-scan" -> Run workflow (tests it). It then runs every day 06:00 UTC.
 5. Send Claude the repo URL. The daily Opportunity Hunter reads reports/latest.md via raw.githubusercontent.com and does competitor/pricing checks on the top signals.
 
-Quota: ~10 searches (1,000 units) + ~200 comment pages (~200 units) per day, well under the free 10,000.
+Quota: rotates 7 categories/day (21 searches = 2,100 units) + trending pass over 10 regions (140 units) + comment pages (~700 units) = roughly 3,000 of the free 10,000 per day. All ~44 categories are covered every 7 days.
 Tune with env vars QUERIES ("a|b|c"), DAYS, PER_QUERY, MIN_COMMENTS.
