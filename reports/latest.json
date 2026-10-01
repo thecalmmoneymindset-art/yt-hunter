@@ -1,214 +1,2205 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "rows": [
   {
-   "cat": "personal finance & admin",
-   "video": "June: Monthly Review - Budget vs Actual Numbers - Another Credit Card PAID! - Debt Payoff Journey",
-   "url": "https://youtu.be/Ixp57zYkyVY",
+   "cat": "trending: Autos (DE)",
+   "video": "This Lambo Was a PSYCHO! \ud83d\udc80\ud83d\udc80\ud83d\udc80",
+   "url": "https://youtu.be/6OuerqJ_P-0",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 22.66,
+   "likes": 3183,
+   "text": "That lambo is a worst nightmare to bikes but luckily the po po is comeing for him"
+  },
+  {
+   "cat": "trending: Music (DE)",
+   "video": "Taylor Swift - Patient Zero (Official Music Video)",
+   "url": "https://youtu.be/mw3kSNIxjqo",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 21.11,
+   "likes": 418,
+   "text": "Taylor directing Dakota in a thriller = take my money, ill be in the movie theater"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "'A HUMILIATING mistake': Nicolle reacts to GOP's mortifying SELF-OWN during Jack Smith hearing",
+   "url": "https://youtu.be/c_1iu_0hmiM",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 19.37,
+   "likes": 233,
+   "text": "I would pay money for someone to yell \"GO IOWA!\" at Sen. Schmitt's next town hall."
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 18.6,
+   "likes": 180,
+   "text": "Take my money!!!!!   I need a whole dining table worth of this thing . With probably 3 coils"
+  },
+  {
+   "cat": "trending: Science & Tech (PK)",
+   "video": "iPhone 18 Pro in 18 seconds \ud83d\ude02",
+   "url": "https://youtu.be/ZAfDIwrMHIw",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 17.95,
+   "likes": 145,
+   "text": "\"What's the price of iphone 18?\" \"only 1.5 kidney\" \ud83d\udc80\ud83d\udc80"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 17.36,
+   "likes": 119,
+   "text": "Bro thats fire I would buy it"
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "PREMIER LEAGUE ANNOUNCE MAN CITY VERDICT!",
+   "url": "https://youtu.be/k1z-1ylXMp4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 15.51,
+   "likes": 181,
+   "text": "0:00 Premier League confirm City guilty of all charges 1:55 City broke the rules, they have to deal with it 2:48 Fake accounts, sham contracts and dodgy sponsors 3:50 City's big signings are built on cheating 5:04 Man City's response 6:34 How long will City keep their innocence stance? 7:47 How will City fans feel about it? 9:20 Questions over the rules, but they broke them 10:10 Is there a way ba"
+  },
+  {
+   "cat": "trending: Pets (NG)",
+   "video": "The Bird That Feeds On Giraffe Blood \ud83d\ude28",
+   "url": "https://youtu.be/pDCu6YchnrA",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 14.8,
+   "likes": 136,
+   "text": "Hey everyone. I\u2019ve been struggling to find the words to say this. I\u2019ve been diagnosed with cancer, and I\u2019ve been told I may only have 16 days left.  I just want to say goodbye and thank everyone who has been there for me. Every memory, every laugh, and every moment we shared means more to me than I can put into words.  Please look after yourselves and each other. I\u2019ll always be grateful for the pe"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Republican STORMS AWAY after \u201cgotcha\u201d on Jack Smith BACKFIRES",
+   "url": "https://youtu.be/aUdu9JdZW3Q",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 13.68,
+   "likes": 343,
+   "text": "I wish there was a cream pie in the face emoji \ud83d\ude01 Vote Blue \ud83d\uddf3\ufe0f"
+  },
+  {
+   "cat": "trending: Entertainment (CA)",
+   "video": "GOOSE Commands The Recruits! \ud83d\ude02 (YT: @hebisenclint)",
+   "url": "https://youtu.be/iI9wn4Mr258",
+   "signals": [
+    "result_report"
+   ],
+   "score": 13.45,
+   "likes": 2883,
+   "text": "So what's the geese rank? Private Steve? At least he's doing his job with the recruits.\ud83d\ude02   HOW THE FUCK? did I got 2K likes in 7 hours?! Thank you for the likes but wow...."
+  },
+  {
+   "cat": "trending: Howto & Style (US)",
+   "video": "i bought every AI scam product",
+   "url": "https://youtu.be/MJcrIRvb4Nk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 12.25,
+   "likes": 1294,
+   "text": "On the second one I don\u2019t think it\u2019s a scam, I think you just need to get a longer fruit or vegetable like a carrot and push it down"
+  },
+  {
+   "cat": "trending: Comedy (DE)",
+   "video": "American finds out about gas prices in Europe \ud83c\uddfa\ud83c\uddf8",
+   "url": "https://youtu.be/uJM4fhBaOvw",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 12.13,
+   "likes": 20,
+   "text": "I find it funny when I see in the US the diesel is 6 bucks a gallon.  I would gladly pay that here in Europe."
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Xiaomi made an iPhone Duo. It\u2019s Unhinged.",
+   "url": "https://youtu.be/eYBEJBfq_Zs",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 11.9,
+   "likes": 42,
+   "text": "10:30 As a front end and android dev these screens are kind of nightmare to me , the amount of effort that you have to put in web app for it to work on all the possible device screen sizes and these foldables \ud83e\udd72"
+  },
+  {
+   "cat": "trending: People & Blogs (AE)",
+   "video": "FIRST DAY OF FALL VLOG | Evelyn Ha",
+   "url": "https://youtu.be/_Yho6s1F7Ws",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 11.62,
+   "likes": 122,
+   "text": "deep down ik\ud83e\udd7a\ud83e\udd7a emily is evelyn's first baby, ughh i wish i had a sister too"
+  },
+  {
+   "cat": "trending: Autos (AE)",
+   "video": "What To Do If Your Car Sinks? \ud83d\ude28",
+   "url": "https://youtu.be/p832whe8hrI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 11.59,
+   "likes": 831,
+   "text": "Usually only the front windshield is laminated, the side windows are typically tempered and designed to shatter. Though there's an emerging trend of laminating the side windows, sometimes but rarely even the back windshield.    If you don't have a tool, you can use your headrest if it's removable to jam the poles into the gap between the window and your door and pry it backward to shatter the wind"
+  },
+  {
+   "cat": "trending: Autos (AU)",
+   "video": "24 Hour Compound Swap With CBoysTV",
+   "url": "https://youtu.be/YvOnOVPMUsw",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 11.39,
+   "likes": 34,
+   "text": "Absolutely epic, but you can have fun at the compound without blessing every single thing they have. Wrecking the hell camino was an actual nightmare to watch."
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "HUAWEI SHARE! \ud83d\udd25 #huawei #shorts #tech",
+   "url": "https://youtu.be/oOm28aANM0w",
+   "signals": [
+    "result_report"
+   ],
+   "score": 11.08,
+   "likes": 592,
+   "text": "This actually a loss of security. It doesn't work the way you are thinking."
+  },
+  {
+   "cat": "trending: Sports (US)",
+   "video": "Ryan Clark Says Aaron Rodgers Was The Best Quarterback He Faced",
+   "url": "https://youtu.be/Eht4diRXwFU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 11.07,
+   "likes": 588,
+   "text": "'Hard work beats talent when talent doesn't work hard' line of thinking."
+  },
+  {
+   "cat": "trending: Entertainment (IN)",
+   "video": "Sivakasi porom\ud83d\ude05Kandippa Twist irukku\ud83e\udd23Just For Fun\ud83d\ude05\ud83e\udd23 #Add #trending #comedy #twist #tamilcomedy",
+   "url": "https://youtu.be/AjCbi75J5yQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 11.04,
+   "likes": 576,
+   "text": "Last time sunrise scam ah?"
+  },
+  {
+   "cat": "trending: Entertainment (IN)",
+   "video": "Sivakasi porom\ud83d\ude05Kandippa Twist irukku\ud83e\udd23Just For Fun\ud83d\ude05\ud83e\udd23 #Add #trending #comedy #twist #tamilcomedy",
+   "url": "https://youtu.be/AjCbi75J5yQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 10.75,
+   "likes": 476,
+   "text": "Last time panna scam pathathu nu thirumba scam ku ready aagita pola \ud83d\ude11"
+  },
+  {
+   "cat": "trending: Science & Tech (IN)",
+   "video": "Don't Buy the New iPhone Duo! \u26a0\ufe0f",
+   "url": "https://youtu.be/Q3FcCNXUoU8",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 10.69,
+   "likes": 12,
+   "text": "I would buy a freaking car"
+  },
+  {
+   "cat": "trending: Film (AU)",
+   "video": "What it really means to be Color Blind @2bd2bth",
+   "url": "https://youtu.be/2WcV40hHbUw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 10.46,
+   "likes": 393,
+   "text": "I would call that false advertising for colorblind glasses, but those things are already a massive scam!  Ayooo!"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "SHOCKING: Alberta Separation Plan Set To COLLAPSE",
+   "url": "https://youtu.be/PtMDkULZbb0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 10.36,
+   "likes": 367,
+   "text": "Separation will NEVER happen, what a waste of time, money and energy. More Danielle Smith crocodile tears coming our way!"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "Mark Carney Warned By U.S. Official Not To Interfere In Elections, Chinese Steel Connection Revealed",
+   "url": "https://youtu.be/am8BeJweujw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 10.17,
+   "likes": 322,
+   "text": "Corrupt carney  is nothing but a lying thief and complete scam artist"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 9.64,
+   "likes": 227,
+   "text": "Carney must stay up at night thinking about what the next scam could be to rip off Canadians for billions!"
+  },
+  {
+   "cat": "trending: Howto & Style (AE)",
+   "video": "Patrick Garcia, may gustong linawin sa isyu nila ni Jennylyn Mercado! | Ogie Diaz",
+   "url": "https://youtu.be/_htbFb0li_Y",
+   "signals": [
+    "result_report"
+   ],
+   "score": 9.62,
+   "likes": 223,
+   "text": "Right desisyon si Jen from the start...not worth it"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "SHOCKING: Alberta Separation Plan Set To COLLAPSE",
+   "url": "https://youtu.be/PtMDkULZbb0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 9.58,
+   "likes": 217,
+   "text": "What a waste of tax payer money . 150 to 200 million is the estimate .  Total waste of time. The questions are total crap. However, Albertans need to vote an overwhelming no to this stupid whim of the current government. The next vote in Alberta needs to be to throw this bunch of wasteful clowns to the curb."
+  },
+  {
+   "cat": "trending: Autos (GB)",
+   "video": "Guess the key and win the car",
+   "url": "https://youtu.be/DrSdBu_KXr4",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 9.48,
+   "likes": 41,
+   "text": "I wish this would happen to me. I'm saving for my first car"
+  },
+  {
+   "cat": "trending: Entertainment (CA)",
+   "video": "they really didn\u2019t have a fork huh \u270c\ufe0f\ud83d\udc80\ud83e\udd40",
+   "url": "https://youtu.be/reXaZ76M4CU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 9.47,
+   "likes": 202,
+   "text": "btw for people who don't know, the knife is fake so it does not work like a real knife"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 9.07,
+   "likes": 154,
+   "text": "The only thing we need to Protect is our bank accounts from the arrogant Mark Carney and his new capital nature SCAM, what a Fraud he is"
+  },
+  {
+   "cat": "trending: People & Blogs (PK)",
+   "video": "I Spent WAY Too Much in Osaka\u2026    AND WON THIS?! \ud83d\ude2d\ud83c\uddef\ud83c\uddf5",
+   "url": "https://youtu.be/n3Fs_sx8Lyc",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 8.99,
+   "likes": 32,
+   "text": "18:26  I wish I could also achieve this much success in life that I can buy whatever I want to without thinking about the price tag \ud83d\ude02 , aapko dekhte hue more than 3 years hogaye still I never get bored and can cheerup myself through vlogs even for few moments \u2764\ufe0f"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 8.84,
+   "likes": 6,
+   "text": "If this guy sold this product for 12K, I'd buy it. Not even apple has this much of innovation"
+  },
+  {
+   "cat": "trending: Howto & Style (GB)",
+   "video": "When a Plumber Turns His Hand to Bricklaying! #asmr #diy #plumbing #tools #reels",
+   "url": "https://youtu.be/G06HqsWGrJc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.6,
+   "likes": 113,
+   "text": "The most ridiculous waste of time I've possibly ever seen, so much effort for a two minute job"
+  },
+  {
+   "cat": "trending: Gaming (AU)",
+   "video": "I forced Twitch Chat to fight in a massive Fantasy War",
+   "url": "https://youtu.be/n33b8s3kM5U",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.27,
+   "likes": 90,
+   "text": "HELLO i was a coordinator for the wizards i was the first one (and most annoying one) to push for healthcare which led to us achieving immortality i also tried to make agriculture and transportation a thing but those two did not work out as well (even tho transport did end up working in the end but not due to my efforts) we were rather rational but in the endgame we just became fully irrational an"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.27,
+   "likes": 90,
+   "text": "Another money launder scam  All the problems and money goes where people can't check anything. 0 results from all the climate spending...poof money gone"
+  },
+  {
+   "cat": "trending: Entertainment (NG)",
+   "video": "A TURN OF EVENTS - MAURICE SAM, SARIAN MARTIN, Latest 2026 Nigerian Full Movie",
+   "url": "https://youtu.be/negcmBrWxm0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.16,
+   "likes": 84,
+   "text": "Richie just behaved like geh geh who always said love was scam and yet got married to a beautiful damsel \u263a\ufe0f\ud83d\ude29we all agree that love is a beautiful thing right ?"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.13,
+   "likes": 82,
+   "text": "\"Climate Change\" is the biggest scam on planet earth....we must all die to save the planet!"
+  },
+  {
+   "cat": "trending: Howto & Style (AU)",
+   "video": "Strong recall becomes more and more neccesary every day #dog #dogs #dogvideo #dogvideos #DogTraining",
+   "url": "https://youtu.be/rl2840n49bw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.91,
+   "likes": 71,
+   "text": "never ever should have your dog off leash. no matter how trained they are something can happen that you cant train your dog for. its not worth the risk just for attention."
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.89,
+   "likes": 70,
+   "text": "HE says oceans only create 50% because then his Green Scam is over."
+  },
+  {
+   "cat": "trending: People & Blogs (US)",
+   "video": "10 Costco Foods I Wish I Found Sooner (Healthy & Affordable)",
+   "url": "https://youtu.be/8nu5kHDGLNQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 7.83,
+   "likes": 4,
+   "text": "I've never found unsalted New Zealand Kirkland butter.  I'd buy it if they offered it unsalted."
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "BIGGEST ISSUE FLIPS/FOLD PHONES!!! #smartphone #problemfix #brokenfix #screenbreak #techtok",
+   "url": "https://youtu.be/8mzPWSJH13E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.78,
+   "likes": 65,
+   "text": "I love people who just say the truth about this stuff, telling her fixing is half the cost of a new one and that it\u2019s not worth it! So many people get sucked into expensive repairs when they could have put that money towards a new phone! Seeing this lady already got swindled into buying the phone I\u2019m happy you took your time to give her real advice"
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "\"BIGGEST CHEATS... THAT HAVE BEEN CAUGHT!\" Man City fans GRILL Simon Jordan over Man City charges!",
+   "url": "https://youtu.be/7P3txiiEM3s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.69,
+   "likes": 61,
+   "text": "What absolute nonsense, now football is dead and not worth it?! City fans need to be angry with their owners. The REST OF THE WORLD didn't not make them do this, they chose to cheat on an industrial scale. Your owners are unscrupulous and paid no care to your heritage or the value of the club to you personally. Even now, they treat you like an afterthought and fight instead of saving your recent l"
+  },
+  {
+   "cat": "trending: Film (AU)",
+   "video": "What it really means to be Color Blind @2bd2bth",
+   "url": "https://youtu.be/2WcV40hHbUw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.31,
+   "likes": 47,
+   "text": "Btw colorblind glasses irl are a scam, MegaLag has a video"
+  },
+  {
+   "cat": "trending: People & Blogs (AE)",
+   "video": "The most expensive 33 hours in WordPress history...",
+   "url": "https://youtu.be/ylO0DQeVEBQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.31,
+   "likes": 47,
+   "text": "0:10 is that Scam Altman?"
+  },
+  {
+   "cat": "trending: Sports (AE)",
+   "video": "He Embarrassed Me Every Day \u26bd",
+   "url": "https://youtu.be/J8wPCFot6dQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 7.16,
+   "likes": 3,
+   "text": "This story may be based on real events, but all names, details, and identifying information have been changed or fictionalized. Any resemblance to real individuals is purely coincidental.  Idit 1: stop the CONVERSATION ABOUT ME and king chriscult i will subscribe to you your nice"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Republican STORMS AWAY after \u201cgotcha\u201d on Jack Smith BACKFIRES",
+   "url": "https://youtu.be/aUdu9JdZW3Q",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.03,
+   "likes": 39,
+   "text": "What a waste of time and poster board. Eric Schmittbag owes him an apology. He's an embarrassment to Missouri and the United States Senate."
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
+   "url": "https://youtu.be/8H4jPOngSf4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 6.98,
+   "likes": 5,
+   "text": "How is the name of the app"
+  },
+  {
+   "cat": "trending: Comedy (AU)",
+   "video": "Why does this 9-year-old want to divorce her parents? #fyp",
+   "url": "https://youtu.be/BSJiDMGx-YU",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 6.98,
+   "likes": 5,
+   "text": "Is this a show? Or a movie? Does anyone know the name?"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Joyce blasts Labor for adding $60 billion more in spending",
+   "url": "https://youtu.be/1SgkzUD-C3s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.65,
+   "likes": 30,
+   "text": "A lesson in life in the lucky country. I own my house; I have savings in the bank. I am 76. I got married in 1969 with $10.00 in our purse. Still married to the same person. We are financially secure today for only one reason: financial discipline. Living within our means was, and still is, hard, but my story proves Barnaby Joice is right about basic financial understanding."
+  },
+  {
+   "cat": "trending: People & Blogs (GB)",
+   "video": "I FINALLY DID IT! | MY LONDON LIFE",
+   "url": "https://youtu.be/BHKPzEGwEyM",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 6.61,
+   "likes": 9,
+   "text": "Thank you Jo for another fun packed Vlog. So enjoyable to watch and I wish I had as much energy as you have.\ud83d\udc4d"
+  },
+  {
+   "cat": "trending: Gaming (DE)",
+   "video": "Fishing Area Update in Hay Day!",
+   "url": "https://youtu.be/gbxfcgieSN4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.55,
+   "likes": 28,
+   "text": "This is what we need: - edit mode in design festival - toolshed for our upgrade material  - better option for Tom's nap - 2nd dairy - faster candy machine - faster jam maker  - better chances in the decoration crates - something to remind us to collect our honeycombs  Ps. The last yardsale event didn't work at all. I had it work out great in the past but this time all visitors ask for the same fen"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.55,
+   "likes": 28,
+   "text": "Protect the oceans, but let\u2019s send more ships to do more trade with Europe. This is a total scam job to add another grift for him and his wife."
+  },
+  {
+   "cat": "trending: Howto & Style (DE)",
+   "video": "I live in a jungle",
+   "url": "https://youtu.be/qKOVteMlX9s",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 6.52,
+   "likes": 4,
+   "text": "German Husband Bug Tour video when?? (Also, does anyone know what that cool little red guy is? can't tell if he's real or not.)"
+  },
+  {
+   "cat": "trending: Gaming (AU)",
+   "video": "The BLOXROOMS\u2026",
+   "url": "https://youtu.be/Ky6wSPpTP_M",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.33,
+   "likes": 24,
+   "text": "Al.bert when I was 13 I tried to get cancer so make a wish would let me see you . Now I am 18 adn still suffering the consequences . It was not worth it\u2764 . Love your channel\u2665"
+  },
+  {
+   "cat": "trending: Gaming (CA)",
+   "video": "wolverine is a concord level FAILURE",
+   "url": "https://youtu.be/WzAuZew6W5U",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 6.16,
+   "likes": 7,
+   "text": "7:02 I loved Sunset Overdrive I wish it would have gotten a sequle"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Jamie Carragher\u2019s honest opinion on Man City found guilty of serious breaches of PL financial rules",
+   "url": "https://youtu.be/J05y3UMJsPQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.14,
+   "likes": 21,
+   "text": "They also need to be investigated beyond 2018 . It's very clear if you crunch the numbers that they have been continuing the scam income revenue beyond 2018 . They inflated income revenue every year up to 2018 gradually it got bigger and bigger .. logic dictates it continued on this way beyond 2018 another investigation is needed to look at the revenue etc up to current day"
+  },
+  {
+   "cat": "trending: News (US)",
+   "video": "GOP senator's perjury trap for Jack Smith backfires",
+   "url": "https://youtu.be/uT2BGYa6RSc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.07,
+   "likes": 20,
+   "text": "Why was he even being questioned??? Major waste of time."
+  },
+  {
+   "cat": "trending: Sports (CA)",
+   "video": "worth the burn.. \ud83d\ude2c",
+   "url": "https://youtu.be/h5QcuhXGYX0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.99,
+   "likes": 19,
+   "text": "NOT worth the turf burn bro OUCHHHH AHAHHDGXU"
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "PANIC IN APC OVER TINUBU EMBARASSMENT AT D AIRPORT UPON ARRIVAL WITH \"OLE OLE CHANT\": NIGERIANS RXT",
+   "url": "https://youtu.be/22kwxdCYqnk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.99,
+   "likes": 19,
+   "text": "The convoy is too much. This is a waste of money or resources. Watching from Marseille, France"
+  },
+  {
+   "cat": "fashion & clothing",
+   "video": "Turn you wardrobe into outfits with Essembl App#style #ootd #stylingtips",
+   "url": "https://youtu.be/ef__JCr5mS0",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "The name of the app is essembl"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Ukrainian Soldier Immediately Cut the Fiber-Optic Cable After Spotting It in His Path #warinukraine",
+   "url": "https://youtu.be/v-d2y34LOds",
    "signals": [
     "manual_pain"
    ],
    "score": 5.97,
    "likes": 3,
-   "text": "I have a total of three zero interest loans that come due Aug, September and January with house taxes in September too. So I started doing Shipt again and DD 3 weeks ago and my first zero loan will be paid next month! It is a relief knowing it will be made on time. I have a projected budget on a spreadsheet and update my side hustle money as it comes in. I can see for months if I am going to be sh"
+   "text": "The clean up, once the war is over, will take ages."
   },
   {
-   "cat": "health & fitness",
-   "video": "Google Fitbit Air \u2013 30 Days Later: An Honest Review",
-   "url": "https://youtu.be/d4vHsbRWKfk",
+   "cat": "trending: News (AU)",
+   "video": "SpaceX Starship Flight 14 - Launch & Booster Splashdown - LAUNCH STREAM",
+   "url": "https://youtu.be/9gDxG-pm1Zo",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "Wonderful, highly successful flight! SpaceX has been bleeding money on every test flight, until now. Now they make money on every test flight (unless it explodes or crashes before payload deployment, which might happen at most once or twice). Thanks to StarLink, the Starship program is now self-sustaining. THAT is a HUGE milestone.  Does anyone know why they chose to deorbit after 1\u00be orbits instea"
+  },
+  {
+   "cat": "trending: Howto & Style (NG)",
+   "video": "Your favourite sisters \ud83d\ude0a\ud83d\udc83#oguike #oguikesisters # #silentnina #mykidsandi #fyp #goviral #explore",
+   "url": "https://youtu.be/NJHo3KyaOBU",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "Guys please i love acting is there any way you can help"
+  },
+  {
+   "cat": "trending: Music (DE)",
+   "video": "Bob Dominator - In My Soul (Official Video)",
+   "url": "https://youtu.be/v-HlExpRbQg",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "BEND OVER BOBBY IS A AI NIGHTMARE TO VIKING TRUE HERITAGE  OF THE NORSK"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.92,
+   "likes": 18,
+   "text": "Sounds like planting trees......scam!"
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Xiaomi made an iPhone Duo. It\u2019s Unhinged.",
+   "url": "https://youtu.be/eYBEJBfq_Zs",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.75,
+   "likes": 16,
+   "text": "As a long time Xiaomi user... man am i excited to avoid this brand. After a year performance drops by 30% and only gets worse from there! Battery. Amazing! Screen. Amazing! Software. Atrocious! Performance. Absolute garbage! Bugs.... Everywhere! The whole phone is built like an iPhone but from Temu. The brand is like \"If you can't afford iPhone buy our Xiaomi for $100 less\" but the catch is that t"
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "The \u00a3102BN Plan To Finish The World's Most Expensive Railway",
+   "url": "https://youtu.be/IJnKt2AOCJ8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.66,
+   "likes": 15,
+   "text": "I lived through the Big Dig in Boston. Believe me, it will absolutely be considered worth it when it's done. It's shortsighted and moronic of anyone who tries to cancel it, who says that it's not worth it to have the transportation infrastructure that we know is possible."
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Blessing CEO LIED Used Son's Death To Seek Donation | Gave Amira Consent | LEAKED PHONE CALL",
+   "url": "https://youtu.be/vwYgie0K1aM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.56,
+   "likes": 14,
+   "text": "It's better to ask for help than to scam. She's done this before; she lied about having cancer to trick people. Now she's at it again. She should be held accountable for her malicious and criminal actions\u2014jail is where she belongs. \ud83c\uddfa\ud83c\uddf2"
+  },
+  {
+   "cat": "trending: Entertainment (AU)",
+   "video": "#quiztime",
+   "url": "https://youtu.be/A0DH_9pU9pQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.46,
+   "likes": 13,
+   "text": "WARNING! A If you see a scam bot or clanker, DO NOT REPLY OR LIKE THEIR COMMENTS. REPORT THEM IMMEDIATELY. They target childrens' and Gen Alpha content. They use fake likes to get their comments to the top, just to catch people's attention. There are kids who use YouTube and they are at risk of being lured into inappropriate profiles and accounts. YouTube will likely terminate them within a week, "
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "SHOCKING: Alberta Separation Plan Set To COLLAPSE",
+   "url": "https://youtu.be/PtMDkULZbb0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.46,
+   "likes": 13,
+   "text": "This is the most ridiculous idea ever!  It\u2019s a total waste of money!  I\u2019m from Alberta and cannot believe I have to vote to stay in my very own country!  I n ver had any declaration in my mail in package. Weird."
+  },
+  {
+   "cat": "trending: Entertainment (NG)",
+   "video": "FOREVER FOUND - CHINENYE NNEBE, JOHN EKANEM, CHIOMA NWOSU, Nigerian Movies 2026 Latest Full Movies",
+   "url": "https://youtu.be/JhgejieJRng",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.46,
+   "likes": 13,
+   "text": "I feel like every thing happening in this movie Lilian\u2019s husband is the enabler  I for don live this marriage scam snice \ud83d\ude12\ud83d\ude12"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.35,
+   "likes": 12,
+   "text": "Our people are falling into poverty, our borders are porous, and our military is a joke. No serious person would believe this billion dollar ocean initiative is anything but another scam."
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Pilot STABBED Mid Flight As Israel Scrambles Fighter Jets",
+   "url": "https://youtu.be/Zi_s-xCf28k",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.35,
+   "likes": 12,
+   "text": "Thank God their plans did not work."
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
+   "url": "https://youtu.be/8H4jPOngSf4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "I also have same iPad can you tell me what app is best for free notes \ud83c\udf37\ud83c\udfb6"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "\"Stick medals in the BIN\" - Roy Keane Reacts To Damning Man City Verdict",
+   "url": "https://youtu.be/CB-e0e9DmSM",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "What I don't understand is, how did nobody realize this was going on? I remember my friends group making jokes that City was playing with funny money back in the early 2010s, so if the mere fans could see it, why'd it take so long to put a stop on? Seems weird."
+  },
+  {
+   "cat": "trending: People & Blogs (CA)",
+   "video": "my lil life with no plans (and no friends either)",
+   "url": "https://youtu.be/kk0V7GStaXg",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 5.22,
+   "likes": 4,
+   "text": "Your vlogs are calming in this crazy world.  Pitty the negative comments always cancels out the positive comments for the reader..even if its one negative comment and 10 000 positive comments.  Wish there was an off switch for stupid\u2764\u2764 but in saying thst keep on succeeding in life...because you are growing and thriving and doing the things\u2764\u2764"
+  },
+  {
+   "cat": "trending: Science & Tech (AU)",
+   "video": "Yet Another PC Company to Avoid?",
+   "url": "https://youtu.be/SZoUpujwqEc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.1,
+   "likes": 10,
+   "text": "RATE MY MY BUILD  Cpu: AMD Ryzen 5 5600x - RAM: Viper ddr4 Dual 16 gigs - Graficcards: Radeon Vega Graphics msi grafikkarte - Case Schwarz mit Mesh-Front  I GOT 100 DOLLARS LEFT TO UPGRADE PLS RECOMMEND"
+  },
+  {
+   "cat": "trending: Comedy (AU)",
+   "video": "That\u2019s the system. #economy #finance",
+   "url": "https://youtu.be/tNE4MFyUegg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.1,
+   "likes": 10,
+   "text": "Data centres are so funny. \"Hey the people who own the companies that need these say everyone will make a tonne of money with this stuff. So they said if we give THEM all the money we have and build the stuff they need with all the resources we have, we'll all win! Isn't that neat?\" Biggest scam in history, how anyone is falling for it is insane to me."
+  },
+  {
+   "cat": "trending: Autos (GB)",
+   "video": "I WAS INVITED INSIDE THE BILLIONAIRES HYPERCAR SHOWROOM",
+   "url": "https://youtu.be/gAXEIyfpslA",
    "signals": [
     "would_pay"
    ],
    "score": 5.08,
    "likes": 1,
-   "text": "I'd buy it if it was better and if it wasn't google"
+   "text": "if i had the money, i will buy that sp3. that is the most beautiful car in the 21st century period."
   },
   {
-   "cat": "health & fitness",
-   "video": "I Bought Fitbit Air After a Year of Whoop",
-   "url": "https://youtu.be/Kur1Ro3sZ-c",
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
    "signals": [
-    "manual_pain"
+    "would_pay"
    ],
-   "score": 4.23,
+   "score": 5.08,
    "likes": 1,
-   "text": "14:35 ik this syncing issue is so annoying, I use a Fitbit Versa, and every now and then it takes so long to sync\ud83e\udd26\u200d\u2642"
+   "text": "I want one. Now. Take my money. *insert slamming credit card*"
   },
   {
-   "cat": "health & fitness",
-   "video": "Garmin CIRQA In-Depth Review // Tested for Accuracy, Battery Life, Workouts, and More",
-   "url": "https://youtu.be/xawIOjzqvCo",
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
    "signals": [
-    "manual_pain"
+    "would_pay"
    ],
-   "score": 4.23,
+   "score": 5.08,
    "likes": 1,
-   "text": "Great video.  Thank you.  I noticed my sleep score does not automatically pull into the app, I have to manually refresh the cirque in the app for the data to sync.  Curious if you have similar issues.  Thanks"
+   "text": "I would pay ridiculous amount of currency for this here desk, uh so where do I put my address and I\u2019ll just send u my whole debit card bud just take it out for a week and send it back with the desk try not to go over 100,000k if u do it\u2019s all good though"
   },
   {
-   "cat": "health & fitness",
-   "video": "Eight Sleep just COOKED",
-   "url": "https://youtu.be/Oa3Ffr_04js",
+   "cat": "trending: Gaming (AU)",
+   "video": "Fortnitemares 2026 | Cinematic Trailer",
+   "url": "https://youtu.be/5lddZVFmxaw",
    "signals": [
     "would_pay"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "Paying a monthly subscription is definitely a \"no-brainer\", but not in the way you're talking about. I would buy this in a second if it weren't for the subscription."
+   "score": 5.08,
+   "likes": 1,
+   "text": "SHUT UP AND TAKE MY MONEY"
   },
   {
-   "cat": "health & fitness",
-   "video": "Garmin Cirqa Hands-On! 39 Things To Know!",
-   "url": "https://youtu.be/66iPmjOkrB0",
+   "cat": "trending: People & Blogs (US)",
+   "video": "10 Costco Foods I Wish I Found Sooner (Healthy & Affordable)",
+   "url": "https://youtu.be/8nu5kHDGLNQ",
    "signals": [
     "would_pay"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "Kinda dissapointed... It's missing important features for me.  If it had ECG and floors climbed I would buy it right away. I could live without the floor counter (if the size is smaller without the altimeter)), but the Gen 5 sensor is a must for me."
+   "score": 5.08,
+   "likes": 1,
+   "text": "\ud83d\ude4f thanks I will buy colostrum next time one u recommended \u2764"
   },
   {
-   "cat": "health & fitness",
-   "video": "WHOOP Killer Is Here - Google FitBit Air Unboxing & First Look?\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-   "url": "https://youtu.be/5dABaqFNRhc",
+   "cat": "trending: News (US)",
+   "video": "GOP senator's perjury trap for Jack Smith backfires",
+   "url": "https://youtu.be/uT2BGYa6RSc",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "Hey gaurav please send to me I will pay you for this"
+   "score": 4.95,
+   "likes": 9,
+   "text": "This is a WASTE OF TIME!!"
   },
   {
-   "cat": "health & fitness",
-   "video": "Garmin CIRQA In-Depth Review // Tested for Accuracy, Battery Life, Workouts, and More",
-   "url": "https://youtu.be/xawIOjzqvCo",
+   "cat": "trending: Entertainment (NG)",
+   "video": "MY STAR - YUL EDOCHIE, LIZZY GOLD ONUWAJE - Latest Nollywood Movie",
+   "url": "https://youtu.be/E8XxFBiAMDo",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "I guess I would still use a watch and this band to get maybe a better heart-rate quality and to track sleep and hrv in the night. So if they could implement this scenario I would buy it. Basically when I wake up in the morning and put on my watch, I should see the real morning report from the cirqa then."
+   "score": 4.8,
+   "likes": 8,
+   "text": "Poor man, the police officers tried to help him but it all looked like a scam"
   },
   {
-   "cat": "health & fitness",
-   "video": "Google Fitbit Air Review: Better Than WHOOP?",
-   "url": "https://youtu.be/RII47rv_6FQ",
+   "cat": "trending: Sports (PK)",
+   "video": "#bts",
+   "url": "https://youtu.be/j1H75DOKkZI",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "What's the price for fitbit air"
+   "score": 4.8,
+   "likes": 8,
+   "text": "Chutki Bhool rahe Ho like football Banja scam Q kar rahe Ho"
   },
   {
-   "cat": "health & fitness",
-   "video": "Eight Sleep just COOKED",
-   "url": "https://youtu.be/Oa3Ffr_04js",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "If only they made us stretchy topper version because I have a purple mattress and I absolutely love my purple mattress. I never get too hot in it and it cools because of the grid system in the summer so I don't have that problem but it would be nice to kind of have it heat. But it's not worth getting the 8th sleep topper for a purple mattress because since the topper is not stretchy it compromises"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "I Bought Fitbit Air After a Year of Whoop",
-   "url": "https://youtu.be/Kur1Ro3sZ-c",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Whoop never tracked my sleep properly. When I chatted with Whoop, they told me I had to enter my sleep manually... how do I know when I fall asleep...fitbit air is awesome. Tracks my sleep without any manual entry!!!"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "I Bought Fitbit Air After a Year of Whoop",
-   "url": "https://youtu.be/Kur1Ro3sZ-c",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I\u2019m about toss mine in the trash. It\u2019s pure AI slop, takes forever to load the app, GPS tracking is a crapshoot, and it\u2019s too dumb to auto stop a workout that I started manually (because the auto start detection sucks)."
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Garmin Cirqa Hands-On! 39 Things To Know!",
-   "url": "https://youtu.be/66iPmjOkrB0",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there an app update, or is this only for people with a Premium subscription?"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Garmin CIRQA In-Depth Review // Tested for Accuracy, Battery Life, Workouts, and More",
-   "url": "https://youtu.be/xawIOjzqvCo",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "how does it work for pool swimming? does it counts laps? what about indoor cycling? is there a way to connect a indoor trainer ?"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Garmin CIRQA In-Depth Review // Tested for Accuracy, Battery Life, Workouts, and More",
-   "url": "https://youtu.be/xawIOjzqvCo",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I wish they add an Auto Pause function for cycling similar to any Cycling Computer to accurately calculate your avg speed and track pauses. I manually started an activity and manually paused it on a coffee stop and wanted to resume it later, but after 15mins or so, it auto saved automatically. So I had 2 separate rides tracked that day which sucked"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Garmin CIRQA In-Depth Review // Tested for Accuracy, Battery Life, Workouts, and More",
-   "url": "https://youtu.be/xawIOjzqvCo",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "My question - I have my old tested Forerunner 945. The battery Is still great, it obviously has a decent GPS but Gen 3 HR sensor. Is there a way I could feed GPS data from the watch but at the same provide HR data from Cirqa into exercise summary?"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "NEW Pixel Watch 5 - This Changes Everything",
-   "url": "https://youtu.be/-aVGfRlhCm8",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I just got my pixel watch 5 and I can't find the AI generative watch faces, does anyone know how to access it?"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Google Fitbit Air Review: Better Than WHOOP?",
-   "url": "https://youtu.be/RII47rv_6FQ",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "For me the Fitbit air didn\u2019t auto detect playing badminton and I tired to log it manually or start manually but I didn\u2019t see badminton under activities section. Can you let me know, how I can track it. Thank You!!"
-  },
-  {
-   "cat": "health & fitness",
-   "video": "Eight Sleep just COOKED",
-   "url": "https://youtu.be/Oa3Ffr_04js",
+   "cat": "trending: People & Blogs (US)",
+   "video": "a very cozy fall week in our life | working, making homemade ramen + weekend upstate",
+   "url": "https://youtu.be/eq9qFXbz8Cg",
    "signals": [
     "wish_build"
    ],
-   "score": 2.0,
+   "score": 4.77,
+   "likes": 3,
+   "text": "The way that I am obsessed with your vlogs I WISH there was one every day!!!"
+  },
+  {
+   "cat": "trending: Autos (NG)",
+   "video": "EUROPE BANNED MY FERRARI I REBUILT",
+   "url": "https://youtu.be/bos35ZVwXWw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "32:32 Matt repeating the same scam as he did with Bugatti in France but now on the Ring in Germany.  He starts to get my really tired.  \u201cI made all this way to discover at the last minute that the world is not turning around me but has rules\u201d.  You disappoint me."
+  },
+  {
+   "cat": "trending: Autos (GB)",
+   "video": "I BOUGHT MAT ARMSTRONG'S CRASH DAMAGED G WAGON!",
+   "url": "https://youtu.be/5P_X5bzTyAA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "Id be gutted if i spent 100k on a car and it didnt get me home"
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "Watch in full: Andy Burnham's keynote speech to Labour conference",
+   "url": "https://youtu.be/jyjTT_55Gi0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "Eventhough i am not British... this man Andy.. made me CRY when he mention about the union of Great Britain..... ANDY was also crying. He was Genuine... i hope he wins them back... He needs to open up more... Scotland, Wales and Northern Ireland feels marginalised... Devolution is a SCAM.. England make these other areas inferior.. this is what they say... That is why the are fighting for independe"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "BIGGEST ISSUE FLIPS/FOLD PHONES!!! #smartphone #problemfix #brokenfix #screenbreak #techtok",
+   "url": "https://youtu.be/8mzPWSJH13E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "I got a warranty with mine it's only $30 for a repair/replacement coming up on 2 years though but no issues other than I broke it day one \ud83d\ude02 but I got it fixed within a day"
+  },
+  {
+   "cat": "trending: Science & Tech (AU)",
+   "video": "New tech can slash data centre water use",
+   "url": "https://youtu.be/cm3NKmqznx8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "Get out. Unnecessary waste of money and resources."
+  },
+  {
+   "cat": "trending: Entertainment (NG)",
+   "video": "A TURN OF EVENTS - MAURICE SAM, SARIAN MARTIN, Latest 2026 Nigerian Full Movie",
+   "url": "https://youtu.be/negcmBrWxm0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "This movie centers on the dynamic between Diane, a relationship coach who advocates for the validity of love and Richie, a vocal critic who insists that love is a \"scam\" or a form of manipulation\ud83d\ude02\ud83d\ude02   This masterpiece is a compelling and thoughtfully presented film that succeeds in blending emotion, storytelling, and meaningful character development. The narrative unfolds with enough intrigue to ke"
+  },
+  {
+   "cat": "trending: Sports (NG)",
+   "video": "The Premier League has released an official statement about Man City and exposed their \u00a3900m fraud",
+   "url": "https://youtu.be/aVubzUKGiYY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.42,
+   "likes": 6,
+   "text": "The question is \u2026 who was aiding and abetting these?  How come every quarter of end of the year , no one looks at their books \ud83d\udcda the scam was not done \u2705 in isolation"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Using AI Illustrations for an Amazon KDP Children's Book? (Here's What to Watch Out For)",
+   "url": "https://youtu.be/5V4l57jUSeE",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I have a degree in digital media, animation, and design. It takes me FOREVER to do a design project and if the person just flat out does not like what you made at the end of your project, you don't get paid. I think AI is a great tool to ASSIST with design. Now, even industry standard Adobe is now using AI to assist in designs and lighting and motion graphics. All sorts of stuff. I think it's a SL"
+  },
+  {
+   "cat": "fashion & clothing",
+   "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
+   "url": "https://youtu.be/ppI_7LRAoa4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Does anyone know what the app is called"
+  },
+  {
+   "cat": "trending: Entertainment (AU)",
+   "video": "The Tall Grass Only Moves Living Things",
+   "url": "https://youtu.be/nmW95oAFT64",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Idk why but this short gave me like existential crisis or something. People here saying they feel horrified about cornfields and mazes, meanwhile i remember being like 7 years old, living next to some farm and huge cornfields and playing in them every day (i even made sure first to ask the farmer if he plans on cutting it this day every time) I remember venturing into huge forests (living in germa"
+  },
+  {
+   "cat": "trending: People & Blogs (GB)",
+   "video": "COSY AUTUMN DAY \ud83c\udf42 B&M haul, clean with me, farm shop & homemade soup",
+   "url": "https://youtu.be/DMvY-72NA5A",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Hi does anyone know where Gemma\u2019s cardigan if from?"
+  },
+  {
+   "cat": "trending: People & Blogs (GB)",
+   "video": "ad LEGALLY VLOGS 28\ud83d\udc95we are SO back!",
+   "url": "https://youtu.be/mA19f420XmQ",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "As an artist who sells my work as stickers I thought I'd give you a little insight into why the stickers in Lazy Lobster were \u00a33 each. Those stickers were created by an artist who runs their own small business. When selling products through retail, the shop and the original artist both need to make money, which means items will be more expensive than mass produced stickers as retail price tends to"
+  },
+  {
+   "cat": "trending: People & Blogs (AU)",
+   "video": "throuple content lol, i saw a psychic medium + utah trip!!",
+   "url": "https://youtu.be/0jMqxyYcjjg",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Peds night nurse here struggling to get cozy to rest for a long work stretch and you blessed us with a 50min vlog?!?! It\u2019s going to be a good week \ud83e\udef6\ud83c\udffb"
+  },
+  {
+   "cat": "trending: Howto & Style (CA)",
+   "video": "It\u2019s Impossible To Brush His Hair \ud83d\ude05",
+   "url": "https://youtu.be/Tzndcl28w0A",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "The reason his hair isn\u2019t greasy is probably because he is young. I remember I didn\u2019t have to wash my hair a lot when I was younger.   But that\u2019ll be super convenient though! I hate having to wash my hair"
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Mark Bouris reacts to RBA cash rate hike LIVE on Today Show",
+   "url": "https://youtu.be/6dKCe9AguAU",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "If we can\u2019t fire Albo can we fire the GOVERNOR GENERAL - is there a way for us to have her replaced so someone can do the job and get Labor under control with spending or call an early election."
+  },
+  {
+   "cat": "trending: Sports (NG)",
+   "video": "Manchester City\u2019s 115 charges situation is getting out of control \ud83d\ude2d\ud83d\udc80",
+   "url": "https://youtu.be/3CYsrsRVsRQ",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Does anyone know which app this account used I have never seen something so good like this before \ud83d\ude02"
+  },
+  {
+   "cat": "trending: Gaming (AU)",
+   "video": "The Most \"Normal\" GTA Game",
+   "url": "https://youtu.be/BepltTmFgqs",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 4.2,
+   "likes": 2,
+   "text": "I wish there were more suburbs in games. There's something special about running around a big neighborhood that doesn't really exist. Plus what if you could buy a house in-game and roleplay being a good or bad neighbor? Might seem pointless, but it's the closest many of us might come to owning a house IRL."
+  },
+  {
+   "cat": "trending: Gaming (DE)",
+   "video": "Fishing Area Update in Hay Day!",
+   "url": "https://youtu.be/gbxfcgieSN4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "The link to claim the decoration does not work."
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "What possible sanctions could Manchester City face?",
+   "url": "https://youtu.be/SaQ9RqtntxQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Completely disagree, nothing they did should be respected. They cheated to get better players than they should have. Other teams missed out on those players. It\u2019s a scam, every trophy they won is a scam."
+  },
+  {
+   "cat": "trending: Entertainment (IN)",
+   "video": "Sivakasi porom\ud83d\ude05Kandippa Twist irukku\ud83e\udd23Just For Fun\ud83d\ude05\ud83e\udd23 #Add #trending #comedy #twist #tamilcomedy",
+   "url": "https://youtu.be/AjCbi75J5yQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Last time scam panna amount la company start panniyachu.. ipo enna benz car vanga poringala"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "Never trusted AI detectors because they are massively flawed and Panscam is just as flawed. I'm not going to dumb down my writing to appease that snake oil salesman Max Spero and his scam. Let the reader decide if it's good or trash, not some software. Like you mentioned, we've been doing this for years without Panscam."
+  },
+  {
+   "cat": "trending: Science & Tech (AU)",
+   "video": "The Secret iPad Trick Parents Need to Know Immediately \ud83e\udd2f",
+   "url": "https://youtu.be/8PvOiWC3n1k",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "I can\u2019t believe it. I really think this worked for me almost immediately.! thank you Chase. Can\u2019t wait to see you on Friday night."
+  },
+  {
+   "cat": "trending: People & Blogs (US)",
+   "video": "EXTREME BATHROOM MAKEOVER *European Cottage* Complete Transformation | XO MaCenna",
+   "url": "https://youtu.be/i353h5UmK2g",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "You MaCenna-nized it. I love it. The only change I would still do it change the door knob, as I feel that the crystal does not work with the rest of the bathroom. But what a gorgeous bathroom without demo. Well done"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "Trump\u2019s War With Canada Has Officially Lost the Plot (w/ Sam Stein) | Receipts",
+   "url": "https://youtu.be/ebcw7AT_H1Y",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "He already told you why multiple times: he wants to destroy us (Canada) so he can annex us. If that doesn't work, he's going to invade, while Americans wring their hands and post on social media... what else is new?"
+  },
+  {
+   "cat": "trending: People & Blogs (AE)",
+   "video": "The most expensive 33 hours in WordPress history...",
+   "url": "https://youtu.be/ylO0DQeVEBQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "Sounds like the goal/scam was to get the severance package and they got it."
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Moment Special Court Sentences Four To Death For Kidnapping In Edo",
+   "url": "https://youtu.be/GcSBsdS2ZO8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "Wow. Crime doesn't pay at all. Not worth it at all."
+  },
+  {
+   "cat": "trending: Gaming (DE)",
+   "video": "Naturkatastrophen, Stadtteile & Tierwelt: So LEBENDIG wird die Open World von GTA 6!",
+   "url": "https://youtu.be/vOkhQFsJL2U",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "Das schlimmste an gta 6 ist dass ich es nicht genie\u00dfen darf wenn es dann tats\u00e4chlich gut ist. Man muss auf seiner ps5 bei weniger als 30fps rumstottern plus ganzes bug programm weil das internet es schaffen wird bis zum pc release jedes detail zu leaken. Ich hasse wirklich alles an gta 6 bisher. Ich werde diesen konsolen scam definitiv nicht bezahlen."
+  },
+  {
+   "cat": "trending: Autos (DE)",
+   "video": "Biker Turns Mistake Into A Lesson \ud83d\ude2e @bikeridingadam",
+   "url": "https://youtu.be/WLmLLtYZSus",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "Huge respect to the rider, wish there was more out there"
+  },
+  {
+   "cat": "trending: Sports (AE)",
+   "video": "LAMINE YAMAL Wholsome Moments\ud83e\udd0d\ud83e\udd2f",
+   "url": "https://youtu.be/VV3JIxZu_D4",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "I wish I had an imagination like yours too."
+  },
+  {
+   "cat": "trending: Sports (CA)",
+   "video": "The Greatest HALL OF FAME Moment \u2764\ufe0f\u200d\ud83e\ude79",
+   "url": "https://youtu.be/0puqePQgCfo",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "Man I wish I had a brother"
+  },
+  {
+   "cat": "trending: News (US)",
+   "video": "Mother charged after allegedly leaving 4 young children home alone to go on Carnival cruise",
+   "url": "https://youtu.be/EJAmYYGXD1k",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "If I had the energy, time & money, I wish I could ask people like her & up through murderers, \"did you ever think about how your life would change after you did your crime?\" And then I'd listen to their answer."
+  },
+  {
+   "cat": "trending: Music (IN)",
+   "video": "Jadal Zamana (Interval Theme) | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela",
+   "url": "https://youtu.be/bYN2t0AjVuE",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "Can someone please make a Remix of this with Arasan theme"
+  },
+  {
+   "cat": "trending: People & Blogs (CA)",
+   "video": "the raw indian wedding bts \ud83d\udc40\ud83c\uddee\ud83c\uddf3 | canada to india | Shaadi vlog",
+   "url": "https://youtu.be/ST2SVTrJK4Y",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "Omg loved seeing you try all the lehengas , you looked gorgeous. Wish there was more bts of you trying more attires"
+  },
+  {
+   "cat": "trending: Autos (NG)",
+   "video": "China\u2019s Folk Elon Musk He Built 300+ Insane DIY Vehicles!",
+   "url": "https://youtu.be/tbaz_eyKvk0",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "This guy was the first Bitcoin investor, I wish I could afford to live my dreams too\ud83d\ude22\ud83d\ude02"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "For an experiment, I typed in a page from a Sanderson novel, and the Substack AI detector said it was only 55% Human. There is no way that can be true. Sanderson does love his em dashes, so that's probably why. AI detectors are a scam, and all writers hurt by them need to sue!"
+  },
+  {
+   "cat": "fashion & clothing",
+   "video": "Turn your wardrobe into outfits with Essembl app #styletips #outfitideas #ootd",
+   "url": "https://youtu.be/ylIIRBY3g9M",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "It is a huge big big big scam. He tells you that you don\u2019t have to pay and then when you download the app you have to pay like $10."
+  },
+  {
+   "cat": "trending: Gaming (GB)",
+   "video": "This TOTW will be HUGE for S-Tier Gallery Sets!",
+   "url": "https://youtu.be/sKhtuQs4oyk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "The gallery system is very weak; it\u2019s a lot of work for a mediocre reward \u2013 it\u2019s not worth the effort"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "BIGGEST ISSUE FLIPS/FOLD PHONES!!! #smartphone #problemfix #brokenfix #screenbreak #techtok",
+   "url": "https://youtu.be/8mzPWSJH13E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Why r ppl saying she was scammed? She bought a fragile phone bc its small, cute amd fots in her purse. The same reason a lot of girls buy that phone and admitted she drops ot tons and wait for it shocker! It broke!. Theres no scam"
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Who pays more for an old iPhone? #shorts",
+   "url": "https://youtu.be/oxegMXLWfzA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Bro i got my 14 pro this year for 550$ at 76% battery health wym"
+  },
+  {
+   "cat": "trending: News (US)",
+   "video": "Weekend Update: Trump Picks Up China\u2019s President from Airport, Netanyahu Addresses UN - SNL",
+   "url": "https://youtu.be/H11Zh4c6klM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "That was a waste of time. Most of the jokes fell flat."
+  },
+  {
+   "cat": "trending: Entertainment (IN)",
+   "video": "Sivakasi porom\ud83d\ude05Kandippa Twist irukku\ud83e\udd23Just For Fun\ud83d\ude05\ud83e\udd23 #Add #trending #comedy #twist #tamilcomedy",
+   "url": "https://youtu.be/AjCbi75J5yQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Thalaivan adutha scam'ku ready agitanga"
+  },
+  {
+   "cat": "trending: Entertainment (CA)",
+   "video": "Yo the Earth diet kicks ass! #lol #joke",
+   "url": "https://youtu.be/-ZhxKBOgJjI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Im on that \"I got 67$ for this week's groceries\" diet ."
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "'Get the hell out of our country': Trump trade adviser takes aim at Canadian lobbyists",
+   "url": "https://youtu.be/ULcdjpku3kg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "An aircraft carrier whose washrooms doesn't work."
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "Trump\u2019s War With Canada Has Officially Lost the Plot (w/ Sam Stein) | Receipts",
+   "url": "https://youtu.be/ebcw7AT_H1Y",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "I will tell you what this is about.  As long as Canada and the EU have universal healthcare, workers rights, solid education systems liberals in this country will say, see we can be like them.  Republicans and oligarchs try to discredit these ideas but when we can see with our own eyes what is possible the lie is a thin veneer.  So Republicans and the oligarchs are out to destroy the EU and Canada"
+  },
+  {
+   "cat": "trending: Science & Tech (AU)",
+   "video": "New tech can slash data centre water use",
+   "url": "https://youtu.be/cm3NKmqznx8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Looks like a recycled quantum computing scam."
+  },
+  {
+   "cat": "trending: Comedy (NG)",
+   "video": "SAAMU ALAJO (OOSA TARASASA) 2 Latest 2026 Yoruba Comedy Series EP 269 | Odunlade Adekola, Erekere",
+   "url": "https://youtu.be/A8aK9Zra6Ng",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "As I see notification like this no waste of time , bro sam tnkx\u2764"
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "SHOCKING FAKE ARRIVAL: Tinubu Supporter's Deceived Nigerians With Old Videos | Otedola Locks Comment",
+   "url": "https://youtu.be/sd3prAXOrGU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "APC thinks all Nigerians are fools like their APC supporters. Educated Nigerians wouldn't fall for a scam like this."
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Tinubu Hiding From The Us? Bwala Faces Tough Questions",
+   "url": "https://youtu.be/RjCDrePlI10",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "What are you expecting Daniel Bwala to say? You know Tinubu is scared of going there . Bwala has never made any sense ever , bringing him to your studio is a waste of time and space"
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Blessing CEO LIED Used Son's Death To Seek Donation | Gave Amira Consent | LEAKED PHONE CALL",
+   "url": "https://youtu.be/vwYgie0K1aM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "how can you scam a full country and you don't have the money, to bring out yourself from the problem you put yourself.  madam  standing for blessing. Blessing CEO will stay  you Run for your Life\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "1.600\u20ac f\u00fcr DAS? Mein iPhone 18 Pro review.",
+   "url": "https://youtu.be/xfML8A5-jZ0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "scam des Jahres  von Apple"
+  },
+  {
+   "cat": "trending: Entertainment (AU)",
+   "video": "Will Ferrell Really Took a Photo of an Angry Samuel L. Jackson \ud83d\ude02 | The Other Guys (2010)",
+   "url": "https://youtu.be/ebILraGCr_U",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
    "likes": 0,
-   "text": "someone should make a 1-time payment alternative, like surely with local AI models it's not that difficult to analyze some data offline"
+   "text": "Samuel is funny asf tho. I'd pay just to hear him talking shit about everything I'd die laughing like a school girl"
+  },
+  {
+   "cat": "trending: Autos (GB)",
+   "video": "I Bought a Suspiciously Cheap Titanium Exhaust for My V8 BMW M3",
+   "url": "https://youtu.be/gUPv7om4T58",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "okayyyy fine i will subscribe. great content lads. you make me want to buy a project BMW allmost every other week but my wife says no im already broke"
+  },
+  {
+   "cat": "trending: Sports (AU)",
+   "video": "Scottie And MJ Were A Great Duo \ud83e\udd7a",
+   "url": "https://youtu.be/04Qs_1ydH7Y",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would buy some air pippens just give scott his flowers and try em, they dont look bad at all man."
+  },
+  {
+   "cat": "trending: Sports (AU)",
+   "video": "Scottie And MJ Were A Great Duo \ud83e\udd7a",
+   "url": "https://youtu.be/04Qs_1ydH7Y",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Damn I would buy that air pippens though. Looks fire! Like smoldering fire"
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "Did Andy Burnham just deliver one of the great political speeches? | The News Agents",
+   "url": "https://youtu.be/Qmh-NnpUuQc",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Aneurin Bevan: As the Minister of Health, he spearheaded the creation and implementation of the NHS, overcoming fierce opposition from the medical profession and the British Medical Association & opposite political Party. A National CARE SERVICE is an AWSOME project, and I would GLADLY pay extra tax to fund it. Like our NHS"
+  },
+  {
+   "cat": "trending: Howto & Style (GB)",
+   "video": "Link in BIO for wooden spoon\ud83e\udeb5\u2764\ufe0f#shorts",
+   "url": "https://youtu.be/zsiMpnHaCpw",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Bro this spoon looks so good if i went to a mall and saw these spoons i would buy it for my mom so that she can make tomato soup nicely.\ud83d\ude0a  Never give up on your dreams\ud83d\ude0a"
+  },
+  {
+   "cat": "trending: Howto & Style (US)",
+   "video": "i bought every AI scam product",
+   "url": "https://youtu.be/MJcrIRvb4Nk",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Tbh I would buy the shark costume as a float if I had money"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "She built one console out of a PS5, Xbox, and Nintendo Switch \ud83e\udd2f\ud83d\udd27",
+   "url": "https://youtu.be/7isE7Mgu5AU",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would buy this. Its so cool"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "She built one console out of a PS5, Xbox, and Nintendo Switch \ud83e\udd2f\ud83d\udd27",
+   "url": "https://youtu.be/7isE7Mgu5AU",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Take my money take it take money"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "She built one console out of a PS5, Xbox, and Nintendo Switch \ud83e\udd2f\ud83d\udd27",
+   "url": "https://youtu.be/7isE7Mgu5AU",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would pay 10000 for that"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "TAKE MY MONEY!!!! ALL OF IT!!!!! I NEED THIS \ud83d\ude02"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "1. Working prototype \u2705 2. Scale up production 3. Shut up & take my money"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "We Built the Product Apple Gave Up On...",
+   "url": "https://youtu.be/yAabREkiUEs",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Dude, Just take my money at this point!!!  You invented the ultimate desk for everyone. Get your self some investors or do this on your own and bring it to the market! This looks sick AF."
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Who pays more for an old iPhone? #shorts",
+   "url": "https://youtu.be/oxegMXLWfzA",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Even I would pay more for it"
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Who pays more for an old iPhone? #shorts",
+   "url": "https://youtu.be/oxegMXLWfzA",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "For an iPhone 15 Pro, I would pay $250 max, so you got a good enough deal"
+  },
+  {
+   "cat": "trending: Science & Tech (AU)",
+   "video": "Building a NEW kind of invisible PC",
+   "url": "https://youtu.be/4VnCJdYImb8",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "This is quite nice. I would buy this. Your art isn't bad at all."
+  },
+  {
+   "cat": "trending: Comedy (AU)",
+   "video": "He said he could push a 2-ton truck. \ud83d\ude33#shorts",
+   "url": "https://youtu.be/1F7Gc_McmOw",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I'd buy a car from him..."
+  },
+  {
+   "cat": "trending: Pets (CA)",
+   "video": "Anti-Gravity Water Fountain For Cats #goodtoknow #vet #medicine #educational #funfacts #lifehacks",
+   "url": "https://youtu.be/dKXyh-A32Kk",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would buy this for myself low-key as a desk decoration \ud83d\ude02"
+  },
+  {
+   "cat": "trending: Pets (CA)",
+   "video": "Anti-Gravity Water Fountain For Cats #goodtoknow #vet #medicine #educational #funfacts #lifehacks",
+   "url": "https://youtu.be/dKXyh-A32Kk",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "So cool It's like defying gravity Whoever thought of using strobing lights for this is awesome  Great use of led flicker and water droplets Tbh I would buy this even if I don't have a cat Pretty cool looking Prob could also be used as a air moisturizer  I'm too dry"
+  },
+  {
+   "cat": "trending: Sports (CA)",
+   "video": "worth the burn.. \ud83d\ude2c",
+   "url": "https://youtu.be/h5QcuhXGYX0",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "A collection of based, active, down to earth women.  Where do I sign up?"
+  },
+  {
+   "cat": "trending: Sports (US)",
+   "video": "DEVON LARRATT VS INDIA\u2019S #1 \ud83e\udee3",
+   "url": "https://youtu.be/Pn1REnFpBb4",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Devon needs a movie of his entire life. I'd pay for the ticket \ud83d\ude2e\ud83d\ude2e"
+  },
+  {
+   "cat": "trending: People & Blogs (US)",
+   "video": "Went To Buy A Bunch Of Trees, It Didn\u2019t Go As Planned\u2026.",
+   "url": "https://youtu.be/HM2Fgh9y7Ew",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "You should have teamed up with Janey and Micheal...wholesale nursery shoppping...Like Janey did through Micheal.. Fast Growing trees, Linda Vator uses that company, I am oordering fruit trees this fall. They are  having a great sale...They come highly recommended. My local tiny family farm nursery sells Proven Winner for 6.99 each for annuals. OMG the chemtrails above you are so bad....The freakin"
+  },
+  {
+   "cat": "trending: People & Blogs (US)",
+   "video": "10 Costco Foods I Wish I Found Sooner (Healthy & Affordable)",
+   "url": "https://youtu.be/8nu5kHDGLNQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would buy the wild Blueberries Still was getting them in Bellingham Washington. Now they been gone for few months hope they return soon !"
+  },
+  {
+   "cat": "trending: Comedy (US)",
+   "video": "Come on Kevin",
+   "url": "https://youtu.be/VSqyecmnz4Q",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "yes, mug, i will buy your products now"
+  },
+  {
+   "cat": "trending: Comedy (US)",
+   "video": "Come on Kevin",
+   "url": "https://youtu.be/VSqyecmnz4Q",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "never thought i'd subscribe to an official advertising channel, couldn't pay me to do this shit or other drinks."
+  },
+  {
+   "cat": "trending: Science & Tech (CA)",
+   "video": "Pass Through Sockets?? #tools #contractor #mechanic",
+   "url": "https://youtu.be/WXMPUg3948k",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "The best dang set of tools i have ever seen in my life,  take my money now. It's too awesome."
+  },
+  {
+   "cat": "trending: Autos (DE)",
+   "video": "DUCATI 900CC DEATH MACHINE #stuck #binsite #dougo #auto #minibike",
+   "url": "https://youtu.be/E_V3TuzhSN4",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Thats a f king weapon,   Take my money now!!!!!"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "Carney Laughs Off Trump\u2019s Canada Apology Claim",
+   "url": "https://youtu.be/5V8QGXlbwAI",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I would pay to be able to listen to the Chinese, Russian or Iranian officials when they meet in private and talk about The Orange Clown in Chief."
+  },
+  {
+   "cat": "trending: Comedy (NG)",
+   "video": "Moment UK police came to Peller\u2019s apartment and this happened \ud83d\ude02\ud83e\udd2f\ud83d\udd25 #nigeria #peller",
+   "url": "https://youtu.be/cKIo1M4JFes",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Peller I will work on your accent  don't worry I will pay the bills \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+  },
+  {
+   "cat": "trending: News (NG)",
+   "video": "Any decision to expel Man City from Premier League would need approval vote by all other PL clubs",
+   "url": "https://youtu.be/KPpIeLfEl28",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "The remaining clubs in the Premier League: \"Where do I sign!\" \ud83d\ude02\ud83d\ude02"
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "Xiaomi 18 Pro Max Transparent Edition is here, bringing back the transparent back cover in red!",
+   "url": "https://youtu.be/ZI_JpzKc13I",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "This is proper flagship product. \ud83d\ude0c  TAKE MY MONEY !!!"
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "Xiaomi 18 Pro Max Transparent Edition is here, bringing back the transparent back cover in red!",
+   "url": "https://youtu.be/ZI_JpzKc13I",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Man that red is dope af, Apple should bring back the project red color and add the rear screen to their phone as well. I would buy an exact copy of this phone if Apple made one just like it. I would buy this phone but my carrier doesnt support these phones at all."
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "Samsung built different \ud83d\udc80#samsung #samsunggalaxy #iphone #durability #phones",
+   "url": "https://youtu.be/G1sHg1t4wCU",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Inshallah i will buy Samsung in future"
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "OpenAI DevDay 2026 Keynote (FULL)",
+   "url": "https://youtu.be/Fls_onRviPM",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "$200 a month just to get punked by Sam Altman, no thanks. I\u2019ll take my money to Anthropic, at least there they won\u2019t piss on me and tell me it\u2019s raining."
+  },
+  {
+   "cat": "trending: Science & Tech (NG)",
+   "video": "iPhone 18 Pro Max vs Samsung S26 Ultra Zoom At The Moon \ud83e\udd2f #iphone18pro #s26ultra #moon #iphone #fyp",
+   "url": "https://youtu.be/1MznVY24jm8",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Unfair comparison  Samsung \u2764 i will buy it again n again"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Why Smart Authors Aren't Worried About AI",
+   "url": "https://youtu.be/_eCckkUWYDk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "For writing, I prefer Claude Projects in the primary system. While the formal automations in all their forms are great for scientific tasks like programming or creating documentation, the ecosystem is fundamentally different. Also, the process of writing is different. With the primary system project, you form a history and working relationship with the models that has more or less become seamless "
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "\ud83e\udd2f \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0b99\u0bcd\u0b95 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0bbe \ud83d\ude31 iPhone Type-C Problem! #shorts",
+   "url": "https://youtu.be/1bBS5MQcQx4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "\ud83c\udf4ewaste of money,worthless except performance and camera,no features, simply waste.  Android is best and full freedom and features with budget friendly"
+  },
+  {
+   "cat": "trending: Comedy (AU)",
+   "video": "Sub For More #quotes",
+   "url": "https://youtu.be/AeOXfOHw6zc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "It worked for the magazine model because her face is gorgeous in the first place. Most hairstyle would suit her. . . It didn't work for the other woman because she is . . umm . . I don't want to be rude. \ud83d\ude44\ud83d\ude44"
+  },
+  {
+   "cat": "trending: Comedy (AU)",
+   "video": "Sub For More #quotes",
+   "url": "https://youtu.be/AeOXfOHw6zc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Ah the classic, I made the wrong choice of haircut and now I want compensation scam"
+  },
+  {
+   "cat": "trending: Sports (GB)",
+   "video": "Gary Neville on his greatest achievement",
+   "url": "https://youtu.be/OQXb6rmYgsw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Nah he just showed him that a RB is a waste of money so just left him there."
+  },
+  {
+   "cat": "trending: News (GB)",
+   "video": "Inside the Man City scandal, with Ornstein and Horncastle",
+   "url": "https://youtu.be/JEyCAVlGUUQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Impressive how much Ornstein talks without actually saying anything. He's great at reporting headlines, but he talks like a politician. His entire position on every single podcast/show he's involved with is \"I don't intend to go into what may or may not happened\". Either do your research on the topic or have an opinion, sitting on the fence is a waste of time for all of us."
+  },
+  {
+   "cat": "trending: Howto & Style (US)",
+   "video": "i bought every AI scam product",
+   "url": "https://youtu.be/MJcrIRvb4Nk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I think the chpper didnt work because it just cuts round shaped things  Who all agrees \ud83d\udc47\ud83c\udffd"
+  },
+  {
+   "cat": "trending: Science & Tech (DE)",
+   "video": "BIGGEST ISSUE FLIPS/FOLD PHONES!!! #smartphone #problemfix #brokenfix #screenbreak #techtok",
+   "url": "https://youtu.be/8mzPWSJH13E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I used to have a Samsung z-flip. I genuinely loved that phone, but, the hinge issue is s o annoying. it's the same issue you'd run into with flip phones in the early 2000's. the hinge gets loose and starts to break. I was going to get it fixed but I was like \"oh this is just not worth it.\" sucks"
+  },
+  {
+   "cat": "trending: Science & Tech (AE)",
+   "video": "Who pays more for an old iPhone? #shorts",
+   "url": "https://youtu.be/oxegMXLWfzA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "The 15 pro is  worth at least 600 the pawn shop is a scam"
+  },
+  {
+   "cat": "trending: Film (AU)",
+   "video": "What it really means to be Color Blind @2bd2bth",
+   "url": "https://youtu.be/2WcV40hHbUw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Btw guys the colorblind glasses were never real, it was a scam and the videos of people trying it on were fake"
+  },
+  {
+   "cat": "trending: Sports (CA)",
+   "video": "WHAT IF THE NFL USED THIS BALL? \ud83c\udfc8",
+   "url": "https://youtu.be/K5jMsF64hDY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "The like button doesn't work"
+  },
+  {
+   "cat": "trending: Gaming (CA)",
+   "video": "Reality Fracture w/ Matt Mercer | Game Knights 88 | Magic: The Gathering Commander Gameplay MTG EDH",
+   "url": "https://youtu.be/6ibfhMHFQoE",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "1:18:21 could matt have chosen to sac the original legendary creature pile returned and gotten some of them back with the subsequent karmic guide triggers? I know generally that doesn't work but i seem to remember something about legendary rule sacrifice speed is unique in that it may let you have the card resolve to the graveyard *before* targets for triggered abilities are named"
+  },
+  {
+   "cat": "trending: People & Blogs (US)",
+   "video": "10 Costco Foods I Wish I Found Sooner (Healthy & Affordable)",
+   "url": "https://youtu.be/8nu5kHDGLNQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "What do you guys think about Ultra-High-Temperature (UHT) pasteurized milk versus regular pasteurized milk? Just like how he compared organic Vs Wild Bluberry in the video. When you heat milk to 280\u00b0F\u2013300\u00b0F, you cross a threshold where you aren't just killing bacteria you are fundamentally altering the liquid's identity. Fresh milk is a living, changing biological fluid full of active enzymes. UHT"
+  },
+  {
+   "cat": "trending: Howto & Style (AU)",
+   "video": "when someone says on your left, I move to the left \ud83d\ude2d",
+   "url": "https://youtu.be/Pgpz1O_eHNA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "If this method doesnt work, you can always try *screaming at the top of your lungs to kindly warn them of your incoming presence*"
+  },
+  {
+   "cat": "trending: Science & Tech (US)",
+   "video": "6 Most Dangerous Computer Viruses Explained",
+   "url": "https://youtu.be/h_gl8zjUnwQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "The fact that phishing is so damn effective, is honestly baffling... How do people still fall for scam calls and just give access to some random in their job's computers?? Like ,bro. The fuk are you doing."
+  },
+  {
+   "cat": "trending: Entertainment (IN)",
+   "video": "Sivakasi porom\ud83d\ude05Kandippa Twist irukku\ud83e\udd23Just For Fun\ud83d\ude05\ud83e\udd23 #Add #trending #comedy #twist #tamilcomedy",
+   "url": "https://youtu.be/AjCbi75J5yQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Last year scam paningalae apdiya??"
+  },
+  {
+   "cat": "trending: Sports (IN)",
+   "video": "AAJTAK SHOW: SHUBMAN \u0915\u0947 223 \u092a\u0930 GAVASKAR \u092b\u093f\u0926\u093e, ROHIT \u0915\u0947 WORLD CUP \u0915\u0940 \u0939\u0930\u0940 \u091d\u0902\u0921\u0940 | IND VS WI |",
+   "url": "https://youtu.be/T99U2U-bCsM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I lost total faith in as a cricket fan watching such type of cricket.its a total waste of time .  India has crossed all limit to commercialise cricket ..it\u2019s a no contest game between ball and bat. Curator must  e aware of making such type of pitch. BCCI  broadcaster teams also involved . I m from at late 90 generation. So I have seen cricket evolve but this is not evolution this the Downfall of c"
+  },
+  {
+   "cat": "trending: Gaming (CA)",
+   "video": "NEW Ice Combat is here, and it's CRAZY.",
+   "url": "https://youtu.be/r9u1_4m7uaw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I have an extra cape code if anyone tried getting it and it didnt work, if you're interested you can just reply to this comment :)"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "SHOCKING: Alberta Separation Plan Set To COLLAPSE",
+   "url": "https://youtu.be/PtMDkULZbb0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I find the Alberta referendum question hilarious! \ud83d\ude06\ud83d\ude06\ud83d\ude06\ud83d\ude06\ud83d\ude06   The government of Alberta is spending Albertan tax dollars -- 150 to 200 million dollars -- not on education, not on hospitals, not on roads, not on public services but on Smith's opinion poll so that the far, lunatic right will continue supporting Smith and keep Smith in power.  But 150 to 200 million of Albertan taxpayer money is -- accor"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "Trump MISCALCULATES as Canada\u2019s PM Carney Plans for US Invasion!!",
+   "url": "https://youtu.be/yJxidQ0oNKk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Don Chump Jr is trying to grift Canadian defence contract. See \"Draganfly scam.\""
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "One of Trump's \u2018big lies\u2019 is about to come crashing down | Charlie Sykes",
+   "url": "https://youtu.be/CQIM4ado6jk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Trump does not work for the United States government Trump works for Trump"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Another scam bu a corrupt government"
+  },
+  {
+   "cat": "trending: News (CA)",
+   "video": "What Carney Just Said Is Appalling",
+   "url": "https://youtu.be/aOePSAl5JCI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "7:21  He is only doing this to appease his climate concerned base.  The only \"ocean\" he really cares about is the deluge of\ud83d\udcb2\ud83d\udcb2\ud83d\udcb2\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 his next scam will yield.  I can smell the putrid vile stench of his evil corruption on everything he touches. \ud83d\udc79"
+  },
+  {
+   "cat": "trending: Howto & Style (CA)",
+   "video": "Action figure packaging for my 3D Prints?  #3dprinting",
+   "url": "https://youtu.be/GPSQhYeMNk4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "On a serious note, I think a lot of people tend to look over 3d printed purchases from vendors, for various reasons but mostly \"I don't know if you made that, or found a model and just mass printed it\" similar to why you wouldn't want to buy from an ai artist, \"you technically made it but you didn't work to do so\". THIS clearly shows your items originality and the effort. It steps away from the bo"
+  },
+  {
+   "cat": "trending: Gaming (AU)",
+   "video": "Pulling My Friends Off For Fun",
+   "url": "https://youtu.be/ZqYLyAA3aRQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Yo smii7y. You, john, grizzy, and puffer should play scam with your friends, you should also play with the goons"
+  },
+  {
+   "cat": "trending: Gaming (AU)",
+   "video": "Wolverine - The Game That Thinks You're Stupid",
+   "url": "https://youtu.be/YE6SVeVJmDU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Man, the other thing that's annoying about the Kai Cenat thing is it seems like the game doing it's hand holding makes him miss the jump.  At the start of the clip, he's looking to where he has to jump. Then the little triangle pops up telling him where to go shows up, he figures he can jump on the sentinel body or whatever that is, and of course it doesn't work.  I really think the game pointing "
+  },
+  {
+   "cat": "trending: News (AU)",
+   "video": "Mark Bouris reacts to RBA cash rate hike LIVE on Today Show",
+   "url": "https://youtu.be/6dKCe9AguAU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "highest interest rates in the world and in one of the most expensive housing markets in the world.  land is expensive in one of the most largest country on Earth but our population is tiny.  you take a drive out in the countryside and you realise what a scam this all is."
+  },
+  {
+   "cat": "trending: Howto & Style (AU)",
+   "video": "I Visited Australia\u2019s Most Infamous Hippie Town",
+   "url": "https://youtu.be/XwJ5Gp0nWsM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "What you shared about your misses made me teary. \ud83d\udc94\ud83d\ude22 Obviously these people have issues. Sadly there will always be those jealous, negative, cruel people, but don't let anyone destroy your self worth. It's not worth it. Go on trips, live life and make memories together. Life is too short and precious. Sending her love. \ud83d\udc90\ud83d\udc97"
   }
  ]
 }
