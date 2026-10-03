@@ -1,71 +1,87 @@
-# Stack Exchange unmet-needs report — 2026-10-01
-Sites today: outdoors, law, photo, music, fitness, lifehacks | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-10-03
+Sites today: softwarerecs, money, diy, pets, gardening, cooking | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## outdoors (2 unanswered popular questions; API quota left: 299)
+## softwarerecs (30 unanswered popular questions; API quota left: 291)
 Repeated phrases: none
 
-- 5 votes, 443 views — [Is Niagra Falls ever turned up to maximum?](https://outdoors.stackexchange.com/questions/30404/is-niagra-falls-ever-turned-up-to-maximum) — tags: waterfalls
-- 1 votes, 234 views — [keep finding bug/mite looking creature in my water bottle](https://outdoors.stackexchange.com/questions/30420/keep-finding-bug-mite-looking-creature-in-my-water-bottle) — tags: bug-identification
+- 2 votes, 233 views — [App that allows me to share keyboard/mouse with an Android device](https://softwarerecs.stackexchange.com/questions/93825/app-that-allows-me-to-share-keyboard-mouse-with-an-android-device) — tags: android, remote-desktop
+- 4 votes, 112 views — [Linux GUI link creation tool like Link Shell Extension on Windows](https://softwarerecs.stackexchange.com/questions/93807/linux-gui-link-creation-tool-like-link-shell-extension-on-windows) — tags: linux, file-management
+- 2 votes, 112 views — [Is there a free, self-contained application for Windows 10 to translate sentences from French to English offline with no administrative rights?](https://softwarerecs.stackexchange.com/questions/95342/is-there-a-free-self-contained-application-for-windows-10-to-translate-sentence) — tags: windows, gratis, offline, translation
+- 4 votes, 101 views — [Tool for visualizing interdependent structs, enums, pointers, etc. within a large C codebase](https://softwarerecs.stackexchange.com/questions/94913/tool-for-visualizing-interdependent-structs-enums-pointers-etc-within-a-larg) — tags: c, embedded-systems, static-analysis, static-code-analysis
+- 2 votes, 74 views — [Extension to highlight text in Firefox/Chrome on Android and search Wikipedia](https://softwarerecs.stackexchange.com/questions/94953/extension-to-highlight-text-in-firefox-chrome-on-android-and-search-wikipedia) — tags: android, chrome, firefox
+- 3 votes, 64 views — [Software to detect "fake" characters](https://softwarerecs.stackexchange.com/questions/94966/software-to-detect-fake-characters) — tags: windows, gratis, offline, spam
+- 2 votes, 64 views — [Music streaming app with "vibe" customization](https://softwarerecs.stackexchange.com/questions/95331/music-streaming-app-with-vibe-customization) — tags: android, music
+- 1 votes, 64 views — [Cast local media file to chromecast from Android, FOSS](https://softwarerecs.stackexchange.com/questions/95454/cast-local-media-file-to-chromecast-from-android-foss) — tags: gratis, android, open-source, vlc
+- 2 votes, 60 views — [Software to enhance German text for TTS](https://softwarerecs.stackexchange.com/questions/94991/software-to-enhance-german-text-for-tts) — tags: windows, gratis, offline, text-processing
+- 1 votes, 58 views — [Android app for digitizing books & photo albums](https://softwarerecs.stackexchange.com/questions/95524/android-app-for-digitizing-books-photo-albums) — tags: android, photography, scanning, books
 
-## law (30 unanswered popular questions; API quota left: 298)
+## money (15 unanswered popular questions; API quota left: 290)
 Repeated phrases: none
 
-- 2 votes, 369 views — [What head games can a big corporation’s lawyers play with a self-represented litigant, right before the hearing?](https://law.stackexchange.com/questions/115513/what-head-games-can-a-big-corporation-s-lawyers-play-with-a-self-represented-lit) — tags: litigant-in-person
-- 2 votes, 252 views — [(How) Can a lawyer be disbarred from practicing in U.S. federal courts?](https://law.stackexchange.com/questions/114201/how-can-a-lawyer-be-disbarred-from-practicing-in-u-s-federal-courts) — tags: united-states, lawyer, federal-courts
-- 5 votes, 247 views — [In the US, can people be prosecuted for using non-public information to profit from cryptocurrencies that are not securities?](https://law.stackexchange.com/questions/111145/in-the-us-can-people-be-prosecuted-for-using-non-public-information-to-profit-f) — tags: united-states, finance, cryptocurrency, securities
-- 4 votes, 236 views — [Is it a crime to destroy or conceal evidence of non-crimes that might be wrongly investigated?](https://law.stackexchange.com/questions/115543/is-it-a-crime-to-destroy-or-conceal-evidence-of-non-crimes-that-might-be-wrongly) — tags: united-states, is-x-legal, obstruction, destruction-of-evidence
-- 3 votes, 221 views — [Is Atlassians plan for training AI models on user data unlawful under GDPR?](https://law.stackexchange.com/questions/114652/is-atlassians-plan-for-training-ai-models-on-user-data-unlawful-under-gdpr) — tags: gdpr, european-union, is-x-legal, artificial-intelligence
-- 2 votes, 207 views — [Why does Flavacol Popcorn Salt have an iodine disclosure, but Lawry's Seasoned Salt does not?](https://law.stackexchange.com/questions/114568/why-does-flavacol-popcorn-salt-have-an-iodine-disclosure-but-lawrys-seasoned-s) — tags: regulations, food
-- 2 votes, 196 views — [What was the legal difference (if any) between the US government offering a bounty for Maduro and sending special forces to arrest Maduro?](https://law.stackexchange.com/questions/113961/what-was-the-legal-difference-if-any-between-the-us-government-offering-a-boun) — tags: international
-- 2 votes, 188 views — [Is muslim sect of Quarnaists that reject all hadiths also subject to apostasy in Sharia law?](https://law.stackexchange.com/questions/112510/is-muslim-sect-of-quarnaists-that-reject-all-hadiths-also-subject-to-apostasy-in) — tags: religious-law, freedom-of-religion, islamic-law
-- 2 votes, 183 views — [Can a spouse keep a mother from visiting the incapacitated son and husband?](https://law.stackexchange.com/questions/114364/can-a-spouse-keep-a-mother-from-visiting-the-incapacitated-son-and-husband) — tags: united-states, florida, utah, guardianship
-- 2 votes, 183 views — [Is a 'maximum humidity' clause in a tenancy contract legally enforceable?](https://law.stackexchange.com/questions/112332/is-a-maximum-humidity-clause-in-a-tenancy-contract-legally-enforceable) — tags: united-kingdom, tenancy-rules
+- 0 votes, 188 views — [Can I write off my YouTube startup costs as my company expenses?](https://money.stackexchange.com/questions/169197/can-i-write-off-my-youtube-startup-costs-as-my-company-expenses) — tags: united-states, tax-deduction, self-employment, expenses
+- 0 votes, 185 views — [Is there an accessible way to purchase surrogacy insurance?](https://money.stackexchange.com/questions/169199/is-there-an-accessible-way-to-purchase-surrogacy-insurance) — tags: united-states, insurance, life-insurance
+- 1 votes, 184 views — [Does SIPC protect securities that are rehypothecated because you have a margin balance?](https://money.stackexchange.com/questions/166826/does-sipc-protect-securities-that-are-rehypothecated-because-you-have-a-margin-b) — tags: united-states, brokerage, margin, sipc
+- 0 votes, 182 views — [How do I remove payees in gnucash?](https://money.stackexchange.com/questions/169278/how-do-i-remove-payees-in-gnucash) — tags: gnucash
+- 1 votes, 157 views — [Are UK pension overpayments recoverable where the pension scheme itself calculated and confirmed the amount?](https://money.stackexchange.com/questions/169604/are-uk-pension-overpayments-recoverable-where-the-pension-scheme-itself-calculat) — tags: united-kingdom, pension, mistakes
+- 2 votes, 155 views — [How can a more recent stock order be selected first when I have another older stock order open?](https://money.stackexchange.com/questions/166782/how-can-a-more-recent-stock-order-be-selected-first-when-i-have-another-older-st) — tags: trading, stock-markets
+- 0 votes, 153 views — [How can a European invest in Swiss stocks using Swiss Francs?](https://money.stackexchange.com/questions/169563/how-can-a-european-invest-in-swiss-stocks-using-swiss-francs) — tags: stocks, currency, europe, switzerland
+- 4 votes, 124 views — [How to invest long-term when moving countries frequently?](https://money.stackexchange.com/questions/169996/how-to-invest-long-term-when-moving-countries-frequently) — tags: investing, united-kingdom, financial-literacy, international
+- 0 votes, 110 views — [What is the SIFMA to SOFR ratio?](https://money.stackexchange.com/questions/168040/what-is-the-sifma-to-sofr-ratio) — tags: interest-rate, municipal-bonds, swaps
+- -1 votes, 109 views — [Has anyone had a PayPal dispute reopened for manual review?](https://money.stackexchange.com/questions/170016/has-anyone-had-a-paypal-dispute-reopened-for-manual-review) — tags: paypal
 
-## photo (15 unanswered popular questions; API quota left: 297)
+## diy (30 unanswered popular questions; API quota left: 289)
 Repeated phrases: none
 
-- 0 votes, 159 views — [Changing the date of a photo taken on a digital camera](https://photo.stackexchange.com/questions/138340/changing-the-date-of-a-photo-taken-on-a-digital-camera) — tags: metadata
-- 0 votes, 129 views — [How do I fix my Canon Powershot sx210's non-working flash?](https://photo.stackexchange.com/questions/137159/how-do-i-fix-my-canon-powershot-sx210s-non-working-flash) — tags: canon, repair, powershot, popup-flash
-- 0 votes, 121 views — [How can I identify a ring on a hand from a number of old non digital photos. Any attempt to magnify the photo ends in blurr](https://photo.stackexchange.com/questions/138363/how-can-i-identify-a-ring-on-a-hand-from-a-number-of-old-non-digital-photos-any) — tags: photoshop
-- 0 votes, 102 views — [Errors during creating ICC color profile (scanin command from ArgyllCMS)](https://photo.stackexchange.com/questions/137061/errors-during-creating-icc-color-profile-scanin-command-from-argyllcms) — tags: color-management, color-correction
-- 0 votes, 93 views — [Photomed Canon SX730 Camera](https://photo.stackexchange.com/questions/138277/photomed-canon-sx730-camera) — tags: canon
-- 0 votes, 79 views — [Is there a simple way to keep Canon ProGraf-300 drivers up to date on MacOS](https://photo.stackexchange.com/questions/138360/is-there-a-simple-way-to-keep-canon-prograf-300-drivers-up-to-date-on-macos) — tags: canon, printer
-- 1 votes, 78 views — [Why is my Lumix DMC-GX1 shutter closing instead of opening? Is it a software issue?](https://photo.stackexchange.com/questions/138587/why-is-my-lumix-dmc-gx1-shutter-closing-instead-of-opening-is-it-a-software-iss) — tags: troubleshooting, software, shutter, error
-- 2 votes, 75 views — [Large offset between frame 1 and 2 on Mamiya RZ67 120 back](https://photo.stackexchange.com/questions/137098/large-offset-between-frame-1-and-2-on-mamiya-rz67-120-back) — tags: mamiya
-- 0 votes, 66 views — [Track-side photo locations at Mantorp Park, Sweden (2026)](https://photo.stackexchange.com/questions/138636/track-side-photo-locations-at-mantorp-park-sweden-2026) — tags: locations, motorsports
-- 0 votes, 64 views — [Accidentally advanced film while "L" was active, now film doesn't advance at all. Canon AE-1](https://photo.stackexchange.com/questions/138525/accidentally-advanced-film-while-l-was-active-now-film-doesnt-advance-at-all) — tags: canon, camera
+- 2 votes, 337 views — [Is it a problem that rebar was cut in an exterior brick wall?](https://diy.stackexchange.com/questions/329461/is-it-a-problem-that-rebar-was-cut-in-an-exterior-brick-wall) — tags: brick, masonry, rebar
+- 2 votes, 314 views — [How to remove floor drain cover](https://diy.stackexchange.com/questions/324816/how-to-remove-floor-drain-cover) — tags: plumbing, drain, floor
+- 3 votes, 266 views — [How long should I run fans on drywall after flooding?](https://diy.stackexchange.com/questions/326269/how-long-should-i-run-fans-on-drywall-after-flooding) — tags: water-damage
+- 6 votes, 261 views — [How can I identify the manufacturer and model/date of this electrical panel?](https://diy.stackexchange.com/questions/328779/how-can-i-identify-the-manufacturer-and-model-date-of-this-electrical-panel) — tags: electrical, electrical-panel
+- 4 votes, 258 views — [Why do I have 2 gas lines for my hot water tank?](https://diy.stackexchange.com/questions/328754/why-do-i-have-2-gas-lines-for-my-hot-water-tank) — tags: plumbing, water-heater, furnace, natural-gas
+- 2 votes, 194 views — [Penetration through complicated wall](https://diy.stackexchange.com/questions/329476/penetration-through-complicated-wall) — tags: walls, garage, ethernet
+- 2 votes, 179 views — [New boiler to support DHW (indirect tank) and 16 zones of in concrete radiant heat](https://diy.stackexchange.com/questions/330773/new-boiler-to-support-dhw-indirect-tank-and-16-zones-of-in-concrete-radiant-he) — tags: boiler, radiant-heating
+- 2 votes, 174 views — [Is my drain and vent layout for a two level cabin reasonable?](https://diy.stackexchange.com/questions/325996/is-my-drain-and-vent-layout-for-a-two-level-cabin-reasonable) — tags: plumbing, drain, vent
+- 3 votes, 166 views — [Is it normal for the fan to turn off before the compressor with a heat pump?](https://diy.stackexchange.com/questions/326413/is-it-normal-for-the-fan-to-turn-off-before-the-compressor-with-a-heat-pump) — tags: hvac, heat-pump
+- 2 votes, 155 views — [How to wire this compressor motor to 240V](https://diy.stackexchange.com/questions/326999/how-to-wire-this-compressor-motor-to-240v) — tags: electrical, electric-motor, air-compressor
 
-## music (23 unanswered popular questions; API quota left: 296)
+## pets (9 unanswered popular questions; API quota left: 288)
 Repeated phrases: none
 
-- 2 votes, 184 views — [Easy Piano Bach with “Tiling” / Mosaic Patterns](https://music.stackexchange.com/questions/142666/easy-piano-bach-with-tiling-mosaic-patterns) — tags: piano
-- 0 votes, 170 views — [Impedance converter](https://music.stackexchange.com/questions/143333/impedance-converter) — tags: electric-guitar, recording, equipment
-- 1 votes, 159 views — [Can Musipedia identify a tune on a midi file?](https://music.stackexchange.com/questions/143506/can-musipedia-identify-a-tune-on-a-midi-file) — tags: melody
-- 2 votes, 113 views — [Multiple systems on the same line - Lilypond](https://music.stackexchange.com/questions/142821/multiple-systems-on-the-same-line-lilypond) — tags: lilypond, engraving
-- 5 votes, 110 views — [Out of tune three-string F♯ piano key had one string tuned to D♯ and one to F. How can that happen?](https://music.stackexchange.com/questions/143372/out-of-tune-three-string-f%e2%99%af-piano-key-had-one-string-tuned-to-d%e2%99%af-and-one-to-f-h) — tags: piano, tuning, strings
-- 4 votes, 106 views — [How to escape spaces and other characters when making lytex files](https://music.stackexchange.com/questions/142651/how-to-escape-spaces-and-other-characters-when-making-lytex-files) — tags: lilypond
-- 0 votes, 95 views — [Gold king flute](https://music.stackexchange.com/questions/143351/gold-king-flute) — tags: flute
-- 0 votes, 92 views — [How to get the deep robotic voice sound effect?](https://music.stackexchange.com/questions/144219/how-to-get-the-deep-robotic-voice-sound-effect) — tags: voice, daw, production, effects
-- 3 votes, 88 views — [What arrangement and composition techniques for the accompaniment help the singer sing better?](https://music.stackexchange.com/questions/143829/what-arrangement-and-composition-techniques-for-the-accompaniment-help-the-singe) — tags: composition, arranging, accompaniment
-- 2 votes, 84 views — [Interpreting Weber’s Dynamic Markings in the Freischütz Overture (mm. 86ff.)](https://music.stackexchange.com/questions/144144/interpreting-weber-s-dynamic-markings-in-the-freisch%c3%bctz-overture-mm-86ff) — tags: notation, orchestra, dynamics, orchestration
+- 0 votes, 72 views — [Is Mastic Gum Safer for Pets Than Sugar-Free Gum?](https://pets.stackexchange.com/questions/39560/is-mastic-gum-safer-for-pets-than-sugar-free-gum) — tags: dogs, diet, poison
+- 5 votes, 70 views — [What should I be looking out for when getting a small breed puppy?](https://pets.stackexchange.com/questions/39675/what-should-i-be-looking-out-for-when-getting-a-small-breed-puppy) — tags: dogs
+- 0 votes, 67 views — [there is a big red mass under my turtles tail](https://pets.stackexchange.com/questions/39601/there-is-a-big-red-mass-under-my-turtles-tail) — tags: turtles
+- 1 votes, 58 views — [How to prevent a dog from eating stones?](https://pets.stackexchange.com/questions/39642/how-to-prevent-a-dog-from-eating-stones) — tags: dogs
+- 2 votes, 47 views — [How can I protect my 5 month old British field Lab’s joints as he grows?](https://pets.stackexchange.com/questions/39569/how-can-i-protect-my-5-month-old-british-field-lab-s-joints-as-he-grows) — tags: health, puppy
+- 0 votes, 43 views — [Dog shoes for summer heat?](https://pets.stackexchange.com/questions/39668/dog-shoes-for-summer-heat) — tags: dogs
+- 2 votes, 39 views — [Introducing 2 pairs of cats gone wrong since october](https://pets.stackexchange.com/questions/39688/introducing-2-pairs-of-cats-gone-wrong-since-october) — tags: cats
+- 0 votes, 38 views — [What Size Crate for Two Large Cats in Hold](https://pets.stackexchange.com/questions/39700/what-size-crate-for-two-large-cats-in-hold) — tags: cats, health, safety, travel
+- 2 votes, 31 views — [When should we introduce a new sugar glider when one of the pair may be dying soon?](https://pets.stackexchange.com/questions/39630/when-should-we-introduce-a-new-sugar-glider-when-one-of-the-pair-may-be-dying-so) — tags: multi-pet-families, introducing-pets, death, exotic-pets
 
-## fitness (20 unanswered popular questions; API quota left: 295)
+## gardening (30 unanswered popular questions; API quota left: 287)
 Repeated phrases: none
 
-- 0 votes, 152 views — [Frontal v. scapular lateral raises](https://fitness.stackexchange.com/questions/48769/frontal-v-scapular-lateral-raises) — tags: shoulders, deltoids
-- 1 votes, 117 views — [Difficulty doing pull-up and push-up](https://fitness.stackexchange.com/questions/48759/difficulty-doing-pull-up-and-push-up) — tags: muscle
-- 2 votes, 99 views — [Myth or Truth? : Heavier dumbells make a woman muscular, lighter weights with more repetition make her leaner](https://fitness.stackexchange.com/questions/48874/myth-or-truth-heavier-dumbells-make-a-woman-muscular-lighter-weights-with-mo) — tags: gym
-- 1 votes, 97 views — [How far out can estimated basal metabolic rate and exercise expenditure be?](https://fitness.stackexchange.com/questions/48773/how-far-out-can-estimated-basal-metabolic-rate-and-exercise-expenditure-be) — tags: weight-loss, calories, bmr
-- 0 votes, 91 views — [Can you review my current plan?](https://fitness.stackexchange.com/questions/48778/can-you-review-my-current-plan) — tags: weight-loss, workout-routines, strength-training, routine
-- 0 votes, 73 views — [What is the ideal meal after workout for a diabectic person?](https://fitness.stackexchange.com/questions/48735/what-is-the-ideal-meal-after-workout-for-a-diabectic-person) — tags: diet, workout, metabolism, post-workout
-- 2 votes, 72 views — [Sitting down briefly at a provisions stop on a long (30kms+) trail run](https://fitness.stackexchange.com/questions/48738/sitting-down-briefly-at-a-provisions-stop-on-a-long-30kms-trail-run) — tags: long-distance-running
-- 0 votes, 66 views — [How to optimize daily running and dumbbell training for a weight loss plateau under constrained home dietary conditions?](https://fitness.stackexchange.com/questions/48911/how-to-optimize-daily-running-and-dumbbell-training-for-a-weight-loss-plateau-un) — tags: weight-loss
-- 0 votes, 55 views — [best prep for Grand Canyon backpacking](https://fitness.stackexchange.com/questions/48804/best-prep-for-grand-canyon-backpacking) — tags: exercise, cardio, lower-body-strength
-- 1 votes, 48 views — [How does caloric deficit relative to body fat relate to FFM loss relative to total weight loss?](https://fitness.stackexchange.com/questions/48763/how-does-caloric-deficit-relative-to-body-fat-relate-to-ffm-loss-relative-to-tot) — tags: weight-loss, cutting
+- 3 votes, 107 views — [Do dandelions help or inhibit the growth of white clover?](https://gardening.stackexchange.com/questions/70847/do-dandelions-help-or-inhibit-the-growth-of-white-clover) — tags: clover, dandelions
+- 2 votes, 103 views — [What's causing the dark blotches on my camellia?](https://gardening.stackexchange.com/questions/70712/whats-causing-the-dark-blotches-on-my-camellia) — tags: camellia
+- 2 votes, 85 views — [Citrus trees are flowering early](https://gardening.stackexchange.com/questions/70443/citrus-trees-are-flowering-early) — tags: trees
+- 3 votes, 82 views — [Silver maple sawdust](https://gardening.stackexchange.com/questions/70936/silver-maple-sawdust) — tags: diagnosis, tree-care, insects
+- 2 votes, 81 views — [Why is my lawn not germinating?](https://gardening.stackexchange.com/questions/70902/why-is-my-lawn-not-germinating) — tags: grass, germination
+- 5 votes, 78 views — [Help- avocado plant looks like it’s dying](https://gardening.stackexchange.com/questions/70946/help-avocado-plant-looks-like-it-s-dying) — tags: diagnosis, plant-health, plant-care, plant-recommendations
+- 2 votes, 77 views — [What is this small citrus plant?](https://gardening.stackexchange.com/questions/70761/what-is-this-small-citrus-plant) — tags: identification, citrus
+- 2 votes, 76 views — [Revive a dying rose](https://gardening.stackexchange.com/questions/70399/revive-a-dying-rose) — tags: plant-care, insects, roses
+- 4 votes, 71 views — [My live oak is dying and has several bare branches. Why?](https://gardening.stackexchange.com/questions/70701/my-live-oak-is-dying-and-has-several-bare-branches-why) — tags: identification
+- 3 votes, 65 views — [Why is my plant losing so many leaves?](https://gardening.stackexchange.com/questions/70787/why-is-my-plant-losing-so-many-leaves) — tags: houseplants, plant-health, plant-care
 
-## lifehacks (1 unanswered popular questions; API quota left: 294)
+## cooking (23 unanswered popular questions; API quota left: 286)
 Repeated phrases: none
 
-- 1 votes, 104 views — [Aluminum bulkhead cleaning](https://lifehacks.stackexchange.com/questions/28178/aluminum-bulkhead-cleaning) — tags: cleaning, metals
+- 3 votes, 726 views — [What happened to these carrots, have they gone bad?](https://cooking.stackexchange.com/questions/136530/what-happened-to-these-carrots-have-they-gone-bad) — tags: carrots
+- 6 votes, 518 views — [How safe is rice horchata?](https://cooking.stackexchange.com/questions/136766/how-safe-is-rice-horchata) — tags: food-safety, rice, drinks
+- 0 votes, 326 views — [White film on top of pickles](https://cooking.stackexchange.com/questions/135512/white-film-on-top-of-pickles) — tags: mold, pickles, lactofermentation
+- 1 votes, 277 views — [Strange precipitation in molten butter](https://cooking.stackexchange.com/questions/136798/strange-precipitation-in-molten-butter) — tags: food-safety, food-science, oil, butter
+- 1 votes, 227 views — [Thawed vacuum-sealed meat always seems to have tiny bubbles - safe or not?](https://cooking.stackexchange.com/questions/136579/thawed-vacuum-sealed-meat-always-seems-to-have-tiny-bubbles-safe-or-not) — tags: food-safety, meat, lamb, vacuum
+- 1 votes, 224 views — [What are the standard oven sizes (internal dimensions, gastronorm)](https://cooking.stackexchange.com/questions/136533/what-are-the-standard-oven-sizes-internal-dimensions-gastronorm) — tags: baking, oven, standards, gastronorm
+- 1 votes, 163 views — [What are these tiny white dots on my frozen shrimp?](https://cooking.stackexchange.com/questions/137173/what-are-these-tiny-white-dots-on-my-frozen-shrimp) — tags: shrimp
+- 3 votes, 161 views — [How to reduce moisture and improve the texture of fresh pork sausage filling?](https://cooking.stackexchange.com/questions/136795/how-to-reduce-moisture-and-improve-the-texture-of-fresh-pork-sausage-filling) — tags: sausages, food-processing, charcuterie
+- 4 votes, 158 views — [Scalding the flour for savoiardi (ladyfingers) to improve shape?](https://cooking.stackexchange.com/questions/133204/scalding-the-flour-for-savoiardi-ladyfingers-to-improve-shape) — tags: eggs, pastry, meringue, piping
+- 1 votes, 145 views — [Concerns for small piece of plastic toothpick broken and fell into the hole of the tray holder](https://cooking.stackexchange.com/questions/137005/concerns-for-small-piece-of-plastic-toothpick-broken-and-fell-into-the-hole-of-t) — tags: baking, food-safety, temperature, oven

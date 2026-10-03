@@ -1,119 +1,119 @@
-# App Store review report — 2026-10-01
-Keyword groups today: money & budgeting, small business & freelance, property & home, family & parenting | countries: gb, us
+# App Store review report — 2026-10-03
+Keyword groups today: travel & relocation, creators & sellers, cars & transport, events & community | countries: gb, us
 Fetch errors: none
 
-## money & budgeting
+## travel & relocation
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 394927 | 4.47553 | Free | 61 | 30 |
-| [Intuit Credit Karma](https://apps.apple.com/us/app/intuit-credit-karma/id519817714?uo=4) (us) | 7745987 | 4.84103 | Free | 53 | 8 |
-| [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4) (us) | 1465937 | 4.7485 | Free | 90 | 30 |
-| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 281357 | 4.65881 | Free | 74 | 24 |
-| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 157225 | 4.63088 | Free | 93 | 28 |
-| [Bright: Loans & Credit Builder](https://apps.apple.com/us/app/bright-loans-credit-builder/id1511043796?uo=4) (us) | 277718 | 4.76251 | Free | 24 | 8 |
-| [Plum: Smart Saving & Investing](https://apps.apple.com/gb/app/plum-smart-saving-investing/id1456139507?uo=4) (gb) | 70928 | 4.67715 | Free | 89 | 27 |
-| [EveryDollar: Budget Management](https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4) (us) | 84114 | 4.73484 | Free | 52 | 15 |
-| [NerdWallet: Smart Money App](https://apps.apple.com/us/app/nerdwallet-smart-money-app/id1174471607?uo=4) (us) | 125179 | 4.83096 | Free | 50 | 19 |
-| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 145515 | 4.85759 | Free | 0 | 0 |
-| [YNAB](https://apps.apple.com/us/app/ynab/id1010865877?uo=4) (us) | 61691 | 4.7865 | Free | 0 | 0 |
-| [Copilot: Track & Budget Money](https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4) (us) | 30417 | 4.75312 | Free | 46 | 19 |
-| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 111937 | 4.88994 | Free | 39 | 15 |
-| [Dext: Expense Tracker](https://apps.apple.com/gb/app/dext-expense-tracker/id418327708?uo=4) (gb) | 28172 | 4.77499 | Free | 39 | 12 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 5950793 | 4.78824 | Free | 59 | 8 |
+| [Calculator₊](https://apps.apple.com/gb/app/calculator/id398129933?uo=4) (gb) | 309257 | 4.60741 | Free | 38 | 11 |
+| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2176146 | 4.84544 | Free | 51 | 11 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/gb/app/expedia-hotels-flights-cars/id427916203?uo=4) (gb) | 275849 | 4.69549 | Free | 38 | 9 |
+| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 474494 | 4.75012 | Free | 43 | 14 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 480885 | 4.82212 | Free | 36 | 11 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283541 | 4.78805 | Free | 25 | 4 |
+| [Unit Converter - Best Unit App](https://apps.apple.com/us/app/unit-converter-best-unit-app/id623691968?uo=4) (us) | 196512 | 4.79997 | Free | 42 | 10 |
+| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 311268 | 4.84103 | Free | 29 | 11 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 326883 | 4.89292 | Free | 44 | 10 |
+| [AustralianETA](https://apps.apple.com/us/app/australianeta/id1527982364?uo=4) (us) | 86510 | 4.78183 | Free | 42 | 4 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/gb/app/getyourguide-plan-book/id705079381?uo=4) (gb) | 251436 | 4.88823 | Free | 13 | 0 |
+| [Xe Money Transfer & Currency](https://apps.apple.com/us/app/xe-money-transfer-currency/id315241195?uo=4) (us) | 125332 | 4.83446 | Free | 90 | 31 |
+| [My Currency Converter & Rates](https://apps.apple.com/us/app/my-currency-converter-rates/id549019596?uo=4) (us) | 131164 | 4.85039 | Free | 8 | 0 |
 
-Repeated complaint phrases: since the latest (4); unable to save (3); ability to save (3); worth of data (3); cannot save changes (3); most recent update (3); save any changes (3); hard to use (3)
+Repeated complaint phrases: used to love (4); worth the money (3); used to work (3); ve been using (3); currency conversion tool (3)
 
-- Microsoft Excel, 1 star: "Doesn’t save to iCloud - Buggy and doesn’t save files to iCloud when closing (sometimes it does, sometimes it doesn’t). Frustrating to lose work. It also crashes or hangs when closing files."
-- Microsoft Excel, 1 star: "App freezes, won’t save - Like many other users are reporting, my Excel is getting frozen while trying to autosave and then data is lost when you force close it. Please fix asap!"
-- Microsoft Excel, 2 star: "Latest update is a disaster - Being able to save your work is a basic requirement. Ever since the latest update excel on ipad freezes on close or when saving manually. This is not fit for purpose and I’m rapidly losing confidence in excel. This used to be a fantastic tool, bring it back!"
-- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
-- Microsoft Excel, 1 star: "USELESS !!! - Latest update has made app non functional on iPad and has caused MAJOR issues for my company whose design consultants take measurements on this app and it loses all data that is input. Can’t begin to explain what a headache this has caused everyone. This is a global issue and it’s abso"
-- Microsoft Excel, 1 star: "Keeps Crashing Since the Last Update and Not Saving Work - I use this app regularly to update figures, I open spreadsheets from Dropbox. Since the last update it hangs closing the spreadsheet when I exit it to send it back to Dropbox. It just spins and I eventually have to close the app. The work is"
+- Calculator₊, 1 star: "Avoid! - This calculator has been a very disappointing app. The moment you download, it asks to collect your data, and then shows annoying ads on the bottom of the screen. While the basic features all work and it gives you scientific features like trigonometric functions, it cannot format numbers ot"
+- Unit Converter - Best Unit App, 1 star: "Banner ad makes app useless - This was a great app until the banner ad (which is offensive in itself—exploitive to women) appeared and covered the bottom of the number pad. When you can’t get to the zero key, your conversion options are severely limited. I used to love this app, but can barely use i"
+- Unit Converter - Best Unit App, 3 star: "Quality and cost - With the latest release, not only were bugs introduced, but features that were previously free now require a subscription.   Look: I’m fine paying to get rid of ads. I’m even fine to get more features. What I’m NOT fine with are: - having features I’ve been using for years suddenl"
+- Xe Money Transfer & Currency, 1 star: "What happened? - I used this app all the time while traveling but now it doesn’t work as a currency conversion app and is only a money transfer app. Impossible to get conversions without sending money. It’s useless as an app now unless you are sending money to people"
+- Xe Money Transfer & Currency, 1 star: "New updated UI is Bad - I hate the new home screen. I wish I can make the conversion calculator my home screen."
+- Xe Money Transfer & Currency, 1 star: "New UI Sucks - Used to have it set up to show how USD stacks up to all other currencies I wanted to watch. Now I have to scroll down the page to see this view and it won’t allow me to use USD as the primary even though I have that selected in the settings. What a colossal pain in the neck."
 
-## small business & freelance
+## creators & sellers
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4071502 | 4.78594 | Free | 79 | 23 |
-| [Fetch: Receipts for Gift Cards](https://apps.apple.com/us/app/fetch-receipts-for-gift-cards/id1182474649?uo=4) (us) | 7707885 | 4.85126 | Free | 27 | 8 |
-| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1969467 | 4.79898 | Free | 37 | 9 |
-| [iScanner: PDF Doc Scanner App](https://apps.apple.com/gb/app/iscanner-pdf-doc-scanner-app/id1040093707?uo=4) (gb) | 163886 | 4.67956 | Free | 18 | 10 |
-| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 270241 | 4.75089 | Free | 47 | 12 |
-| [Scanner App: Genius Scan](https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4) (us) | 1365204 | 4.89932 | Free | 10 | 3 |
-| [Invoice Maker - Invoice Fly](https://apps.apple.com/us/app/invoice-maker-invoice-fly/id1606911248?uo=4) (us) | 107225 | 4.75586 | Free | 10 | 2 |
-| [TopCashback: Cashback Deals](https://apps.apple.com/gb/app/topcashback-cashback-deals/id408175694?uo=4) (gb) | 155666 | 4.79365 | Free | 40 | 8 |
-| [Fiverr - Freelance Services](https://apps.apple.com/us/app/fiverr-freelance-services/id346080608?uo=4) (us) | 573215 | 4.91672 | Free | 33 | 10 |
-| [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4) (gb) | 195014 | 4.83171 | Free | 19 | 8 |
-| [Homebase: Employee Scheduling](https://apps.apple.com/us/app/homebase-employee-scheduling/id871544379?uo=4) (us) | 94367 | 4.78312 | Free | 33 | 5 |
-| [TurboScan™ Pro: PDF scanner](https://apps.apple.com/us/app/turboscan-pro-pdf-scanner/id342548956?uo=4) (us) | 296663 | 4.9233 | $12.99 | 3 | 1 |
-| [Scanner App: Genius Scan](https://apps.apple.com/gb/app/scanner-app-genius-scan/id377672876?uo=4) (gb) | 100535 | 4.83539 | Free | 21 | 11 |
-| [Invoice Maker ▸ Invoice Simple](https://apps.apple.com/us/app/invoice-maker-invoice-simple/id694831622?uo=4) (us) | 122770 | 4.86798 | Free | 80 | 35 |
+| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4445244 | 4.75384 | Free | 81 | 27 |
+| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5785389 | 4.77726 | Free | 67 | 19 |
+| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8450550 | 4.82666 | Free | 86 | 26 |
+| [Picsart AI Photo Editor, Video](https://apps.apple.com/us/app/picsart-ai-photo-editor-video/id587366035?uo=4) (us) | 1195644 | 4.66532 | Free | 21 | 9 |
+| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969201 | 4.8166 | Free | 97 | 33 |
+| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260703 | 4.75358 | Free | 93 | 38 |
+| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7310209 | 4.92497 | Free | 40 | 14 |
+| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3557978 | 4.87406 | Free | 11 | 3 |
+| [Photoshop Express Photo Editor](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235?uo=4) (us) | 741172 | 4.74753 | Free | 64 | 31 |
+| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3689309 | 4.89921 | Free | 7 | 2 |
+| [Mercari: Buying & Selling App](https://apps.apple.com/us/app/mercari-buying-selling-app/id896130944?uo=4) (us) | 1953479 | 4.84801 | Free | 56 | 15 |
+| [Amazon Shopping](https://apps.apple.com/gb/app/amazon-shopping/id335187483?uo=4) (gb) | 1092139 | 4.80022 | Free | 89 | 23 |
+| [Depop - Buy & Sell Clothes](https://apps.apple.com/gb/app/depop-buy-sell-clothes/id518684914?uo=4) (gb) | 536079 | 4.78021 | Free | 70 | 25 |
+| [Etsy: Shop Home, Style & More](https://apps.apple.com/gb/app/etsy-shop-home-style-more/id477128284?uo=4) (gb) | 884309 | 4.89959 | Free | 35 | 9 |
 
-Repeated complaint phrases: invoices per month (5); still no job (3); waste of time (3); way to contact (3); ve been using (3); used to love (3); raising the price (3); number of invoices (3)
+Repeated complaint phrases: used to love (8); next day delivery (6); used to use (5); turn it off (4); ve been using (4); way to turn (3); reviews and feedback (3); bunch of ai (3)
 
-- Indeed Job Search, 1 star: "PLEASE BE AWARE! - Scammers are sending legit jobs through indeed messages and email pretending to be recruiters. Once they see you have applied they will send an application through email. Once you fill that out you will be sent an adobe message. The message will ask for your address and ssn. Do no"
-- Indeed Job Search, 1 star: "Worthless - Final Edit:  I am done it has beens years and I haven't gotten a job on Indeed, almost all jobs are scam jobs now and the amount keeps going up to where I am getting lots of scam emails worse than ever before and every single job in warehouse is a scam job now and other jobs seem to be g"
-- Indeed Job Search, 1 star: "Useless Algorithm - I’ve had one sales job in the past ten years. Indeed kept showing me sales jobs, so I updated my profile and listed sales as a field I wasn’t interested in. It kept showing me sales jobs, so I began thumbs downing all the sales jobs that came up on my feed in hopes that the algor"
-- Indeed Job Search, 1 star: "Buggy App - You can’t scroll down the job description when you click on a job as of recent. I always heard don’t fix what ain’t broke but companies like Indeed and LinkedIn didn’t get the memo."
-- Indeed Job Search, 1 star: "Stop cookie stuffing - How on gods green earth are you using that much ram and network on a iPhone to ensure the brand new phone cannot load job postings.   The only way a phone hangs on a URL page is because it’s getting over loaded. So you are either sending too much from the server, or you are st"
-- Indeed Job Search, 1 star: "Hate - I hate this app so much. I wish I could apply on my phone but it forces you into changing and adjusting things without the option to skip. It then messes up the look of your resume so when you send it to an employer it looks ridiculous. If I want to just go back to a browser and not use the m"
+- Amazon Shopping, 1 star: "AI search - AI search through Alexa is terrible. You used to just search for a product. Now they use AI to make it 50 times slower and stupid. Oh… can’t turn it off either. What a pile of junk."
+- Amazon Shopping, 1 star: "AI Search is Terrible - I am uninstalling this useless app.  The AI search doesn’t work at all and I can’t disable it."
+- Amazon Shopping, 1 star: "HATE THE NEW AI DEFAULT FEATURE - i absolutely hate the new AI feature. I wish there was a way to turn that bs off. its so annoying, not helpful at all. AMAZON needs to make an option to turn that off."
+- Amazon Shopping, 1 star: "Scrolling is broken - I cannot scroll after hitting the back button. It’s been like this for at least a couple of versions."
+- Pinterest, 1 star: "Amazing > Useful > Slog > Trash - I’ve used this app since early days and it was my favorite for years. Ads were inevitable and I still found value and even liked many of the ads and found it useful to find creators on Etsy and cool products from interiors.  It is now largely AI garbage even with le"
+- Pinterest, 1 star: "Not what Pinterest used to be… - The whole feed is now a bunch of AI images that lead to AI web pages that often don’t contain what the original pin offered. I’ve been using Pinterest for over a decade and it has become such a disappointment."
 
-## property & home
+## cars & transport
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [U-Haul: Moving Made Easier®](https://apps.apple.com/us/app/u-haul-moving-made-easier/id989307692?uo=4) (us) | 218088 | 4.4852 | Free | 97 | 33 |
-| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7236949 | 4.80016 | Free | 0 | 0 |
-| [Angi: Find Local Home Services](https://apps.apple.com/us/app/angi-find-local-home-services/id432633172?uo=4) (us) | 116223 | 4.54078 | Free | 68 | 16 |
-| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 503452 | 4.69155 | Free | 73 | 22 |
-| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1640149 | 4.79938 | Free | 54 | 12 |
-| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1079427 | 4.78817 | Free | 62 | 24 |
-| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1414855 | 4.81658 | Free | 45 | 11 |
-| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 219204 | 4.7375 | Free | 65 | 20 |
-| [Zillow Rentals](https://apps.apple.com/us/app/zillow-rentals/id538946076?uo=4) (us) | 388617 | 4.78948 | Free | 87 | 31 |
-| [Zoopla home property search UK](https://apps.apple.com/gb/app/zoopla-home-property-search-uk/id380932800?uo=4) (gb) | 191341 | 4.73435 | Free | 69 | 24 |
-| [Rightmove property search](https://apps.apple.com/gb/app/rightmove-property-search/id323822803?uo=4) (gb) | 178008 | 4.78202 | Free | 49 | 19 |
-| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 324175 | 4.84324 | Free | 48 | 10 |
-| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 471593 | 4.8902 | Free | 10 | 1 |
-| [Lists To do](https://apps.apple.com/us/app/lists-to-do/id571626623?uo=4) (us) | 106216 | 4.80478 | Free | 14 | 3 |
+| [Parking Jam 3D](https://apps.apple.com/gb/app/parking-jam-3d/id1498229533?uo=4) (gb) | 51968 | 4.37267 | Free | 80 | 13 |
+| [PayByPhone Parking](https://apps.apple.com/gb/app/paybyphone-parking/id448474183?uo=4) (gb) | 645101 | 4.7034 | Free | 46 | 14 |
+| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 237748 | 4.72729 | Free | 69 | 27 |
+| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 251069 | 4.77273 | Free | 55 | 12 |
+| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 390823 | 4.82064 | £5.99 | 4 | 1 |
+| [YourParkingSpace - Parking App](https://apps.apple.com/gb/app/yourparkingspace-parking-app/id1107618222?uo=4) (gb) | 61754 | 4.66618 | Free | 79 | 13 |
+| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 183829 | 4.76549 | Free | 20 | 6 |
+| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 100681 | 4.7279 | Free | 21 | 9 |
+| [SpotHero: #1 Rated Parking App](https://apps.apple.com/us/app/spothero-1-rated-parking-app/id499097243?uo=4) (us) | 419581 | 4.86183 | Free | 32 | 13 |
+| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187738 | 4.80741 | Free | 92 | 27 |
+| [MileIQ: Mileage Tracker & Log](https://apps.apple.com/us/app/mileiq-mileage-tracker-log/id578830929?uo=4) (us) | 113931 | 4.76489 | Free | 36 | 9 |
+| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 127633 | 4.84084 | Free | 52 | 16 |
+| [Stride: Mileage & Tax Tracker](https://apps.apple.com/us/app/stride-mileage-tax-tracker/id1041591359?uo=4) (us) | 97451 | 4.84091 | Free | 47 | 9 |
+| [Driving Theory Test Kit 4 in 1](https://apps.apple.com/gb/app/driving-theory-test-kit-4-in-1/id1078352542?uo=4) (gb) | 41194 | 4.79875 | Free | 6 | 3 |
 
-Repeated complaint phrases: waste of time (5); used to love (5); custom save lists (4); filters to find (3); only to find (3); going to show (3); full of scammers (3)
+Repeated complaint phrases: refused to refund (4); pay for parking (3); terrible customer service (3); canceled my subscription (3); fix this issue (3); total due today (3)
 
-- Rent. Apartments and Homes, 1 star: "Terrible experience - This community is horrible. There are cockroaches everywhere, and when it comes to fixing an AC, they take an entire month. They have a supervisor who spends his time smoking, and the office staff — especially Maggie — is almost never there. You call, and they never answer the "
-- Realtor.com Real Estate & Rent, 1 star: "Hate the Update - Removed the “view on map” function. Pictures are unbearable to look at. You can’t double click zoom. It does this little quick in-out zoom, but doesn’t stay. Even when you pinch with your fingers, you can’t zoom all the way in. It barely zooms in. You can no longer swipe down to ge"
-- Realtor.com Real Estate & Rent, 1 star: "Please fix the listings! - Listings saved used to show if a property was contingent or sold, now they all are available. Even when the house has sold or is contingent. Why did this happen again? I have the most recent update."
-- Realtor.com Real Estate & Rent, 1 star: "Took away the directions option?? - This app has a lot of useless functions, especially with recent updates. I don’t care about all extra features and stats about a house. The new update even makes it hard to read. Small font and too busy. I want the photos to work where I can scroll easy (they ofte"
-- Realtor.com Real Estate & Rent, 1 star: "Updates not friendly - I get the need/want to update an app. However, as a heavy user, key information that used to be easily accessible and viewable has disappeared or become difficult to locate. Open house information on the map, driving direction link in the listing, and way too many expand and c"
-- Apartment List: Apt rentals, 1 star: "Scams - People posting real apartments and claiming availability and changing the phone numbers to theirs so you’re calling them not the actual place. They want to steal your info when you apply and take your money when you pay application fees and or even deposits if you don’t tour. Only way to pro"
+- Zutobi: Permit & Driving Prep, 1 star: "Paywall - U cannot use the app unless you agree to their 3 day free trail but then $8 a week 🤦🏽‍♂️"
+- CARFAX Car Care, 1 star: "Won’t open crashes - As of 7/31/26 the app will sit on the open screen then close itself after about 30seconds.  Please fix soon"
+- Stride: Mileage & Tax Tracker, 1 star: "Useless - Update: now it’s logging the start of my trips, it’s showing my drive and everything as normal and then at some point it zeros everything out. I just spent over 3 hours of driving. I looked at my miles driven and it shows my time 3:47, my miles as 0, and Tax Deductions as 0.00 saved this t"
+- Stride: Mileage & Tax Tracker, 1 star: "Empty - BD enough I forget to use this app. Thought it would be GREAT. IF ONLY I COULD REMEMBER!! Well I remembered today… the damn thing tracked my journey in hours and minutes. NOT A SINGLE MILE.   TRASH  WISH I COULD UPLOAD THE PICTURE"
+- Stride: Mileage & Tax Tracker, 1 star: "Does not work. - The live mile tracking option has only worked 1 out of 3 times I tried to use it. Every time I go to click back on the app to end my drive it logs me out and deletes any progress I had. Which is the entire reason I wanted to use this app so it's not worth it at all to me and made me"
+- YourParkingSpace - Parking App, 1 star: "Useless - Wont login with Google or Apple, parking locations not being identified. Constant red banner saying “unauthorised” but no explanation to fix the issue."
 
-## family & parenting
+## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Care.com: Hire Caregivers](https://apps.apple.com/us/app/care-com-hire-caregivers/id328453619?uo=4) (us) | 42300 | 4.39343 | Free | 76 | 32 |
-| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 1983796 | 4.744 | Free | 66 | 25 |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 159582 | 4.61972 | Free | 48 | 16 |
-| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 399932 | 4.80701 | Free | 17 | 7 |
-| [Calendars: Schedule Planner](https://apps.apple.com/us/app/calendars-schedule-planner/id608834326?uo=4) (us) | 121930 | 4.72232 | Free | 53 | 20 |
-| [Saturn Calendar](https://apps.apple.com/us/app/saturn-calendar/id1454483188?uo=4) (us) | 67820 | 4.68785 | Free | 90 | 20 |
-| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227316 | 4.80108 | Free | 36 | 15 |
-| [Pregnancy Baby Tracker - WTE](https://apps.apple.com/us/app/pregnancy-baby-tracker-wte/id289560144?uo=4) (us) | 379665 | 4.8703 | Free | 8 | 1 |
-| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 297394 | 4.89185 | Free | 2 | 1 |
-| [TimeTree: Shared Calendar](https://apps.apple.com/us/app/timetree-shared-calendar/id952578473?uo=4) (us) | 92003 | 4.85156 | Free | 16 | 3 |
-| [Skylight App](https://apps.apple.com/us/app/skylight-app/id1438779037?uo=4) (us) | 52138 | 4.80346 | Free | 19 | 10 |
-| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 141132 | 4.92358 | Free | 40 | 12 |
-| [Pregnancy + | Tracker App](https://apps.apple.com/gb/app/pregnancy-tracker-app/id505864483?uo=4) (gb) | 40016 | 4.81695 | Free | 26 | 3 |
-| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 44260 | 4.83019 | Free | 30 | 11 |
+| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5468678 | 4.89261 | Free | 57 | 7 |
+| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1049427 | 4.83685 | Free | 30 | 9 |
+| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1813276 | 4.89675 | Free | 38 | 10 |
+| [Dream Wedding Planner Game](https://apps.apple.com/us/app/dream-wedding-planner-game/id1431698004?uo=4) (us) | 28348 | 4.58389 | Free | 40 | 7 |
+| [Costa Coffee Club](https://apps.apple.com/gb/app/costa-coffee-club/id578627826?uo=4) (gb) | 47974 | 4.64612 | Free | 51 | 12 |
+| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 351251 | 4.82312 | Free | 42 | 11 |
+| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 95696 | 4.7679 | Free | 74 | 12 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 221809 | 4.85578 | Free | 53 | 14 |
+| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 89007 | 4.82429 | Free | 37 | 12 |
+| [Eventbrite Organizer](https://apps.apple.com/us/app/eventbrite-organizer/id368260521?uo=4) (us) | 32510 | 4.78993 | Free | 73 | 11 |
+| [Wedding Planner by WeddingWire](https://apps.apple.com/us/app/wedding-planner-by-weddingwire/id316565575?uo=4) (us) | 45892 | 4.83249 | Free | 9 | 5 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 97777 | 4.91338 | Free | 49 | 15 |
+| [Cvent Events](https://apps.apple.com/us/app/cvent-events/id1491335576?uo=4) (us) | 39660 | 4.84697 | Free | 42 | 7 |
+| [Azazie:Shop Bridesmaid Dresses](https://apps.apple.com/us/app/azazie-shop-bridesmaid-dresses/id1130649335?uo=4) (us) | 33898 | 4.87333 | Free | 22 | 3 |
 
-Repeated complaint phrases: used to love (6); waste of time (5); pay for subscription (5); ve been using (4); every time open (3); buy the subscription (3); able to see (3); time and money (3)
+Repeated complaint phrases: won let me (5); let me sign (3); ended up having (3); something went wrong (3); card to apple (3); hair and makeup (3)
 
-- Baby Tracker - Newborn Log, 1 star: "New “what’s next” AI Slop - The latest update adds a “what’s next” section that is not hideable so it takes half your screens real estate. The UI screams AI slop. The dev clearly wanted a reason to make this app into a subscription for more money but I want parents to know that what the dev added is"
-- Care.com Caregiver: Find Jobs, 1 star: "Refund policy is predatory - For a yearly subscription the app or site has no way to remind you when it’s coming up, screw this company, you will not get a refund on any amount even if it’s close to $400 literally EVERY OTHER YEARLY SUBSCRIPTION APP sends a courtesy email weeks ahead of time. Whoeve"
-- Saturn Calendar, 1 star: "Useless if you can’t see who’s in your class - Why would I get an app just to see my friends classes if I wanted to know my friends classes Id ask them. The whole point of the app was supposed to be to see the classes before the school year started. They need to bring public classes back!"
-- Saturn Calendar, 1 star: "Update - Why did they take the ability to see classmates you don’t have added away? Saturn used to be so useful and now I can barely use it. Also why can’t you just add people in app so it doesn’t text them on Snapchat??"
-- Saturn Calendar, 3 star: "New update - It was great last year, the mechanics are a little bit hard to use but simpler once you get used to if, but they updated it so you can only see your friends that you added in the app. It used to show everyone who was in your class. AWFUL update, change it back."
-- Flo Cycle & Period Tracker, 1 star: "STOP WITH THE ADS - I’ve been using the app for years but it’s so incredibly frustrating every time I open the app they’re trying to get me to buy the subscription. It adds unnecessary clicks when I just want to log my period. Also, I find it isn’t as accurate as apple health’s period logger. Still "
+- Cvent Events, 3 star: "More than one - This app works great but I really wish you could add more than one conference at a time. I have one conference at the end of October and another one at the beginning of November. I can only access one conference at a time so I have to completely log out of the app to go into the othe"
+- Eventbrite, 1 star: "Can’t do nothing 🤷‍♀️ - I have an account. However I cannot get them to help at all with resetting my password.   Really is messing with my business plans but guess I need someone better than them to set up my events. Highly disappointed"
+- Eventbrite, 2 star: "The app is getting there but still glitching - It’s better than it used to be but still glitching, especially when selecting location both as filter and in my profile. And the email it sends won’t let me add event to my Google calendar without downloading some strange new “subscription” calendar thr"
+- Eventbrite, 1 star: "Scam Tickets with Zero Intervention from Platform - I reported being a victim of purchasing a scam ticket and Eventbrite turned a deaf hear. I kept getting referred to the organiser for any escalation or complaint! How’s a scammer suppose to action a refund!?!  Unfortunately, the organiser remains o"
+- Zola - Wedding Planner, 1 star: "Seating chart is a scam - That app has been fine but getting to the seating chart: It let me add all the tables I wanted and arranged them. Then, once I started adding guests, I got the option to “upgrade to premium to seat more than 15 guests”. Suck my dick Zola ✌🏼"
+- Co-op Membership: Shop & Save, 1 star: "Sits on opening screen and does nothing else. - When opening the app it brings up the co op starting screen and then does nothing else. It’s locked, broken, useless. .  I have tried deleting and restarting and running off of WiFi and data signal but no luck."
