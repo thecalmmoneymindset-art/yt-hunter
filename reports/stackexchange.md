@@ -1,71 +1,65 @@
-# Stack Exchange unmet-needs report — 2026-10-04
-Sites today: parenting, travel, workplace, expatriates, bicycles, mechanics | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-10-06
+Sites today: webapps, academia, islam, sports, homebrew, interpersonal | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## parenting (4 unanswered popular questions; API quota left: 293)
+## webapps (30 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
-- 1 votes, 143 views — [How do you explain your strong desire to have the baby sleep with you to your wife?](https://parenting.stackexchange.com/questions/47011/how-do-you-explain-your-strong-desire-to-have-the-baby-sleep-with-you-to-your-wi) — tags: newborn
-- 2 votes, 140 views — [What do about my son who is best friends with a largely unsupervised bad boy?](https://parenting.stackexchange.com/questions/46960/what-do-about-my-son-who-is-best-friends-with-a-largely-unsupervised-bad-boy) — tags: middle-childhood
-- 1 votes, 137 views — [How do I tell my mom and dad that I like a boy?](https://parenting.stackexchange.com/questions/47009/how-do-i-tell-my-mom-and-dad-that-i-like-a-boy) — tags: teen, parents, relationships, dating
-- 1 votes, 93 views — [2.5 year old son gets anxious and scratches ears then head and face once scared](https://parenting.stackexchange.com/questions/46923/2-5-year-old-son-gets-anxious-and-scratches-ears-then-head-and-face-once-scared) — tags: toddler, crying, fears, anxiety
+- 1 votes, 356 views — [Personal Gmail + business email merged, how to separate?](https://webapps.stackexchange.com/questions/182311/personal-gmail-business-email-merged-how-to-separate) — tags: gmail, google-workspace, google-account
+- 3 votes, 324 views — [Endless console spam from https://static.licdn.com/aero-v1/sc/h/... on linkedin.com — Chrome only](https://webapps.stackexchange.com/questions/182298/endless-console-spam-from-https-static-licdn-com-aero-v1-sc-h-on-linkedin) — tags: google-chrome, linkedin
+- 5 votes, 315 views — [How disable the "Pin Copilot Chat for quick access" popup?](https://webapps.stackexchange.com/questions/181903/how-disable-the-pin-copilot-chat-for-quick-access-popup) — tags: microsoft-teams
+- 3 votes, 172 views — [Select all messages from a search query in Proton Mail](https://webapps.stackexchange.com/questions/182150/select-all-messages-from-a-search-query-in-proton-mail) — tags: protonmail
+- 4 votes, 171 views — [How to ban Copilot from GitHub repo?](https://webapps.stackexchange.com/questions/182412/how-to-ban-copilot-from-github-repo) — tags: github
+- 1 votes, 160 views — [If I block someone on X, and then I mention them on my post, will they get notified?](https://webapps.stackexchange.com/questions/182345/if-i-block-someone-on-x-and-then-i-mention-them-on-my-post-will-they-get-notif) — tags: x.com
+- 2 votes, 149 views — [Can Slack’s “Double-check this link” warning be disabled for internal links/IP addresses?](https://webapps.stackexchange.com/questions/182278/can-slack-s-double-check-this-link-warning-be-disabled-for-internal-links-ip-a) — tags: slack
+- 3 votes, 128 views — [GMail adds extra spaces when copy/pasting text](https://webapps.stackexchange.com/questions/181862/gmail-adds-extra-spaces-when-copy-pasting-text) — tags: gmail
+- 3 votes, 73 views — [Show only a single transit route selection in Google Maps](https://webapps.stackexchange.com/questions/182082/show-only-a-single-transit-route-selection-in-google-maps) — tags: google-maps, google-transit
+- 1 votes, 70 views — [How do I search Facebook Marketplace for recent trending sold items?](https://webapps.stackexchange.com/questions/182448/how-do-i-search-facebook-marketplace-for-recent-trending-sold-items) — tags: facebook, facebook-marketplace
 
-## travel (30 unanswered popular questions; API quota left: 292)
+## academia (26 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
-- 12 votes, 933 views — [Am I safe to transit through Turkey as a non-binary person?](https://travel.stackexchange.com/questions/200435/am-i-safe-to-transit-through-turkey-as-a-non-binary-person) — tags: legal, turkey, insurance, turkish-airlines
-- 5 votes, 462 views — [Refusal of Entry stamp with code "b." from Germany](https://travel.stackexchange.com/questions/203499/refusal-of-entry-stamp-with-code-b-from-germany) — tags: schengen-visas, germany, denial-of-entry
-- 2 votes, 453 views — [UK Travel Visa rejected twice. Is there any realistic chance 3rd will be approved?](https://travel.stackexchange.com/questions/203334/uk-travel-visa-rejected-twice-is-there-any-realistic-chance-3rd-will-be-approve) — tags: uk, visa-refusals, standard-visitor-visas
-- 2 votes, 397 views — [Indonesian citizen, US green card holder, can I enter Korea visa-free?](https://travel.stackexchange.com/questions/203241/indonesian-citizen-us-green-card-holder-can-i-enter-korea-visa-free) — tags: transit-visas, south-korea, visa-free-entry, indonesian-citizens
-- 3 votes, 382 views — [Age 23, US SUV Rental](https://travel.stackexchange.com/questions/203607/age-23-us-suv-rental) — tags: usa, driving, car-rentals
-- 3 votes, 380 views — [Schengen passport control delays - Irish citizen](https://travel.stackexchange.com/questions/203851/schengen-passport-control-delays-irish-citizen) — tags: schengen
-- 5 votes, 375 views — [Is driving in Nevada in January a good idea?](https://travel.stackexchange.com/questions/200405/is-driving-in-nevada-in-january-a-good-idea) — tags: usa, driving, nevada
-- 3 votes, 356 views — [Impact of EES on connection times when entering Poland](https://travel.stackexchange.com/questions/203536/impact-of-ees-on-connection-times-when-entering-poland) — tags: short-connections, poland, waw, ees
-- 3 votes, 355 views — [Can a chargeback backfire even if justified?](https://travel.stackexchange.com/questions/204412/can-a-chargeback-backfire-even-if-justified) — tags: air-travel, lufthansa
-- 4 votes, 344 views — [Leaving the airport on a Sri Lanka Transit ETA](https://travel.stackexchange.com/questions/200398/leaving-the-airport-on-a-sri-lanka-transit-eta) — tags: transit-visas, sri-lanka, colombo
+- 4 votes, 796 views — [Are arXiv "on-hold" review delays lengthening following the July 2026 Cornell spin-out?](https://academia.stackexchange.com/questions/227260/are-arxiv-on-hold-review-delays-lengthening-following-the-july-2026-cornell-sp) — tags: publications, research-process, computer-science, arxiv
+- 0 votes, 693 views — [Number of PhD positions for Fall 2026 Cycle (US)](https://academia.stackexchange.com/questions/223921/number-of-phd-positions-for-fall-2026-cycle-us) — tags: phd, graduate-admissions, united-states, funding
+- 3 votes, 392 views — [What causes an arXiv submission in a pure mathematics category to be held for more than a week?](https://academia.stackexchange.com/questions/227625/what-causes-an-arxiv-submission-in-a-pure-mathematics-category-to-be-held-for-mo) — tags: mathematics, paper-submission, arxiv, preprint
+- 3 votes, 382 views — [When is it worth inviting collaborators onto a paper I have already drafted?](https://academia.stackexchange.com/questions/225549/when-is-it-worth-inviting-collaborators-onto-a-paper-i-have-already-drafted) — tags: authorship, writing, collaboration, changing-fields
+- 1 votes, 367 views — [Different manuscript statuses between SNAPP and Editorial Manager (Springer)](https://academia.stackexchange.com/questions/226208/different-manuscript-statuses-between-snapp-and-editorial-manager-springer) — tags: publications, peer-review, journals, paper-submission
+- 5 votes, 300 views — [Rights of applicants for W positions in Germany seeking information](https://academia.stackexchange.com/questions/226928/rights-of-applicants-for-w-positions-in-germany-seeking-information) — tags: career-path, germany
+- 2 votes, 292 views — [When should I send e-mail to a potential supervisor if I want to start an individual PhD in April 2027? [Germany]](https://academia.stackexchange.com/questions/224241/when-should-i-send-e-mail-to-a-potential-supervisor-if-i-want-to-start-an-indivi) — tags: phd, germany, social-science
+- 1 votes, 279 views — [Strategy for comparing yourself to other researchers in a faculty application](https://academia.stackexchange.com/questions/221668/strategy-for-comparing-yourself-to-other-researchers-in-a-faculty-application) — tags: citations, application, tenure-track, faculty-application
+- 2 votes, 274 views — [The correct approach when in doubt with a co-author](https://academia.stackexchange.com/questions/225459/the-correct-approach-when-in-doubt-with-a-co-author) — tags: conference, authorship
+- 3 votes, 270 views — [Finding an internship in Physics or Mathematics after master's program](https://academia.stackexchange.com/questions/223853/finding-an-internship-in-physics-or-mathematics-after-masters-program) — tags: phd, mathematics, physics, internship
 
-## workplace (0 unanswered popular questions; API quota left: 291)
+## islam (30 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
+- 1 votes, 475 views — [What is the authenticity and source of the dua “اللهم لك الحمد كله…” attributed to Hudhayfah (RA)?](https://islam.stackexchange.com/questions/89778/what-is-the-authenticity-and-source-of-the-dua-%d8%a7%d9%84%d9%84%d9%87%d9%85-%d9%84%d9%83-%d8%a7%d9%84%d8%ad%d9%85%d8%af-%d9%83%d9%84%d9%87-attributed) — tags: hadith, dua, reference-request
+- 1 votes, 103 views — [Can we shave this part of the beard](https://islam.stackexchange.com/questions/91189/can-we-shave-this-part-of-the-beard) — tags: halal-haram, fatwa, beard
+- 1 votes, 94 views — [Is it Permissible to Follow Different Ramadhan Start and Eid Dates Due to Work and Hometown Differences?](https://islam.stackexchange.com/questions/91183/is-it-permissible-to-follow-different-ramadhan-start-and-eid-dates-due-to-work-a) — tags: ramadan, eid
+- 1 votes, 67 views — [Video game containing an ability with a shirk name](https://islam.stackexchange.com/questions/91312/video-game-containing-an-ability-with-a-shirk-name) — tags: fatwa
+- 0 votes, 54 views — [Is it Permissible for a Muslim Woman to Have Her Breast Examined by a Male Doctor Due to an Emergency?](https://islam.stackexchange.com/questions/91655/is-it-permissible-for-a-muslim-woman-to-have-her-breast-examined-by-a-male-docto) — tags: sharia, medical
+- 1 votes, 52 views — [Lawful killing of a convicted murderer](https://islam.stackexchange.com/questions/89799/lawful-killing-of-a-convicted-murderer) — tags: practical-islam, sharia
+- 1 votes, 44 views — [is it haram to buy counterfeit goods](https://islam.stackexchange.com/questions/91571/is-it-haram-to-buy-counterfeit-goods) — tags: halal-haram, sharia, allah, prophet-muhammad
+- 1 votes, 44 views — [Do the first 11 ayats of surah Mu-Minoon count for those who have repented](https://islam.stackexchange.com/questions/90963/do-the-first-11-ayats-of-surah-mu-minoon-count-for-those-who-have-repented) — tags: quran, tafseer, tawba
+- 1 votes, 43 views — [Hadith of a Companion(ra) of Prophet Muhammad(saw. The companion(ra) was near death and spoke of the world being like smoke](https://islam.stackexchange.com/questions/91381/hadith-of-a-companionra-of-prophet-muhammadsaw-the-companionra-was-near-de) — tags: hadith, source-identification, reference-request
+- 1 votes, 43 views — [Starting reciting tashahud after sajda sahw](https://islam.stackexchange.com/questions/91018/starting-reciting-tashahud-after-sajda-sahw) — tags: hadith, fiqh, sunni, usool-ul-fiqh
 
-## expatriates (9 unanswered popular questions; API quota left: 290)
+## sports (5 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
-- 1 votes, 301 views — [Which countries in Southeast Asia have digital nomad visas?](https://expatriates.stackexchange.com/questions/28315/which-countries-in-southeast-asia-have-digital-nomad-visas) — tags: visa, digital-nomads
-- 0 votes, 95 views — [Should I actively reschedule delivery of a termination letter sent by DHL Express?](https://expatriates.stackexchange.com/questions/28312/should-i-actively-reschedule-delivery-of-a-termination-letter-sent-by-dhl-expres) — tags: germany, resident-permit
-- 0 votes, 87 views — [Greek citizen living in Estonia, applying for a US E1 visa](https://expatriates.stackexchange.com/questions/28361/greek-citizen-living-in-estonia-applying-for-a-us-e1-visa) — tags: usa, working-visas
-- 1 votes, 83 views — [Do I need an unlimited contract, or a minimum contract length for Permanent Residency in Germany (Niederlassungserlaubnis)?](https://expatriates.stackexchange.com/questions/28314/do-i-need-an-unlimited-contract-or-a-minimum-contract-length-for-permanent-resi) — tags: visa, germany, blue-card, residency
-- 1 votes, 74 views — [UK passport renewal for not-quite-expat](https://expatriates.stackexchange.com/questions/28335/uk-passport-renewal-for-not-quite-expat) — tags: united-kingdom, passport
-- 3 votes, 53 views — [Fate of leave extension when registered as citizen](https://expatriates.stackexchange.com/questions/28404/fate-of-leave-extension-when-registered-as-citizen) — tags: united-kingdom, uk-visa, uk-citizenship
-- 0 votes, 52 views — [Can I use my current Indian passport for UK Skilled Worker CoS and visa while passport renewal is in process (valid until 2026)?](https://expatriates.stackexchange.com/questions/28289/can-i-use-my-current-indian-passport-for-uk-skilled-worker-cos-and-visa-while-pa) — tags: united-kingdom, working-visas, passport
-- 0 votes, 47 views — [Question About International Driving Permit and B196 Extension While Living Abroad](https://expatriates.stackexchange.com/questions/28341/question-about-international-driving-permit-and-b196-extension-while-living-abro) — tags: germany, resident-permit, driving-license, driving
-- 0 votes, 30 views — [Permesso Soggiorno is Expired – Application for Short-Term Visa (Thesis Defense)](https://expatriates.stackexchange.com/questions/28333/permesso-soggiorno-is-expired-application-for-short-term-visa-thesis-defense) — tags: visa, resident-permit, italy
+- 0 votes, 245 views — [What historical FIFA documents support Uruguay's right to display four stars on its national team crest?](https://sports.stackexchange.com/questions/30298/what-historical-fifa-documents-support-uruguays-right-to-display-four-stars-on) — tags: football, olympics, world-cup, fifa
+- 1 votes, 80 views — [How long was Virat Kohli able to maintain 50+ Avg. in all 3 formats of test, ODI and T20 I &Did any other international player maintained such record?](https://sports.stackexchange.com/questions/30254/how-long-was-virat-kohli-able-to-maintain-50-avg-in-all-3-formats-of-test-odi) — tags: cricket, statistics, records
+- 2 votes, 67 views — [NBA Rule: Distinction Between Stopping the Clock and Resetting Time After a Foul](https://sports.stackexchange.com/questions/30197/nba-rule-distinction-between-stopping-the-clock-and-resetting-time-after-a-foul) — tags: nba, game-time
+- 2 votes, 64 views — [Why was the California Iron Man swam with the stream?](https://sports.stackexchange.com/questions/30169/why-was-the-california-iron-man-swam-with-the-stream) — tags: swimming, triathlon
+- 1 votes, 38 views — [Which cyclist has won the greatest proportion of stages in a 3 week Grand Tour?](https://sports.stackexchange.com/questions/30213/which-cyclist-has-won-the-greatest-proportion-of-stages-in-a-3-week-grand-tour) — tags: cycling, tour-de-france
 
-## bicycles (30 unanswered popular questions; API quota left: 289)
+## homebrew (2 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 
-- 7 votes, 424 views — [How is the shape of the lower derailler pulley important?](https://bicycles.stackexchange.com/questions/100584/how-is-the-shape-of-the-lower-derailler-pulley-important) — tags: derailleur-rear
-- 4 votes, 231 views — [what connector does my battery have](https://bicycles.stackexchange.com/questions/98729/what-connector-does-my-battery-have) — tags: electric-bike, charging
-- 4 votes, 201 views — [Shimano Di2 shifter problem - Shifter Battery Discharging Abnormally Quickly](https://bicycles.stackexchange.com/questions/99845/shimano-di2-shifter-problem-shifter-battery-discharging-abnormally-quickly) — tags: shifter, shimano-di2
-- 2 votes, 173 views — [What causes this clicking noise on my Cube Nuroad Pro 2026?](https://bicycles.stackexchange.com/questions/100558/what-causes-this-clicking-noise-on-my-cube-nuroad-pro-2026) — tags: hub, noise, gravel
-- 4 votes, 153 views — [What brand of BMX bike is this?](https://bicycles.stackexchange.com/questions/100102/what-brand-of-bmx-bike-is-this) — tags: identify-this-bike, bmx
-- 2 votes, 145 views — [Help with assembling back bottom bracket](https://bicycles.stackexchange.com/questions/100042/help-with-assembling-back-bottom-bracket) — tags: crankset, bottom-bracket, press-fit
-- 1 votes, 132 views — [Does standing a bike vertically cause hydraulic fluid to leak?](https://bicycles.stackexchange.com/questions/100244/does-standing-a-bike-vertically-cause-hydraulic-fluid-to-leak) — tags: disc-brake, hydraulic-disc-brake
-- 4 votes, 128 views — [Looking for folding bike stem without rise angle](https://bicycles.stackexchange.com/questions/100036/looking-for-folding-bike-stem-without-rise-angle) — tags: compatibility, parts, handlebars, stem
-- 1 votes, 116 views — [Can someone help me identify my Kona bike?](https://bicycles.stackexchange.com/questions/99931/can-someone-help-me-identify-my-kona-bike) — tags: mountain-bike, identify-this-bike
-- 2 votes, 112 views — [Problems switching gears with Shimano Alfine 11 speed internal gear hub in cold weather](https://bicycles.stackexchange.com/questions/100162/problems-switching-gears-with-shimano-alfine-11-speed-internal-gear-hub-in-cold) — tags: winter, lubricant, alfine
+- 0 votes, 35 views — [Dunkelweizen comes out like a stout](https://homebrew.stackexchange.com/questions/27319/dunkelweizen-comes-out-like-a-stout) — tags: airlock, stout
+- 0 votes, 27 views — [Does anyone know of valved stoppers being available?](https://homebrew.stackexchange.com/questions/27304/does-anyone-know-of-valved-stoppers-being-available) — tags: bottling
 
-## mechanics (30 unanswered popular questions; API quota left: 288)
+## interpersonal (0 unanswered popular questions; API quota left: 293)
 Repeated phrases: none
 
-- 1 votes, 321 views — [Why use a separate heat pump for cabin heating an EV?](https://mechanics.stackexchange.com/questions/100760/why-use-a-separate-heat-pump-for-cabin-heating-an-ev) — tags: hvac, electric-vehicle
-- 2 votes, 178 views — [Re-programming a Ford PCM -- How to?](https://mechanics.stackexchange.com/questions/101864/re-programming-a-ford-pcm-how-to) — tags: ford, electronic-control-module, f-250
-- 1 votes, 148 views — [2014 Tundra 5.7 Camshaft Position Sensor trigger voltage](https://mechanics.stackexchange.com/questions/101963/2014-tundra-5-7-camshaft-position-sensor-trigger-voltage) — tags: toyota, obd-ii, tundra
-- 2 votes, 116 views — [2008 Imapala 3.5 liter engine noise](https://mechanics.stackexchange.com/questions/99575/2008-imapala-3-5-liter-engine-noise) — tags: engine, chevrolet, noise, impala
-- 1 votes, 114 views — [2011 Honda CRV DRL and High Beam not working after bulb replacement](https://mechanics.stackexchange.com/questions/101824/2011-honda-crv-drl-and-high-beam-not-working-after-bulb-replacement) — tags: honda, headlight, cr-v, daytime-running-lights
-- 1 votes, 112 views — [Mitsubishi Outlander 2010 Immobiliser Repair](https://mechanics.stackexchange.com/questions/100750/mitsubishi-outlander-2010-immobiliser-repair) — tags: mitsubishi, electronics, immobilizer, outlander
-- 2 votes, 108 views — [Sealing failure with MLS head gasket?](https://mechanics.stackexchange.com/questions/101976/sealing-failure-with-mls-head-gasket) — tags: head-gasket, jaguar
-- 1 votes, 85 views — [Nissa Versa (2008) makes front end banging noise on right tire side bumps](https://mechanics.stackexchange.com/questions/100754/nissa-versa-2008-makes-front-end-banging-noise-on-right-tire-side-bumps) — tags: noise, nissan, suspension, steering
-- 1 votes, 63 views — [What is missing from my 2014 VW Passat spare wheel well styrofoam insert tool organizer?](https://mechanics.stackexchange.com/questions/102077/what-is-missing-from-my-2014-vw-passat-spare-wheel-well-styrofoam-insert-tool-or) — tags: vw, passat, tool-identification
-- 2 votes, 62 views — [Windsheild wipers are seemingly crossed with my headlights suddenly. Also they run a "wash cycle" everytime I start the truck](https://mechanics.stackexchange.com/questions/102372/windsheild-wipers-are-seemingly-crossed-with-my-headlights-suddenly-also-they-r) — tags: electrical, chevrolet, silverado
