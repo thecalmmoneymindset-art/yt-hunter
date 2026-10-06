@@ -2,60 +2,70 @@
  "date": "2026-10-06",
  "rows": [
   {
-   "cat": "trending: Howto & Style (US)",
-   "video": "Eat Everything In A Grocery Store, Win $1,000,000",
-   "url": "https://youtu.be/plN7JMbadRg",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 14.26,
-   "likes": 459,
-   "text": "Juan is such a great guy, this dude is straight legit. He is a hard worker, honest, family man, respectful, and a fantastic role model. I wish there was more people like him in the spotlight."
-  },
-  {
-   "cat": "trending: News (GB)",
-   "video": "\u2018Total BULL*** From a LYING Military\u2019\u2019 IDF Takes On Piers Morgan, Mehdi Hasan and Hasan Piker",
-   "url": "https://youtu.be/l8nu1p_P9O8",
-   "signals": [
-    "result_report"
-   ],
-   "score": 8.94,
-   "likes": 142,
-   "text": "the gaslighting doesnt work anymore."
-  },
-  {
-   "cat": "trending: News (GB)",
-   "video": "\"Stick medals in the BIN\" - Roy Keane Reacts To Damning Man City Verdict",
-   "url": "https://youtu.be/CB-e0e9DmSM",
+   "cat": "personal finance & admin",
+   "video": "June: Monthly Review - Budget vs Actual Numbers - Another Credit Card PAID! - Debt Payoff Journey",
+   "url": "https://youtu.be/Ixp57zYkyVY",
    "signals": [
     "manual_pain"
    ],
    "score": 5.97,
    "likes": 3,
-   "text": "What I don't understand is, how did nobody realize this was going on? I remember my friends group making jokes that City was playing with funny money back in the early 2010s, so if the mere fans could see it, why'd it take so long to put a stop on? Seems weird."
+   "text": "I have a total of three zero interest loans that come due Aug, September and January with house taxes in September too. So I started doing Shipt again and DD 3 weeks ago and my first zero loan will be paid next month! It is a relief knowing it will be made on time. I have a projected budget on a spreadsheet and update my side hustle money as it comes in. I can see for months if I am going to be sh"
   },
   {
-   "cat": "trending: Sports (GB)",
-   "video": "HIGHLIGHTS - Croatia v England | Dominant Display! | UEFA Nations League",
-   "url": "https://youtu.be/Uxx0p2ER-pk",
+   "cat": "personal finance & admin",
+   "video": "Noise REP top 5 features \ud83d\ude0d | #noiserep #fitnessband #topfeatures #noise",
+   "url": "https://youtu.be/i6eeDOVMank",
    "signals": [
     "result_report"
    ],
-   "score": 4.62,
-   "likes": 7,
-   "text": "Using kids as a human shield did not work here"
+   "score": 5.23,
+   "likes": 11,
+   "text": "Its a scam by Noise. The band is out of stock and the free straps is out of stock too. What their production team ate before going live should be a case study."
   },
   {
-   "cat": "trending: People & Blogs (US)",
-   "video": "SAYING GOODBYE... Prepping For Hawaii & Japan!!",
-   "url": "https://youtu.be/K8D-MdPX_sg",
+   "cat": "personal finance & admin",
+   "video": "Google Fitbit Air \u2013 30 Days Later: An Honest Review",
+   "url": "https://youtu.be/d4vHsbRWKfk",
    "signals": [
-    "wish_build",
+    "would_pay"
+   ],
+   "score": 5.08,
+   "likes": 1,
+   "text": "I'd buy it if it was better and if it wasn't google"
+  },
+  {
+   "cat": "languages & translation",
+   "video": "I Created The ULTIMATE Reading App For Language Learners",
+   "url": "https://youtu.be/UwLa-P3Tf4Y",
+   "signals": [
     "manual_pain"
    ],
-   "score": 4.5,
-   "likes": 0,
-   "text": "Remiiii I would literally pay for a  master class from you and Alisha on the ins and outs of vlogging if you made one! you guys are truly the maters in this! I never know how much or when I should pull out my phone or camera to vlog and I\u2019m struggling to find the best system for editing clips in a timely manner, ugh I wish there was a class for all my questions lol."
+   "score": 4.23,
+   "likes": 1,
+   "text": "definitely need audio to play with your reading to hear correct pronunciation, really helps in french with liaison, encha\u00eenement, and \u00e9lision. I hate having to buy the book and the audio separately\u2026double money for something that should be together."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
+   "url": "https://youtu.be/JrFZ_ky7AzE",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "thank you for your work. you helping a lot. I will try your book creation pipeline. I use python deepseek API keys and Jason file book outline and I do the draft manually for days and input my own voice. I instruct the model to preserver 70% of my voice and style I, first show it my style and sent me habits and all. the output is better than letting AI too free to invovate sentences that may destr"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
+   "url": "https://youtu.be/_r6_rs-MbQk",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Thanks for the video. Does your MCP also support the EU, UK, Canada, Australia, and Japan marketplaces, or only the US?  Also, is it possible to retrieve ANY information that can normally be downloaded from Amazon reports, including all advertising reports, Brand Analytics data, business reports, fulfillment data, and similar reports?  One final question: assuming I have already built my own tool "
   },
   {
    "cat": "personal finance & admin",
@@ -69,15 +79,26 @@
    "text": "Made in india h to scam hi hoga, china usa ka hota to thoda trust kar sakte the"
   },
   {
-   "cat": "trending: Comedy (US)",
-   "video": "Admins gotta patch this \ud83d\ude2d\u270c\ufe0f",
-   "url": "https://youtu.be/sj4nAut61QY",
+   "cat": "creators & sellers",
+   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
+   "url": "https://youtu.be/JrFZ_ky7AzE",
    "signals": [
     "result_report"
    ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "That doesn't work. You wouldn't allow any random stranger to give you their phone number within ten seconds of meeting you. Let alone if you were with your partner. I get that it's supposed to be funny , but it's not because it's just not gonna happen."
+   "score": 3.58,
+   "likes": 3,
+   "text": "I like this. Its not a get rich quick scam."
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "Google Fitbit Air Review: Better Than WHOOP?",
+   "url": "https://youtu.be/RII47rv_6FQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "What's the price for fitbit air"
   },
   {
    "cat": "personal finance & admin",
@@ -91,125 +112,92 @@
    "text": "I'd buy coilovers for my car to get that baby up and running for when I get back to the states."
   },
   {
-   "cat": "trending: Pets (US)",
-   "video": "Fishstick Saved Us \ud83e\udd2f",
-   "url": "https://youtu.be/kJNxY310kSA",
+   "cat": "personal finance & admin",
+   "video": "WHOOP Killer Is Here - Google FitBit Air Unboxing & First Look?\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+   "url": "https://youtu.be/5dABaqFNRhc",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "I will pay every single cent I have for the cat"
+   "text": "Hey gaurav please send to me I will pay you for this"
   },
   {
-   "cat": "trending: News (GB)",
-   "video": "'Why would anyone set up a business in the UK?' asks Clarkson at Tory conference",
-   "url": "https://youtu.be/H5Mj0rTeujI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "The biggest scam is the conservatives saying they have the answers to the net zero, mass illegal immigration, high taxes they started.   Labour have doubled down. Conservatives are really just lib dems.   Yet Reform are old conservative centre right and get called racist."
-  },
-  {
-   "cat": "trending: Autos (GB)",
-   "video": "3 HOURS of M25 Traffic\u2026 So I Played Xbox in My Truck \ud83d\ude02\ud83c\udfae",
-   "url": "https://youtu.be/zF2ZiU5asDw",
+   "cat": "creators & sellers",
+   "video": "I Automated My Entire Etsy POD Business with AI (INSANE!)",
+   "url": "https://youtu.be/Kr5bzmAmJyg",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "what app is that for the traffic?"
+   "text": "what is the name of this app"
   },
   {
-   "cat": "trending: Autos (US)",
-   "video": "Wholesome Biker Dad Moment With Son \ud83e\udd2f",
-   "url": "https://youtu.be/cEmemKxbNqc",
+   "cat": "creators & sellers",
+   "video": "Fastest Way to Make 100 Print on Demand Products",
+   "url": "https://youtu.be/otG_z8u9K-4",
    "signals": [
-    "wish_build"
+    "ask_for_tool"
    ],
-   "score": 2.0,
+   "score": 2.5,
    "likes": 0,
-   "text": "Man do I wish I had a father in my life. I\u2019m happy for the both of you and can\u2019t wait to have my own family one day ride safe little man !"
-  },
-  {
-   "cat": "trending: Autos (US)",
-   "video": "Wholesome Biker Dad Moment With Son \ud83e\udd2f",
-   "url": "https://youtu.be/cEmemKxbNqc",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I wish I had a dad like you. To hear him tell me he is proud and mean it would mean a lot.\ud83e\udd72\ud83e\udd72\ud83d\ude05"
+   "text": "Is there a way to get the mockup generator to mockup your shirts  if your doing physical and not POD ?"
   },
   {
    "cat": "personal finance & admin",
-   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
-   "url": "https://youtu.be/GztWQ5bWZvA",
+   "video": "Google Fitbit Air Review: Better Than WHOOP?",
+   "url": "https://youtu.be/RII47rv_6FQ",
    "signals": [
-    "result_report"
+    "manual_pain"
    ],
-   "score": 1.5,
+   "score": 2.5,
    "likes": 0,
-   "text": "I actually was gifted $1000 out of the blue a few months ago (my great grandpa died and I didn't realized he left me some inheritance!) It was a very shockingly pleasant surprise! I spent $200 on some items I had been wanting for a while and the rest got invested!"
+   "text": "For me the Fitbit air didn\u2019t auto detect playing badminton and I tired to log it manually or start manually but I didn\u2019t see badminton under activities section. Can you let me know, how I can track it. Thank You!!"
   },
   {
-   "cat": "trending: Entertainment (GB)",
-   "video": "It Didn't Click\ud83d\ude30",
-   "url": "https://youtu.be/KfAdw2iNkoo",
+   "cat": "investing & crypto",
+   "video": "Introducing ZAR 2.0 | Powerful Portfolio Tracking & Management",
+   "url": "https://youtu.be/xpeIhv0vOjU",
    "signals": [
-    "result_report"
+    "manual_pain"
    ],
-   "score": 1.5,
+   "score": 2.5,
    "likes": 0,
-   "text": "This is why I'm scared of rollar coasters incase the bar doesn't work and I get sent flying into the air and die"
+   "text": "I track my stocks on excel only - how do I upload it on Zar via one file only instead of adding each stock individually?"
   },
   {
-   "cat": "trending: Sports (US)",
-   "video": "PROOF the NFL Protects Mahomes?! \ud83d\udc40",
-   "url": "https://youtu.be/vUXc81XCNmY",
+   "cat": "creators & sellers",
+   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
+   "url": "https://youtu.be/_r6_rs-MbQk",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 1.5,
+   "score": 2.5,
    "likes": 0,
-   "text": "Fr, I\u2019m not mad. I don\u2019t watch NFL for reasons just like this. When the league protects players \u201cmoney\u201d and not letting the game play out. It\u2019s not worth the high blood pressure."
+   "text": "How do you upscale images for Amazon starting from the 1254 px output generated by ChatGPT Images? What tool do you use to reach 3000 px, or what final resolution do you typically use for Amazon listing images? Thank you"
   },
   {
-   "cat": "trending: Gaming (GB)",
-   "video": "Can I Go 15-0 With a 30 MILLION Coin Team?",
-   "url": "https://youtu.be/q-vFYOAFp3g",
+   "cat": "creators & sellers",
+   "video": "How To Use Claude AI to Create 100 Trendy T-Shirt Designs in Minutes (Print on Demand)",
+   "url": "https://youtu.be/koDGW5JGm9k",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 1.5,
+   "score": 2.5,
    "likes": 0,
-   "text": "I got a first owner Silas wanna buy my account for \u00a310,000"
+   "text": "Quick question \u2014 is there a way to edit the font after the design is already generated? I'm trying to change the typography on my AI-generated designs but the text isn't selectable. Would love to know if there's a workaround!"
   },
   {
-   "cat": "trending: Autos (GB)",
-   "video": "We ATTEMPTED 1000 Miles In Our Cheap Crashed Cars!",
-   "url": "https://youtu.be/C58fRaUwADI",
+   "cat": "creators & sellers",
+   "video": "The Best AI Side Hustles To Start If You're BROKE",
+   "url": "https://youtu.be/8NvhbfZNTrc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "The Jag is probably mostly reparable - but definitely not worth it. Also that corrosion around the sunroof \ud83d\ude10  The TT is rather tasty however. Fix the roof, tidy up the smashed rear fog lamp, not bad."
-  },
-  {
-   "cat": "trending: Sports (GB)",
-   "video": "Gabby Agbonlahor examines Man City's 'sham' finances \ud83d\udcb0\ud83d\ude33 #football #mancity #manchestercity",
-   "url": "https://youtu.be/BEQ8q9meAHM",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Anyone who doesn't think ADUG is not in effect the UAE govt, is living under a rock. Also it's not just about where the money came from, it's whether the sponsorship amounts represented reasonable rates for the benefit. If the sponsorship value was eg 25m but they received 100m then it's a scam and a sham to bypass funding rules."
+   "text": "Love you love your videos, thanks for putting this content out there.  I want to start now, October 2026, and want to get REALLY clear on YouTube\u2019s terms and conditions now about monetization, and AI content especially. I\u2019ve heard YouTube has removed earning possibilities from many niches and types of videos. Could you pls tell us if all this still works? Scared of putting so much effort into some"
   },
   {
    "cat": "personal finance & admin",
@@ -223,6 +211,17 @@
    "text": "No bro it\u2019s just waste of money I use both whoop and rep still I prefer whoop instead of rep sometimes it shows wrong data and didn\u2019t detect work outs"
   },
   {
+   "cat": "personal finance & admin",
+   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
+   "url": "https://youtu.be/GztWQ5bWZvA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I actually was gifted $1000 out of the blue a few months ago (my great grandpa died and I didn't realized he left me some inheritance!) It was a very shockingly pleasant surprise! I spent $200 on some items I had been wanting for a while and the rest got invested!"
+  },
+  {
    "cat": "investing & crypto",
    "video": "Crypto Trading Tax India | How to file ITR For Crypto Trading | Delta Exchange ITR Filing",
    "url": "https://youtu.be/dIy-zD7T19M",
@@ -234,48 +233,48 @@
    "text": "bitbns scam ke wajah se usme 16890 withdraw processing me hai since 16 july 2025 se mere account me aya nhi hai aur itr ke ais me add bhi ho gaya hai 17023 rs aur 170 tds. please help karo kya karna chahiye kuch mila hi nhi to tax kaise bharu."
   },
   {
-   "cat": "trending: Gaming (US)",
-   "video": "THERE HASN\u2019T BEEN A CROSSOVER THIS COLD SINCE JIMMY AND TIMMY! (Gang Beasts and Fall Guys)",
-   "url": "https://youtu.be/N-AN3o_hkpM",
+   "cat": "creators & sellers",
+   "video": "Amazon Influencer Product Research! (Complete A to Z Masterclass)",
+   "url": "https://youtu.be/luCuSzRfbIQ",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Dylan needs to play the scam with friends game"
+   "text": "What are your thoughts on thumbnails for Amazon review? Effective? Waste of time? Similar approach to YouTube or different?"
   },
   {
-   "cat": "trending: Gaming (US)",
-   "video": "THERE HASN\u2019T BEEN A CROSSOVER THIS COLD SINCE JIMMY AND TIMMY! (Gang Beasts and Fall Guys)",
-   "url": "https://youtu.be/N-AN3o_hkpM",
+   "cat": "personal finance & admin",
+   "video": "\u20b930K for a Screenless Watch? | WHOOP 5.0 Peak Health & Fitness Tracker",
+   "url": "https://youtu.be/DxwuHi5ziRs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "play \"Scam with your Friends\""
+   "text": "Anna Burger King scam pathi pesunga na"
   },
   {
-   "cat": "trending: Pets (US)",
-   "video": "I Went To A Capybara Cafe!",
-   "url": "https://youtu.be/zP3iyQFKfaU",
+   "cat": "creators & sellers",
+   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
+   "url": "https://youtu.be/2TnzXTzJ-N4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "19.7 for some Squishies? Absolutely a scam"
+   "text": "It seems like in phone the Amazon KDP page doesn't work"
   },
   {
-   "cat": "trending: Howto & Style (US)",
-   "video": "Toucan Gets A Custom Artificial Beak \ud83d\ude0c",
-   "url": "https://youtu.be/MSPVq-5sbCg",
+   "cat": "creators & sellers",
+   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
+   "url": "https://youtu.be/2TnzXTzJ-N4",
    "signals": [
-    "link_ask"
+    "result_report"
    ],
-   "score": 0.3,
+   "score": 1.5,
    "likes": 0,
-   "text": "What was it? And where can i find the owner for a little chat?"
+   "text": "I tried at least for me did not work. Even did funnels and ads and nothing."
   }
  ]
 }

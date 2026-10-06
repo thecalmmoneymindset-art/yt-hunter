@@ -3,11 +3,11 @@ Sites today: webapps, academia, islam, sports, homebrew, interpersonal | window:
 
 Fetch errors: none
 
-## webapps (30 unanswered popular questions; API quota left: 295)
+## webapps (30 unanswered popular questions; API quota left: 299)
 Repeated phrases: none
 
 - 1 votes, 356 views — [Personal Gmail + business email merged, how to separate?](https://webapps.stackexchange.com/questions/182311/personal-gmail-business-email-merged-how-to-separate) — tags: gmail, google-workspace, google-account
-- 3 votes, 324 views — [Endless console spam from https://static.licdn.com/aero-v1/sc/h/... on linkedin.com — Chrome only](https://webapps.stackexchange.com/questions/182298/endless-console-spam-from-https-static-licdn-com-aero-v1-sc-h-on-linkedin) — tags: google-chrome, linkedin
+- 3 votes, 325 views — [Endless console spam from https://static.licdn.com/aero-v1/sc/h/... on linkedin.com — Chrome only](https://webapps.stackexchange.com/questions/182298/endless-console-spam-from-https-static-licdn-com-aero-v1-sc-h-on-linkedin) — tags: google-chrome, linkedin
 - 5 votes, 315 views — [How disable the "Pin Copilot Chat for quick access" popup?](https://webapps.stackexchange.com/questions/181903/how-disable-the-pin-copilot-chat-for-quick-access-popup) — tags: microsoft-teams
 - 3 votes, 172 views — [Select all messages from a search query in Proton Mail](https://webapps.stackexchange.com/questions/182150/select-all-messages-from-a-search-query-in-proton-mail) — tags: protonmail
 - 4 votes, 171 views — [How to ban Copilot from GitHub repo?](https://webapps.stackexchange.com/questions/182412/how-to-ban-copilot-from-github-repo) — tags: github
@@ -17,7 +17,7 @@ Repeated phrases: none
 - 3 votes, 73 views — [Show only a single transit route selection in Google Maps](https://webapps.stackexchange.com/questions/182082/show-only-a-single-transit-route-selection-in-google-maps) — tags: google-maps, google-transit
 - 1 votes, 70 views — [How do I search Facebook Marketplace for recent trending sold items?](https://webapps.stackexchange.com/questions/182448/how-do-i-search-facebook-marketplace-for-recent-trending-sold-items) — tags: facebook, facebook-marketplace
 
-## academia (26 unanswered popular questions; API quota left: 294)
+## academia (26 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
 - 4 votes, 796 views — [Are arXiv "on-hold" review delays lengthening following the July 2026 Cornell spin-out?](https://academia.stackexchange.com/questions/227260/are-arxiv-on-hold-review-delays-lengthening-following-the-july-2026-cornell-sp) — tags: publications, research-process, computer-science, arxiv
@@ -31,7 +31,7 @@ Repeated phrases: none
 - 2 votes, 274 views — [The correct approach when in doubt with a co-author](https://academia.stackexchange.com/questions/225459/the-correct-approach-when-in-doubt-with-a-co-author) — tags: conference, authorship
 - 3 votes, 270 views — [Finding an internship in Physics or Mathematics after master's program](https://academia.stackexchange.com/questions/223853/finding-an-internship-in-physics-or-mathematics-after-masters-program) — tags: phd, mathematics, physics, internship
 
-## islam (30 unanswered popular questions; API quota left: 293)
+## islam (30 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
 - 1 votes, 475 views — [What is the authenticity and source of the dua “اللهم لك الحمد كله…” attributed to Hudhayfah (RA)?](https://islam.stackexchange.com/questions/89778/what-is-the-authenticity-and-source-of-the-dua-%d8%a7%d9%84%d9%84%d9%87%d9%85-%d9%84%d9%83-%d8%a7%d9%84%d8%ad%d9%85%d8%af-%d9%83%d9%84%d9%87-attributed) — tags: hadith, dua, reference-request
@@ -45,7 +45,7 @@ Repeated phrases: none
 - 1 votes, 43 views — [Hadith of a Companion(ra) of Prophet Muhammad(saw. The companion(ra) was near death and spoke of the world being like smoke](https://islam.stackexchange.com/questions/91381/hadith-of-a-companionra-of-prophet-muhammadsaw-the-companionra-was-near-de) — tags: hadith, source-identification, reference-request
 - 1 votes, 43 views — [Starting reciting tashahud after sajda sahw](https://islam.stackexchange.com/questions/91018/starting-reciting-tashahud-after-sajda-sahw) — tags: hadith, fiqh, sunni, usool-ul-fiqh
 
-## sports (5 unanswered popular questions; API quota left: 292)
+## sports (5 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
 - 0 votes, 245 views — [What historical FIFA documents support Uruguay's right to display four stars on its national team crest?](https://sports.stackexchange.com/questions/30298/what-historical-fifa-documents-support-uruguays-right-to-display-four-stars-on) — tags: football, olympics, world-cup, fifa
@@ -54,12 +54,12 @@ Repeated phrases: none
 - 2 votes, 64 views — [Why was the California Iron Man swam with the stream?](https://sports.stackexchange.com/questions/30169/why-was-the-california-iron-man-swam-with-the-stream) — tags: swimming, triathlon
 - 1 votes, 38 views — [Which cyclist has won the greatest proportion of stages in a 3 week Grand Tour?](https://sports.stackexchange.com/questions/30213/which-cyclist-has-won-the-greatest-proportion-of-stages-in-a-3-week-grand-tour) — tags: cycling, tour-de-france
 
-## homebrew (2 unanswered popular questions; API quota left: 291)
+## homebrew (2 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
 - 0 votes, 35 views — [Dunkelweizen comes out like a stout](https://homebrew.stackexchange.com/questions/27319/dunkelweizen-comes-out-like-a-stout) — tags: airlock, stout
 - 0 votes, 27 views — [Does anyone know of valved stoppers being available?](https://homebrew.stackexchange.com/questions/27304/does-anyone-know-of-valved-stoppers-being-available) — tags: bottling
 
-## interpersonal (0 unanswered popular questions; API quota left: 290)
+## interpersonal (0 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 

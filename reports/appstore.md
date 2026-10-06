@@ -12,8 +12,8 @@ Read the table as: many ratings = proven demand; a low average = unhappy custome
 | [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 251583 | 4.77257 | Free | 31 | 7 |
 | [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 391332 | 4.82069 | £5.99 | 0 | 0 |
 | [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 183870 | 4.76551 | Free | 10 | 3 |
-| [SpotHero: #1 Rated Parking App](https://apps.apple.com/us/app/spothero-1-rated-parking-app/id499097243?uo=4) (us) | 420352 | 4.8619 | Free | 16 | 6 |
 | [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187743 | 4.80731 | Free | 48 | 16 |
+| [MileIQ: Mileage Tracker & Log](https://apps.apple.com/us/app/mileiq-mileage-tracker-log/id578830929?uo=4) (us) | 114197 | 4.76483 | Free | 20 | 6 |
 | [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 127703 | 4.8408 | Free | 30 | 8 |
 
 Repeated complaint phrases: none yet
@@ -23,7 +23,7 @@ Repeated complaint phrases: none yet
 - PayByPhone Parking, 2 star: "App is very buggy - The app used to be quite reliable, but now it's quite buggy, after trying multiple times with different payment methods, it could not complete payment, claiming "something went wrong". I wasted valuable time trying to make it work which made me late for a meeting. Next time, will"
 - PayByPhone Parking, 1 star: "Too expensive - I live in Newham’s should not be paying this much to park"
 - PayByPhone Parking, 1 star: "SMS message scam - A feature like chargeable SMS messages should be turned OFF by default, not suddenly enabled, otherwise users like me feel scammed.  I have complained to Derbyshire Council that they are enabling you to commit an SMS scam on unsuspecting users who are just trying to park. Disgrace"
-- SpotHero: #1 Rated Parking App, 1 star: "Expensive Bug - Made a reservation under the wrong car because of a silly bug in the app. Ended up costing me an $88 parking ticket. Users beware, check you have the correct car. I added the car I was using and the app overrides it and put it under my “default” car instead. Even though I added and s"
+- ParkNYC Powered by Flowbird, 1 star: "The app is lagging - I don’t understand this app I pay as soon as it’s the screen off it disappears and then I cannot find in my account that I pay. Parking makes me pay again."
 
 ## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
@@ -35,9 +35,9 @@ Read the table as: many ratings = proven demand; a low average = unhappy custome
 | [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1815412 | 4.8967 | Free | 22 | 6 |
 | [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 351655 | 4.82305 | Free | 21 | 6 |
 | [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 95698 | 4.76783 | Free | 36 | 4 |
-| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 221898 | 4.85576 | Free | 31 | 7 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 221908 | 4.85578 | Free | 31 | 7 |
 | [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 89297 | 4.82448 | Free | 17 | 5 |
-| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 97878 | 4.91338 | Free | 31 | 10 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 97902 | 4.91336 | Free | 31 | 10 |
 
 Repeated complaint phrases: over and over (3); card to apple (3)
 
