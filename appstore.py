@@ -2,14 +2,14 @@
 """App Store review miner. Uses Apple's PUBLIC iTunes Search API and public customer-review RSS feeds (no key, no login).
 Rotates keyword groups daily. For each keyword: finds top apps, reads recent 1-3 star reviews, and reports
 what paying users complain about (missing features, price/subscription, bugs). Output: reports/appstore.md
-Env: MOCK=1 (offline sample), COUNTRIES (default gb,us), GROUPS_PER_DAY (default 4), APPS_PER_TERM (default 5), PAGES (default 2)."""
+Env: MOCK=1 (offline sample), COUNTRIES (default gb,us), GROUPS_PER_DAY (default 2), APPS_PER_TERM (default 5), PAGES (default 1)."""
 import os, re, json, time, math, collections, datetime as dt, urllib.parse, urllib.request, urllib.error
 
 COUNTRIES = [c for c in os.environ.get("COUNTRIES", "gb,us").split(",") if c]
-GROUPS_PER_DAY = int(os.environ.get("GROUPS_PER_DAY", "4"))
+GROUPS_PER_DAY = int(os.environ.get("GROUPS_PER_DAY", "2"))
 APPS_PER_TERM = int(os.environ.get("APPS_PER_TERM", "5"))
-PAGES = int(os.environ.get("PAGES", "2"))
-SLEEP = float(os.environ.get("SLEEP", "3"))   # polite: Apple rate-limits search (~20/min)
+PAGES = int(os.environ.get("PAGES", "1"))
+SLEEP = float(os.environ.get("SLEEP", "2"))   # polite: Apple rate-limits search (~20/min)
 GROUPS = {
   "money & budgeting": ["budget planner", "debt payoff", "subscription tracker", "bill reminder", "expense tracker"],
   "small business & freelance": ["invoice maker", "quote estimate contractor", "job scheduling small business", "timesheet freelancer", "receipt scanner"],
@@ -88,7 +88,7 @@ def analyse(group, fetch_search=search_apps, fetch_reviews=reviews):
                 ERRORS.append("search %s/%s: %s" % (term, country, e))
             time.sleep(SLEEP)
     rows = []
-    for (aid, country), a in sorted(apps.items(), key=lambda kv: -kv[1].get("userRatingCount", 0))[:14]:
+    for (aid, country), a in sorted(apps.items(), key=lambda kv: -kv[1].get("userRatingCount", 0))[:8]:
         try:
             rv = fetch_reviews(aid, country)
         except Exception as e:
