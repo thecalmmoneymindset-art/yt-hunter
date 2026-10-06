@@ -15,7 +15,7 @@ jobs:
         timeout-minutes: 5
         continue-on-error: true
         run: python hunter.py
-        env: {YOUTUBE_API_KEY: "${{ secrets.YOUTUBE_API_KEY }}"}
+        env: {YOUTUBE_API_KEY: "${{ secrets.YOUTUBE_API_KEY }}", POPULAR: "0"}
       - name: App Store reviews
         timeout-minutes: 5
         continue-on-error: true
