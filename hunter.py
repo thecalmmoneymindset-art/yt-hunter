@@ -95,7 +95,7 @@ def api(path, **p):
     p["key"] = KEY
     url = "https://www.googleapis.com/youtube/v3/%s?%s" % (path, urllib.parse.urlencode(p))
     global QUOTA_HIT
-    BENIGN = ("commentsdisabled", "videonotfound", "processingfailure", "forbidden")  # normal for some videos, not a scan failure
+    BENIGN = ("commentsdisabled", "videonotfound", "processingfailure", "forbidden", "notfound")  # normal for some videos, not a scan failure
     for attempt in (1, 2):
         try:
             with urllib.request.urlopen(url, timeout=15) as r:
