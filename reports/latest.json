@@ -1,280 +1,578 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "rows": [
   {
-   "cat": "personal finance & admin",
-   "video": "June: Monthly Review - Budget vs Actual Numbers - Another Credit Card PAID! - Debt Payoff Journey",
-   "url": "https://youtu.be/Ixp57zYkyVY",
+   "cat": "photography & video",
+   "video": "Claude Code (Free Plan) + YouTube = $77,000/Month",
+   "url": "https://youtu.be/WVT2FCjhDDY",
    "signals": [
-    "manual_pain"
+    "ask_for_tool"
    ],
-   "score": 5.97,
-   "likes": 3,
-   "text": "I have a total of three zero interest loans that come due Aug, September and January with house taxes in September too. So I started doing Shipt again and DD 3 weeks ago and my first zero loan will be paid next month! It is a relief knowing it will be made on time. I have a projected budget on a spreadsheet and update my side hustle money as it comes in. I can see for months if I am going to be sh"
+   "score": 8.26,
+   "likes": 9,
+   "text": "The Zapi Flow extension makes image-generations per prompt instead of one , and the results comes as \"FAILED\", is there any way to fix that? It takes double the time its supposed to plus its actually freaking me out  Does it happen to anybody else?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Noise REP top 5 features \ud83d\ude0d | #noiserep #fitnessband #topfeatures #noise",
-   "url": "https://youtu.be/i6eeDOVMank",
+   "cat": "resellers & second-hand",
+   "video": "THE CHEAPEST RESELLING PLATFORM ISN'T WHAT YOU THINK (FT35)",
+   "url": "https://youtu.be/yYD_T1e2Jss",
+   "signals": [
+    "would_pay",
+    "result_report"
+   ],
+   "score": 7.62,
+   "likes": 1,
+   "text": "I would pay ebay 5% more in selling fees if they would just get back to fair practices. Sellers who list with a good description, good price and good service should be rewarded.  The Promotional fees are a scam and no matter what you do with that our sales our compromised because they are controlling the views to our listings."
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
+   "url": "https://youtu.be/NnvRMs_0UQ8",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 7.42,
+   "likes": 14,
+   "text": "This is exactly what I've been building but seedance kling and other video generators only do 15 seconds so creating 1 minute and not to mention 10 minute videos takes days for me. I wish there was a way to render longer videos. Love the workflow and i picked up a couple ideas. keep up the great work and i've learned a lot from your videos"
+  },
+  {
+   "cat": "photography & video",
+   "video": "L8 Principal's Agentic Engineering Workflow",
+   "url": "https://youtu.be/iQyg-KypKAA",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 7.16,
+   "likes": 3,
+   "text": "You know, you see all the positive comments and no negative comments and think \u201cThere\u2019s something wrong\u201d  Nope! This is hands down, the single most informative video I\u2019ve ever watched. I would happily pay for a course on how to do this & maintain code quality while doing this."
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
+   "url": "https://youtu.be/8H4jPOngSf4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 6.98,
+   "likes": 5,
+   "text": "How is the name of the app"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
+   "url": "https://youtu.be/_9YXliQTAkg",
    "signals": [
     "result_report"
    ],
-   "score": 5.23,
-   "likes": 11,
-   "text": "Its a scam by Noise. The band is out of stock and the free straps is out of stock too. What their production team ate before going live should be a case study."
+   "score": 6.39,
+   "likes": 25,
+   "text": "This will likely not get monetized at all. Even if it does get monetized, YouTube may later demonetize it for \u201clow effort\u201d content. Without genuine human effort and original value, YouTube doesn\u2019t give much value to this type of content anymore. It\u2019s a waste of time."
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Google Fitbit Air \u2013 30 Days Later: An Honest Review",
-   "url": "https://youtu.be/d4vHsbRWKfk",
+   "cat": "fashion & clothing",
+   "video": "Turn you wardrobe into outfits with Essembl App#style #ootd #stylingtips",
+   "url": "https://youtu.be/ef__JCr5mS0",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "The name of the app is essembl"
+  },
+  {
+   "cat": "photography & video",
+   "video": "L8 Principal's Agentic Engineering Workflow",
+   "url": "https://youtu.be/iQyg-KypKAA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.46,
+   "likes": 13,
+   "text": "This might work for games or worthless apps that you create from scratch but this just doesnt work with real systems that must comply with regulations or integrate to old systems. Software development is not about code generation its about program correctness, managing complexity and security"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Code (Free Plan) + YouTube = $77,000/Month",
+   "url": "https://youtu.be/WVT2FCjhDDY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.35,
+   "likes": 12,
+   "text": "im trying to use the zapi flow extension, but it doesnt work  i put all the prompts or upload the file, but it only generates one image, and when it generates, it doenst download it and generate a new one, just stay the message: \"Prompt 1 submitted \u2014 waiting for generation\u2026\"  it doesnt download when its generated, and keeps regenerating the same prompt"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
+   "url": "https://youtu.be/8H4jPOngSf4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "I also have same iPad can you tell me what app is best for free notes \ud83c\udf37\ud83c\udfb6"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Spent $380 on an Abandoned Unit & Found REAL DIAMONDS ",
+   "url": "https://youtu.be/SDiHh7qgbqE",
    "signals": [
     "would_pay"
    ],
    "score": 5.08,
    "likes": 1,
-   "text": "I'd buy it if it was better and if it wasn't google"
+   "text": "I have horses....That saddle ain't worth much....just give it to me, i will pay shipping....hahahaha....nice unit"
   },
   {
-   "cat": "languages & translation",
-   "video": "I Created The ULTIMATE Reading App For Language Learners",
-   "url": "https://youtu.be/UwLa-P3Tf4Y",
+   "cat": "resellers & second-hand",
+   "video": "Cracking little Carboot  Sale Haul: Old Tool Haul",
+   "url": "https://youtu.be/acn-8xb-0Fc",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 5.08,
+   "likes": 1,
+   "text": "\u00a350 for engineers tool box , I'd pay that , good buy my friend"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "WED 109 P2  Car Boot Sale \"what's in the box\"",
+   "url": "https://youtu.be/p_O53Ldv_Bw",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 5.08,
+   "likes": 1,
+   "text": "Hi John if u want to sell the more and wright tap handle I will buy it off u please"
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.8,
+   "likes": 8,
+   "text": "Man I wish it were this easy but in order to get shots you have to create alot of these clips and Ive copied and pasted the exact prompt and it still does not work properly. Your out of credits very quickly and Im on the highest subscription. we need better pricing"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "I\u2019ve joined Vinted a month ago. In between last month and this month, I made $104.60 combined."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "Vinted is not for your expensive items. If you want to get rid of your death pile then this is the place. For the first week I made $212 which surprised me. But with all the cheap prices I had it kept me busy because I was shipping like crazy everyday. Good luck trying to sell anything for more than $40."
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "KDP Royalty Change Authors Wanted for Years | Self-Publishing News (July 9, 2026)",
+   "url": "https://youtu.be/ePj0m6H2sAo",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.42,
+   "likes": 6,
+   "text": "0:00 Intro 0:31 Dibbly Create 2:16 KDP Community: The 70% eBook Royalty Option price band has expanded to $2.99\u2013$12.99 4:15 Kindlepreneur: How to Fill in Your 7 KDP Keyword Boxes 5:05 Kindlepreneur: How to Find Amazon Book Categories Most Authors Miss 5:48 The Authors Guild: Publishing Scam Alerts 7:24 Laterpress: Collaborative Writing with the Enhanced Laterpress Assistant 8:18 Voices by INAudio:"
+  },
+  {
+   "cat": "photography & video",
+   "video": "8 months with Tourbox Elite Plus",
+   "url": "https://youtu.be/HQ4tjhYJDK4",
    "signals": [
     "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "definitely need audio to play with your reading to hear correct pronunciation, really helps in french with liaison, encha\u00eenement, and \u00e9lision. I hate having to buy the book and the audio separately\u2026double money for something that should be together."
+   "text": "I thought you didn't edit manually no more ! All those fancy ai tools you got !  So which one is it !? Do you edit \"Thousands\" of images or do you not !? Don't bother answering that ! It's all sponsor bull anyway we get it \ud83d\ude06"
   },
   {
-   "cat": "creators & sellers",
-   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
-   "url": "https://youtu.be/JrFZ_ky7AzE",
+   "cat": "resellers & second-hand",
+   "video": "Should I Sell on Vinted?  Open Reseller Discussion about this Growing Platform",
+   "url": "https://youtu.be/y6yhzqP4iUo",
    "signals": [
     "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "thank you for your work. you helping a lot. I will try your book creation pipeline. I use python deepseek API keys and Jason file book outline and I do the draft manually for days and input my own voice. I instruct the model to preserver 70% of my voice and style I, first show it my style and sent me habits and all. the output is better than letting AI too free to invovate sentences that may destr"
+   "text": "I have a 2 fold strategy with Vinted. I source for my whatnot shows and manually list lower value items or my own pieces over there. I also use Nifty and wish they were integrated. I have a separate bin for just vinted inventory."
   },
   {
-   "cat": "creators & sellers",
-   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
-   "url": "https://youtu.be/_r6_rs-MbQk",
+   "cat": "photography & video",
+   "video": "Sick of PAYING MONTHLY?  The best LIGHTROOM ALTERNATIVE in 2026.",
+   "url": "https://youtu.be/Y4GtUw3QoCM",
    "signals": [
-    "manual_pain"
+    "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "Thanks for the video. Does your MCP also support the EU, UK, Canada, Australia, and Japan marketplaces, or only the US?  Also, is it possible to retrieve ANY information that can normally be downloaded from Amazon reports, including all advertising reports, Brand Analytics data, business reports, fulfillment data, and similar reports?  One final question: assuming I have already built my own tool "
+   "text": "It looks like the promo codes have weird interactions if youre trying to purchase a bundle where you will get just a few % off vs the 15 or 20. Does anyone know if that is expected?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Noise Rep Fitness Tracker First Impressions And Hands On | Exclusively On Business Today",
-   "url": "https://youtu.be/rpimWKfLZMU",
+   "cat": "photography & video",
+   "video": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
+   "url": "https://youtu.be/CHHH8tNioSc",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Is there a way to keep audio consistent across multiple generations? the character voices and all."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
    "signals": [
     "result_report"
    ],
    "score": 4.19,
    "likes": 5,
-   "text": "Made in india h to scam hi hoga, china usa ka hota to thoda trust kar sakte the"
+   "text": "EBay always has a scam on the go. Holding your selling funds too long, automatic refunds without heating seller story, promotion costs nibbling into your seller costs and profits. EBay needs a wake up call"
   },
   {
-   "cat": "creators & sellers",
-   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
-   "url": "https://youtu.be/JrFZ_ky7AzE",
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Never trusted AI detectors because they are massively flawed and Panscam is just as flawed. I'm not going to dumb down my writing to appease that snake oil salesman Max Spero and his scam. Let the reader decide if it's good or trash, not some software. Like you mentioned, we've been doing this for years without Panscam."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "I\u2019ve done pretty well with my lower cost slow moving eBay items on Vinted, as others have. I\u2019ve sold around 20 items with an average  profit of $9 per item. Yesterday I sold an eBay item for $12 and after regular fees and promoted fees, I made less than $8! I think people forget that the fees on tax and shipping bump it up much higher than the 13.6% base fees, especially for low cost or heavy item"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "It seems like it would be nearly impossible to make any money on Vinted.  Sellers really lowball their items into ridiculousness, so it seems like a waste of time."
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
    "signals": [
     "result_report"
    ],
    "score": 3.58,
    "likes": 3,
-   "text": "I like this. Its not a get rich quick scam."
+   "text": "For an experiment, I typed in a page from a Sanderson novel, and the Substack AI detector said it was only 55% Human. There is no way that can be true. Sanderson does love his em dashes, so that's probably why. AI detectors are a scam, and all writers hurt by them need to sue!"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Google Fitbit Air Review: Better Than WHOOP?",
-   "url": "https://youtu.be/RII47rv_6FQ",
+   "cat": "fashion & clothing",
+   "video": "Turn your wardrobe into outfits with Essembl app #styletips #outfitideas #ootd",
+   "url": "https://youtu.be/ylIIRBY3g9M",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "What's the price for fitbit air"
+   "score": 3.15,
+   "likes": 2,
+   "text": "It is a huge big big big scam. He tells you that you don\u2019t have to pay and then when you download the app you have to pay like $10."
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
-   "url": "https://youtu.be/GztWQ5bWZvA",
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "I'd buy coilovers for my car to get that baby up and running for when I get back to the states."
+   "score": 3.15,
+   "likes": 2,
+   "text": "I have tried Vinted. It is not reseller friendly. I keep my listing numbers down to fly under their radar. Currently, Vinted is running a 99-cent special for all shipping. Buyers are motivated to buy. I am certain that when the special runs out, things will go back to normal. I do not bump listings. That upfront fee gets expensive. Vinted and Depop buyers are about the same group. I will continue "
   },
   {
-   "cat": "personal finance & admin",
-   "video": "WHOOP Killer Is Here - Google FitBit Air Unboxing & First Look?\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-   "url": "https://youtu.be/5dABaqFNRhc",
+   "cat": "writing & publishing",
+   "video": "Why Smart Authors Aren't Worried About AI",
+   "url": "https://youtu.be/_eCckkUWYDk",
    "signals": [
-    "would_pay"
+    "result_report"
    ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "Hey gaurav please send to me I will pay you for this"
+   "score": 2.54,
+   "likes": 1,
+   "text": "For writing, I prefer Claude Projects in the primary system. While the formal automations in all their forms are great for scientific tasks like programming or creating documentation, the ecosystem is fundamentally different. Also, the process of writing is different. With the primary system project, you form a history and working relationship with the models that has more or less become seamless "
   },
   {
-   "cat": "creators & sellers",
-   "video": "I Automated My Entire Etsy POD Business with AI (INSANE!)",
-   "url": "https://youtu.be/Kr5bzmAmJyg",
+   "cat": "smart home & gadgets",
+   "video": "\ud83e\udd2f \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0b99\u0bcd\u0b95 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0bbe \ud83d\ude31 iPhone Type-C Problem! #shorts",
+   "url": "https://youtu.be/1bBS5MQcQx4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "\ud83c\udf4ewaste of money,worthless except performance and camera,no features, simply waste.  Android is best and full freedom and features with budget friendly"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Sick of PAYING MONTHLY?  The best LIGHTROOM ALTERNATIVE in 2026.",
+   "url": "https://youtu.be/Y4GtUw3QoCM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "The subscription model of Adobe kept me away from ever giving it a chance, Darktable was okay but slow to use and lacked good noise reduction, and Nikon Studio didn't work great when I primarily moved to Lumix G M4/3 - DxO was found as a great alternative.   As a user of DxO Photolab for several years now, it is super exciting to see it in use in your videos! Even with just this quick intro video,"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "People expect Vinted garage sale prices. Waste of time."
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
+   "url": "https://youtu.be/0vQ7UEe7rLg",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "what is the name of this app"
+   "text": "Is there a way to use effects between scenes?"
   },
   {
-   "cat": "creators & sellers",
-   "video": "Fastest Way to Make 100 Print on Demand Products",
-   "url": "https://youtu.be/otG_z8u9K-4",
+   "cat": "photography & video",
+   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
+   "url": "https://youtu.be/0vQ7UEe7rLg",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Is there a way to get the mockup generator to mockup your shirts  if your doing physical and not POD ?"
+   "text": "Is there any way you can remove that gemini ai icon cz it looks so annoying?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Google Fitbit Air Review: Better Than WHOOP?",
-   "url": "https://youtu.be/RII47rv_6FQ",
+   "cat": "photography & video",
+   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
+   "url": "https://youtu.be/NnvRMs_0UQ8",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What is the tool used to create the voice references?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Make Long AI Videos FREE\ud83d\udd25One Click, Voice + Lip Sync\u2728AI Video kaise banaye \ud83d\udd25FREE AI Video Generator",
+   "url": "https://youtu.be/xpHmIfpaqlA",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What's the app name for making ai video"
+  },
+  {
+   "cat": "fashion & clothing",
+   "video": "I Organized My ENTIRE Closet Into an App\u2026 Now I Can\u2019t Stop Making Outfits \ud83d\udcf2\ud83d\udc5a",
+   "url": "https://youtu.be/D2YabM7yIsM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I\u2019m not sure if I missed it but what\u2019s the name of the app!? I had tried looking for one a while ago and gave up but definitely need to try that\ud83d\ude4c\ud83c\udffc"
+  },
+  {
+   "cat": "fashion & clothing",
+   "video": "I Organized My ENTIRE Closet Into an App\u2026 Now I Can\u2019t Stop Making Outfits \ud83d\udcf2\ud83d\udc5a",
+   "url": "https://youtu.be/D2YabM7yIsM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Ok but what\u2019s the name of the app?"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "60% off + Free Ship = Depop Sales! What I Sold on Vinted, Depop, eBay, Mercari, Poshmark, and Etsy",
+   "url": "https://youtu.be/3N_rGBebU2Q",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "For me the Fitbit air didn\u2019t auto detect playing badminton and I tired to log it manually or start manually but I didn\u2019t see badminton under activities section. Can you let me know, how I can track it. Thank You!!"
+   "text": "Hi Gretchen!  The insertion fee on Etsy is $0.20 per listing for 4 months.  You can select (manually renew listing) instead of automatically renew listing when you are creating the listing (at the very bottom).  For me, if something is priced $20.00 or more, I don't mind paying $0.80 a year to keep the listing active.  If under $20.00 I won't renew the listing (I always select manually renew) if t"
   },
   {
-   "cat": "investing & crypto",
-   "video": "Introducing ZAR 2.0 | Powerful Portfolio Tracking & Management",
-   "url": "https://youtu.be/xpeIhv0vOjU",
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "It won't be as simple as that, at least as shown here right? Which you already use so many credits already. Also how did the character sound so much like your original sound? Is there a way to do this or is  it edited? I do really appreciate the realistic tips like grey background, framing the location and etc. that works more effectively. I think it would be more useful for us to find easier ways"
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I track my stocks on excel only - how do I upload it on Zar via one file only instead of adding each stock individually?"
+   "text": "i just want to know the if utilized Soul ID instead of manually creating characters/elements, what the pros and cons would be."
   },
   {
-   "cat": "creators & sellers",
-   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
-   "url": "https://youtu.be/_r6_rs-MbQk",
+   "cat": "beauty & personal care",
+   "video": "Sell THIS AI Receptionist to Salons for $997/mo (n8n + Retell AI)",
+   "url": "https://youtu.be/mTfwBmWZQec",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "How do you upscale images for Amazon starting from the 1254 px output generated by ChatGPT Images? What tool do you use to reach 3000 px, or what final resolution do you typically use for Amazon listing images? Thank you"
+   "text": "thank you for this awesome guide! is there a way to use Retell if my preferred language is not listed in the voice options? like Arabic?"
   },
   {
-   "cat": "creators & sellers",
-   "video": "How To Use Claude AI to Create 100 Trendy T-Shirt Designs in Minutes (Print on Demand)",
-   "url": "https://youtu.be/koDGW5JGm9k",
+   "cat": "writing & publishing",
+   "video": "Best iPad Case for Productivity: MOFT Dynamic Folio \ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udcf1\u270d\ud83c\udffc",
+   "url": "https://youtu.be/_AVC6i7IiCQ",
    "signals": [
-    "ask_for_tool"
+    "wish_build"
    ],
-   "score": 2.5,
+   "score": 2.0,
    "likes": 0,
-   "text": "Quick question \u2014 is there a way to edit the font after the design is already generated? I'm trying to change the typography on my AI-generated designs but the text isn't selectable. Would love to know if there's a workaround!"
+   "text": "I wish there was something like this for the galaxy tabs"
   },
   {
-   "cat": "creators & sellers",
-   "video": "The Best AI Side Hustles To Start If You're BROKE",
-   "url": "https://youtu.be/8NvhbfZNTrc",
+   "cat": "music & podcasting",
+   "video": "Can The OBSBOT Talent 2 Replace An Entire Podcast Studio?",
+   "url": "https://youtu.be/jHrwNtdjbXg",
    "signals": [
-    "result_report"
+    "wish_build"
    ],
-   "score": 1.5,
+   "score": 2.0,
    "likes": 0,
-   "text": "Love you love your videos, thanks for putting this content out there.  I want to start now, October 2026, and want to get REALLY clear on YouTube\u2019s terms and conditions now about monetization, and AI content especially. I\u2019ve heard YouTube has removed earning possibilities from many niches and types of videos. Could you pls tell us if all this still works? Scared of putting so much effort into some"
+   "text": "That\u2019s cool I wish I could afford one for my set up"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "The Subscription Free Fitness Band \ud83e\udd2f #shorts #noise #noiserep #REPBand #fitnessbands",
-   "url": "https://youtu.be/RCHjBnhm-RU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "No bro it\u2019s just waste of money I use both whoop and rep still I prefer whoop instead of rep sometimes it shows wrong data and didn\u2019t detect work outs"
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
-   "url": "https://youtu.be/GztWQ5bWZvA",
+   "cat": "writing & publishing",
+   "video": "\u201cI Can\u2019t Afford to Self-Publish\u201d \u2014 Yes, You Can",
+   "url": "https://youtu.be/X4vHkh6WDZY",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I actually was gifted $1000 out of the blue a few months ago (my great grandpa died and I didn't realized he left me some inheritance!) It was a very shockingly pleasant surprise! I spent $200 on some items I had been wanting for a while and the rest got invested!"
+   "text": "When you said, what's the name? What's the term? My mind instantly said scam, and then you said it. L o l"
   },
   {
-   "cat": "investing & crypto",
-   "video": "Crypto Trading Tax India | How to file ITR For Crypto Trading | Delta Exchange ITR Filing",
-   "url": "https://youtu.be/dIy-zD7T19M",
+   "cat": "writing & publishing",
+   "video": "How to Find UNTAPPED Amazon KDP Keywords in Seconds Using AI",
+   "url": "https://youtu.be/fPnFZ3eoJGI",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "bitbns scam ke wajah se usme 16890 withdraw processing me hai since 16 july 2025 se mere account me aya nhi hai aur itr ke ais me add bhi ho gaya hai 17023 rs aur 170 tds. please help karo kya karna chahiye kuch mila hi nhi to tax kaise bharu."
+   "text": "Awesome way to create value quickly and reduce waste of time and money! Thanks for the great video Sean."
   },
   {
-   "cat": "creators & sellers",
-   "video": "Amazon Influencer Product Research! (Complete A to Z Masterclass)",
-   "url": "https://youtu.be/luCuSzRfbIQ",
+   "cat": "photography & video",
+   "video": "How to Use ComfyUI (Step-by-Step Tutorial)",
+   "url": "https://youtu.be/hl7kwMwkLJU",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "What are your thoughts on thumbnails for Amazon review? Effective? Waste of time? Similar approach to YouTube or different?"
+   "text": "Hey i gotta say, when i first downloaded comfyui when it first came out, the process was super long and annoying, and if you missed one step you'd basically have to do everything over again. This was buttery smooth and I'm glad comfyui is becoming more easily accessible and easy to use. The only issue i ran into is when following older tutorials there are some out dated workflows that i just can't"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "\u20b930K for a Screenless Watch? | WHOOP 5.0 Peak Health & Fitness Tracker",
-   "url": "https://youtu.be/DxwuHi5ziRs",
+   "cat": "photography & video",
+   "video": "Master AI Filmmaking in 30 Minutes - Advanced AI Video Course",
+   "url": "https://youtu.be/e9ZupmL9BcM",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Anna Burger King scam pathi pesunga na"
+   "score": 0.63,
+   "likes": 2,
+   "text": "Where can I find the MD file?"
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "writing & publishing",
+   "video": "AI Tools Ranked Round 2: Learning, Video, Design, Productivity",
+   "url": "https://youtu.be/JS78u9kC-84",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "It seems like in phone the Amazon KDP page doesn't work"
+   "score": 0.51,
+   "likes": 1,
+   "text": "Where can I find your follow ups? I write the code words but I don\u2019t receive anything???"
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "resellers & second-hand",
+   "video": "Work with me VLOG | I'm Changing EVERYTHING | New Inventory System",
+   "url": "https://youtu.be/lXXVIC8RNgs",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
+   "score": 0.3,
    "likes": 0,
-   "text": "I tried at least for me did not work. Even did funnels and ads and nothing."
+   "text": "Can you share the link to purchase the same hanging racks? I would love to have those in my personal closet."
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
+   "url": "https://youtu.be/NnvRMs_0UQ8",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "where can I download the Claud Md file?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
+   "url": "https://youtu.be/_9YXliQTAkg",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "That's a great sharing. Where can I get your guide?"
   }
  ]
 }

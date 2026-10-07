@@ -1,65 +1,86 @@
-# Stack Exchange unmet-needs report — 2026-10-06
-Sites today: webapps, academia, islam, sports, homebrew, interpersonal | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-10-07
+Sites today: softwarerecs, money, diy, pets, gardening, cooking | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## webapps (30 unanswered popular questions; API quota left: 299)
+## softwarerecs (30 unanswered popular questions; API quota left: 299)
 Repeated phrases: none
 
-- 1 votes, 356 views — [Personal Gmail + business email merged, how to separate?](https://webapps.stackexchange.com/questions/182311/personal-gmail-business-email-merged-how-to-separate) — tags: gmail, google-workspace, google-account
-- 3 votes, 325 views — [Endless console spam from https://static.licdn.com/aero-v1/sc/h/... on linkedin.com — Chrome only](https://webapps.stackexchange.com/questions/182298/endless-console-spam-from-https-static-licdn-com-aero-v1-sc-h-on-linkedin) — tags: google-chrome, linkedin
-- 5 votes, 315 views — [How disable the "Pin Copilot Chat for quick access" popup?](https://webapps.stackexchange.com/questions/181903/how-disable-the-pin-copilot-chat-for-quick-access-popup) — tags: microsoft-teams
-- 3 votes, 172 views — [Select all messages from a search query in Proton Mail](https://webapps.stackexchange.com/questions/182150/select-all-messages-from-a-search-query-in-proton-mail) — tags: protonmail
-- 4 votes, 171 views — [How to ban Copilot from GitHub repo?](https://webapps.stackexchange.com/questions/182412/how-to-ban-copilot-from-github-repo) — tags: github
-- 1 votes, 160 views — [If I block someone on X, and then I mention them on my post, will they get notified?](https://webapps.stackexchange.com/questions/182345/if-i-block-someone-on-x-and-then-i-mention-them-on-my-post-will-they-get-notif) — tags: x.com
-- 2 votes, 149 views — [Can Slack’s “Double-check this link” warning be disabled for internal links/IP addresses?](https://webapps.stackexchange.com/questions/182278/can-slack-s-double-check-this-link-warning-be-disabled-for-internal-links-ip-a) — tags: slack
-- 3 votes, 128 views — [GMail adds extra spaces when copy/pasting text](https://webapps.stackexchange.com/questions/181862/gmail-adds-extra-spaces-when-copy-pasting-text) — tags: gmail
-- 3 votes, 73 views — [Show only a single transit route selection in Google Maps](https://webapps.stackexchange.com/questions/182082/show-only-a-single-transit-route-selection-in-google-maps) — tags: google-maps, google-transit
-- 1 votes, 70 views — [How do I search Facebook Marketplace for recent trending sold items?](https://webapps.stackexchange.com/questions/182448/how-do-i-search-facebook-marketplace-for-recent-trending-sold-items) — tags: facebook, facebook-marketplace
+- 2 votes, 234 views — [App that allows me to share keyboard/mouse with an Android device](https://softwarerecs.stackexchange.com/questions/93825/app-that-allows-me-to-share-keyboard-mouse-with-an-android-device) — tags: android, remote-desktop
+- 4 votes, 113 views — [Linux GUI link creation tool like Link Shell Extension on Windows](https://softwarerecs.stackexchange.com/questions/93807/linux-gui-link-creation-tool-like-link-shell-extension-on-windows) — tags: linux, file-management
+- 2 votes, 112 views — [Is there a free, self-contained application for Windows 10 to translate sentences from French to English offline with no administrative rights?](https://softwarerecs.stackexchange.com/questions/95342/is-there-a-free-self-contained-application-for-windows-10-to-translate-sentence) — tags: windows, gratis, offline, translation
+- 4 votes, 102 views — [Tool for visualizing interdependent structs, enums, pointers, etc. within a large C codebase](https://softwarerecs.stackexchange.com/questions/94913/tool-for-visualizing-interdependent-structs-enums-pointers-etc-within-a-larg) — tags: c, embedded-systems, static-analysis, static-code-analysis
+- 2 votes, 74 views — [Extension to highlight text in Firefox/Chrome on Android and search Wikipedia](https://softwarerecs.stackexchange.com/questions/94953/extension-to-highlight-text-in-firefox-chrome-on-android-and-search-wikipedia) — tags: android, chrome, firefox
+- 1 votes, 67 views — [Cast local media file to chromecast from Android, FOSS](https://softwarerecs.stackexchange.com/questions/95454/cast-local-media-file-to-chromecast-from-android-foss) — tags: gratis, android, open-source, vlc
+- 3 votes, 64 views — [Software to detect "fake" characters](https://softwarerecs.stackexchange.com/questions/94966/software-to-detect-fake-characters) — tags: windows, gratis, offline, spam
+- 2 votes, 64 views — [Music streaming app with "vibe" customization](https://softwarerecs.stackexchange.com/questions/95331/music-streaming-app-with-vibe-customization) — tags: android, music
+- 1 votes, 61 views — [Android app for digitizing books & photo albums](https://softwarerecs.stackexchange.com/questions/95524/android-app-for-digitizing-books-photo-albums) — tags: android, photography, scanning, books
+- 2 votes, 60 views — [Software to enhance German text for TTS](https://softwarerecs.stackexchange.com/questions/94991/software-to-enhance-german-text-for-tts) — tags: windows, gratis, offline, text-processing
 
-## academia (26 unanswered popular questions; API quota left: 298)
+## money (14 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
-- 4 votes, 796 views — [Are arXiv "on-hold" review delays lengthening following the July 2026 Cornell spin-out?](https://academia.stackexchange.com/questions/227260/are-arxiv-on-hold-review-delays-lengthening-following-the-july-2026-cornell-sp) — tags: publications, research-process, computer-science, arxiv
-- 0 votes, 693 views — [Number of PhD positions for Fall 2026 Cycle (US)](https://academia.stackexchange.com/questions/223921/number-of-phd-positions-for-fall-2026-cycle-us) — tags: phd, graduate-admissions, united-states, funding
-- 3 votes, 392 views — [What causes an arXiv submission in a pure mathematics category to be held for more than a week?](https://academia.stackexchange.com/questions/227625/what-causes-an-arxiv-submission-in-a-pure-mathematics-category-to-be-held-for-mo) — tags: mathematics, paper-submission, arxiv, preprint
-- 3 votes, 382 views — [When is it worth inviting collaborators onto a paper I have already drafted?](https://academia.stackexchange.com/questions/225549/when-is-it-worth-inviting-collaborators-onto-a-paper-i-have-already-drafted) — tags: authorship, writing, collaboration, changing-fields
-- 1 votes, 367 views — [Different manuscript statuses between SNAPP and Editorial Manager (Springer)](https://academia.stackexchange.com/questions/226208/different-manuscript-statuses-between-snapp-and-editorial-manager-springer) — tags: publications, peer-review, journals, paper-submission
-- 5 votes, 300 views — [Rights of applicants for W positions in Germany seeking information](https://academia.stackexchange.com/questions/226928/rights-of-applicants-for-w-positions-in-germany-seeking-information) — tags: career-path, germany
-- 2 votes, 292 views — [When should I send e-mail to a potential supervisor if I want to start an individual PhD in April 2027? [Germany]](https://academia.stackexchange.com/questions/224241/when-should-i-send-e-mail-to-a-potential-supervisor-if-i-want-to-start-an-indivi) — tags: phd, germany, social-science
-- 1 votes, 279 views — [Strategy for comparing yourself to other researchers in a faculty application](https://academia.stackexchange.com/questions/221668/strategy-for-comparing-yourself-to-other-researchers-in-a-faculty-application) — tags: citations, application, tenure-track, faculty-application
-- 2 votes, 274 views — [The correct approach when in doubt with a co-author](https://academia.stackexchange.com/questions/225459/the-correct-approach-when-in-doubt-with-a-co-author) — tags: conference, authorship
-- 3 votes, 270 views — [Finding an internship in Physics or Mathematics after master's program](https://academia.stackexchange.com/questions/223853/finding-an-internship-in-physics-or-mathematics-after-masters-program) — tags: phd, mathematics, physics, internship
+- 0 votes, 188 views — [Can I write off my YouTube startup costs as my company expenses?](https://money.stackexchange.com/questions/169197/can-i-write-off-my-youtube-startup-costs-as-my-company-expenses) — tags: united-states, tax-deduction, self-employment, expenses
+- 0 votes, 185 views — [Is there an accessible way to purchase surrogacy insurance?](https://money.stackexchange.com/questions/169199/is-there-an-accessible-way-to-purchase-surrogacy-insurance) — tags: united-states, insurance, life-insurance
+- 1 votes, 184 views — [Does SIPC protect securities that are rehypothecated because you have a margin balance?](https://money.stackexchange.com/questions/166826/does-sipc-protect-securities-that-are-rehypothecated-because-you-have-a-margin-b) — tags: united-states, brokerage, margin, sipc
+- 0 votes, 182 views — [How do I remove payees in gnucash?](https://money.stackexchange.com/questions/169278/how-do-i-remove-payees-in-gnucash) — tags: gnucash
+- 1 votes, 157 views — [Are UK pension overpayments recoverable where the pension scheme itself calculated and confirmed the amount?](https://money.stackexchange.com/questions/169604/are-uk-pension-overpayments-recoverable-where-the-pension-scheme-itself-calculat) — tags: united-kingdom, pension, mistakes
+- 0 votes, 153 views — [How can a European invest in Swiss stocks using Swiss Francs?](https://money.stackexchange.com/questions/169563/how-can-a-european-invest-in-swiss-stocks-using-swiss-francs) — tags: stocks, currency, europe, switzerland
+- 4 votes, 126 views — [How to invest long-term when moving countries frequently?](https://money.stackexchange.com/questions/169996/how-to-invest-long-term-when-moving-countries-frequently) — tags: investing, united-kingdom, financial-literacy, international
+- 0 votes, 113 views — [What is the SIFMA to SOFR ratio?](https://money.stackexchange.com/questions/168040/what-is-the-sifma-to-sofr-ratio) — tags: interest-rate, municipal-bonds, swaps
+- -1 votes, 111 views — [Has anyone had a PayPal dispute reopened for manual review?](https://money.stackexchange.com/questions/170016/has-anyone-had-a-paypal-dispute-reopened-for-manual-review) — tags: paypal
+- 0 votes, 95 views — [Do personal AGI limits apply to Commercial clean vehicle credit (45W) [Schedule C filer for tax year 2024]?](https://money.stackexchange.com/questions/166823/do-personal-agi-limits-apply-to-commercial-clean-vehicle-credit-45w-schedule) — tags: united-states, taxes, credit, small-business
 
-## islam (30 unanswered popular questions; API quota left: 297)
+## diy (30 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
-- 1 votes, 475 views — [What is the authenticity and source of the dua “اللهم لك الحمد كله…” attributed to Hudhayfah (RA)?](https://islam.stackexchange.com/questions/89778/what-is-the-authenticity-and-source-of-the-dua-%d8%a7%d9%84%d9%84%d9%87%d9%85-%d9%84%d9%83-%d8%a7%d9%84%d8%ad%d9%85%d8%af-%d9%83%d9%84%d9%87-attributed) — tags: hadith, dua, reference-request
-- 1 votes, 103 views — [Can we shave this part of the beard](https://islam.stackexchange.com/questions/91189/can-we-shave-this-part-of-the-beard) — tags: halal-haram, fatwa, beard
-- 1 votes, 94 views — [Is it Permissible to Follow Different Ramadhan Start and Eid Dates Due to Work and Hometown Differences?](https://islam.stackexchange.com/questions/91183/is-it-permissible-to-follow-different-ramadhan-start-and-eid-dates-due-to-work-a) — tags: ramadan, eid
-- 1 votes, 67 views — [Video game containing an ability with a shirk name](https://islam.stackexchange.com/questions/91312/video-game-containing-an-ability-with-a-shirk-name) — tags: fatwa
-- 0 votes, 54 views — [Is it Permissible for a Muslim Woman to Have Her Breast Examined by a Male Doctor Due to an Emergency?](https://islam.stackexchange.com/questions/91655/is-it-permissible-for-a-muslim-woman-to-have-her-breast-examined-by-a-male-docto) — tags: sharia, medical
-- 1 votes, 52 views — [Lawful killing of a convicted murderer](https://islam.stackexchange.com/questions/89799/lawful-killing-of-a-convicted-murderer) — tags: practical-islam, sharia
-- 1 votes, 44 views — [is it haram to buy counterfeit goods](https://islam.stackexchange.com/questions/91571/is-it-haram-to-buy-counterfeit-goods) — tags: halal-haram, sharia, allah, prophet-muhammad
-- 1 votes, 44 views — [Do the first 11 ayats of surah Mu-Minoon count for those who have repented](https://islam.stackexchange.com/questions/90963/do-the-first-11-ayats-of-surah-mu-minoon-count-for-those-who-have-repented) — tags: quran, tafseer, tawba
-- 1 votes, 43 views — [Hadith of a Companion(ra) of Prophet Muhammad(saw. The companion(ra) was near death and spoke of the world being like smoke](https://islam.stackexchange.com/questions/91381/hadith-of-a-companionra-of-prophet-muhammadsaw-the-companionra-was-near-de) — tags: hadith, source-identification, reference-request
-- 1 votes, 43 views — [Starting reciting tashahud after sajda sahw](https://islam.stackexchange.com/questions/91018/starting-reciting-tashahud-after-sajda-sahw) — tags: hadith, fiqh, sunni, usool-ul-fiqh
+- 2 votes, 338 views — [Is it a problem that rebar was cut in an exterior brick wall?](https://diy.stackexchange.com/questions/329461/is-it-a-problem-that-rebar-was-cut-in-an-exterior-brick-wall) — tags: brick, masonry, rebar
+- 2 votes, 315 views — [How to remove floor drain cover](https://diy.stackexchange.com/questions/324816/how-to-remove-floor-drain-cover) — tags: plumbing, drain, floor
+- 6 votes, 267 views — [How can I identify the manufacturer and model/date of this electrical panel?](https://diy.stackexchange.com/questions/328779/how-can-i-identify-the-manufacturer-and-model-date-of-this-electrical-panel) — tags: electrical, electrical-panel
+- 3 votes, 266 views — [How long should I run fans on drywall after flooding?](https://diy.stackexchange.com/questions/326269/how-long-should-i-run-fans-on-drywall-after-flooding) — tags: water-damage
+- 2 votes, 197 views — [Penetration through complicated wall](https://diy.stackexchange.com/questions/329476/penetration-through-complicated-wall) — tags: walls, garage, ethernet
+- 2 votes, 180 views — [New boiler to support DHW (indirect tank) and 16 zones of in concrete radiant heat](https://diy.stackexchange.com/questions/330773/new-boiler-to-support-dhw-indirect-tank-and-16-zones-of-in-concrete-radiant-he) — tags: boiler, radiant-heating
+- 2 votes, 177 views — [Is my drain and vent layout for a two level cabin reasonable?](https://diy.stackexchange.com/questions/325996/is-my-drain-and-vent-layout-for-a-two-level-cabin-reasonable) — tags: plumbing, drain, vent
+- 3 votes, 166 views — [Is it normal for the fan to turn off before the compressor with a heat pump?](https://diy.stackexchange.com/questions/326413/is-it-normal-for-the-fan-to-turn-off-before-the-compressor-with-a-heat-pump) — tags: hvac, heat-pump
+- 2 votes, 159 views — [How to wire this compressor motor to 240V](https://diy.stackexchange.com/questions/326999/how-to-wire-this-compressor-motor-to-240v) — tags: electrical, electric-motor, air-compressor
+- 2 votes, 146 views — [Do I need to replace one or both capacitors in my inoperative ceiling fan?](https://diy.stackexchange.com/questions/329620/do-i-need-to-replace-one-or-both-capacitors-in-my-inoperative-ceiling-fan) — tags: ceiling-fan, capacitor
 
-## sports (5 unanswered popular questions; API quota left: 296)
+## pets (8 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
-- 0 votes, 245 views — [What historical FIFA documents support Uruguay's right to display four stars on its national team crest?](https://sports.stackexchange.com/questions/30298/what-historical-fifa-documents-support-uruguays-right-to-display-four-stars-on) — tags: football, olympics, world-cup, fifa
-- 1 votes, 80 views — [How long was Virat Kohli able to maintain 50+ Avg. in all 3 formats of test, ODI and T20 I &Did any other international player maintained such record?](https://sports.stackexchange.com/questions/30254/how-long-was-virat-kohli-able-to-maintain-50-avg-in-all-3-formats-of-test-odi) — tags: cricket, statistics, records
-- 2 votes, 67 views — [NBA Rule: Distinction Between Stopping the Clock and Resetting Time After a Foul](https://sports.stackexchange.com/questions/30197/nba-rule-distinction-between-stopping-the-clock-and-resetting-time-after-a-foul) — tags: nba, game-time
-- 2 votes, 64 views — [Why was the California Iron Man swam with the stream?](https://sports.stackexchange.com/questions/30169/why-was-the-california-iron-man-swam-with-the-stream) — tags: swimming, triathlon
-- 1 votes, 38 views — [Which cyclist has won the greatest proportion of stages in a 3 week Grand Tour?](https://sports.stackexchange.com/questions/30213/which-cyclist-has-won-the-greatest-proportion-of-stages-in-a-3-week-grand-tour) — tags: cycling, tour-de-france
+- 5 votes, 71 views — [What should I be looking out for when getting a small breed puppy?](https://pets.stackexchange.com/questions/39675/what-should-i-be-looking-out-for-when-getting-a-small-breed-puppy) — tags: dogs
+- 0 votes, 67 views — [there is a big red mass under my turtles tail](https://pets.stackexchange.com/questions/39601/there-is-a-big-red-mass-under-my-turtles-tail) — tags: turtles
+- 1 votes, 58 views — [How to prevent a dog from eating stones?](https://pets.stackexchange.com/questions/39642/how-to-prevent-a-dog-from-eating-stones) — tags: dogs
+- 2 votes, 47 views — [How can I protect my 5 month old British field Lab’s joints as he grows?](https://pets.stackexchange.com/questions/39569/how-can-i-protect-my-5-month-old-british-field-lab-s-joints-as-he-grows) — tags: health, puppy
+- 0 votes, 44 views — [Dog shoes for summer heat?](https://pets.stackexchange.com/questions/39668/dog-shoes-for-summer-heat) — tags: dogs
+- 2 votes, 39 views — [Introducing 2 pairs of cats gone wrong since october](https://pets.stackexchange.com/questions/39688/introducing-2-pairs-of-cats-gone-wrong-since-october) — tags: cats
+- 0 votes, 38 views — [What Size Crate for Two Large Cats in Hold](https://pets.stackexchange.com/questions/39700/what-size-crate-for-two-large-cats-in-hold) — tags: cats, health, safety, travel
+- 2 votes, 32 views — [When should we introduce a new sugar glider when one of the pair may be dying soon?](https://pets.stackexchange.com/questions/39630/when-should-we-introduce-a-new-sugar-glider-when-one-of-the-pair-may-be-dying-so) — tags: multi-pet-families, introducing-pets, death, exotic-pets
 
-## homebrew (2 unanswered popular questions; API quota left: 295)
+## gardening (30 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
-- 0 votes, 35 views — [Dunkelweizen comes out like a stout](https://homebrew.stackexchange.com/questions/27319/dunkelweizen-comes-out-like-a-stout) — tags: airlock, stout
-- 0 votes, 27 views — [Does anyone know of valved stoppers being available?](https://homebrew.stackexchange.com/questions/27304/does-anyone-know-of-valved-stoppers-being-available) — tags: bottling
+- 3 votes, 108 views — [Do dandelions help or inhibit the growth of white clover?](https://gardening.stackexchange.com/questions/70847/do-dandelions-help-or-inhibit-the-growth-of-white-clover) — tags: clover, dandelions
+- 2 votes, 103 views — [What's causing the dark blotches on my camellia?](https://gardening.stackexchange.com/questions/70712/whats-causing-the-dark-blotches-on-my-camellia) — tags: camellia
+- 2 votes, 85 views — [Citrus trees are flowering early](https://gardening.stackexchange.com/questions/70443/citrus-trees-are-flowering-early) — tags: trees
+- 3 votes, 82 views — [Silver maple sawdust](https://gardening.stackexchange.com/questions/70936/silver-maple-sawdust) — tags: diagnosis, tree-care, insects
+- 2 votes, 81 views — [Why is my lawn not germinating?](https://gardening.stackexchange.com/questions/70902/why-is-my-lawn-not-germinating) — tags: grass, germination
+- 5 votes, 78 views — [Help- avocado plant looks like it’s dying](https://gardening.stackexchange.com/questions/70946/help-avocado-plant-looks-like-it-s-dying) — tags: diagnosis, plant-health, plant-care, plant-recommendations
+- 2 votes, 77 views — [What is this small citrus plant?](https://gardening.stackexchange.com/questions/70761/what-is-this-small-citrus-plant) — tags: identification, citrus
+- 2 votes, 77 views — [Revive a dying rose](https://gardening.stackexchange.com/questions/70399/revive-a-dying-rose) — tags: plant-care, insects, roses
+- 4 votes, 71 views — [My live oak is dying and has several bare branches. Why?](https://gardening.stackexchange.com/questions/70701/my-live-oak-is-dying-and-has-several-bare-branches-why) — tags: identification
+- 3 votes, 65 views — [Why is my plant losing so many leaves?](https://gardening.stackexchange.com/questions/70787/why-is-my-plant-losing-so-many-leaves) — tags: houseplants, plant-health, plant-care
 
-## interpersonal (0 unanswered popular questions; API quota left: 294)
+## cooking (23 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 
+- 3 votes, 731 views — [What happened to these carrots, have they gone bad?](https://cooking.stackexchange.com/questions/136530/what-happened-to-these-carrots-have-they-gone-bad) — tags: carrots
+- 6 votes, 519 views — [How safe is rice horchata?](https://cooking.stackexchange.com/questions/136766/how-safe-is-rice-horchata) — tags: food-safety, rice, drinks
+- 0 votes, 327 views — [White film on top of pickles](https://cooking.stackexchange.com/questions/135512/white-film-on-top-of-pickles) — tags: mold, pickles, lactofermentation
+- 1 votes, 277 views — [Strange precipitation in molten butter](https://cooking.stackexchange.com/questions/136798/strange-precipitation-in-molten-butter) — tags: food-safety, food-science, oil, butter
+- 1 votes, 227 views — [Thawed vacuum-sealed meat always seems to have tiny bubbles - safe or not?](https://cooking.stackexchange.com/questions/136579/thawed-vacuum-sealed-meat-always-seems-to-have-tiny-bubbles-safe-or-not) — tags: food-safety, meat, lamb, vacuum
+- 1 votes, 227 views — [What are the standard oven sizes (internal dimensions, gastronorm)](https://cooking.stackexchange.com/questions/136533/what-are-the-standard-oven-sizes-internal-dimensions-gastronorm) — tags: baking, oven, standards, gastronorm
+- 3 votes, 179 views — [How to reduce moisture and improve the texture of fresh pork sausage filling?](https://cooking.stackexchange.com/questions/136795/how-to-reduce-moisture-and-improve-the-texture-of-fresh-pork-sausage-filling) — tags: sausages, food-processing, charcuterie
+- 1 votes, 172 views — [What are these tiny white dots on my frozen shrimp?](https://cooking.stackexchange.com/questions/137173/what-are-these-tiny-white-dots-on-my-frozen-shrimp) — tags: shrimp
+- 1 votes, 145 views — [Concerns for small piece of plastic toothpick broken and fell into the hole of the tray holder](https://cooking.stackexchange.com/questions/137005/concerns-for-small-piece-of-plastic-toothpick-broken-and-fell-into-the-hole-of-t) — tags: baking, food-safety, temperature, oven
+- 0 votes, 145 views — [How long do shimeji mushrooms last unopened in the fridge?](https://cooking.stackexchange.com/questions/136974/how-long-do-shimeji-mushrooms-last-unopened-in-the-fridge) — tags: food-safety, mushrooms, packaging
