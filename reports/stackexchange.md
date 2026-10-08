@@ -1,86 +1,72 @@
-# Stack Exchange unmet-needs report — 2026-10-07
-Sites today: softwarerecs, money, diy, pets, gardening, cooking | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-10-08
+Sites today: parenting, travel, workplace, expatriates, bicycles, mechanics | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## softwarerecs (30 unanswered popular questions; API quota left: 299)
+## parenting (4 unanswered popular questions; API quota left: 299)
 Repeated phrases: none
 
-- 2 votes, 234 views — [App that allows me to share keyboard/mouse with an Android device](https://softwarerecs.stackexchange.com/questions/93825/app-that-allows-me-to-share-keyboard-mouse-with-an-android-device) — tags: android, remote-desktop
-- 4 votes, 113 views — [Linux GUI link creation tool like Link Shell Extension on Windows](https://softwarerecs.stackexchange.com/questions/93807/linux-gui-link-creation-tool-like-link-shell-extension-on-windows) — tags: linux, file-management
-- 2 votes, 112 views — [Is there a free, self-contained application for Windows 10 to translate sentences from French to English offline with no administrative rights?](https://softwarerecs.stackexchange.com/questions/95342/is-there-a-free-self-contained-application-for-windows-10-to-translate-sentence) — tags: windows, gratis, offline, translation
-- 4 votes, 102 views — [Tool for visualizing interdependent structs, enums, pointers, etc. within a large C codebase](https://softwarerecs.stackexchange.com/questions/94913/tool-for-visualizing-interdependent-structs-enums-pointers-etc-within-a-larg) — tags: c, embedded-systems, static-analysis, static-code-analysis
-- 2 votes, 74 views — [Extension to highlight text in Firefox/Chrome on Android and search Wikipedia](https://softwarerecs.stackexchange.com/questions/94953/extension-to-highlight-text-in-firefox-chrome-on-android-and-search-wikipedia) — tags: android, chrome, firefox
-- 1 votes, 67 views — [Cast local media file to chromecast from Android, FOSS](https://softwarerecs.stackexchange.com/questions/95454/cast-local-media-file-to-chromecast-from-android-foss) — tags: gratis, android, open-source, vlc
-- 3 votes, 64 views — [Software to detect "fake" characters](https://softwarerecs.stackexchange.com/questions/94966/software-to-detect-fake-characters) — tags: windows, gratis, offline, spam
-- 2 votes, 64 views — [Music streaming app with "vibe" customization](https://softwarerecs.stackexchange.com/questions/95331/music-streaming-app-with-vibe-customization) — tags: android, music
-- 1 votes, 61 views — [Android app for digitizing books & photo albums](https://softwarerecs.stackexchange.com/questions/95524/android-app-for-digitizing-books-photo-albums) — tags: android, photography, scanning, books
-- 2 votes, 60 views — [Software to enhance German text for TTS](https://softwarerecs.stackexchange.com/questions/94991/software-to-enhance-german-text-for-tts) — tags: windows, gratis, offline, text-processing
+- 1 votes, 146 views — [How do you explain your strong desire to have the baby sleep with you to your wife?](https://parenting.stackexchange.com/questions/47011/how-do-you-explain-your-strong-desire-to-have-the-baby-sleep-with-you-to-your-wi) — tags: newborn
+- 2 votes, 140 views — [What do about my son who is best friends with a largely unsupervised bad boy?](https://parenting.stackexchange.com/questions/46960/what-do-about-my-son-who-is-best-friends-with-a-largely-unsupervised-bad-boy) — tags: middle-childhood
+- 1 votes, 140 views — [How do I tell my mom and dad that I like a boy?](https://parenting.stackexchange.com/questions/47009/how-do-i-tell-my-mom-and-dad-that-i-like-a-boy) — tags: teen, parents, relationships, dating
+- 1 votes, 94 views — [2.5 year old son gets anxious and scratches ears then head and face once scared](https://parenting.stackexchange.com/questions/46923/2-5-year-old-son-gets-anxious-and-scratches-ears-then-head-and-face-once-scared) — tags: toddler, crying, fears, anxiety
 
-## money (14 unanswered popular questions; API quota left: 298)
+## travel (30 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
-- 0 votes, 188 views — [Can I write off my YouTube startup costs as my company expenses?](https://money.stackexchange.com/questions/169197/can-i-write-off-my-youtube-startup-costs-as-my-company-expenses) — tags: united-states, tax-deduction, self-employment, expenses
-- 0 votes, 185 views — [Is there an accessible way to purchase surrogacy insurance?](https://money.stackexchange.com/questions/169199/is-there-an-accessible-way-to-purchase-surrogacy-insurance) — tags: united-states, insurance, life-insurance
-- 1 votes, 184 views — [Does SIPC protect securities that are rehypothecated because you have a margin balance?](https://money.stackexchange.com/questions/166826/does-sipc-protect-securities-that-are-rehypothecated-because-you-have-a-margin-b) — tags: united-states, brokerage, margin, sipc
-- 0 votes, 182 views — [How do I remove payees in gnucash?](https://money.stackexchange.com/questions/169278/how-do-i-remove-payees-in-gnucash) — tags: gnucash
-- 1 votes, 157 views — [Are UK pension overpayments recoverable where the pension scheme itself calculated and confirmed the amount?](https://money.stackexchange.com/questions/169604/are-uk-pension-overpayments-recoverable-where-the-pension-scheme-itself-calculat) — tags: united-kingdom, pension, mistakes
-- 0 votes, 153 views — [How can a European invest in Swiss stocks using Swiss Francs?](https://money.stackexchange.com/questions/169563/how-can-a-european-invest-in-swiss-stocks-using-swiss-francs) — tags: stocks, currency, europe, switzerland
-- 4 votes, 126 views — [How to invest long-term when moving countries frequently?](https://money.stackexchange.com/questions/169996/how-to-invest-long-term-when-moving-countries-frequently) — tags: investing, united-kingdom, financial-literacy, international
-- 0 votes, 113 views — [What is the SIFMA to SOFR ratio?](https://money.stackexchange.com/questions/168040/what-is-the-sifma-to-sofr-ratio) — tags: interest-rate, municipal-bonds, swaps
-- -1 votes, 111 views — [Has anyone had a PayPal dispute reopened for manual review?](https://money.stackexchange.com/questions/170016/has-anyone-had-a-paypal-dispute-reopened-for-manual-review) — tags: paypal
-- 0 votes, 95 views — [Do personal AGI limits apply to Commercial clean vehicle credit (45W) [Schedule C filer for tax year 2024]?](https://money.stackexchange.com/questions/166823/do-personal-agi-limits-apply-to-commercial-clean-vehicle-credit-45w-schedule) — tags: united-states, taxes, credit, small-business
+- 12 votes, 935 views — [Am I safe to transit through Turkey as a non-binary person?](https://travel.stackexchange.com/questions/200435/am-i-safe-to-transit-through-turkey-as-a-non-binary-person) — tags: legal, turkey, insurance, turkish-airlines
+- 5 votes, 463 views — [Refusal of Entry stamp with code "b." from Germany](https://travel.stackexchange.com/questions/203499/refusal-of-entry-stamp-with-code-b-from-germany) — tags: schengen-visas, germany, denial-of-entry
+- 2 votes, 454 views — [UK Travel Visa rejected twice. Is there any realistic chance 3rd will be approved?](https://travel.stackexchange.com/questions/203334/uk-travel-visa-rejected-twice-is-there-any-realistic-chance-3rd-will-be-approve) — tags: uk, visa-refusals, standard-visitor-visas
+- 2 votes, 398 views — [Indonesian citizen, US green card holder, can I enter Korea visa-free?](https://travel.stackexchange.com/questions/203241/indonesian-citizen-us-green-card-holder-can-i-enter-korea-visa-free) — tags: transit-visas, south-korea, visa-free-entry, indonesian-citizens
+- 3 votes, 383 views — [Age 23, US SUV Rental](https://travel.stackexchange.com/questions/203607/age-23-us-suv-rental) — tags: usa, driving, car-rentals
+- 3 votes, 380 views — [Schengen passport control delays - Irish citizen](https://travel.stackexchange.com/questions/203851/schengen-passport-control-delays-irish-citizen) — tags: schengen
+- 5 votes, 376 views — [Is driving in Nevada in January a good idea?](https://travel.stackexchange.com/questions/200405/is-driving-in-nevada-in-january-a-good-idea) — tags: usa, driving, nevada
+- 3 votes, 357 views — [Impact of EES on connection times when entering Poland](https://travel.stackexchange.com/questions/203536/impact-of-ees-on-connection-times-when-entering-poland) — tags: short-connections, poland, waw, ees
+- 3 votes, 355 views — [Can a chargeback backfire even if justified?](https://travel.stackexchange.com/questions/204412/can-a-chargeback-backfire-even-if-justified) — tags: air-travel, lufthansa
+- 4 votes, 344 views — [Leaving the airport on a Sri Lanka Transit ETA](https://travel.stackexchange.com/questions/200398/leaving-the-airport-on-a-sri-lanka-transit-eta) — tags: transit-visas, sri-lanka, colombo
 
-## diy (30 unanswered popular questions; API quota left: 297)
+## workplace (0 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
-- 2 votes, 338 views — [Is it a problem that rebar was cut in an exterior brick wall?](https://diy.stackexchange.com/questions/329461/is-it-a-problem-that-rebar-was-cut-in-an-exterior-brick-wall) — tags: brick, masonry, rebar
-- 2 votes, 315 views — [How to remove floor drain cover](https://diy.stackexchange.com/questions/324816/how-to-remove-floor-drain-cover) — tags: plumbing, drain, floor
-- 6 votes, 267 views — [How can I identify the manufacturer and model/date of this electrical panel?](https://diy.stackexchange.com/questions/328779/how-can-i-identify-the-manufacturer-and-model-date-of-this-electrical-panel) — tags: electrical, electrical-panel
-- 3 votes, 266 views — [How long should I run fans on drywall after flooding?](https://diy.stackexchange.com/questions/326269/how-long-should-i-run-fans-on-drywall-after-flooding) — tags: water-damage
-- 2 votes, 197 views — [Penetration through complicated wall](https://diy.stackexchange.com/questions/329476/penetration-through-complicated-wall) — tags: walls, garage, ethernet
-- 2 votes, 180 views — [New boiler to support DHW (indirect tank) and 16 zones of in concrete radiant heat](https://diy.stackexchange.com/questions/330773/new-boiler-to-support-dhw-indirect-tank-and-16-zones-of-in-concrete-radiant-he) — tags: boiler, radiant-heating
-- 2 votes, 177 views — [Is my drain and vent layout for a two level cabin reasonable?](https://diy.stackexchange.com/questions/325996/is-my-drain-and-vent-layout-for-a-two-level-cabin-reasonable) — tags: plumbing, drain, vent
-- 3 votes, 166 views — [Is it normal for the fan to turn off before the compressor with a heat pump?](https://diy.stackexchange.com/questions/326413/is-it-normal-for-the-fan-to-turn-off-before-the-compressor-with-a-heat-pump) — tags: hvac, heat-pump
-- 2 votes, 159 views — [How to wire this compressor motor to 240V](https://diy.stackexchange.com/questions/326999/how-to-wire-this-compressor-motor-to-240v) — tags: electrical, electric-motor, air-compressor
-- 2 votes, 146 views — [Do I need to replace one or both capacitors in my inoperative ceiling fan?](https://diy.stackexchange.com/questions/329620/do-i-need-to-replace-one-or-both-capacitors-in-my-inoperative-ceiling-fan) — tags: ceiling-fan, capacitor
 
-## pets (8 unanswered popular questions; API quota left: 296)
+## expatriates (11 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
-- 5 votes, 71 views — [What should I be looking out for when getting a small breed puppy?](https://pets.stackexchange.com/questions/39675/what-should-i-be-looking-out-for-when-getting-a-small-breed-puppy) — tags: dogs
-- 0 votes, 67 views — [there is a big red mass under my turtles tail](https://pets.stackexchange.com/questions/39601/there-is-a-big-red-mass-under-my-turtles-tail) — tags: turtles
-- 1 votes, 58 views — [How to prevent a dog from eating stones?](https://pets.stackexchange.com/questions/39642/how-to-prevent-a-dog-from-eating-stones) — tags: dogs
-- 2 votes, 47 views — [How can I protect my 5 month old British field Lab’s joints as he grows?](https://pets.stackexchange.com/questions/39569/how-can-i-protect-my-5-month-old-british-field-lab-s-joints-as-he-grows) — tags: health, puppy
-- 0 votes, 44 views — [Dog shoes for summer heat?](https://pets.stackexchange.com/questions/39668/dog-shoes-for-summer-heat) — tags: dogs
-- 2 votes, 39 views — [Introducing 2 pairs of cats gone wrong since october](https://pets.stackexchange.com/questions/39688/introducing-2-pairs-of-cats-gone-wrong-since-october) — tags: cats
-- 0 votes, 38 views — [What Size Crate for Two Large Cats in Hold](https://pets.stackexchange.com/questions/39700/what-size-crate-for-two-large-cats-in-hold) — tags: cats, health, safety, travel
-- 2 votes, 32 views — [When should we introduce a new sugar glider when one of the pair may be dying soon?](https://pets.stackexchange.com/questions/39630/when-should-we-introduce-a-new-sugar-glider-when-one-of-the-pair-may-be-dying-so) — tags: multi-pet-families, introducing-pets, death, exotic-pets
+- 1 votes, 301 views — [Which countries in Southeast Asia have digital nomad visas?](https://expatriates.stackexchange.com/questions/28315/which-countries-in-southeast-asia-have-digital-nomad-visas) — tags: visa, digital-nomads
+- 0 votes, 95 views — [Should I actively reschedule delivery of a termination letter sent by DHL Express?](https://expatriates.stackexchange.com/questions/28312/should-i-actively-reschedule-delivery-of-a-termination-letter-sent-by-dhl-expres) — tags: germany, resident-permit
+- 0 votes, 88 views — [Greek citizen living in Estonia, applying for a US E1 visa](https://expatriates.stackexchange.com/questions/28361/greek-citizen-living-in-estonia-applying-for-a-us-e1-visa) — tags: usa, working-visas
+- 1 votes, 83 views — [Do I need an unlimited contract, or a minimum contract length for Permanent Residency in Germany (Niederlassungserlaubnis)?](https://expatriates.stackexchange.com/questions/28314/do-i-need-an-unlimited-contract-or-a-minimum-contract-length-for-permanent-resi) — tags: visa, germany, blue-card, residency
+- 1 votes, 76 views — [UK passport renewal for not-quite-expat](https://expatriates.stackexchange.com/questions/28335/uk-passport-renewal-for-not-quite-expat) — tags: united-kingdom, passport
+- 1 votes, 64 views — [Application for a long-stay working visa for France from Canada with maintained status](https://expatriates.stackexchange.com/questions/28506/application-for-a-long-stay-working-visa-for-france-from-canada-with-maintained) — tags: canada, france
+- 3 votes, 54 views — [Fate of leave extension when registered as citizen](https://expatriates.stackexchange.com/questions/28404/fate-of-leave-extension-when-registered-as-citizen) — tags: united-kingdom, uk-visa, uk-citizenship
+- 0 votes, 53 views — [Can I use my current Indian passport for UK Skilled Worker CoS and visa while passport renewal is in process (valid until 2026)?](https://expatriates.stackexchange.com/questions/28289/can-i-use-my-current-indian-passport-for-uk-skilled-worker-cos-and-visa-while-pa) — tags: united-kingdom, working-visas, passport
+- 0 votes, 48 views — [Question About International Driving Permit and B196 Extension While Living Abroad](https://expatriates.stackexchange.com/questions/28341/question-about-international-driving-permit-and-b196-extension-while-living-abro) — tags: germany, resident-permit, driving-license, driving
+- 0 votes, 30 views — [Permesso Soggiorno is Expired – Application for Short-Term Visa (Thesis Defense)](https://expatriates.stackexchange.com/questions/28333/permesso-soggiorno-is-expired-application-for-short-term-visa-thesis-defense) — tags: visa, resident-permit, italy
 
-## gardening (30 unanswered popular questions; API quota left: 295)
+## bicycles (30 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
-- 3 votes, 108 views — [Do dandelions help or inhibit the growth of white clover?](https://gardening.stackexchange.com/questions/70847/do-dandelions-help-or-inhibit-the-growth-of-white-clover) — tags: clover, dandelions
-- 2 votes, 103 views — [What's causing the dark blotches on my camellia?](https://gardening.stackexchange.com/questions/70712/whats-causing-the-dark-blotches-on-my-camellia) — tags: camellia
-- 2 votes, 85 views — [Citrus trees are flowering early](https://gardening.stackexchange.com/questions/70443/citrus-trees-are-flowering-early) — tags: trees
-- 3 votes, 82 views — [Silver maple sawdust](https://gardening.stackexchange.com/questions/70936/silver-maple-sawdust) — tags: diagnosis, tree-care, insects
-- 2 votes, 81 views — [Why is my lawn not germinating?](https://gardening.stackexchange.com/questions/70902/why-is-my-lawn-not-germinating) — tags: grass, germination
-- 5 votes, 78 views — [Help- avocado plant looks like it’s dying](https://gardening.stackexchange.com/questions/70946/help-avocado-plant-looks-like-it-s-dying) — tags: diagnosis, plant-health, plant-care, plant-recommendations
-- 2 votes, 77 views — [What is this small citrus plant?](https://gardening.stackexchange.com/questions/70761/what-is-this-small-citrus-plant) — tags: identification, citrus
-- 2 votes, 77 views — [Revive a dying rose](https://gardening.stackexchange.com/questions/70399/revive-a-dying-rose) — tags: plant-care, insects, roses
-- 4 votes, 71 views — [My live oak is dying and has several bare branches. Why?](https://gardening.stackexchange.com/questions/70701/my-live-oak-is-dying-and-has-several-bare-branches-why) — tags: identification
-- 3 votes, 65 views — [Why is my plant losing so many leaves?](https://gardening.stackexchange.com/questions/70787/why-is-my-plant-losing-so-many-leaves) — tags: houseplants, plant-health, plant-care
+- 7 votes, 428 views — [How is the shape of the lower derailler pulley important?](https://bicycles.stackexchange.com/questions/100584/how-is-the-shape-of-the-lower-derailler-pulley-important) — tags: derailleur-rear
+- 4 votes, 231 views — [what connector does my battery have](https://bicycles.stackexchange.com/questions/98729/what-connector-does-my-battery-have) — tags: electric-bike, charging
+- 4 votes, 204 views — [Shimano Di2 shifter problem - Shifter Battery Discharging Abnormally Quickly](https://bicycles.stackexchange.com/questions/99845/shimano-di2-shifter-problem-shifter-battery-discharging-abnormally-quickly) — tags: shifter, shimano-di2
+- 2 votes, 175 views — [What causes this clicking noise on my Cube Nuroad Pro 2026?](https://bicycles.stackexchange.com/questions/100558/what-causes-this-clicking-noise-on-my-cube-nuroad-pro-2026) — tags: hub, noise, gravel
+- 4 votes, 153 views — [What brand of BMX bike is this?](https://bicycles.stackexchange.com/questions/100102/what-brand-of-bmx-bike-is-this) — tags: identify-this-bike, bmx
+- 2 votes, 145 views — [Help with assembling back bottom bracket](https://bicycles.stackexchange.com/questions/100042/help-with-assembling-back-bottom-bracket) — tags: crankset, bottom-bracket, press-fit
+- 1 votes, 132 views — [Does standing a bike vertically cause hydraulic fluid to leak?](https://bicycles.stackexchange.com/questions/100244/does-standing-a-bike-vertically-cause-hydraulic-fluid-to-leak) — tags: disc-brake, hydraulic-disc-brake
+- 4 votes, 128 views — [Looking for folding bike stem without rise angle](https://bicycles.stackexchange.com/questions/100036/looking-for-folding-bike-stem-without-rise-angle) — tags: compatibility, parts, handlebars, stem
+- 1 votes, 116 views — [Can someone help me identify my Kona bike?](https://bicycles.stackexchange.com/questions/99931/can-someone-help-me-identify-my-kona-bike) — tags: mountain-bike, identify-this-bike
+- 2 votes, 113 views — [Problems switching gears with Shimano Alfine 11 speed internal gear hub in cold weather](https://bicycles.stackexchange.com/questions/100162/problems-switching-gears-with-shimano-alfine-11-speed-internal-gear-hub-in-cold) — tags: winter, lubricant, alfine
 
-## cooking (23 unanswered popular questions; API quota left: 294)
+## mechanics (30 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 
-- 3 votes, 731 views — [What happened to these carrots, have they gone bad?](https://cooking.stackexchange.com/questions/136530/what-happened-to-these-carrots-have-they-gone-bad) — tags: carrots
-- 6 votes, 519 views — [How safe is rice horchata?](https://cooking.stackexchange.com/questions/136766/how-safe-is-rice-horchata) — tags: food-safety, rice, drinks
-- 0 votes, 327 views — [White film on top of pickles](https://cooking.stackexchange.com/questions/135512/white-film-on-top-of-pickles) — tags: mold, pickles, lactofermentation
-- 1 votes, 277 views — [Strange precipitation in molten butter](https://cooking.stackexchange.com/questions/136798/strange-precipitation-in-molten-butter) — tags: food-safety, food-science, oil, butter
-- 1 votes, 227 views — [Thawed vacuum-sealed meat always seems to have tiny bubbles - safe or not?](https://cooking.stackexchange.com/questions/136579/thawed-vacuum-sealed-meat-always-seems-to-have-tiny-bubbles-safe-or-not) — tags: food-safety, meat, lamb, vacuum
-- 1 votes, 227 views — [What are the standard oven sizes (internal dimensions, gastronorm)](https://cooking.stackexchange.com/questions/136533/what-are-the-standard-oven-sizes-internal-dimensions-gastronorm) — tags: baking, oven, standards, gastronorm
-- 3 votes, 179 views — [How to reduce moisture and improve the texture of fresh pork sausage filling?](https://cooking.stackexchange.com/questions/136795/how-to-reduce-moisture-and-improve-the-texture-of-fresh-pork-sausage-filling) — tags: sausages, food-processing, charcuterie
-- 1 votes, 172 views — [What are these tiny white dots on my frozen shrimp?](https://cooking.stackexchange.com/questions/137173/what-are-these-tiny-white-dots-on-my-frozen-shrimp) — tags: shrimp
-- 1 votes, 145 views — [Concerns for small piece of plastic toothpick broken and fell into the hole of the tray holder](https://cooking.stackexchange.com/questions/137005/concerns-for-small-piece-of-plastic-toothpick-broken-and-fell-into-the-hole-of-t) — tags: baking, food-safety, temperature, oven
-- 0 votes, 145 views — [How long do shimeji mushrooms last unopened in the fridge?](https://cooking.stackexchange.com/questions/136974/how-long-do-shimeji-mushrooms-last-unopened-in-the-fridge) — tags: food-safety, mushrooms, packaging
+- 1 votes, 321 views — [Why use a separate heat pump for cabin heating an EV?](https://mechanics.stackexchange.com/questions/100760/why-use-a-separate-heat-pump-for-cabin-heating-an-ev) — tags: hvac, electric-vehicle
+- 2 votes, 178 views — [Re-programming a Ford PCM -- How to?](https://mechanics.stackexchange.com/questions/101864/re-programming-a-ford-pcm-how-to) — tags: ford, electronic-control-module, f-250
+- 1 votes, 151 views — [2014 Tundra 5.7 Camshaft Position Sensor trigger voltage](https://mechanics.stackexchange.com/questions/101963/2014-tundra-5-7-camshaft-position-sensor-trigger-voltage) — tags: toyota, obd-ii, tundra
+- 2 votes, 116 views — [2008 Imapala 3.5 liter engine noise](https://mechanics.stackexchange.com/questions/99575/2008-imapala-3-5-liter-engine-noise) — tags: engine, chevrolet, noise, impala
+- 1 votes, 115 views — [2011 Honda CRV DRL and High Beam not working after bulb replacement](https://mechanics.stackexchange.com/questions/101824/2011-honda-crv-drl-and-high-beam-not-working-after-bulb-replacement) — tags: honda, headlight, cr-v, daytime-running-lights
+- 1 votes, 113 views — [Mitsubishi Outlander 2010 Immobiliser Repair](https://mechanics.stackexchange.com/questions/100750/mitsubishi-outlander-2010-immobiliser-repair) — tags: mitsubishi, electronics, immobilizer, outlander
+- 2 votes, 108 views — [Sealing failure with MLS head gasket?](https://mechanics.stackexchange.com/questions/101976/sealing-failure-with-mls-head-gasket) — tags: head-gasket, jaguar
+- 1 votes, 86 views — [Nissa Versa (2008) makes front end banging noise on right tire side bumps](https://mechanics.stackexchange.com/questions/100754/nissa-versa-2008-makes-front-end-banging-noise-on-right-tire-side-bumps) — tags: noise, nissan, suspension, steering
+- 1 votes, 67 views — [Steering column creaking noise? Mazda CX-5 2017](https://mechanics.stackexchange.com/questions/102266/steering-column-creaking-noise-mazda-cx-5-2017) — tags: noise, mazda, cx5
+- 1 votes, 63 views — [What is missing from my 2014 VW Passat spare wheel well styrofoam insert tool organizer?](https://mechanics.stackexchange.com/questions/102077/what-is-missing-from-my-2014-vw-passat-spare-wheel-well-styrofoam-insert-tool-or) — tags: vw, passat, tool-identification

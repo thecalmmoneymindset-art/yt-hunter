@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-07
-Keyword groups today: money & budgeting, small business & freelance | countries: gb, us
+# App Store review report — 2026-10-08
+Keyword groups today: property & home, family & parenting | countries: gb, us
 Fetch errors: none
 
-## money & budgeting
+## property & home
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 396897 | 4.47506 | Free | 32 | 17 |
-| [Intuit Credit Karma](https://apps.apple.com/us/app/intuit-credit-karma/id519817714?uo=4) (us) | 7751185 | 4.84101 | Free | 26 | 3 |
-| [Albert: Budgeting and Banking](https://apps.apple.com/us/app/albert-budgeting-and-banking/id1057771088?uo=4) (us) | 336118 | 4.64912 | Free | 19 | 7 |
-| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 281971 | 4.65847 | Free | 43 | 19 |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 472803 | 4.7036 | Free | 25 | 10 |
-| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 157399 | 4.63088 | Free | 46 | 13 |
-| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 146610 | 4.85702 | Free | 13 | 3 |
-| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 112804 | 4.88985 | Free | 19 | 7 |
-
-Repeated complaint phrases: waste of money (3); canceling my membership (3); since the latest (3)
-
-- Microsoft Excel, 2 star: "Latest update is a disaster - Being able to save your work is a basic requirement. Ever since the latest update excel on ipad freezes on close or when saving manually. This is not fit for purpose and I’m rapidly losing confidence in excel. This used to be a fantastic tool, bring it back!"
-- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
-- Microsoft Excel, 1 star: "USELESS !!! - Latest update has made app non functional on iPad and has caused MAJOR issues for my company whose design consultants take measurements on this app and it loses all data that is input. Can’t begin to explain what a headache this has caused everyone. This is a global issue and it’s abso"
-- Microsoft Excel, 1 star: "Keeps Crashing Since the Last Update and Not Saving Work - I use this app regularly to update figures, I open spreadsheets from Dropbox. Since the last update it hangs closing the spreadsheet when I exit it to send it back to Dropbox. It just spins and I eventually have to close the app. The work is"
-- Microsoft Excel, 1 star: "Cannot save!! - Constantly freezes when I try to save, losing work consistently. Rubbish!"
-- Microsoft Excel, 1 star: "Does not save - needs to be fixed - Sack the developers and testers, the latest update has introduced fatal bugs - cannot save changes, cannot see contents of cells when editing"
-
-## small business & freelance
-Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
-
-| App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
-| --- | ---: | ---: | --- | ---: | ---: |
-| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4077863 | 4.78598 | Free | 37 | 14 |
-| [Fetch: Earn Rewards Every Day](https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4) (us) | 7733239 | 4.85126 | Free | 16 | 8 |
-| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1970882 | 4.79903 | Free | 18 | 4 |
-| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 270943 | 4.75049 | Free | 33 | 5 |
-| [Scanner App: Genius Scan](https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4) (us) | 1367036 | 4.89926 | Free | 5 | 2 |
-| [Fiverr - Freelance Services](https://apps.apple.com/us/app/fiverr-freelance-services/id346080608?uo=4) (us) | 573510 | 4.91671 | Free | 16 | 4 |
-| [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4) (gb) | 195275 | 4.83173 | Free | 0 | 0 |
-| [TurboScan™ Pro: PDF scanner](https://apps.apple.com/us/app/turboscan-pro-pdf-scanner/id342548956?uo=4) (us) | 296804 | 4.92321 | $12.99 | 1 | 0 |
+| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7237657 | 4.80014 | Free | 40 | 14 |
+| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 504021 | 4.69158 | Free | 0 | 0 |
+| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1642318 | 4.79922 | Free | 0 | 0 |
+| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1081175 | 4.78838 | Free | 0 | 0 |
+| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1414984 | 4.81655 | Free | 0 | 0 |
+| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 219685 | 4.73752 | Free | 0 | 0 |
+| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 324306 | 4.84323 | Free | 0 | 0 |
+| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 473038 | 4.89027 | Free | 13 | 1 |
 
 Repeated complaint phrases: none yet
 
-- Indeed Job Search, 1 star: "Data Farm. PLEASE Beware - After joining I started receiving 10-20 scam calls a day. Indeed requires you to provide a phone number don’t do it! You’ll end up needing to get a new phone number. All while they have all your information and make it impossible to delete from their platform. Never again."
-- Fetch: Earn Rewards Every Day, 2 star: "Works when it wants to - They won’t fix the bugs for scanning the accts you connect to. There is no reason why I would have to delete and reconnect an acct every time you try to scan. You’re better off getting the receipt. But then it doesn’t count the online shopping. Great idea but failed system. "
-- Fetch: Earn Rewards Every Day, 1 star: "I got scammed - I did NOT get any points. EVEN 20000 steps did not do it. I got scammed, I do not want this app again, plus the network detected you."
-- Fetch: Earn Rewards Every Day, 1 star: "Not worth the time - You rarely get more than 25 points no matter how much you spend or how many items you buy. No worth my time."
-- Fetch: Earn Rewards Every Day, 1 star: "No longer works with Sam’s Club ??? - This is used to be very good and easy to use.  For the past month it constantly Wants me to reconnect Sams Club and then when I try to it just spins.  Very annoying."
-- Fetch: Earn Rewards Every Day, 1 star: "Waste of time - I scanned receipts, didn’t give me rewards for that. I’m going to delete this app it’s useless"
+- Zillow Real Estate & Rentals, 3 star: "Not bad, but not great - I’ve been using Zillow for years and overall it’s fine but there’s a lot of room for improvement. I’m frequently recommended properties that I already have saved, there’s no way to provide feedback on the recommendations to further personalize them, and rather than making ac"
+- Zillow Real Estate & Rentals, 2 star: "Lot line changes - The app used to have a useful feature in Lot Line Map that you could tap on another for sale house (or recently sold) and it would take you to the listing. No long works - you can see the listing summary below but can’t open the listing. No long a reason to use Zillow"
+- Zillow Real Estate & Rentals, 2 star: "Wrong info and full of scams - It’s very common that they dont have the real prices. Once you ask for a place they give you a much higher price than the one advertised or they use an apparently common trick which is “that price is for the small studio” being deceiving.   This app does not use better"
+- Zillow Real Estate & Rentals, 2 star: "Reporting listings - There is no good way to report listings that are fraudulent. Even the report button doesn't work, it just goes to a "help" FAQ."
+- Zillow Real Estate & Rentals, 2 star: "New AI - Ever since they released the new AI assistant, the app freezes while scrolling through photos"
+- Zillow Real Estate & Rentals, 2 star: "Missing property values - Most of the homes on my street are missing values."
+
+## family & parenting
+Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
+
+| App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
+| --- | ---: | ---: | --- | ---: | ---: |
+| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 1990412 | 4.74346 | Free | 0 | 0 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 160591 | 4.62044 | Free | 0 | 0 |
+| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 400508 | 4.80701 | Free | 0 | 0 |
+| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227332 | 4.801 | Free | 0 | 0 |
+| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 379944 | 4.87032 | Free | 0 | 0 |
+| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 297801 | 4.89189 | Free | 2 | 1 |
+| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 141662 | 4.92354 | Free | 19 | 5 |
+| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 44446 | 4.83051 | Free | 0 | 0 |
+
+Repeated complaint phrases: none yet
+
+- BabyCenter Pregnancy Tracker, 1 star: "Twins - Should have a setting for twins"
+- Babylist Baby Registry, 1 star: "COMPLETE RIP OFF - As a first time mom, I appreciated the direction and advice from the app on what to put on my registry. It was simple for me to add things both on Babylist and other stores, but that’s where is positives end. It was hard for purchasers to navigate. If you have people over 50 tryin"
+- Babylist Baby Registry, 1 star: "Waste of time - The app is waste of time and they scam you by saying it’s free gift box .you can buy cheaper stuff online than there app. Don’t waste your time and money on this app👎👎👎👎👎👎"
+- Babylist Baby Registry, 3 star: "Glitchy asf - every time i add something to my list it says i didn’t, do i have to do it again and then i have 2 of them in my cart:/ this app is kinda infuriating because is so glitchy. PLEASE FIX THE BUGS! it’s so annoying i don’t even wanna finish my registry after spending so much time on it…."
+- Babylist Baby Registry, 1 star: "Shady business practice - Shady business, beware and check your products received. They’ve remedied a lot of my missing orders in the past, our ups driver refuses to walk packages up to the third floor and leave them in the mail room And we have someone who opens all the packages and takes what they"
+- Babylist Baby Registry, 1 star: "This is scam. You get to pay extra for what ? Yes nothing - This a scam company you could do baby registry any where but going through them buying gift from amazon and paying 75$ extra for what? I could of used amazon but someone got me a gift from this scammer site"
