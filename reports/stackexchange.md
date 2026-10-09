@@ -1,72 +1,71 @@
-# Stack Exchange unmet-needs report — 2026-10-08
-Sites today: parenting, travel, workplace, expatriates, bicycles, mechanics | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-10-09
+Sites today: outdoors, law, photo, music, fitness, lifehacks | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## parenting (4 unanswered popular questions; API quota left: 299)
+## outdoors (2 unanswered popular questions; API quota left: 299)
 Repeated phrases: none
 
-- 1 votes, 146 views — [How do you explain your strong desire to have the baby sleep with you to your wife?](https://parenting.stackexchange.com/questions/47011/how-do-you-explain-your-strong-desire-to-have-the-baby-sleep-with-you-to-your-wi) — tags: newborn
-- 2 votes, 140 views — [What do about my son who is best friends with a largely unsupervised bad boy?](https://parenting.stackexchange.com/questions/46960/what-do-about-my-son-who-is-best-friends-with-a-largely-unsupervised-bad-boy) — tags: middle-childhood
-- 1 votes, 140 views — [How do I tell my mom and dad that I like a boy?](https://parenting.stackexchange.com/questions/47009/how-do-i-tell-my-mom-and-dad-that-i-like-a-boy) — tags: teen, parents, relationships, dating
-- 1 votes, 94 views — [2.5 year old son gets anxious and scratches ears then head and face once scared](https://parenting.stackexchange.com/questions/46923/2-5-year-old-son-gets-anxious-and-scratches-ears-then-head-and-face-once-scared) — tags: toddler, crying, fears, anxiety
+- 5 votes, 447 views — [Is Niagra Falls ever turned up to maximum?](https://outdoors.stackexchange.com/questions/30404/is-niagra-falls-ever-turned-up-to-maximum) — tags: waterfalls
+- 1 votes, 241 views — [keep finding bug/mite looking creature in my water bottle](https://outdoors.stackexchange.com/questions/30420/keep-finding-bug-mite-looking-creature-in-my-water-bottle) — tags: bug-identification
 
-## travel (30 unanswered popular questions; API quota left: 298)
+## law (30 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
-- 12 votes, 935 views — [Am I safe to transit through Turkey as a non-binary person?](https://travel.stackexchange.com/questions/200435/am-i-safe-to-transit-through-turkey-as-a-non-binary-person) — tags: legal, turkey, insurance, turkish-airlines
-- 5 votes, 463 views — [Refusal of Entry stamp with code "b." from Germany](https://travel.stackexchange.com/questions/203499/refusal-of-entry-stamp-with-code-b-from-germany) — tags: schengen-visas, germany, denial-of-entry
-- 2 votes, 454 views — [UK Travel Visa rejected twice. Is there any realistic chance 3rd will be approved?](https://travel.stackexchange.com/questions/203334/uk-travel-visa-rejected-twice-is-there-any-realistic-chance-3rd-will-be-approve) — tags: uk, visa-refusals, standard-visitor-visas
-- 2 votes, 398 views — [Indonesian citizen, US green card holder, can I enter Korea visa-free?](https://travel.stackexchange.com/questions/203241/indonesian-citizen-us-green-card-holder-can-i-enter-korea-visa-free) — tags: transit-visas, south-korea, visa-free-entry, indonesian-citizens
-- 3 votes, 383 views — [Age 23, US SUV Rental](https://travel.stackexchange.com/questions/203607/age-23-us-suv-rental) — tags: usa, driving, car-rentals
-- 3 votes, 380 views — [Schengen passport control delays - Irish citizen](https://travel.stackexchange.com/questions/203851/schengen-passport-control-delays-irish-citizen) — tags: schengen
-- 5 votes, 376 views — [Is driving in Nevada in January a good idea?](https://travel.stackexchange.com/questions/200405/is-driving-in-nevada-in-january-a-good-idea) — tags: usa, driving, nevada
-- 3 votes, 357 views — [Impact of EES on connection times when entering Poland](https://travel.stackexchange.com/questions/203536/impact-of-ees-on-connection-times-when-entering-poland) — tags: short-connections, poland, waw, ees
-- 3 votes, 355 views — [Can a chargeback backfire even if justified?](https://travel.stackexchange.com/questions/204412/can-a-chargeback-backfire-even-if-justified) — tags: air-travel, lufthansa
-- 4 votes, 344 views — [Leaving the airport on a Sri Lanka Transit ETA](https://travel.stackexchange.com/questions/200398/leaving-the-airport-on-a-sri-lanka-transit-eta) — tags: transit-visas, sri-lanka, colombo
+- 2 votes, 372 views — [What head games can a big corporation’s lawyers play with a self-represented litigant, right before the hearing?](https://law.stackexchange.com/questions/115513/what-head-games-can-a-big-corporation-s-lawyers-play-with-a-self-represented-lit) — tags: litigant-in-person
+- 5 votes, 300 views — [Is it a crime to destroy or conceal evidence of non-crimes that might be wrongly investigated?](https://law.stackexchange.com/questions/115543/is-it-a-crime-to-destroy-or-conceal-evidence-of-non-crimes-that-might-be-wrongly) — tags: united-states, is-x-legal, obstruction, destruction-of-evidence
+- 2 votes, 258 views — [(How) Can a lawyer be disbarred from practicing in U.S. federal courts?](https://law.stackexchange.com/questions/114201/how-can-a-lawyer-be-disbarred-from-practicing-in-u-s-federal-courts) — tags: united-states, lawyer, federal-courts
+- 5 votes, 248 views — [In the US, can people be prosecuted for using non-public information to profit from cryptocurrencies that are not securities?](https://law.stackexchange.com/questions/111145/in-the-us-can-people-be-prosecuted-for-using-non-public-information-to-profit-f) — tags: united-states, finance, cryptocurrency, securities
+- 3 votes, 225 views — [Is Atlassians plan for training AI models on user data unlawful under GDPR?](https://law.stackexchange.com/questions/114652/is-atlassians-plan-for-training-ai-models-on-user-data-unlawful-under-gdpr) — tags: gdpr, european-union, is-x-legal, artificial-intelligence
+- 2 votes, 210 views — [Why does Flavacol Popcorn Salt have an iodine disclosure, but Lawry's Seasoned Salt does not?](https://law.stackexchange.com/questions/114568/why-does-flavacol-popcorn-salt-have-an-iodine-disclosure-but-lawrys-seasoned-s) — tags: regulations, food
+- 5 votes, 200 views — [Is it possible for a party to represent themselves "partially" pro se?](https://law.stackexchange.com/questions/111178/is-it-possible-for-a-party-to-represent-themselves-partially-pro-se) — tags: united-states, civil-procedure, trial
+- 2 votes, 197 views — [What was the legal difference (if any) between the US government offering a bounty for Maduro and sending special forces to arrest Maduro?](https://law.stackexchange.com/questions/113961/what-was-the-legal-difference-if-any-between-the-us-government-offering-a-boun) — tags: international
+- 2 votes, 190 views — [Is muslim sect of Quarnaists that reject all hadiths also subject to apostasy in Sharia law?](https://law.stackexchange.com/questions/112510/is-muslim-sect-of-quarnaists-that-reject-all-hadiths-also-subject-to-apostasy-in) — tags: religious-law, freedom-of-religion, islamic-law
+- 10 votes, 186 views — [Are the wearers of Ray-Ban Metas data controllers?](https://law.stackexchange.com/questions/115157/are-the-wearers-of-ray-ban-metas-data-controllers) — tags: united-kingdom, gdpr, european-union
 
-## workplace (0 unanswered popular questions; API quota left: 297)
+## photo (14 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
+- 0 votes, 161 views — [Changing the date of a photo taken on a digital camera](https://photo.stackexchange.com/questions/138340/changing-the-date-of-a-photo-taken-on-a-digital-camera) — tags: metadata
+- 0 votes, 130 views — [How do I fix my Canon Powershot sx210's non-working flash?](https://photo.stackexchange.com/questions/137159/how-do-i-fix-my-canon-powershot-sx210s-non-working-flash) — tags: canon, repair, powershot, popup-flash
+- 0 votes, 122 views — [How can I identify a ring on a hand from a number of old non digital photos. Any attempt to magnify the photo ends in blurr](https://photo.stackexchange.com/questions/138363/how-can-i-identify-a-ring-on-a-hand-from-a-number-of-old-non-digital-photos-any) — tags: photoshop
+- 0 votes, 94 views — [Photomed Canon SX730 Camera](https://photo.stackexchange.com/questions/138277/photomed-canon-sx730-camera) — tags: canon
+- 1 votes, 80 views — [Why is my Lumix DMC-GX1 shutter closing instead of opening? Is it a software issue?](https://photo.stackexchange.com/questions/138587/why-is-my-lumix-dmc-gx1-shutter-closing-instead-of-opening-is-it-a-software-iss) — tags: troubleshooting, software, shutter, error
+- 0 votes, 79 views — [Is there a simple way to keep Canon ProGraf-300 drivers up to date on MacOS](https://photo.stackexchange.com/questions/138360/is-there-a-simple-way-to-keep-canon-prograf-300-drivers-up-to-date-on-macos) — tags: canon, printer
+- 2 votes, 76 views — [Large offset between frame 1 and 2 on Mamiya RZ67 120 back](https://photo.stackexchange.com/questions/137098/large-offset-between-frame-1-and-2-on-mamiya-rz67-120-back) — tags: mamiya
+- 1 votes, 74 views — [Track-side photo locations at Mantorp Park, Sweden (2026)](https://photo.stackexchange.com/questions/138636/track-side-photo-locations-at-mantorp-park-sweden-2026) — tags: locations, motorsports
+- 0 votes, 65 views — [Accidentally advanced film while "L" was active, now film doesn't advance at all. Canon AE-1](https://photo.stackexchange.com/questions/138525/accidentally-advanced-film-while-l-was-active-now-film-doesnt-advance-at-all) — tags: canon, camera
+- 0 votes, 63 views — [Why does Hugin tint a TIFF file red before it starts stitching?](https://photo.stackexchange.com/questions/137186/why-does-hugin-tint-a-tiff-file-red-before-it-starts-stitching) — tags: hugin
 
-## expatriates (11 unanswered popular questions; API quota left: 296)
+## music (24 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
-- 1 votes, 301 views — [Which countries in Southeast Asia have digital nomad visas?](https://expatriates.stackexchange.com/questions/28315/which-countries-in-southeast-asia-have-digital-nomad-visas) — tags: visa, digital-nomads
-- 0 votes, 95 views — [Should I actively reschedule delivery of a termination letter sent by DHL Express?](https://expatriates.stackexchange.com/questions/28312/should-i-actively-reschedule-delivery-of-a-termination-letter-sent-by-dhl-expres) — tags: germany, resident-permit
-- 0 votes, 88 views — [Greek citizen living in Estonia, applying for a US E1 visa](https://expatriates.stackexchange.com/questions/28361/greek-citizen-living-in-estonia-applying-for-a-us-e1-visa) — tags: usa, working-visas
-- 1 votes, 83 views — [Do I need an unlimited contract, or a minimum contract length for Permanent Residency in Germany (Niederlassungserlaubnis)?](https://expatriates.stackexchange.com/questions/28314/do-i-need-an-unlimited-contract-or-a-minimum-contract-length-for-permanent-resi) — tags: visa, germany, blue-card, residency
-- 1 votes, 76 views — [UK passport renewal for not-quite-expat](https://expatriates.stackexchange.com/questions/28335/uk-passport-renewal-for-not-quite-expat) — tags: united-kingdom, passport
-- 1 votes, 64 views — [Application for a long-stay working visa for France from Canada with maintained status](https://expatriates.stackexchange.com/questions/28506/application-for-a-long-stay-working-visa-for-france-from-canada-with-maintained) — tags: canada, france
-- 3 votes, 54 views — [Fate of leave extension when registered as citizen](https://expatriates.stackexchange.com/questions/28404/fate-of-leave-extension-when-registered-as-citizen) — tags: united-kingdom, uk-visa, uk-citizenship
-- 0 votes, 53 views — [Can I use my current Indian passport for UK Skilled Worker CoS and visa while passport renewal is in process (valid until 2026)?](https://expatriates.stackexchange.com/questions/28289/can-i-use-my-current-indian-passport-for-uk-skilled-worker-cos-and-visa-while-pa) — tags: united-kingdom, working-visas, passport
-- 0 votes, 48 views — [Question About International Driving Permit and B196 Extension While Living Abroad](https://expatriates.stackexchange.com/questions/28341/question-about-international-driving-permit-and-b196-extension-while-living-abro) — tags: germany, resident-permit, driving-license, driving
-- 0 votes, 30 views — [Permesso Soggiorno is Expired – Application for Short-Term Visa (Thesis Defense)](https://expatriates.stackexchange.com/questions/28333/permesso-soggiorno-is-expired-application-for-short-term-visa-thesis-defense) — tags: visa, resident-permit, italy
+- 2 votes, 184 views — [Easy Piano Bach with “Tiling” / Mosaic Patterns](https://music.stackexchange.com/questions/142666/easy-piano-bach-with-tiling-mosaic-patterns) — tags: piano
+- 0 votes, 170 views — [Impedance converter](https://music.stackexchange.com/questions/143333/impedance-converter) — tags: electric-guitar, recording, equipment
+- 1 votes, 159 views — [Can Musipedia identify a tune on a midi file?](https://music.stackexchange.com/questions/143506/can-musipedia-identify-a-tune-on-a-midi-file) — tags: melody
+- 0 votes, 131 views — [Analyze this jazz chord progression](https://music.stackexchange.com/questions/144345/analyze-this-jazz-chord-progression) — tags: chord-progressions, jazz
+- 2 votes, 117 views — [Multiple systems on the same line - Lilypond](https://music.stackexchange.com/questions/142821/multiple-systems-on-the-same-line-lilypond) — tags: lilypond, engraving
+- 5 votes, 110 views — [Out of tune three-string F♯ piano key had one string tuned to D♯ and one to F. How can that happen?](https://music.stackexchange.com/questions/143372/out-of-tune-three-string-f%e2%99%af-piano-key-had-one-string-tuned-to-d%e2%99%af-and-one-to-f-h) — tags: piano, tuning, strings
+- 4 votes, 110 views — [How to escape spaces and other characters when making lytex files](https://music.stackexchange.com/questions/142651/how-to-escape-spaces-and-other-characters-when-making-lytex-files) — tags: lilypond
+- 0 votes, 101 views — [How to get the deep robotic voice sound effect?](https://music.stackexchange.com/questions/144219/how-to-get-the-deep-robotic-voice-sound-effect) — tags: voice, daw, production, effects
+- 0 votes, 95 views — [Gold king flute](https://music.stackexchange.com/questions/143351/gold-king-flute) — tags: flute
+- 3 votes, 92 views — [What arrangement and composition techniques for the accompaniment help the singer sing better?](https://music.stackexchange.com/questions/143829/what-arrangement-and-composition-techniques-for-the-accompaniment-help-the-singe) — tags: composition, arranging, accompaniment
 
-## bicycles (30 unanswered popular questions; API quota left: 295)
+## fitness (19 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
-- 7 votes, 428 views — [How is the shape of the lower derailler pulley important?](https://bicycles.stackexchange.com/questions/100584/how-is-the-shape-of-the-lower-derailler-pulley-important) — tags: derailleur-rear
-- 4 votes, 231 views — [what connector does my battery have](https://bicycles.stackexchange.com/questions/98729/what-connector-does-my-battery-have) — tags: electric-bike, charging
-- 4 votes, 204 views — [Shimano Di2 shifter problem - Shifter Battery Discharging Abnormally Quickly](https://bicycles.stackexchange.com/questions/99845/shimano-di2-shifter-problem-shifter-battery-discharging-abnormally-quickly) — tags: shifter, shimano-di2
-- 2 votes, 175 views — [What causes this clicking noise on my Cube Nuroad Pro 2026?](https://bicycles.stackexchange.com/questions/100558/what-causes-this-clicking-noise-on-my-cube-nuroad-pro-2026) — tags: hub, noise, gravel
-- 4 votes, 153 views — [What brand of BMX bike is this?](https://bicycles.stackexchange.com/questions/100102/what-brand-of-bmx-bike-is-this) — tags: identify-this-bike, bmx
-- 2 votes, 145 views — [Help with assembling back bottom bracket](https://bicycles.stackexchange.com/questions/100042/help-with-assembling-back-bottom-bracket) — tags: crankset, bottom-bracket, press-fit
-- 1 votes, 132 views — [Does standing a bike vertically cause hydraulic fluid to leak?](https://bicycles.stackexchange.com/questions/100244/does-standing-a-bike-vertically-cause-hydraulic-fluid-to-leak) — tags: disc-brake, hydraulic-disc-brake
-- 4 votes, 128 views — [Looking for folding bike stem without rise angle](https://bicycles.stackexchange.com/questions/100036/looking-for-folding-bike-stem-without-rise-angle) — tags: compatibility, parts, handlebars, stem
-- 1 votes, 116 views — [Can someone help me identify my Kona bike?](https://bicycles.stackexchange.com/questions/99931/can-someone-help-me-identify-my-kona-bike) — tags: mountain-bike, identify-this-bike
-- 2 votes, 113 views — [Problems switching gears with Shimano Alfine 11 speed internal gear hub in cold weather](https://bicycles.stackexchange.com/questions/100162/problems-switching-gears-with-shimano-alfine-11-speed-internal-gear-hub-in-cold) — tags: winter, lubricant, alfine
+- 0 votes, 155 views — [Frontal v. scapular lateral raises](https://fitness.stackexchange.com/questions/48769/frontal-v-scapular-lateral-raises) — tags: shoulders, deltoids
+- 1 votes, 123 views — [Difficulty doing pull-up and push-up](https://fitness.stackexchange.com/questions/48759/difficulty-doing-pull-up-and-push-up) — tags: muscle
+- 2 votes, 104 views — [Myth or Truth? : Heavier dumbells make a woman muscular, lighter weights with more repetition make her leaner](https://fitness.stackexchange.com/questions/48874/myth-or-truth-heavier-dumbells-make-a-woman-muscular-lighter-weights-with-mo) — tags: gym
+- 1 votes, 100 views — [How far out can estimated basal metabolic rate and exercise expenditure be?](https://fitness.stackexchange.com/questions/48773/how-far-out-can-estimated-basal-metabolic-rate-and-exercise-expenditure-be) — tags: weight-loss, calories, bmr
+- 0 votes, 93 views — [Can you review my current plan?](https://fitness.stackexchange.com/questions/48778/can-you-review-my-current-plan) — tags: weight-loss, workout-routines, strength-training, routine
+- 0 votes, 78 views — [What is the ideal meal after workout for a diabectic person?](https://fitness.stackexchange.com/questions/48735/what-is-the-ideal-meal-after-workout-for-a-diabectic-person) — tags: diet, workout, metabolism, post-workout
+- 2 votes, 75 views — [Sitting down briefly at a provisions stop on a long (30kms+) trail run](https://fitness.stackexchange.com/questions/48738/sitting-down-briefly-at-a-provisions-stop-on-a-long-30kms-trail-run) — tags: long-distance-running
+- 0 votes, 69 views — [How to optimize daily running and dumbbell training for a weight loss plateau under constrained home dietary conditions?](https://fitness.stackexchange.com/questions/48911/how-to-optimize-daily-running-and-dumbbell-training-for-a-weight-loss-plateau-un) — tags: weight-loss
+- 0 votes, 55 views — [best prep for Grand Canyon backpacking](https://fitness.stackexchange.com/questions/48804/best-prep-for-grand-canyon-backpacking) — tags: exercise, cardio, lower-body-strength
+- 1 votes, 50 views — [How does caloric deficit relative to body fat relate to FFM loss relative to total weight loss?](https://fitness.stackexchange.com/questions/48763/how-does-caloric-deficit-relative-to-body-fat-relate-to-ffm-loss-relative-to-tot) — tags: weight-loss, cutting
 
-## mechanics (30 unanswered popular questions; API quota left: 294)
+## lifehacks (1 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 
-- 1 votes, 321 views — [Why use a separate heat pump for cabin heating an EV?](https://mechanics.stackexchange.com/questions/100760/why-use-a-separate-heat-pump-for-cabin-heating-an-ev) — tags: hvac, electric-vehicle
-- 2 votes, 178 views — [Re-programming a Ford PCM -- How to?](https://mechanics.stackexchange.com/questions/101864/re-programming-a-ford-pcm-how-to) — tags: ford, electronic-control-module, f-250
-- 1 votes, 151 views — [2014 Tundra 5.7 Camshaft Position Sensor trigger voltage](https://mechanics.stackexchange.com/questions/101963/2014-tundra-5-7-camshaft-position-sensor-trigger-voltage) — tags: toyota, obd-ii, tundra
-- 2 votes, 116 views — [2008 Imapala 3.5 liter engine noise](https://mechanics.stackexchange.com/questions/99575/2008-imapala-3-5-liter-engine-noise) — tags: engine, chevrolet, noise, impala
-- 1 votes, 115 views — [2011 Honda CRV DRL and High Beam not working after bulb replacement](https://mechanics.stackexchange.com/questions/101824/2011-honda-crv-drl-and-high-beam-not-working-after-bulb-replacement) — tags: honda, headlight, cr-v, daytime-running-lights
-- 1 votes, 113 views — [Mitsubishi Outlander 2010 Immobiliser Repair](https://mechanics.stackexchange.com/questions/100750/mitsubishi-outlander-2010-immobiliser-repair) — tags: mitsubishi, electronics, immobilizer, outlander
-- 2 votes, 108 views — [Sealing failure with MLS head gasket?](https://mechanics.stackexchange.com/questions/101976/sealing-failure-with-mls-head-gasket) — tags: head-gasket, jaguar
-- 1 votes, 86 views — [Nissa Versa (2008) makes front end banging noise on right tire side bumps](https://mechanics.stackexchange.com/questions/100754/nissa-versa-2008-makes-front-end-banging-noise-on-right-tire-side-bumps) — tags: noise, nissan, suspension, steering
-- 1 votes, 67 views — [Steering column creaking noise? Mazda CX-5 2017](https://mechanics.stackexchange.com/questions/102266/steering-column-creaking-noise-mazda-cx-5-2017) — tags: noise, mazda, cx5
-- 1 votes, 63 views — [What is missing from my 2014 VW Passat spare wheel well styrofoam insert tool organizer?](https://mechanics.stackexchange.com/questions/102077/what-is-missing-from-my-2014-vw-passat-spare-wheel-well-styrofoam-insert-tool-or) — tags: vw, passat, tool-identification
+- 1 votes, 105 views — [Aluminum bulkhead cleaning](https://lifehacks.stackexchange.com/questions/28178/aluminum-bulkhead-cleaning) — tags: cleaning, metals

@@ -1,272 +1,162 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "rows": [
   {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
    "signals": [
     "manual_pain"
    ],
-   "score": 21.81,
-   "likes": 2262,
-   "text": "I\u2019ve been a sticker artist online for 3 years. I draw, print, and cut everything at home. But the most valuable part is that I DRAW the designs by hand. That guy justifying borrowing art by saying he\u2019s the one \u201cmaking\u201d it into a tangible item and maintaining the printer is literally only doing half the job of an artist, if that"
+   "score": 12.61,
+   "likes": 56,
+   "text": "I came up with this analogy: Programming to me is like a puzzle, I like the feeling of completing the puzzle myself. But when using AI, the puzzle is being made for me, which takes a way the joy.  I liked to learn new frameworks and how use tools and tech to my advantage. But recently it seems like it has become useless, because you'll become too slow without using AI compared to people who use AI"
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 12.38,
+   "likes": 51,
+   "text": "I have been coding for the last 50 years and the last 30 years of it professionally. You are completly right on all points. AI generates coding slop, even if it seems to work. Nobody understands it anymore, is able to explain it or debug it, or fix it. In the mean time, software is getting of less and less quality, which we can see in the number of patches been shipped for really simple mistakes. "
+  },
+  {
+   "cat": "AI automation services",
+   "video": "Laziest Ways to Make Money with AI (For Beginners)",
+   "url": "https://youtu.be/ytAW1_g2IfI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 11.95,
+   "likes": 1060,
+   "text": "I am 273 years old. Last 200 years alone I made $1.000.0000 and now I have 3 cars and living in a mansion debt free. All it takes is perseverance."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
    "signals": [
     "manual_pain"
    ],
-   "score": 18.27,
-   "likes": 549,
-   "text": "I cant even get a spot at my local comiccon anymore because of all the AI- and 3d print slop... while i make everything by hand (traditional art even)"
+   "score": 9.58,
+   "likes": 16,
+   "text": "I was shocked to hear former colleagues say they weren't coding manually anymore. I was in a company that hadn't embraced agentic coding yet due to security concerns. Now I'm at a company that embraces agentic coding. I think AI is amazing for researching things, and learning things.  I get what you're saying. The rush of fixing a bug that's been bothering you for hours. Refactoring was also a rel"
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "AI automation services",
+   "video": "Laziest Ways to Make Money with AI (For Beginners)",
+   "url": "https://youtu.be/ytAW1_g2IfI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.75,
+   "likes": 125,
+   "text": "I turned 68 this year. Last month alone I made $150k, but the moment that made me cry wasn't the money - it was seeing my whole family around one dinner table after everything we survived together. There were years I truly thought life was over for me. Keep fighting. Your current situation can change in one season."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.6,
+   "likes": 113,
+   "text": "Love the video, glad the algorithm sent me this.    I've been a software engineer for 20 years now and a lot of what you're saying is very true, and I am fortunate enough to work in a company and within a group that we all share this same kind of mindset.  We were all given licenses for Cursor and have been trying to figure out how to integrate it into our workflow and it has all of very concerned"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 8.22,
+   "likes": 87,
+   "text": "20+ years as a dev, too. I'm in charge of reviewing all the slop newbies on my team generate. The slop can get pretty good sometimes, but the newbies can't explain what it's doing, or how to fix it when it breaks. And we've been having the same troubleshooting issues, too -- something doesn't work, we let them use AI to fix it, and I'll check in at the end of the week, and ask something simple lik"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Why don't Googlers vibe code?",
+   "url": "https://youtu.be/TFBWf_9Df1k",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.24,
+   "likes": 45,
+   "text": "Alberta, the truth is other companies have code that can compile, but it doesn't work either. xD"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Lovable Full Course for Beginners: Build & Deploy a Real App",
+   "url": "https://youtu.be/pZpoACNOPAw",
    "signals": [
     "manual_pain"
    ],
-   "score": 18.02,
-   "likes": 495,
-   "text": "As someone who is actually struggling to keep my little shop going, every time I see these AI slop reels I am filled with white-hot rage. This is so disgusting. Thanks for talking about it, Laura."
+   "score": 6.98,
+   "likes": 5,
+   "text": "I am a student I used lovable a lot while preparing for JEE exams to create scientific simulations and it did it all in one prompt! Now I could have developed those by hand but you can't waste any time when preparing for JEE and it is faster than hand coding and copilot combined."
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 14.16,
-   "likes": 4635,
-   "text": "not that long ago people were mad and saying lip gloss was a \u201cscam\u201d because when you take the applicator out, the level of lip gloss in the tube goes down! omg they\u2019re secretly giving us less lip gloss and taking up space on purpose with the applicator!! so\u2026 tiktok was figuring out WATER DISPLACEMENT. you know. like a fkn bird."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "vibe coding & building apps",
+   "video": "Vibe coding vs software engineering",
+   "url": "https://youtu.be/awFTa5rr8F8",
    "signals": [
     "manual_pain"
    ],
-   "score": 13.78,
-   "likes": 90,
-   "text": "I also noticed a few accounts and the number of reactions is crazy \ud83d\ude25 it\u2019s really sad that we are working hours and struggling to get to our audience and community and these fakes are getting all attention. Thanks for the video!"
+   "score": 6.98,
+   "likes": 5,
+   "text": "So I have been coding since 2010. I also use AI to help me code sometimes. I\u2019ve been able to code things at a faster rate. Only difference between me and a true vibe coder is that i understand what Claude writes and can review it manually before deploying it."
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 11.72,
-   "likes": 39,
-   "text": "10:40 I remember when like half of the 3D printing community was foaming at their mouths and went after the creator who was complaining about 3D printed slop at maker's markets. It was cringey as hell.  I have a 3D printer (a resin printer, those work differently), which I use for prototyping, because I make my own earrings. I modelled all 3D models myself (aged 20 years trying to learn Blender), "
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 9.99,
-   "likes": 19,
-   "text": "3D printing stuff to sell is wild! I am an artist who uses glass and beads for my art. One of my pieces takes hours and hours! I cannot imagine printing things and expecting to sell it???"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
-   "url": "https://youtu.be/NhqSuQPPvbg",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 9.99,
-   "likes": 19,
-   "text": "That example he gave with the garage door company would NEVER work. It's another example of a guy teaching someone to do something he has NEVER done himself... it's horrible advice. It would be a nightmare to \"charge Mary $80, then send $40 to Bob to change the oil\". And what happens when Mary comes in and sees Bob's sign charging everyone else $40. Another \"guru without a clue\"...."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 9.13,
-   "likes": 161,
-   "text": "15:58 thank you for talking about this inherently racist and ableist side of this AI scam problem as well. I think it's a really dangerous \"trend\" that is developing here..."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.31,
-   "likes": 47,
-   "text": "Taking free CAD files and trying to sell them as \"crafts\" is a lot like when scam game developers throw some pre-made assets onto the built-in showcase an engine comes with and try to sell it"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
-   "url": "https://youtu.be/NhqSuQPPvbg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.92,
-   "likes": 36,
-   "text": "I did vending machines for years and I made 100k a year\u2026 the key is getting them into schools. That\u2019s where I made all my money. I just sold the business for a lot of money  14:38   I\u2019m going to start  a consulting business if you want to get into the vending machine business!"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
-   "url": "https://youtu.be/d9c5gloGPMU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.7,
-   "likes": 31,
-   "text": "Grok told me Grok Bot is not worth it atm lol"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.55,
-   "likes": 28,
-   "text": "I used to work for a bank in the disputes department, scam companies will send something so they have \u2018evidence\u2019 of a shipment being delivered."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.55,
-   "likes": 28,
-   "text": "Some of the AI stuff that really ticks me off, is when they are advertising a crocheted book but it has knitting needles on the cover or in other images in the book or vice versa, with crocheted images on a knitting book. Plus there's ones out there that show images of one type of crochet but the book is about another type of crochet. For example the book is how to fillet crochet but then there's "
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "side hustles & selling online",
+   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2027",
+   "url": "https://youtu.be/-pp851qDmOY",
    "signals": [
     "manual_pain"
    ],
    "score": 6.52,
    "likes": 4,
-   "text": "Any one who crochets knows that you can not make as many items as they have on their displays. It would take hours to make these items. Ai is going to be the end of humanity \ud83d\ude22"
+   "text": "I'm a girl from a conservative family in India. I've always wanted to be financially independent because I believe financial independence gives me the freedom to make my own choices in all aspects of life.  Currently, I'm struggling to find a job, and at the same time, I'm trying to earn online in whatever ways I can. One day, I want to build my own event management company and become completely i"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "How I Created a $30,000/month Faceless YouTube Channel Using AI Tools",
-   "url": "https://youtu.be/Sp83h2FqOH0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.39,
-   "likes": 25,
-   "text": "\ud83e\udd16 Try Kutly: https://kutly.io\r         CODE: FREEKUTLY\r \ud83d\udcda Prompts: https://emmiescalm.gumroad.com/ \r \ud83d\udc49 TRY VIDIQ For $1: https://vidiq.com/mistrAI \r \ud83d\udc49 How I made $400K With Shorts: https://emmiescalm.gumroad.com/l/YouTubeShortsSystem2 \r -- REMEMBER THE GOAL: EVERYONE IS GETTING MONETIZED \r -- MUCH LOVE TO EVERYONE \u2764\u2764\u2764\u2764"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "5 Proven Ways To Make Money With AI (No Experience)",
-   "url": "https://youtu.be/DZoeGR_tatA",
+   "cat": "side hustles & selling online",
+   "video": "The $30K/Month Al Faceless Shorts Method Nobody's Talking About (Full Workflow)",
+   "url": "https://youtu.be/iJiBJAJRRkk",
    "signals": [
     "wish_build"
    ],
-   "score": 6.39,
-   "likes": 8,
-   "text": "I wish i had a good device to start. It's really hard to do everything in 100 dollar phone but i am not giving up until i win."
+   "score": 6.16,
+   "likes": 7,
+   "text": "someone needs to make a top 7 video for best videos that actually make you money vs time ROI"
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
+   "cat": "side hustles & selling online",
+   "video": "The $30K/Month Al Faceless Shorts Method Nobody's Talking About (Full Workflow)",
+   "url": "https://youtu.be/iJiBJAJRRkk",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 6.14,
-   "likes": 21,
-   "text": "Honestly even though the picture of the plants on the wall are definitely a scam it makes that bland ass wall actually look better"
+   "score": 5.97,
+   "likes": 3,
+   "text": "bro what is the software you using to get the clips that you drag it in the\"add clip\" section? 10:57"
   },
   {
-   "cat": "AI for small business",
-   "video": "Anthropic\u2019s CEO: How to Build a 1 Person Business with Claude",
-   "url": "https://youtu.be/QDsenEcAJIk",
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
    "signals": [
     "manual_pain"
    ],
    "score": 5.97,
    "likes": 3,
-   "text": "that\u00b4s what i did 2 weeks, but manually... and now it\u00b4s automated as well... sheeesh. Amazing content Nate \ud83d\udcaf"
+   "text": "AI won't debug errors 400s like front end or back end 500s errors. I tried many times, until i fixed it manually. AI, provide only boiler plate codes only, but needs professionals software developer to continue the work"
   },
   {
-   "cat": "AI for small business",
-   "video": "Anthropic\u2019s CEO: How to Build a 1 Person Business with Claude",
-   "url": "https://youtu.be/QDsenEcAJIk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.66,
-   "likes": 15,
-   "text": "Why do you guys never do step 4: Actually bring the business to profit? Cloning a billion dollar business doesn't mean sh!t until you actually bring in a billion dollars to your bank account. You might as well clone a $2 business. Until you actually make the money, both businesses are worthless, and a waste of time.  I'd rather see you... 1. Clone a million dollar business 2. Promote business unti"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.56,
-   "likes": 14,
-   "text": "Sending them something like a thank you card creates a tracking number. They time the shipping to go out in standard amount of time (3-5 days) This gives them more time to scam others before bad reviews start coming complaining of empty packaging."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.46,
-   "likes": 13,
-   "text": "I can't believe that water and energy were wasted to produce this ai slop. As long as the platforms allow it and dismiss the reports, those scam will thrive"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.35,
-   "likes": 12,
-   "text": "I feel like people on TikTok really need to learn the difference between a scam and a rip off.   Because like, no Jessica, your $10 drink isn\u2019t a \u201cscam\u201d because you can buy the same drink somewhere else for \u20ac6"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.35,
-   "likes": 12,
-   "text": "It's always the scam artist people with no talent or original ideas thinking they are somehow deserving of people's hard earned money. The ones with actual talent, skill, and a creative idea end up with imposter syndrome and are constantly second guessing their work."
-  },
-  {
-   "cat": "AI tools & agents",
+   "cat": "vibe coding & building apps",
    "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
    "url": "https://youtu.be/4LwtuscILlc",
    "signals": [
@@ -277,128 +167,73 @@
    "text": "Shows credited 500$. But doesn\u2019t pass through payment screen, tried 5 Indian credit cards, nothing works. Now I\u2019m worried if it\u2019s a scam to grab credit card details"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "AI Runs My Entire Business: EASY Way To Use AI Agents In Your Work, Content & Life (Step by Step!)",
-   "url": "https://youtu.be/Jvt3FxRKDzU",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 5.25,
-   "likes": 2,
-   "text": "Very good podcasts but host is frustrating because he takes ages to ask his questions. After a while you just don't even understand what he is trying to ask."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hope Your Small Business Fails",
-   "url": "https://youtu.be/wWTS1csDlcU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.1,
-   "likes": 10,
-   "text": "Unless Annika claimed that those split cup drinks had the same amount of liquid in them as a Starbucks drink, then there is absolutely no problem with them from that point of view. She never promised that her drinks were the same amount as Starbucks, and there is nothing in the universe which says that they should be. It's just a dumb point of view to adopt. It boils down to \"Different businesses "
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
    "signals": [
     "result_report"
    ],
    "score": 4.8,
    "likes": 8,
-   "text": "15:55 Makeup artist here, I bought some made by Mitchel lip glosses and they were the WORST products I've ever tried. I cannot exaggerate how bad they were. I didn't even know you could make a product that bad, they separate into like webbing on your lips?? I've tried it with so many techniques and there's absolutely no way to make them smooth. Made by Mitchel is a SCAM"
+   "text": "When I see this current change I can't help but remember that scene from the first RoboCop movie, when Dick Jones confronts Bob Morton in OCP's VP bathroom for interfering with the ED-209 rollout. \"I had secured the government contracts! Who cares if it works ?\". It's the same situation, that's how executives \"think\", only the immediate profit matters, who cares if it doesn't work?"
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.8,
-   "likes": 8,
-   "text": "I do love croqueting in my free time too. \ud83d\ude05 I also have never had someone throw an egg at me while crocheting in public. Maybe I\u2019m just special. \ud83d\ude05 /s (These videos are truly ridiculous, a scam, and probably used God knows how much water \ud83d\ude05\ud83d\ude05\ud83d\ude05)"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "AI automation services",
+   "video": "Laziest Ways to Make Money with AI (For Beginners)",
+   "url": "https://youtu.be/ytAW1_g2IfI",
    "signals": [
     "result_report"
    ],
    "score": 4.62,
    "likes": 7,
-   "text": "Drop shipping is one of those jobs where the employee has to pay another party to collect the items to send. Regardless of what people say it\u2019s a scam."
+   "text": "I am 141 years old male, Last century alone I made over $2m.   Happy to see yall reaching $1m!!"
   },
   {
-   "cat": "AI for small business",
-   "video": "Every Grok Bot Concept Explained for Normal People",
-   "url": "https://youtu.be/NyfYxpXiw_0",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Hey mate, what software do you use to create the diagrams"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "AI Agents are the new SaaS",
-   "url": "https://youtu.be/83fWzQSWB10",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Is there a way to get those great flow charts? For those of us who are visual? Be amazing if that was avaialbe."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
-   "url": "https://youtu.be/d9c5gloGPMU",
+   "cat": "AI automation services",
+   "video": "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)",
+   "url": "https://youtu.be/JWMizuT_A8E",
    "signals": [
     "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "2:50 The only issue I\u2019m seeing is managing logins. I hate having to take over the agents computer every 10 seconds."
+   "text": "Hi I am yash an ai content creator but still struggling to get audience could you  help me . I make cartoon videos,ugc add short movie with realistic character and sound. If you giv me a chance I I'll send my video just tell me the platform,, it is frist time to comment on your channel with a severe hope . Looking forward to your response"
   },
   {
-   "cat": "AI for small business",
-   "video": "How to Sell AI Receptionist with Personalized Demos Created in 5 Seconds (GoHighLevel)",
-   "url": "https://youtu.be/uruSz3G302E",
+   "cat": "AI automation services",
+   "video": "How to Start Your Own AI Agency in 2026 \ud83d\ude80 | Earn \u20b91 Lakh+ with AI | Complete Roadmap | Harsh sir",
+   "url": "https://youtu.be/UFnFXYFrreg",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Hello Sir, I wanted to ask how I can send my video to you for feedback. I\u2019ve been creating authentic videos, but I\u2019m still struggling to get clients despite putting in consistent effort. I would really appreciate it if you could review my video and guide me on what I might be doing wrong and how I can improve my content and client acquisition. Thank you."
+  },
+  {
+   "cat": "make money online methods",
+   "video": "how to literally print money while you sleep with AI dropshipping (just copy me)",
+   "url": "https://youtu.be/ScF0pi6FSLQ",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "Thank you! How about if they dont have a website..is there a way that it will create a demo generic website?  Also how is the chat code... will it be created manually according to their business?"
+   "text": "Hey Romas! Great video. Just wondering about suppliers. when importing the shop, does the shop you're importing become the supplier or is there a way to go to the source?"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step)",
-   "url": "https://youtu.be/gjffmgucDSw",
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
    "signals": [
-    "ask_for_tool"
+    "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "just a heads up when u create a site or an app you need to have a stripe account (you need to be living in US with a US bank and social security number otherwise you can't collect your income) is there a way that i can use base44 without stripe or maybe use another site for collecting my money?"
+   "text": "25+ year dev here, and I'm thankful for you posting this video, and I know on other platforms like Reddit you will maybe already have tried posting something, and received a lot of backlash. Usually, from not so experienced programmers, or who are still in that Euphoria phase. I was very late into the LLM assisted coding, like summer of 2025 as well,  so we have about the same amount of time. And "
   },
   {
-   "cat": "AI tools & agents",
-   "video": "The Best AI Side Hustle Ideas NO ONE Is Talking About",
-   "url": "https://youtu.be/ccs0g0Dz0XE",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Does anyone know how to get more consistent generation for animating the nature scenes? I continue to use very detailed prompts and also very broad ones but the Higgsfield Kling 3.0 model continues to keep the image static."
-  },
-  {
-   "cat": "AI tools & agents",
+   "cat": "AI automation services",
    "video": "A Practical AI Agent Workflow For Companies In 2027 (Guide)",
    "url": "https://youtu.be/8rVQuZlRaqo",
    "signals": [
@@ -409,62 +244,106 @@
    "text": "I really appreciate your videos. Thank you. I wish I could afford your course."
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "make money online methods",
+   "video": "Side hustles that will pay you QUICKLY #career #jobsearch #sidehustle",
+   "url": "https://youtu.be/jJ0RyPp7J7U",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.19,
+   "likes": 5,
+   "text": "Just when I gave up on job hunting to get out weddings which I technically stopped showing up for because its not worth it anymore...its been 2 years since I graduated and I've watched so many videos and shorts and everything else to how to effectively find work and nothing has really worked to truly motivate me because even resume building is exhausting. I literally just gave up looking when THIS"
+  },
+  {
+   "cat": "side hustles & selling online",
+   "video": "I Sell PDFs With AI and It Changed My Life (Revealing Everything)",
+   "url": "https://youtu.be/rYUS7ibZhYo",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Who\u2019s gonna buy Ai generated pdf guide for $27-$47 in 2026? Are you kidding? \ud83d\ude02and where did you find poor doctor in US? the whole video is a waste of time \ud83d\ude22"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "TOP 3 LEGIT TYPING JOBS USING PHONE ONLY! \ud83d\udcb0 (Earn Up To \u20b15000+)",
+   "url": "https://youtu.be/qELQnTaEO98",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Sabi ng google scam daw Yung app number 3 Kase pag nka about kna ng minimum withdraw bigla nlng Sila mag banned huhuhu gusto ko pa nman I try kaya nag research Muna ako"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
    "signals": [
     "result_report"
    ],
    "score": 3.58,
    "likes": 3,
-   "text": "It\u2019s horrible. Some of those videos are stolen from my channels featuring an 8 year old girl crocheting, and are being used for scam purposes (selling 'crochet flower coasters'). I\u2019ve been reporting them on a weekly basis, and this has been going on for 2 years now. They were doing this before AI, but now they\u2019re also using AI to edit some of the stolen videos. At least the AI versions don\u2019t look "
+   "text": "Parang scam ito sayang oras at effort ko my mga shield dumarating actually parang naka 15 shields na ako natatangal Pero hindi pa natatalo ang ang higante dahil my mga shields pa na babawasan hay naku nakakapagod"
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "make money online methods",
+   "video": "The EASIEST Way To Make Money With AI (Copy This)",
+   "url": "https://youtu.be/HKWLH1Zh79A",
    "signals": [
     "result_report"
    ],
    "score": 3.58,
    "likes": 3,
-   "text": "Honestly? I wouldn't have recognised it as AI but I'm aware it's a scam. Which... That's crazy, how realistic ai has gotten"
+   "text": "Everything is a scam now."
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.58,
-   "likes": 3,
-   "text": "Blaming white people for these scam sites is a hell of an accusation. Unless you have proof?"
-  },
-  {
-   "cat": "legal & bills admin",
-   "video": "Hardware Stores Complaints: People Blame Tools for Their Own Stupidity",
-   "url": "https://youtu.be/OMtvO0H_c-Y",
+   "cat": "AI automation services",
+   "video": "Laziest Ways to Make Money with AI (For Beginners)",
+   "url": "https://youtu.be/ytAW1_g2IfI",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "Have an empty box that's labeled \"left handed\". Hide it under the counter.  Customer: \"My hammer doesn't work. It's right-handed. I demand a left-handed hammer!\" Employee (without missing a beat): \"One moment...\" Disappears behind the counter.  ...rustling noises...  Returns carrying the LEFT HANDED box. Opens it dramatically.  \"...Ah! We still had one left.\"  It implies the store has a universal "
+   "text": "Thank you so Much Mark! I struggeled so much! Just 3 month ago I was $ 38 Million in debt but thanks to you I made $ 486 Billion in two weeks and now Im dept free and even have two cars and a cat! But the important thing is my Family, who supported me during all these two weeks where I struggled hard to make the Billions of $$ but thanks to you it worked. Thank you for all your Bullshit!"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
-   "url": "https://youtu.be/LM7Ft7g8qJw",
+   "cat": "AI automation services",
+   "video": "How to Actually Make Money With AI (No-BS Guide)",
+   "url": "https://youtu.be/etDjj7nqFYA",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "Not feeling you on this one, humanity comes first, not this tyrannical scam."
+   "text": "But that's what every video says lol. You aren't unintelligent - you know very well how many videos on Youtube claim the same thing. The common denominator is that I never see viewers applying what's in all these similar videos, and sharing their successes. Pardon my skepticism..you can't blame me. I for one would like to know if people just watch these and move on with their lives or whether impl"
   },
   {
-   "cat": "AI tools & agents",
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Hirap nyan kahit unang withdrawal may task scam yan. Na try ko na"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "I'm curious about what happens when something doesn't work and the client expects you to fix it, like a glitch or something"
+  },
+  {
+   "cat": "vibe coding & building apps",
    "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
    "url": "https://youtu.be/4LwtuscILlc",
    "signals": [
@@ -475,117 +354,150 @@
    "text": "Bro your credits are not able to redeem seems like just a. Scam"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "The Best AI Side Hustle Ideas NO ONE Is Talking About",
-   "url": "https://youtu.be/ccs0g0Dz0XE",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "thank you again. but i tried many of your YT approches i dont the results you getting, $0 so far."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
-   "url": "https://youtu.be/NhqSuQPPvbg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "Welcome to the normie version of the Tate brothers BS, \"bro you're a brokie! now come to dA REaL woRLd where REAL entrepreneurs will teach YOU how to become a scam... errr I mean a BILLIONAIRE selling SIDE HUSTLES!\". This is all so tiresome."
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Hope Your AI \"Small Business\" Fails",
-   "url": "https://youtu.be/jiRcD790KrQ",
+   "cat": "local trades & services",
+   "video": "This App Pays You $30 to Clean Your Kitchen \u2014 But WHY??",
+   "url": "https://youtu.be/jURgP_kJGXk",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "So I want to do an experiment. I want to paint a landscape and then have AI paint the same landscape. Then I'll go set up at a county fair, selling both for $20 a piece.  I think at this rate now, especially with gen Z being so anti AI, that my landscape would sell like hotcakes.  They'd be like, \"well, it absolutely sucks, but you tried and you're human. Don't see that much these days. Take my mo"
+   "text": "(a) I'm relatively poor otherwise I'd never consider doing this at all (or be watching this wonderful channel) = nobody wants to steal my stuff. And (b) I'm also relatively old at 58 = nobody really wants to see this anymore. And (c) Doesn't take a rocket scientist to put your mail/prescription bottles away = where do I sign up?"
   },
   {
-   "cat": "AI for small business",
-   "video": "4 Months of Learning Claude in Just 40 Mints \u0627\u0631\u062f\u0648 / \u0939\u093f\u0902\u0926\u0940",
-   "url": "https://youtu.be/nAc-pn4rsgU",
+   "cat": "vibe coding & building apps",
+   "video": "Create an Android App with AI in 20 Minutes for Free (0 Coding)",
+   "url": "https://youtu.be/-jRBmbNqjrQ",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "I want to learn from u sir in person please sir I will pay you, everyone selling course but nothing in it..I don't know any one who knows ai tools, kindly for God sake help me,I'm girl I can't have access to anyone I need somebody from whom I can contact I could ask please I'm in emergency condition many people have faceless YouTube channel in3,4 months they r earning a lot but I have no one from "
+   "text": "Mein ek chhota sa app banwana chahata hu, for my new caf\u00e9. Kya aap bana sakte hai,i will pay for it."
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hate Your \"Small Business\"",
-   "url": "https://youtu.be/aSIzrj5XS5w",
+   "cat": "vibe coding & building apps",
+   "video": "I Built $10000 Website With Free AI Tools In 15 Minutes || No Coding || Free Resources",
+   "url": "https://youtu.be/nPxMF2YV77I",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Really amazing work! Is it possible to get some support? I would pay for it"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I built an app to tell my co-workers I'm busy",
+   "url": "https://youtu.be/FLz04Wr14AM",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Where do I buy the headband/phone holder? I don't see it in your store! Missed opportunity."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How I built an $80K/Mo mobile app with Claude Code (Full Vibe Code Tutorial)",
+   "url": "https://youtu.be/UMjeSU6C4qU",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "Thank you for making this video we talk about this at work SO MUCH.  The trashy people who call them entrepreneurs they buy candy put syrup on it and then charge more.  The guys who buy hotdogs put it in some hot water and charge $10 for trash dogs.  But when it comes to the 2nd one if they have people to sell to I guess take dumb people's money.  But when it comes to this you are not a business o"
+   "text": "scam, you're not earning 60k/month with that lol"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
-   "url": "https://youtu.be/LM7Ft7g8qJw",
+   "cat": "side hustles & selling online",
+   "video": "The Claude Canva Side Hustle That's Making People RICH \ud83d\udcb0 ($35,955/mo)",
+   "url": "https://youtu.be/ll1m-oOQfqY",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "No, it's not worth it. Just wait and the free versions, from multiple companies, will come. And soon."
+   "text": "WHAT A BIG LIE!  YOU HAVE TO PROVIDE YOUR PERSONAL INFORMATION\u2014YOUR NAME, EMAIL ADDRESS, AND PHONE NUMBER. THEN YOU\u2019RE GIVEN A BUNCH OF GARBAGE PROMPTS. TO CONTINUE, YOU\u2019RE PUSHED TOWARD A PAID UPGRADE WITH A \u201c40% OFF\u201d OFFER TO ACCESS THE SO-CALLED BETTER PROMPTS.  AFTER SEEING THE LOW-QUALITY CONTENT AND MISLEADING MARKETING, IT LOOKS LIKE NOTHING MORE THAN A SCAM FOR CRABS"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
-   "url": "https://youtu.be/NhqSuQPPvbg",
+   "cat": "AI automation services",
+   "video": "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)",
+   "url": "https://youtu.be/JWMizuT_A8E",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "this is the same thing we called a pryamid sceme back in the game it doesnt matter the shape its top teir makes money suckering people to buy into their teaching you how to make money ,then as the teirs go down you dont have anyone to pitch to,,,the starters make a fortune then they sucker you in,you pitch to family friends to get people under you so you can make money,its all a huge scam,,,dont b"
+   "text": "It doesn't work like this people content and make people fool and earn views and earn money themselves he not share the idea he is just making us  watch this vedioe and he earn much by make people fool"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Meta Muse is an INCREDIBLE AI agent",
-   "url": "https://youtu.be/Wod_A8xIy4E",
+   "cat": "AI automation services",
+   "video": "I Built The Ultimate Claude Website Design Skill (steal this)",
+   "url": "https://youtu.be/QUI6Ug4cHnE",
    "signals": [
-    "manual_pain"
+    "result_report"
    ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I told it to go through my Amazon, email, and Google Drive to find all my spending, plot it onto a spreadsheet, and categorize it. It did it all in minutes, which would take me hours. Also i took pictures of receipts that i haven't recorded yet and it could plot it in the appropriate spreedsheet in seconds."
+   "score": 2.54,
+   "likes": 1,
+   "text": "I signed up to your website and can't find the skill is this video a scam to get people in or what?"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
-   "url": "https://youtu.be/jVOk8oc-a70",
+   "cat": "vibe coding & building apps",
+   "video": "The Complete Beginners Guide To Vibe Coding",
+   "url": "https://youtu.be/x8WUtEv1YEg",
    "signals": [
-    "ask_for_tool"
+    "result_report"
    ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What tool do you use to change your background please?"
+   "score": 2.54,
+   "likes": 1,
+   "text": "What is the point of creating these project if literally anyone can create it with english.  Waste of time. That's why sass is dead."
   },
   {
-   "cat": "AI tools & agents",
-   "video": "The AI Tools You'll ACTUALLY Use in 2026!",
-   "url": "https://youtu.be/FhtzROwyung",
+   "cat": "make money online methods",
+   "video": "TOP 3 LEGIT TYPING JOBS USING PHONE ONLY! \ud83d\udcb0 (Earn Up To \u20b15000+)",
+   "url": "https://youtu.be/qELQnTaEO98",
    "signals": [
-    "manual_pain"
+    "result_report"
    ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "that automation demo was uncomfortable to watch because i do all of that manually LOL"
+   "score": 2.54,
+   "likes": 1,
+   "text": "Naubo  KO na ang 4000 points  bakit ayaw mag proceed pag withdraw KO na. Scam yata to eh\ud83d\ude01"
   },
   {
-   "cat": "AI tools & agents",
+   "cat": "AI automation services",
+   "video": "How I'd Start a $10K/Month One-Person Business With Claude (Masterclass)",
+   "url": "https://youtu.be/DuOolRhG2UY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "When I start testing a 1 person business idea there are 2 case Case 1: I get them to buy and start building  Case 2: no one buys   My question is when I start testing the idea how much time should I give to test the idea and if it doesn't work and I start another idea should I start building my personal brand again using new accounts?"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "Build This Once \u2192 Sell It to Every Local Business ($297/Mo)",
+   "url": "https://youtu.be/rgwR8qjbxRM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "What about sending the request with the personalized picture from the business? Not worth it?"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Really loved that video and I feel the same way about a lot of what you're expressing. I did not use IA while I was an employee so I cant totally relate but today I'm a freelance and I use it basically everyday. It does help a lot but the way I use is seen as a waste of time by AI lovers : the base of my projects is coded by myself and then I add specific functionalities and stuff with the help of"
+  },
+  {
+   "cat": "AI automation services",
    "video": "A Practical AI Agent Workflow For Companies In 2027 (Guide)",
    "url": "https://youtu.be/8rVQuZlRaqo",
    "signals": [
@@ -596,205 +508,194 @@
    "text": "Hi Nick what's not clear to me from the video and from the files - is there a way to run this with Claude Max Subscription only? Or do I need to pay through API?"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Google's SECRET 8 AI Tools Just REPLACED Every Paid AI Tool (100% FREE Stack)",
-   "url": "https://youtu.be/RIPxwxqZhVI",
+   "cat": "side hustles & selling online",
+   "video": "The $30K/Month Al Faceless Shorts Method Nobody's Talking About (Full Workflow)",
+   "url": "https://youtu.be/iJiBJAJRRkk",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Does Anyone know about Any course on ai research workflows"
+   "text": "You cant DL most of the tiktok clips. Is there a way that Im not aware of. Most clips are blocked from dling it to your local drive."
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Google's SECRET 8 AI Tools Just REPLACED Every Paid AI Tool (100% FREE Stack)",
-   "url": "https://youtu.be/RIPxwxqZhVI",
+   "cat": "AI automation services",
+   "video": "I Built The Ultimate Claude Website Design Skill (steal this)",
+   "url": "https://youtu.be/QUI6Ug4cHnE",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "If I am doing referral business like looking for a product from online platform such as amazon, alibaba and use social media ads to look for client. Is there a way to do this better using AI so as I can increase my sales, if yes could create a video for this topic"
+   "text": "Is there a way to integrate this with Higgsfield instead of the video/image generator source that you recommended?"
   },
   {
-   "cat": "AI for small business",
-   "video": "From Zero to Your First AI Website Sold In 8 Minutes (No Coding)",
-   "url": "https://youtu.be/FmwmYaiPD9Y",
+   "cat": "make money online methods",
+   "video": "Create Viral AI Videos and Earn Money | Step-by-Step Guide \ud83d\ude80",
+   "url": "https://youtu.be/rXIyCtSf1zU",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I don't even hear the name of the app"
+   "text": "Bro is there any app to generate the videos in Telugu"
   },
   {
-   "cat": "AI for small business",
-   "video": "How to Build a One Person AI Business (Using Claude Code)",
-   "url": "https://youtu.be/LVAHYV4Xrto",
+   "cat": "make money online methods",
+   "video": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
+   "url": "https://youtu.be/jVOk8oc-a70",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What tool do you use to change your background please?"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How to Build Real Mobile Apps with Claude - FULL COURSE",
+   "url": "https://youtu.be/tpge9xJ0m5U",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there any tool with price tag except claude"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "How I\u2019d Make Money with Claude if my life depended on it",
+   "url": "https://youtu.be/vY0EzTP-7EA",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "what software do you use for your videos? Especially this video?"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I Built an UNCENSORED AI app For Hacking (and YOU can too)",
+   "url": "https://youtu.be/bwzK1FuSp1Q",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "im a little bit dumb and also dont want to pay for api keys so is there a way to just use one api key from some other ai such as gemini"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "Build This Once \u2192 Sell It to Every Local Business ($297/Mo)",
+   "url": "https://youtu.be/rgwR8qjbxRM",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Hi, hopefully someone can help me with this question, which I'm struggling to find an answer: Let's suppose you built an automation to sell it to a company. After the sale, how do you make the company use your automation: Is it through an installed software, web link? Thanks for all the help."
+   "text": "I have already build it up and its totally working but I am struggling to get clients"
   },
   {
-   "cat": "AI for small business",
-   "video": "Anthropic\u2019s CEO: How to Build a 1 Person Business with Claude",
-   "url": "https://youtu.be/QDsenEcAJIk",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What tool do you use do create all those animations and visuals in your video?"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "I Built an AI Receptionist Business with Claude Code (Full Guide)",
-   "url": "https://youtu.be/pblQ8ZwpgAo",
+   "cat": "vibe coding & building apps",
+   "video": "The Truth About AI Coding in 2026 - No Hype, Only Truth",
+   "url": "https://youtu.be/sO-ssqm9jPk",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "My doubt is how other people use the same workflow can we enter every credentials for every client manually or do we have to make it multi tanent but how can we make it ?"
+   "text": "I don't know how many will agree.. But I think manually writing code and finding fix on stack overflow feels safe and secure as a developer in long term"
   },
   {
-   "cat": "AI for small business",
-   "video": "Sell THIS AI Receptionist to Salons for $997/mo (n8n + Retell AI)",
-   "url": "https://youtu.be/mTfwBmWZQec",
+   "cat": "vibe coding & building apps",
+   "video": "I'm done coding with AI",
+   "url": "https://youtu.be/2ZU3j4GQ4K8",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Thank you Brett for sharing, I can totally relate to these issues, both the loss of skill and the hallucinations. I also found that it makes me very grumpy and annoyed to go back and forth with the LLM when it's clearly not understanding my prompt, really like talking to a wall, but worse because it has a resemblance of human speech. I hope coding by hand again helps you reconnect with a wonderful"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "How to Make Millions With AI Videos",
+   "url": "https://youtu.be/3h3plWAHzYM",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "thank you for this awesome guide! is there a way to use Retell if my preferred language is not listed in the voice options? like Arabic?"
+   "text": "what software was it to find those leads?"
   },
   {
-   "cat": "AI for small business",
-   "video": "AI Receptionist Business: $0 to $10K/mo (Full Course)",
-   "url": "https://youtu.be/UK52c72noOk",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Couple of quick questions : Do you charge a retainer + call usage fees or just a retainer with a set amount of usage and if so how do you track client usage. Secondly does anyone know how to setup call forwarding in Australia? Would love to hear from you!"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "8 ChatGPT Agents That Do My Work for Me (Steal These)",
-   "url": "https://youtu.be/ubzhh4kMCLo",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Does anyone know how to log in with a different email on the iOS app? I can\u2019t access my business account on iPhone"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "Ultimate Guide To ChatGPT Codex for Everyday People",
-   "url": "https://youtu.be/BU3llOqYy8k",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to see how many credits a task will cost before initiating the task?"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "You\u2019re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
-   "url": "https://youtu.be/Bm84BAtOfQw",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "Thank you for this video, Dan. I've had a blast playing around with Claude this last week. It means a lot hearing that I'm ahead of the curve by embracing AI automation. I just can't seem to get over my crippling fear of failure. I wish I could apply what I've been told."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Meta Muse is an INCREDIBLE AI agent",
-   "url": "https://youtu.be/Wod_A8xIy4E",
+   "cat": "side hustles & selling online",
+   "video": "The NEW Claude AI Side Hustle Nobody\u2019s Talking About",
+   "url": "https://youtu.be/bW8K4G1uvnA",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "First of all, I think Instinct is not worth the time for anyone.  That being said, I do think Muse is really good in certain situations. For example, I have it filtering my personal Gmail account and when a new email sender comes in that I don\u2019t want. I just tell Muse and it runs every hour of the day and, last weekend, I was on a road trip to Columbus, Ohio and I told Muse I\u2019m looking for a hotel"
+   "text": "when someone says this business model works I call BS. If you don't have a novelty product or some authorize element to your product you're dead in the water. This is just AI slop that doesn't work. It's honestly silly because these dudes can't show you numbers. And they never will. They're selling you bs based on your hope. I've been in the ecom game over well over a decade and actually done sale"
   },
   {
-   "cat": "AI for small business",
-   "video": "Every Grok Bot Concept Explained for Normal People",
-   "url": "https://youtu.be/NyfYxpXiw_0",
+   "cat": "make money online methods",
+   "video": "7 Claude AI Side Hustles That Can Replace Your Salary",
+   "url": "https://youtu.be/dmEvo0C1xc8",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "this is a SCAM !!! i never got the invitation mail but i did pay the 99 dollars !!!!"
+   "text": "Focus on goverment exam kyuki ise acha or settle ye sab ai scam hai bhut difficult hai and agar tum begginer se start kroge toh tumhe 1 saal toh iske basic mai. Chle jayenge na 1000+concepts hai bas ML isliye padhai hi thik hai"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "AI Agents are the new SaaS",
-   "url": "https://youtu.be/83fWzQSWB10",
+   "cat": "side hustles & selling online",
+   "video": "The $30K/Month Al Faceless Shorts Method Nobody's Talking About (Full Workflow)",
+   "url": "https://youtu.be/iJiBJAJRRkk",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Claude 5 ist a scam project - they need more money- it is the 4.8 - fable 5 is only marketing name"
+   "text": "IT DIDNT WORK FOR ME PLZ HELP!!"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "AI Agents are the new SaaS",
-   "url": "https://youtu.be/83fWzQSWB10",
+   "cat": "make money online methods",
+   "video": "The ONLY 7 Ways to Make Money with AI in 2026",
+   "url": "https://youtu.be/HNrJ_tohFMU",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Blah, blah, blah.   Same mindless BS about AI every day.    If AI is so good why aren\u2019t these AI \u201cexperts\u201d on their super yachts ?   LOL.  The fools don't get it.   AI companies are shonks and grifters.    AI cannot \"do\" maths,  It cannot verify itself,  it doesn't store any knowledge,  it is wrong 50% of the time,  it cannot be used in law,  and it can hallucinate.   It's the biggest scam in hist"
+   "text": "Instead of just making a video for brand promotion using general info on how to make money with AI, do something useful. BS waste of time"
   },
   {
-   "cat": "AI for small business",
-   "video": "AI Automation Full Course for Beginners 2026",
-   "url": "https://youtu.be/uaEXcgBpLbo",
+   "cat": "vibe coding & building apps",
+   "video": "How I Build Apps SOLO That ACTUALLY Make Money in 2026",
+   "url": "https://youtu.be/KKWS0bSiCT4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "What do you think about selling the systems to businesses? Profitable or waste of time?"
+   "text": "\"How to make 1400 a month? Just become a software developer and marketer\" \ud83d\ude02 Dude I'm working as a dev. So I know from experience that learning JS, React, Supabase, and NextJS from scratch enough to understand when Claude is spitting BS doesn't take just a few weeks. And building an organic audience is a full time job. I'm not saying this because your strategy doesn't work, the advice is solid. But"
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
+   "cat": "vibe coding & building apps",
+   "video": "Why don't Googlers vibe code?",
+   "url": "https://youtu.be/TFBWf_9Df1k",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Thanks for educating people and exposing this scam \ud83d\udc97 from Australia \ud83c\udde6\ud83c\uddfa"
+   "text": "they don't vibe code because they know its a waste of money..."
   },
   {
-   "cat": "AI for small business",
-   "video": "These Small Crochet Businesses Are Not Real",
-   "url": "https://youtu.be/bSpf9l1i_f0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Thank you for this video, when it first started about 4 or 5 years ago I was also taken in, not to buy but to comment.  It is malignant to use kindness and empathy to scam people.  Thoroughly shameful.  The children, women and men who are tied to these sweatshops! Think about them!  Think about yourself making these items how long would  it take then think about how they can make it that cheaply. "
-  },
-  {
-   "cat": "AI for small business",
+   "cat": "AI automation services",
    "video": "5000 Hours of Building AI in Just 17 Minutes",
    "url": "https://youtu.be/7WZ6XldxX0U",
    "signals": [
@@ -805,40 +706,227 @@
    "text": "Opus 5 spawning agents to spawn more agents. How are you PAYING for all of this?!  Since I switched from 4.8 to 5, my $200/month plan is now giving me maybe 15-30 minutes of work every 5 hours. I\u2019ve switched effort level from xhigh to low, run multiple attempts to throttle verbosity, killed thinking, pruned skills, everything i have found recommended to deal with this, and still\u2026 30 minutes. I tri"
   },
   {
-   "cat": "AI for small business",
-   "video": "HERMES AGENT FULL COURSE 3 HOURS: Build & Sell (2026)",
-   "url": "https://youtu.be/8yE6G1Lup1s",
+   "cat": "make money online methods",
+   "video": "How To Make Your First Roblox Game in 2026 (With AI)",
+   "url": "https://youtu.be/v8vby3iOOX4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Thank you very much for this tutorial, i try hard to follow your instruction by using vps server it didnt work, are you planning to do one for vps please?"
+   "text": "this is scam, i invite my friend and i dont have acces pls repair this"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
-   "url": "https://youtu.be/d9c5gloGPMU",
+   "cat": "make money online methods",
+   "video": "How To Make Your First Roblox Game in 2026 (With AI)",
+   "url": "https://youtu.be/v8vby3iOOX4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Getting the x account suspended  and lose it is not worth it."
+   "text": "bro forge gui is a scam you can't use it"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
-   "url": "https://youtu.be/d9c5gloGPMU",
+   "cat": "vibe coding & building apps",
+   "video": "Build Your First AI Agent in 10 Minutes \u2014 No Coding",
+   "url": "https://youtu.be/7ReHiROdPbE",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "not worth it. Even while using the paid plan, the number of mistakes and lag, i'd barely call it a beta; they should be ashamed of presenting such a service"
+   "text": "It is not agent , it is scheduled task not automating workflow , waste of time"
   },
   {
-   "cat": "AI tools & agents",
+   "cat": "make money online methods",
+   "video": "EARNING APP NA PANG TAMAD 2026 | Legit Ba? (Payout Proof)",
+   "url": "https://youtu.be/q0CEToiJ0ok",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Hello po, pwede po pa review nung meteon run kung legit or scam., salamat po. More power sa channel"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "EARNING APP NA PANG TAMAD 2026 | Legit Ba? (Payout Proof)",
+   "url": "https://youtu.be/q0CEToiJ0ok",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Totoo po b Yan sir wow sana nmn Hindi scam"
+  },
+  {
+   "cat": "side hustles & selling online",
+   "video": "Best Online Business for Women in 2026 (HOW TO START NOW)",
+   "url": "https://youtu.be/ecca3vfpmBI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Good for those who live in America or Europe, but what about the countries where Paypal doesn't work?"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "I Built The Ultimate Claude Website Design Skill (steal this)",
+   "url": "https://youtu.be/QUI6Ug4cHnE",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "The most elegant Scam i ever seen"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Scam yan 1month na Ako ng lalaro puro shield lumabas sa last part\ud83d\ude0f"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Scam Yan laro Hindi  Ako makawithraw kahit nakaipon 2500 pero Hindi parin Ako makawithraw."
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Wag kayo magdownload nyan scam yan. Magsayang lang kayo oras at load"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Report koto ser sabi legit scam pala"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Crazy Food App Review 2026 | Legit or Scam? \u20b1620 GCash Withdrawal Proof",
+   "url": "https://youtu.be/krTOf_jMShc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Scam yan pangalawa na ako hindi pumasok"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "I Tested Honeygain for Passive Income \u2013 Here's What Actually Happened",
+   "url": "https://youtu.be/6_kfdPw25yM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Pure scam...don't received any money even after completed target."
+  },
+  {
+   "cat": "make money online methods",
+   "video": "TOP 3 LEGIT TYPING JOBS USING PHONE ONLY! \ud83d\udcb0 (Earn Up To \u20b15000+)",
+   "url": "https://youtu.be/qELQnTaEO98",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Visited the app but didn't work."
+  },
+  {
+   "cat": "make money online methods",
+   "video": "TOP 3 LEGIT TYPING JOBS USING PHONE ONLY! \ud83d\udcb0 (Earn Up To \u20b15000+)",
+   "url": "https://youtu.be/qELQnTaEO98",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Scam gusto lng magkaviews"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I Built an UNCENSORED AI app For Hacking (and YOU can too)",
+   "url": "https://youtu.be/bwzK1FuSp1Q",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Bro i had like a jailbreak for deepseek and i like asked why something didnt work idk what it was but it was always giving me some bs python script"
+  },
+  {
+   "cat": "AI automation services",
+   "video": "Build This Once \u2192 Sell It to Every Local Business ($297/Mo)",
+   "url": "https://youtu.be/rgwR8qjbxRM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Sales review- isn't it giving fake review- they dont know each other or didn't work together or used their services, but  you are adding a review by selling its fake to me."
+  },
+  {
+   "cat": "AI automation services",
+   "video": "Build This Once \u2192 Sell It to Every Local Business ($297/Mo)",
+   "url": "https://youtu.be/rgwR8qjbxRM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "If you claim it\u2019s FREE, then share it for free. Don\u2019t ask for a credit card or require people to sign up for anything. It looks like a scam. But thanks for the idea\u2014I can build the system myself."
+  },
+  {
+   "cat": "AI automation services",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "52:49 emergency offer or limited offers as an Australian.. will likely be a scam. As I am seeing more Australia and America have massive attitude gaps with their buy and sell systems. I.e your potential clients because you were helping them would not work in many Ozzy businesses they just ask you for help :/"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "How to Make Millions With AI Videos",
+   "url": "https://youtu.be/3h3plWAHzYM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "These videos literally boil down to -  \u201cHere\u2019s how I made $1million\u2026 step 1. Complete a task you\u2019ve got zero experience in and without a doubt the results will be mind blowing. Step 2. Sell that shit to the world\u2019s biggest companies for $100,000 and just sell to 10 of them. Boom you just made a mill dumdum.\u201d"
+  },
+  {
+   "cat": "side hustles & selling online",
    "video": "The Best AI Side Hustles To Start If You're BROKE",
    "url": "https://youtu.be/8NvhbfZNTrc",
    "signals": [
@@ -849,84 +937,7 @@
    "text": "Love you love your videos, thanks for putting this content out there.  I want to start now, October 2026, and want to get REALLY clear on YouTube\u2019s terms and conditions now about monetization, and AI content especially. I\u2019ve heard YouTube has removed earning possibilities from many niches and types of videos. Could you pls tell us if all this still works? Scared of putting so much effort into some"
   },
   {
-   "cat": "AI for small business",
-   "video": "I Hope Your AI \"Small Business\" Fails",
-   "url": "https://youtu.be/jiRcD790KrQ",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "11:08 I\u2019m completely failing in teaching them not to fall for FB-scams, scam calls/emails/messenger and the Nigerian prince etc. I can\u2019t do AI as well. \ud83e\udd26\u200d\u2640\ufe0f"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "From Zero to Your First AI Website Sold In 8 Minutes (No Coding)",
-   "url": "https://youtu.be/FmwmYaiPD9Y",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Abu thank you for this video. Please do you have any other best suggestion for hosting the website on I tried using cloudways but stripe doesn't work in my country"
-  },
-  {
-   "cat": "AI for small business",
-   "video": "Anthropic\u2019s CEO: How to Build a 1 Person Business with Claude",
-   "url": "https://youtu.be/QDsenEcAJIk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "good luck getting 1 customer, waste of time business does not work like that, typical clickbait video, no value..."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Making $$$ with Grok Bot",
-   "url": "https://youtu.be/qQluNEfSVHk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Why this guy sound like he is trying to scam people?"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Making $$$ with Grok Bot",
-   "url": "https://youtu.be/qQluNEfSVHk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "So what are the business IDEAS that make all this money?  You never talk about good ideas, only what happens when you get and use the agents.  Waste of time."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "Making $$$ with Grok Bot",
-   "url": "https://youtu.be/qQluNEfSVHk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "What a waste of time. Get Intuit tell us how we can use it. Tell us something useful. I don\u2019t wanna know about that color friggin icon."
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "7 Mind-Blowing Use Cases for Hermes Agent",
-   "url": "https://youtu.be/JZWJzSSHYqU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "this video makes hermes look like trash cause this guy is trash he does not know how to properly use it. First of all I have been using hermes and opeclaw since their started and i have found the issus but i learned the purpose also. This is a total waste of time to use agents for."
-  },
-  {
-   "cat": "AI tools & agents",
+   "cat": "vibe coding & building apps",
    "video": "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)",
    "url": "https://youtu.be/ZvDkJsKE80k",
    "signals": [
@@ -937,29 +948,51 @@
    "text": "The clueless fools don't get it.   Do your research.   Ai has no autonomy or self volition.  It has no \"intelligence\".   AI can't verify itself.  It has no logic or deduction capability,  it can\u2019t \u201cdo\u201d maths,  it\u2019s not trusted in law or medicine, and it can hallucinate.  AI added glue to a pizza recipe,  it said we should eat rocks for minerals and vitamins,  it didn\u2019t know how many letters \u201cr\u201d we"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)",
-   "url": "https://youtu.be/bcM9dP_uXJU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Claude 5 ist a scam project - they need more money"
-  },
-  {
-   "cat": "AI tools & agents",
-   "video": "FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step)",
-   "url": "https://youtu.be/gjffmgucDSw",
+   "cat": "AI automation services",
+   "video": "I Give Local Businesses a Free Website. Then They Pay Me $297/Mo",
+   "url": "https://youtu.be/EJ8sQIBEwRk",
    "signals": [
     "link_ask"
    ],
-   "score": 0.63,
-   "likes": 2,
-   "text": "And where can I get the promised free promt for this app?"
+   "score": 0.51,
+   "likes": 1,
+   "text": "where can i find the tool for business with out website im not able to find it in go higi level and thank you for all the knowledge adam"
   },
   {
-   "cat": "AI tools & agents",
+   "cat": "AI automation services",
+   "video": "I Give Local Businesses a Free Website. Then They Pay Me $297/Mo",
+   "url": "https://youtu.be/EJ8sQIBEwRk",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "This is a very nice video but what is the proof that this works? And for the messaging how do we find these business owners and message them? Because I don't think we will find the owner's email in the google map listing. I have more qurstions where can I get them answered? And thank you in advance"
+  },
+  {
+   "cat": "side hustles & selling online",
+   "video": "The $30K/Month Al Faceless Shorts Method Nobody's Talking About (Full Workflow)",
+   "url": "https://youtu.be/iJiBJAJRRkk",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Hey, where can I download videos because TikTok has copyrights"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Where can i find a notepad like this at 5:24?"
+  },
+  {
+   "cat": "make money online methods",
    "video": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
    "url": "https://youtu.be/jVOk8oc-a70",
    "signals": [
@@ -970,37 +1003,48 @@
    "text": "Where can I find someone to help me with my business? I need someone from Vietnam a\u0219 they very smart"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step)",
-   "url": "https://youtu.be/gjffmgucDSw",
+   "cat": "AI automation services",
+   "video": "How I'd Start a $10K/Month One-Person Business With Claude (Masterclass)",
+   "url": "https://youtu.be/DuOolRhG2UY",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "Where can i find a prompt ?"
+   "text": "He Patrick, where can I get the skills you used?"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "FULL COURSE: How to Build & Sell Digital Products With AI (Step by Step)",
-   "url": "https://youtu.be/gjffmgucDSw",
+   "cat": "AI automation services",
+   "video": "How I\u2019d Make Money with Claude if my life depended on it",
+   "url": "https://youtu.be/vY0EzTP-7EA",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "Hi Richard! Thank you for your valuable video. You promised to give access to 2 prompts - for Fitness app and Marketing content app. Where can I find it?"
+   "text": "Your video is top notch. However, can I get the link of your video that provides how to provide services with Claude as a freelancer?"
   },
   {
-   "cat": "AI tools & agents",
-   "video": "Making $$$ with Grok Bot",
-   "url": "https://youtu.be/qQluNEfSVHk",
+   "cat": "vibe coding & building apps",
+   "video": "I built an app to tell my co-workers I'm busy",
+   "url": "https://youtu.be/FLz04Wr14AM",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "i'm building a local newsletter as well. Where can I get a deeper dive on setting it up? like actually step-by-step. Also, he didn't really cover how to make the content enough."
+   "text": "Where can I buy this new app? I need it!"
+  },
+  {
+   "cat": "make money online methods",
+   "video": "Best 5 Investment Apps in Nigeria 2026: How to Earn Passive Income (Step-by-Step Guide)",
+   "url": "https://youtu.be/pIiGs1LKyq0",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Where can I get digital app"
   }
  ]
 }
