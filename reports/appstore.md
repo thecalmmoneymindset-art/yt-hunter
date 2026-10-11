@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-10
-Keyword groups today: study & work, hobbies & collecting | countries: gb, us
+# App Store review report — 2026-10-11
+Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
 Fetch errors: none
 
-## study & work
+## travel & relocation
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4081672 | 4.78599 | Free | 0 | 0 |
-| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1067511 | 4.71086 | Free | 0 | 0 |
-| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 208197 | 4.57066 | Free | 0 | 0 |
-| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 461000 | 4.71807 | Free | 31 | 15 |
-| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 196752 | 4.64605 | Free | 40 | 15 |
-| [Notability: AI Note Journal](https://apps.apple.com/us/app/notability-ai-note-journal/id360593530?uo=4) (us) | 457753 | 4.76086 | Free | 0 | 0 |
-| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 652754 | 4.8404 | Free | 0 | 0 |
-| [Structured: Daily Planner Todo](https://apps.apple.com/us/app/structured-daily-planner-todo/id1499198946?uo=4) (us) | 167301 | 4.79406 | Free | 0 | 0 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 5964251 | 4.78814 | Free | 28 | 7 |
+| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2188033 | 4.84554 | Free | 21 | 3 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/gb/app/expedia-hotels-flights-cars/id427916203?uo=4) (gb) | 276373 | 4.69528 | Free | 19 | 5 |
+| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 475444 | 4.75006 | Free | 12 | 2 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 481175 | 4.8221 | Free | 15 | 7 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283623 | 4.78802 | Free | 7 | 0 |
+| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 311749 | 4.84113 | Free | 13 | 5 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 329547 | 4.89278 | Free | 12 | 2 |
 
-Repeated complaint phrases: every single time (3); over and over (3)
+Repeated complaint phrases: worth the money (3)
 
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "I hate Goodnotes 6 - Genuinely very unhappy with the app now. I bought it in 2022 for university and used it happily. 2026 I was forced to update to Goodnotes 6 which is on on a monthly subscription and now I can’t edit any of my notes anymore. Horrible system and my support ticket was never answere"
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "Audio Recording - This used to be my favorite app I been using this for my college but recently it hasn’t been working. I made a report about this issue over more than a month ago and still nothing. Honestly I had really good experience but their customer service is trash and if you have an issue tr"
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "Took away my slashes - They’d get a higher review if they didn’t make it so that I was unable to use slashes for naming any saved files now. It will automatically turn into an underscore if you try to use a slash. How annoying. I understand this may be a minor inconvenience to most people, but it is"
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "Please add a “return to open documents” shortcut - Love the app, but please add a one-click way to return to open documents. Once I tap home, there’s no easy way back to what I was working on. This is my single biggest frustration with GoodNotes otherwise great app."
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "Bugs on Mac OS have not been fixed for literal years - there are bugs in page selection that date back to 2021. Often, you try to select pages and the first on you select appears with a blue check mark, but then you move your selected pages and it does not come along for the ride. Often page selecti"
-- Goodnotes: AI Notes, Docs, PDF, 1 star: "It randomly stops working - When I open the app to create an appointment, nothing happens… the page freezes.  When it does work it is always misfiring…. Highlighting a page when I need to type, deleting appointments when I hit the back button…. Super annoying."
+- Expedia: Hotels, Flights, Cars, 1 star: "Expedia beware!!! - I cancelled a round trip flight within the 24hr time frame Expedia provides as well as paid the extra money for the additional option provided at check out and they refused to refund any of my money. This was after they requested the death certificate. When I sent it to the reque"
+- Expedia: Hotels, Flights, Cars, 1 star: "Trash - Customer service absolutely ridiculous. They have these ai generated bots that pretend they’re human and their grammar is all the way off. If you ever need to cancel a flight, don’t use Expedia to book or cancel anything. It’s a scam and it’s bs."
+- Expedia: Hotels, Flights, Cars, 1 star: "Scammers use this platform to take money from its users. - As titled… I’ve been scammed out of money by a rental car company that refused to rent a vehicle, but kept the money. I will no longer use or recommend Expedia to anybody going forward."
+- Expedia: Hotels, Flights, Cars, 1 star: "Virtual agent - The virtual agent is absolutely useless!"
+- Expedia: Hotels, Flights, Cars, 1 star: "Scams - Be careful with cancelling flights, the Expedia app provided a phone number that transferred me to an agent from Air Fare which is basically a scam to get you to pay more money. The Air Fare agent claimed to work with Expedia and tried to get me to pay extra money to receive airline credit s"
+- Expedia: Hotels, Flights, Cars, 3 star: "The travelers - Hotel price good but airlines and airfares too expensive"
 
-## hobbies & collecting
+## creators & sellers
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119401 | 4.58542 | Free | 0 | 0 |
-| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 610861 | 4.82801 | Free | 0 | 0 |
-| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 75185 | 4.66008 | Free | 27 | 16 |
-| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 308845 | 4.7888 | Free | 31 | 13 |
-| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114102 | 4.7542 | Free | 0 | 0 |
-| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 148828 | 4.81086 | Free | 0 | 0 |
-| [Outsmarted - Companion App](https://apps.apple.com/us/app/outsmarted-companion-app/id1541321303?uo=4) (us) | 68465 | 4.82576 | Free | 0 | 0 |
-| [AnyList: Grocery Shopping List](https://apps.apple.com/us/app/anylist-grocery-shopping-list/id522167641?uo=4) (us) | 80872 | 4.86527 | Free | 0 | 0 |
+| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4446056 | 4.75379 | Free | 41 | 16 |
+| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5792823 | 4.77707 | Free | 30 | 14 |
+| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8455686 | 4.82651 | Free | 42 | 12 |
+| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969256 | 4.81653 | Free | 46 | 12 |
+| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260707 | 4.75352 | Free | 49 | 13 |
+| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7322835 | 4.92493 | Free | 13 | 8 |
+| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3569803 | 4.87388 | Free | 9 | 3 |
+| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3709495 | 4.89879 | Free | 10 | 4 |
 
-Repeated complaint phrases: cancel my subscription (3); without the subscription (3)
+Repeated complaint phrases: hate hate hate (18); used to love (4); way to contact (3); waste of time (3); ads and ai (3); us the option (3)
 
-- ReciMe: Recipes & Meal Planner, 1 star: "Scam - I don’t know where in the app when I was just checking it out to see what it was. It scammed me and took somehow consenting to them taking money from me when I in no way wanted to allow that. That is scamming thieving behavior. Do not download this app."
-- ReciMe: Recipes & Meal Planner, 3 star: "Not What It Once Was - Prior to changing their logo, you could rely on this app pull the complete recipe from a reel (whether it was written in the caption, on screen or in the comments). Now, more than 50% of the time, it comes back with a screen that says it couldn’t get the recipe or the recipe i"
-- ReciMe: Recipes & Meal Planner, 1 star: "scam - i cancelled subscription but the up take my money"
-- ReciMe: Recipes & Meal Planner, 1 star: "Auto-subscribes - This app will not let you use the free version unless you sign up for the paid version 1 week free trial. It says it will remind you ahead of time so you can easily cancel. It does not. The only notice you get is from your credit card that you’ve been charged for a 1-year subscript"
-- ReciMe: Recipes & Meal Planner, 1 star: "No Contact!! - I have sent emails and they don’t reply… they charged me for a subscription but it is not turned on in my app! Frustrating!"
-- ReciMe: Recipes & Meal Planner, 2 star: "Not easy to cancel paid subscription - They make you accept a 7 day free trial and it is difficult and confusing (didn’t work for me) to cancel it before you are forced to pay."
+- Amazon Shopping, 1 star: "I HATE ALEXA SO MUCH IT DELETED MY……. - I HATE HATE HATE HATE HATE HATE HATE HATE HATE HATE HATW HATE HATE HATE HATE HATE HATE HATE HAT HATE HATE HATE HATE HATE HATE HATE ALEXA IT DELETED MY ACC FOR THE 2ND TIME AND ITS SO ANNOYING IT CANT GET ANYTHING RIGHT LIKE BRO I HATE ALAXA IM CHANGING MY PROF"
+- Amazon Shopping, 1 star: "Delivery - Evidently their drivers cannot read.  We get all packages delivered to us for a certain street number regardless of the street name.  Am so tired of delivering packages for them.   And conveniently you have no way to contact them."
+- Amazon Shopping, 1 star: "Incompetent - Can your drivers not read numbers and letters. Twice this week they screwed up. My unit is C mine they delivered to E and today they delivered someone else’s package to my unit when should have gone to F. Maybe test drivers reading before hiring them."
+- Amazon Shopping, 2 star: "Amazon censors negative reviews - I trust the reviews in the app… well I used to trust them. When I get a bad product and review it with honesty, Amazon flags it and refuses to post it."
+- Amazon Shopping, 3 star: "App has gone down hill - The app is a go to. I shop a lot and especially on Amazon. For several months now the app is slow, stops working, items don't load, and it often crashes. With the money ol' Jeffrey brings in from this app you would think they would be cutting edge for retail tech. Stop letti"
+- Amazon Shopping, 2 star: "So many BUGS / GLITCHES!! - I don’t know if it’s just me, but this app freezes (tries endlessly to load a page) quite frequently, and I end up having to restart it. I’m using an iPhone 17 pro max. It’s super frustrating when I’m halfway through the results of my search and it suddenly can’t load the"
