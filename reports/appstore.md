@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-11
-Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
+# App Store review report — 2026-10-12
+Keyword groups today: cars & transport, events & community | countries: gb, us
 Fetch errors: none
 
-## travel & relocation
+## cars & transport
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 5964251 | 4.78814 | Free | 28 | 7 |
-| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2188033 | 4.84554 | Free | 21 | 3 |
-| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/gb/app/expedia-hotels-flights-cars/id427916203?uo=4) (gb) | 276373 | 4.69528 | Free | 19 | 5 |
-| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 475444 | 4.75006 | Free | 12 | 2 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 481175 | 4.8221 | Free | 15 | 7 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283623 | 4.78802 | Free | 7 | 0 |
-| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 311749 | 4.84113 | Free | 13 | 5 |
-| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 329547 | 4.89278 | Free | 12 | 2 |
+| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 238084 | 4.72743 | Free | 34 | 13 |
+| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 252676 | 4.7717 | Free | 26 | 7 |
+| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 392606 | 4.82071 | £5.99 | 3 | 1 |
+| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 183972 | 4.76549 | Free | 13 | 3 |
+| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 100905 | 4.72773 | Free | 10 | 5 |
+| [SpotHero: #1 Rated Parking App](https://apps.apple.com/us/app/spothero-1-rated-parking-app/id499097243?uo=4) (us) | 421500 | 4.86207 | Free | 18 | 6 |
+| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187743 | 4.80722 | Free | 48 | 14 |
+| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 127841 | 4.8408 | Free | 29 | 6 |
 
-Repeated complaint phrases: worth the money (3)
+Repeated complaint phrases: bus and cycle (5)
 
-- Expedia: Hotels, Flights, Cars, 1 star: "Expedia beware!!! - I cancelled a round trip flight within the 24hr time frame Expedia provides as well as paid the extra money for the additional option provided at check out and they refused to refund any of my money. This was after they requested the death certificate. When I sent it to the reque"
-- Expedia: Hotels, Flights, Cars, 1 star: "Trash - Customer service absolutely ridiculous. They have these ai generated bots that pretend they’re human and their grammar is all the way off. If you ever need to cancel a flight, don’t use Expedia to book or cancel anything. It’s a scam and it’s bs."
-- Expedia: Hotels, Flights, Cars, 1 star: "Scammers use this platform to take money from its users. - As titled… I’ve been scammed out of money by a rental car company that refused to rent a vehicle, but kept the money. I will no longer use or recommend Expedia to anybody going forward."
-- Expedia: Hotels, Flights, Cars, 1 star: "Virtual agent - The virtual agent is absolutely useless!"
-- Expedia: Hotels, Flights, Cars, 1 star: "Scams - Be careful with cancelling flights, the Expedia app provided a phone number that transferred me to an agent from Air Fare which is basically a scam to get you to pay more money. The Air Fare agent claimed to work with Expedia and tried to get me to pay extra money to receive airline credit s"
-- Expedia: Hotels, Flights, Cars, 3 star: "The travelers - Hotel price good but airlines and airfares too expensive"
+- SpotHero: #1 Rated Parking App, 1 star: "Expensive Bug - Made a reservation under the wrong car because of a silly bug in the app. Ended up costing me an $88 parking ticket. Users beware, check you have the correct car. I added the car I was using and the app overrides it and put it under my “default” car instead. Even though I added and s"
+- SpotHero: #1 Rated Parking App, 1 star: "SpotHero is a SCAM - Reserved 24 hours in advance and was denied entry into the full lot. This is the second time this has happened to me and ended up making me miss my appointment I was parking for. Never using SpotHero again. BYE."
+- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
+- CARFAX Car Care, 1 star: "Won’t open crashes - As of 7/31/26 the app will sit on the open screen then close itself after about 30seconds.  Please fix soon"
+- SpotHero: #1 Rated Parking App, 1 star: "Terrible App - Never use Spot Hero unless you are willing to be scammed by them and the owners of the lot. Their app does not do what it says and the customer service does not follow through with customer concerns."
+- SpotHero: #1 Rated Parking App, 1 star: "QR code didn’t work - So I bought a parking spot for $96 for 3 days and my pass worked for the first day but when i came back the next two days my pass did not let me scan in. I kept receiving an error code and was not able to be let in. So I paid almost $100 for a parking spot and was only able to "
 
-## creators & sellers
+## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4446056 | 4.75379 | Free | 41 | 16 |
-| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5792823 | 4.77707 | Free | 30 | 14 |
-| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8455686 | 4.82651 | Free | 42 | 12 |
-| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969256 | 4.81653 | Free | 46 | 12 |
-| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260707 | 4.75352 | Free | 49 | 13 |
-| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7322835 | 4.92493 | Free | 13 | 8 |
-| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3569803 | 4.87388 | Free | 9 | 3 |
-| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3709495 | 4.89879 | Free | 10 | 4 |
+| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5493127 | 4.89232 | Free | 22 | 3 |
+| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1064713 | 4.83781 | Free | 8 | 2 |
+| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1819902 | 4.89662 | Free | 21 | 5 |
+| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 352570 | 4.82304 | Free | 23 | 6 |
+| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 95702 | 4.7678 | Free | 36 | 4 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 222227 | 4.8558 | Free | 31 | 7 |
+| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 90014 | 4.82489 | Free | 17 | 4 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 98077 | 4.91324 | Free | 31 | 10 |
 
-Repeated complaint phrases: hate hate hate (18); used to love (4); way to contact (3); waste of time (3); ads and ai (3); us the option (3)
+Repeated complaint phrases: card to apple (3)
 
-- Amazon Shopping, 1 star: "I HATE ALEXA SO MUCH IT DELETED MY……. - I HATE HATE HATE HATE HATE HATE HATE HATE HATE HATE HATW HATE HATE HATE HATE HATE HATE HATE HAT HATE HATE HATE HATE HATE HATE HATE ALEXA IT DELETED MY ACC FOR THE 2ND TIME AND ITS SO ANNOYING IT CANT GET ANYTHING RIGHT LIKE BRO I HATE ALAXA IM CHANGING MY PROF"
-- Amazon Shopping, 1 star: "Delivery - Evidently their drivers cannot read.  We get all packages delivered to us for a certain street number regardless of the street name.  Am so tired of delivering packages for them.   And conveniently you have no way to contact them."
-- Amazon Shopping, 1 star: "Incompetent - Can your drivers not read numbers and letters. Twice this week they screwed up. My unit is C mine they delivered to E and today they delivered someone else’s package to my unit when should have gone to F. Maybe test drivers reading before hiring them."
-- Amazon Shopping, 2 star: "Amazon censors negative reviews - I trust the reviews in the app… well I used to trust them. When I get a bad product and review it with honesty, Amazon flags it and refuses to post it."
-- Amazon Shopping, 3 star: "App has gone down hill - The app is a go to. I shop a lot and especially on Amazon. For several months now the app is slow, stops working, items don't load, and it often crashes. With the money ol' Jeffrey brings in from this app you would think they would be cutting edge for retail tech. Stop letti"
-- Amazon Shopping, 2 star: "So many BUGS / GLITCHES!! - I don’t know if it’s just me, but this app freezes (tries endlessly to load a page) quite frequently, and I end up having to restart it. I’m using an iPhone 17 pro max. It’s super frustrating when I’m halfway through the results of my search and it suddenly can’t load the"
+- Zola - Wedding Planner, 1 star: "Seating chart is a scam - That app has been fine but getting to the seating chart: It let me add all the tables I wanted and arranged them. Then, once I started adding guests, I got the option to “upgrade to premium to seat more than 15 guests”. Suck my dick Zola ✌🏼"
+- AAA Auto Club, 2 star: "Long Tow Wait - I waited over four hours on the side of the road for a tow truck that kept getting delayed. To make matters worse, the app sent a notification and updated the status to "Arrived" when there was no tow truck in sight. When you call customer service to find out what happened, you get p"
+- Sam's Club Shopping & Delivery, 1 star: "Absolutely Horrid - This website/and app crashes more than anything I have ever used from loading cart to entering payment options to checkout . Absolutely horrible. Took 2 hrs to make a purchase."
+- Sam's Club Shopping & Delivery, 2 star: "They removed cancel membership option - There is no way to cancel your membership once you have it.   You can look up in FAQ and it tells you have to do it but the prompt to cancel is no longer available.  So I guess once you sign up you are stuck forever."
+- Sam's Club Shopping & Delivery, 3 star: "Rural customers not happy - I pay for the annual family membership that includes free deliveries, but it does not include some food items that it used to deliver.  I can get those Sams Club items delivered to a family member who lives in a city 40 miles away.  I even ordered thru Instacart (more exp"
+- Eventbrite, 2 star: "Searching For An Event is Broken! - I can literally type in an event's exact name and the search feature will not find it. I don't understand how searching for an event with the exact same title cannot be found. I generally avoid Eventbrite when booking events, and seems like the developers do the s"
