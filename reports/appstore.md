@@ -1,49 +1,48 @@
-# App Store review report — 2026-10-14
-Keyword groups today: property & home, family & parenting | countries: gb, us
+# App Store review report — 2026-10-15
+Keyword groups today: health & fitness, pets | countries: gb, us
 Fetch errors: none
 
-## property & home
+## health & fitness
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7238521 | 4.80014 | Free | 44 | 10 |
-| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 504612 | 4.69156 | Free | 34 | 10 |
-| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1644270 | 4.79911 | Free | 26 | 6 |
-| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1082698 | 4.7885 | Free | 22 | 9 |
-| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1415160 | 4.81651 | Free | 28 | 7 |
-| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 220140 | 4.73765 | Free | 34 | 8 |
-| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 324458 | 4.84314 | Free | 20 | 5 |
-| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 474519 | 4.89034 | Free | 12 | 1 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2377467 | 4.71332 | Free | 27 | 10 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 473774 | 4.70378 | Free | 0 | 0 |
+| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1034353 | 4.82951 | Free | 0 | 0 |
+| [GoodRx: Prescription Savings](https://apps.apple.com/us/app/goodrx-prescription-savings/id485357017?uo=4) (us) | 702776 | 4.84087 | Free | 0 | 0 |
+| [Planet Fitness](https://apps.apple.com/us/app/planet-fitness/id399857015?uo=4) (us) | 814448 | 4.8722 | Free | 0 | 0 |
+| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 531911 | 4.84621 | Free | 20 | 9 |
+| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 763560 | 4.94729 | Free | 0 | 0 |
+| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432874 | 4.90799 | Free | 0 | 0 |
 
 Repeated complaint phrases: none yet
 
-- Rent. Apartments and Homes, 1 star: "Terrible experience - This community is horrible. There are cockroaches everywhere, and when it comes to fixing an AC, they take an entire month. They have a supervisor who spends his time smoking, and the office staff — especially Maggie — is almost never there. You call, and they never answer the "
-- Zillow Real Estate & Rentals, 2 star: "New AI - Ever since they released the new AI assistant, the app freezes while scrolling through photos"
-- Apartment List: Apt rentals, 1 star: "Scams - People posting real apartments and claiming availability and changing the phone numbers to theirs so you’re calling them not the actual place. They want to steal your info when you apply and take your money when you pay application fees and or even deposits if you don’t tour. Only way to pro"
-- Apartment List: Apt rentals, 1 star: "Useless - This app needs a feature where you can click “strict budget” or just say outright “hey we can’t find anything in your parameters” instead of “there’s nothing in your budget but here’s a house that’s $2,000 above your budget!” And also are the only apartments for view ones from rental compa"
-- Houzz - Home Design & Remodel, 1 star: "The most miserable company - In my opinion, the company’s main goal is to get your credit card information. After that, I experienced repeated issues with their customer service that made the entire experience extremely frustrating.  Based on my personal experience, I cannot recommend doing business"
-- Zillow Real Estate & Rentals, 2 star: "No fraud prevention - Report listings directs to Zillow help center so there’s no way to report fraud. Have already wasted hours with a dozen fraudulent listings so I will just use Google Maps and my trusted local agent now."
+- Workout for Women: Home & Gym, 1 star: "PAY WALL OF THE DECADE - used to have plenty of free stuff, now I can't find a single thing not blocked by a pay wall which is so silly to me because u can literally see the workouts, so what i'm paying you to time me 💀💀"
+- MyFitnessPal: Calorie Counter, 1 star: "Annoying push notifications - Spams my phone with push notifications for recipes, meal suggestions, logging reminders with no way to disable"
+- MyFitnessPal: Calorie Counter, 1 star: "Used to be great, now it’s a pain - This app used to be by far the best fitness tracker app. Then it changed. They didn’t do things to make the paid version better. They just made the free version worse. I had the subscription version until they raised prices to over 20 a month. Most others are 20 o"
+- MyFitnessPal: Calorie Counter, 3 star: "Bug on photo uploaded - There’s a bug on photo upload with weight entry. Hasn’t worked in weeks."
+- MyFitnessPal: Calorie Counter, 1 star: "Don’t waste your time - create an Excel spreadsheet on your IPhone, set your formulas and off you go - There’s at least five (5) other Apps they say you need to download for it to work properly, and of course they all cost $$.  I used this app many years ago and it was great! So I updated my prior i"
+- MyFitnessPal: Calorie Counter, 2 star: "Used to be much better - There’s so many prompts and suggestions the app comes across as creepy and invasive. The AI everything is annoying. I genuinely could not care less about your dinner suggestions. This is an app. Not a coach, not a buddy, this is a piece of technology, and it needs to stay in"
 
-## family & parenting
+## pets
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 1994592 | 4.74319 | Free | 19 | 6 |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 161387 | 4.6212 | Free | 21 | 10 |
-| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 400958 | 4.80706 | Free | 8 | 2 |
-| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227345 | 4.80095 | Free | 25 | 14 |
-| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 380109 | 4.87033 | Free | 5 | 2 |
-| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 297944 | 4.89187 | Free | 5 | 0 |
-| [The Wonder Weeks - Baby leaps](https://apps.apple.com/us/app/the-wonder-weeks-baby-leaps/id529815782?uo=4) (us) | 122223 | 4.84504 | Free | 24 | 10 |
-| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 44581 | 4.83068 | Free | 9 | 4 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 161505 | 4.62134 | Free | 0 | 0 |
+| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1202422 | 4.9114 | Free | 0 | 0 |
+| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 101727 | 4.71401 | Free | 0 | 0 |
+| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 507122 | 4.85888 | Free | 5 | 1 |
+| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 515764 | 4.88537 | Free | 0 | 0 |
+| [Habit Tracker](https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4) (us) | 147874 | 4.79155 | Free | 0 | 0 |
+| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 67207 | 4.7636 | Free | 25 | 3 |
+| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 78061 | 4.92988 | Free | 5 | 1 |
 
-Repeated complaint phrases: pay for subscription (4)
+Repeated complaint phrases: none yet
 
-- Baby Tracker - Newborn Log, 1 star: "New “what’s next” AI Slop - The latest update adds a “what’s next” section that is not hideable so it takes half your screens real estate. The UI screams AI slop. The dev clearly wanted a reason to make this app into a subscription for more money but I want parents to know that what the dev added is"
-- Care.com Caregiver: Find Jobs, 1 star: "Refund policy is predatory - For a yearly subscription the app or site has no way to remind you when it’s coming up, screw this company, you will not get a refund on any amount even if it’s close to $400 literally EVERY OTHER YEARLY SUBSCRIPTION APP sends a courtesy email weeks ahead of time. Whoeve"
-- Care.com Caregiver: Find Jobs, 1 star: "Not ethical practices - Do not sign up unless you have credentials. The on board process requires a background check with a fee & then to see jobs complete a questionnaire which offers no option for “no certifications” the minimum is First Aid or CPR and higher medical qualifications, but I had none"
-- Flo Cycle & Period Tracker, 1 star: "Scam - You have to pay just to use the app"
-- Flo Cycle & Period Tracker, 2 star: "Money Hungry - Used to love this app now u can’t do anything except log your period without have to pay. And anything you click on that start begging for money."
-- Flo Cycle & Period Tracker, 1 star: "Flo Sucks Now - I’ve used Flo to track my periods for years. It was once a great app and very useful, allowing me to prepare for my upcoming periods. But now it’s useless. I’m not sure what happened but every time I log my period, it predicts I’ll ovulate for 1 week then immediately start my period "
+- PetDesk, 2 star: "Does not deliver - PetDesk claims to be a place where you can see your pets veterinary records and yet there is no place in the app for that. You can’t see the history of reminders that were sent to you about your Pet needing a vaccine or something, but actual records are nonexistent. When test resu"
+- Finch: Self-Care Pet, 2 star: "Disappointed - I’ve loved this app so much that I paid for another year subscription I regret this as I’m having nothing but issues. Including losing a 434 day streak without missing a day… after the last update the app was ruined I’ve emailed twice and had no response to correct their mistake"
+- Wag! - Dog Walkers & Sitters, 1 star: "Never got a real request - This app sucks, they made me paid for the subscription to have access to pet caregiver, and it’s been almost 6 months, and I haven’t received anything!"
+- Wag! - Dog Walkers & Sitters, 1 star: "Price GOUGING PET PARENTS - Wag! SHOULD BE ASHAMED OF THEMSELVES FOR HOW MUCH THEY PRICE GOUGE PET PARENTS.   It cost over $900 for me to get my dog watch meanwhile the sitter only makes $500. THIS APP IS LUCKY I CANNOT POST THE RECEIPTS HERE.  SHAME ON YOU. There will be an article written about th"
+- Wag! - Dog Walkers & Sitters, 1 star: "Rip Off - I was robbed for a request"
