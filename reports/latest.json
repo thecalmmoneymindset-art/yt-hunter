@@ -1,93 +1,313 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "rows": [
   {
-   "cat": "cooking & meal planning",
-   "video": "This 10 Minute Grocery Hack Saves You $250 Per Month",
-   "url": "https://youtu.be/Z9dMq1YlECU",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 12.27,
-   "likes": 21,
-   "text": "I usually buy the lost leaders and leave. I will buy frozen veggies and berries, produce, and any condiments that are on sale. I stock up because I eat extreme Keto. I have a freezer that paid for itself in 1 year because I don't buy chicken or pork unless it is 99 cents or less. I do a Costco run once a quarter and buy canned meats and tomatoes, sauces and olive oil. I will buy 3 Cryovac bags of "
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 10.45,
-   "likes": 11,
-   "text": "I predict they will force other private stores to close their doors. Or not even sell what they sell. I'll I owned a privet store I'd buy my stock from them and sell it at my store when they run out."
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "hobbies & collecting",
+   "video": "I Turned a Plastic Bottle Into Filament for My Bambu Lab Printer!",
+   "url": "https://youtu.be/93P_Neh2eyE",
    "signals": [
     "result_report"
    ],
-   "score": 5.75,
-   "likes": 16,
-   "text": "It will be a total failure. Out of stock items, incompetent management. Not worth the travel time."
+   "score": 9.41,
+   "likes": 194,
+   "text": "It works. The material is PET, without the G, so it is a lot less flexible that PETG, and you need to make sure the hotend you run the strip through is 1.7 mm. Then you print it at 40-50 mm/s and 260 C. I made a dozen Xmas trees for led candles out of green bottle plastic, but honestly it is not worth the time and effort compared to just buying a roll of PETG. Also splicing the strands together is"
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "6 Low-Income Grocery Budget Tips To Help You Survive on $1,330 a Month",
-   "url": "https://youtu.be/Q1zmfWve1AE",
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
    "signals": [
     "would_pay"
    ],
-   "score": 5.08,
+   "score": 6.3,
+   "likes": 2,
+   "text": "As an Indiana fan I would buy in an instant"
+  },
+  {
+   "cat": "senior & elderly care",
+   "video": "Clearing Out a Garage Full of Memories & Tools and dealing with dementia",
+   "url": "https://youtu.be/e6zWE9uIku4",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
    "likes": 1,
-   "text": "I will buy 50lb potatoes ( don't  need refrigerator) and cheapest eggs bigest pack (60). Ask friend to drive me to farm or big store. And eat that for  a month.  You can do different  meals with it. Than saving  money  that way so in few months you can easy afford more. If you buying  little  bit of everything is hard to save up."
+   "text": "Omg dude!  I\u2019m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I\u2019ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I\u2019ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It\u2019s so hard cause even I dont 100% want to get rid of thi"
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "6 Low-Income Grocery Budget Tips To Help You Survive on $1,330 a Month",
-   "url": "https://youtu.be/Q1zmfWve1AE",
+   "cat": "hobbies & collecting",
+   "video": "How Rocky's Models Were Made for #ProjectHail#Mary",
+   "url": "https://youtu.be/r-dZB0-IEMY",
    "signals": [
     "result_report"
    ],
-   "score": 4.95,
-   "likes": 9,
-   "text": "Even when we were a family of 5 living below the poverty level in 1986-1988 we were able to feed ourselves relatively well without going on food stamps. Our kids did get the free lunch at school and use the clinic for doctor's health checkups. We always had a garden and I shopped the reduced and clearance sections of the market. Clothes were purchased at the thrift store for the kids and my husban"
+   "score": 3.15,
+   "likes": 2,
+   "text": "Movie was not worth the theatre price"
   },
   {
-   "cat": "food & hospitality",
-   "video": "Build & Deploy Full Stack Multi Restaurant Booking Platform | MERN Stack Project Tutorial",
-   "url": "https://youtu.be/Olj2fkG6Nf0",
+   "cat": "weddings & events",
+   "video": "MY BROTHER\u2019S WEDDING PLANNER CALLED: \u201cYOUR FAMILY CANCELED YOUR INVITATION, BUT...",
+   "url": "https://youtu.be/ec6YhXpmMkk",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "They always expect the independent sibling to cough up their money or assets when failing family chat and when that one doesn't work try family who hasn't talked you who are clueless and won't listen then it's let's force them with being ganged up on not expecting them to prove how they have been supporting their dead beat parents and sibling or siblings then it reversed and it's you ruined our li"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Pok\u00e9mon Scalper HID the ENTIRE RESTOCK Under the Store Shelve",
+   "url": "https://youtu.be/LFsC0YvyK1M",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "dude if i had the money i would buy every single one of those and give them away for free for strangers just to piss the scalpers off"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Pokemon Scalpers Are Pissed.",
+   "url": "https://youtu.be/c4qDqHsqTXc",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "Pls do react native. This project is a waste of time because you have done hotel booking , doctors booking and job portal pls stop repeat project it does not make"
+   "text": "oh no, let me play the worlds smallest vio- you know what nvm, i wouldn't even disrespect the violin like that, they're not worth it"
   },
   {
-   "cat": "property & housing",
-   "video": "Lead Architect Reveals His Rules for Coding Agents",
-   "url": "https://youtu.be/mkN4uRZYPfs",
+   "cat": "hobbies & collecting",
+   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
+   "url": "https://youtu.be/zr9Wj0UgjHw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I got 2 of them for $200 with a coupon before prices went crazy."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
+   "url": "https://youtu.be/zr9Wj0UgjHw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Bro I got that charizard UTB for 100dollars"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Found My 3D Print Being Sold on Amazon",
+   "url": "https://youtu.be/cucM7cUb-ZI",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "At least with one-shotting you can get the agent to architect something you don't necessarily want to architect yourself. But i don't like letting an agent just go an run up a bunch of tokens orchestrating its own work. So I'll spec out a large feature first and have the agent write a plan that has a sequence of atomic, verifiable tasks. Then I'll review and tweak the plan before manually promptin"
+   "text": "I feel your pain.  I design and manufacture 3D items for sale.  Everything I make takes hours to design and refine."
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "hobbies & collecting",
+   "video": "The Best Pokemon Card Scanner App (I Tested 5 Free Ones).",
+   "url": "https://youtu.be/6KzSvc_LBh8",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What app do you suggest to use to track your collection? For example, has a wide range of cards including other languages and variants, allows you to put what I\u2019ve paid plus conditions but can compare to market based on condition. As well as allows to have it organized in a binder style way or even just in folders to have it separate from others."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
+   "url": "https://youtu.be/oW6LYTFlZ-8",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Honestly it looks so much cooler like that (also does anyone know where the pokemon go stamped come from? I can\u2019t remember where I got mine)"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Transformers Assembly | TRANSFORMERS PRIME Optimus Prime Assembly | Blokees Action Edition 06",
+   "url": "https://youtu.be/lgkAnRnW3Gk",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I lost the hands does anyone know where i can find a 3d printable file of his hands?"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
+   "url": "https://youtu.be/oW6LYTFlZ-8",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I just wish there was a way to peel the corner without covering up Spinarak. Because you can see the other two with the corner down"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
+   "url": "https://youtu.be/e0y0oWCUlZ4",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I wish I could afford market movers but am on a tight budget"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
+   "url": "https://youtu.be/n_aa-dKIE6o",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "Man, I wish this would happen to me"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
+   "url": "https://youtu.be/n_aa-dKIE6o",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I live in Indiana I wish someone would push me \ud83e\udd23\ud83e\udd23\ud83e\udd23stand ur ground state and open carry they won't be scalping anymore looking like Swiss cheese"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Pokemon Scalpers Are Pissed.",
+   "url": "https://youtu.be/c4qDqHsqTXc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Basically the one guy is telling you these stores are nothing more than a scam to gain power.  This is exactly what the left does is use social systems to \"buy\" votes but never increase your well being so that you keep looking to them for the answers."
+   "text": "'oh no, I can't scam people out of hard earned money by hacking up the price of a rare card I bought in a pack for 1$, what will I do? I know, ILL SUE THEM\""
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
+   "url": "https://youtu.be/zr9Wj0UgjHw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Glad I got to enjoy this when it came out only spending a maximum of $104"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
+   "url": "https://youtu.be/zr9Wj0UgjHw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I have 3 of those at my house but opened I got them when they were only 100$"
+  },
+  {
+   "cat": "weddings & events",
+   "video": "AI executives planning \"day after\" scenarios following possible catastrophic event, Axios reports",
+   "url": "https://youtu.be/LSYujxh3wYU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "The convenience of connecting everything to the internet was not worth the danger of a cascading tech apocolypse"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Pull the MOST EXPENSIVE Card to Win",
+   "url": "https://youtu.be/InfLciaj4zg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "my camera on collectr doesn't work it just endlessly runs. it used to work"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
+   "url": "https://youtu.be/5GDsgfv0X14",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "surprise he didn\u2019t try and  scam you"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
+   "url": "https://youtu.be/5GDsgfv0X14",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Didint logan openly scam thousands of people of out a total of millions of dollars??? PUBLICLY??? I cant believe none of his spineless fans pressed charged!"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How To Make Cat In The Hat In Melon Sandbox!\ud83d\ude40\ud83c\udfa9 #shorts #melonsanbox #melonpg #catinthehat",
+   "url": "https://youtu.be/dKCgXvzvYTA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "NO I CANNOT. IT DOESN'T WORK , YOUR IDEA SUCK IT MESS UP IT DIDN'T COPY I HATE ITTTTTT\ud83d\ude21\ud83d\ude21\ud83d\ude21"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "He\u2019s 73 and Still Building Trains This Tiny by Hand",
+   "url": "https://youtu.be/ow8ngKRWVzI",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "Where can I buy one? Also, shame on this channel for not putting his name nor where we can buy them at"
   }
  ]
 }
