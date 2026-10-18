@@ -1,313 +1,170 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "rows": [
   {
-   "cat": "hobbies & collecting",
-   "video": "I Turned a Plastic Bottle Into Filament for My Bambu Lab Printer!",
-   "url": "https://youtu.be/93P_Neh2eyE",
+   "cat": "languages & translation",
+   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
+   "url": "https://youtu.be/Ke5_q-Zqb0E",
    "signals": [
     "result_report"
    ],
-   "score": 9.41,
-   "likes": 194,
-   "text": "It works. The material is PET, without the G, so it is a lot less flexible that PETG, and you need to make sure the hotend you run the strip through is 1.7 mm. Then you print it at 40-50 mm/s and 260 C. I made a dozen Xmas trees for led candles out of green bottle plastic, but honestly it is not worth the time and effort compared to just buying a roll of PETG. Also splicing the strands together is"
+   "score": 7.87,
+   "likes": 69,
+   "text": "So basically no one learned anything and people went back to the app for the sake of getting the streak. If someone want to realistically learn a skill they would want to engage in it regardless one way or another but once they are forced to do so mentally they are gone it's just a matter of time. Just like a toxic relationship at some point they realize it is not worth it."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "would_pay"
+    "ask_for_tool"
    ],
-   "score": 6.3,
+   "score": 5.25,
    "likes": 2,
-   "text": "As an Indiana fan I would buy in an instant"
+   "text": "Is there a way y\u2019all could keep the annotations as vectors when annotation PDFs?"
   },
   {
-   "cat": "senior & elderly care",
-   "video": "Clearing Out a Garage Full of Memories & Tools and dealing with dementia",
-   "url": "https://youtu.be/e6zWE9uIku4",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "manual_pain"
+    "ask_for_tool"
    ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Omg dude!  I\u2019m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I\u2019ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I\u2019ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It\u2019s so hard cause even I dont 100% want to get rid of thi"
+   "score": 5.25,
+   "likes": 2,
+   "text": "is there a way to use any third party syncing services like nextcloud via webdev?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How Rocky's Models Were Made for #ProjectHail#Mary",
-   "url": "https://youtu.be/r-dZB0-IEMY",
+   "cat": "languages & translation",
+   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
+   "url": "https://youtu.be/Ke5_q-Zqb0E",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "Movie was not worth the theatre price"
+   "text": "I learn Japanese with Duolingo for more than a year. Current streak is 300 sth. And no, I could not engage a conversation in Japan.   But I anticipate that. The way the courses are structured, I *knew* they are not very useful.  I still pay subscription fee because I want to keep learning.   It is a bit ironic, but I think learning with low progress is still better than not learning at all.  This "
   },
   {
-   "cat": "weddings & events",
-   "video": "MY BROTHER\u2019S WEDDING PLANNER CALLED: \u201cYOUR FAMILY CANCELED YOUR INVITATION, BUT...",
-   "url": "https://youtu.be/ec6YhXpmMkk",
+   "cat": "jobs & careers",
+   "video": "How I find client for website creation and sponsors for youtube | Superintern AI",
+   "url": "https://youtu.be/vdfyFmxr4NM",
    "signals": [
     "result_report"
    ],
-   "score": 3.15,
+   "score": 2.54,
+   "likes": 1,
+   "text": "Its totally waste of time, cold calling is worst , maine 100+ logo ko kiya hai call but koi fayda nhi hua"
+  },
+  {
+   "cat": "languages & translation",
+   "video": "Learn English with Hey Caro! \ud83e\ude77",
+   "url": "https://youtu.be/63dmNqa2A74",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Congraaats! \ud83c\udf89\ud83c\udf89\ud83c\udf89 It is a big step for you, I know. However, it doesn't have my native language (yet) to set as a first language, I'll keep the app waiting for an upgrade that contains Hungarian.\ud83d\ude4f\ud83c\udffb  Btw is there any way we (followers) could help at translating? I'd join in gladly\ud83d\ude0a"
+  },
+  {
+   "cat": "languages & translation",
+   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
+   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "(0:04) does anyone know if Fleur van Dommelen is Dutch because that is a very Dutch sounding name both first name and last name i mean her last name is literally a Dutch village \ud83d\ude05"
+  },
+  {
+   "cat": "outdoors & camping",
+   "video": "Baja Beach Camping:Planning Your First Adventure",
+   "url": "https://youtu.be/Hxsd-mrJe2E",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Thank you for sharing! This is also on my bucket list is Diesel easy to get? Is there a way to see or share your route you show ?? Mil gracias "
+  },
+  {
+   "cat": "languages & translation",
+   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
+   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I quit the Owl years ago, because I lost my streaks twice. The first time I was outside of a city. I did the tasks in the bus, but probably the internet connection was not great. The next day I found out that my streak had gone. That time I lost, maybe, 150-250 days. I started over.   Duo never respected time. You had to grind every day. No weekends, no holidays. I just became too tired of it. And"
+  },
+  {
+   "cat": "languages & translation",
+   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
+   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Tried it years ago, it seems obvious that it was going to be a meager-gains scam and notification haunter.  Buh-bye."
+  },
+  {
+   "cat": "cars & motoring",
+   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
+   "url": "https://youtu.be/5CnUjbSiV_Y",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
+  },
+  {
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.96,
+   "likes": 8,
+   "text": "From where can I download it? Is it for Android or iOS?"
+  },
+  {
+   "cat": "education & study",
+   "video": "State and Society up to 1000 CE - One Shot Revision | Class 9 Social Science (Part 1) | Ch 5 | CBSE",
+   "url": "https://youtu.be/U9ugKFyLJT8",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.63,
    "likes": 2,
-   "text": "They always expect the independent sibling to cough up their money or assets when failing family chat and when that one doesn't work try family who hasn't talked you who are clueless and won't listen then it's let's force them with being ganged up on not expecting them to prove how they have been supporting their dead beat parents and sibling or siblings then it reversed and it's you ruined our li"
+   "text": "Where can I get this pdf from sir?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon Scalper HID the ENTIRE RESTOCK Under the Store Shelve",
-   "url": "https://youtu.be/LFsC0YvyK1M",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "dude if i had the money i would buy every single one of those and give them away for free for strangers just to piss the scalpers off"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "oh no, let me play the worlds smallest vio- you know what nvm, i wouldn't even disrespect the violin like that, they're not worth it"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "I got 2 of them for $200 with a coupon before prices went crazy."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Bro I got that charizard UTB for 100dollars"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Found My 3D Print Being Sold on Amazon",
-   "url": "https://youtu.be/cucM7cUb-ZI",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I feel your pain.  I design and manufacture 3D items for sale.  Everything I make takes hours to design and refine."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Best Pokemon Card Scanner App (I Tested 5 Free Ones).",
-   "url": "https://youtu.be/6KzSvc_LBh8",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What app do you suggest to use to track your collection? For example, has a wide range of cards including other languages and variants, allows you to put what I\u2019ve paid plus conditions but can compare to market based on condition. As well as allows to have it organized in a binder style way or even just in folders to have it separate from others."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
-   "url": "https://youtu.be/oW6LYTFlZ-8",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Honestly it looks so much cooler like that (also does anyone know where the pokemon go stamped come from? I can\u2019t remember where I got mine)"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Transformers Assembly | TRANSFORMERS PRIME Optimus Prime Assembly | Blokees Action Edition 06",
-   "url": "https://youtu.be/lgkAnRnW3Gk",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I lost the hands does anyone know where i can find a 3d printable file of his hands?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
-   "url": "https://youtu.be/oW6LYTFlZ-8",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I just wish there was a way to peel the corner without covering up Spinarak. Because you can see the other two with the corner down"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
-   "url": "https://youtu.be/e0y0oWCUlZ4",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I wish I could afford market movers but am on a tight budget"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
-   "url": "https://youtu.be/n_aa-dKIE6o",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "Man, I wish this would happen to me"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
-   "url": "https://youtu.be/n_aa-dKIE6o",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I live in Indiana I wish someone would push me \ud83e\udd23\ud83e\udd23\ud83e\udd23stand ur ground state and open carry they won't be scalping anymore looking like Swiss cheese"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "'oh no, I can't scam people out of hard earned money by hacking up the price of a rare card I bought in a pack for 1$, what will I do? I know, ILL SUE THEM\""
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Glad I got to enjoy this when it came out only spending a maximum of $104"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I have 3 of those at my house but opened I got them when they were only 100$"
-  },
-  {
-   "cat": "weddings & events",
-   "video": "AI executives planning \"day after\" scenarios following possible catastrophic event, Axios reports",
-   "url": "https://youtu.be/LSYujxh3wYU",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The convenience of connecting everything to the internet was not worth the danger of a cascading tech apocolypse"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pull the MOST EXPENSIVE Card to Win",
-   "url": "https://youtu.be/InfLciaj4zg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "my camera on collectr doesn't work it just endlessly runs. it used to work"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "surprise he didn\u2019t try and  scam you"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Didint logan openly scam thousands of people of out a total of millions of dollars??? PUBLICLY??? I cant believe none of his spineless fans pressed charged!"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How To Make Cat In The Hat In Melon Sandbox!\ud83d\ude40\ud83c\udfa9 #shorts #melonsanbox #melonpg #catinthehat",
-   "url": "https://youtu.be/dKCgXvzvYTA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "NO I CANNOT. IT DOESN'T WORK , YOUR IDEA SUCK IT MESS UP IT DIDN'T COPY I HATE ITTTTTT\ud83d\ude21\ud83d\ude21\ud83d\ude21"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "He\u2019s 73 and Still Building Trains This Tiny by Hand",
-   "url": "https://youtu.be/ow8ngKRWVzI",
+   "cat": "students & campus",
+   "video": "Best Tablets Under 50000 in India - Best Tablets For Students, Editing, Gaming & Note Taking in 2026",
+   "url": "https://youtu.be/mVFZAhykDHw",
    "signals": [
     "link_ask"
    ],
    "score": 0.51,
    "likes": 1,
-   "text": "Where can I buy one? Also, shame on this channel for not putting his name nor where we can buy them at"
+   "text": "Where can I buy oneplus pad 3"
+  },
+  {
+   "cat": "jobs & careers",
+   "video": "Build & Sell AI Websites with Replit (\u20b91 Lakh/Month Freelancing Guide)",
+   "url": "https://youtu.be/aSQgHDntoig",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "Brother, where can I find the document? For the prompt..."
   }
  ]
 }
