@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-18
-Keyword groups today: cars & transport, events & community | countries: gb, us
+# App Store review report — 2026-10-19
+Keyword groups today: money & budgeting, small business & freelance | countries: gb, us
 Fetch errors: none
 
-## cars & transport
+## money & budgeting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 238298 | 4.72743 | Free | 34 | 14 |
-| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 254070 | 4.77087 | Free | 27 | 6 |
-| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 393865 | 4.82067 | £5.99 | 1 | 0 |
-| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184069 | 4.76548 | Free | 10 | 2 |
-| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101032 | 4.72766 | Free | 9 | 5 |
-| [SpotHero: #1 Rated Parking App](https://apps.apple.com/us/app/spothero-1-rated-parking-app/id499097243?uo=4) (us) | 423179 | 4.8624 | Free | 18 | 3 |
-| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187757 | 4.80703 | Free | 48 | 15 |
-| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 127977 | 4.84083 | Free | 28 | 5 |
+| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 400213 | 4.47433 | Free | 34 | 16 |
+| [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4) (us) | 1476024 | 4.74789 | Free | 33 | 8 |
+| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 283071 | 4.65794 | Free | 47 | 21 |
+| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 157726 | 4.6308 | Free | 47 | 14 |
+| [SAP Concur](https://apps.apple.com/gb/app/sap-concur/id335023774?uo=4) (gb) | 139887 | 4.63307 | Free | 41 | 17 |
+| [EveryDollar: Budget Management](https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4) (us) | 84154 | 4.73444 | Free | 25 | 4 |
+| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 148757 | 4.85666 | Free | 11 | 4 |
+| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 114520 | 4.88998 | Free | 20 | 8 |
+
+Repeated complaint phrases: over and over (3); impossible to use (3); since the latest (3)
+
+- Microsoft Excel, 2 star: "Latest update is a disaster - Being able to save your work is a basic requirement. Ever since the latest update excel on ipad freezes on close or when saving manually. This is not fit for purpose and I’m rapidly losing confidence in excel. This used to be a fantastic tool, bring it back!"
+- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
+- Microsoft Excel, 1 star: "USELESS !!! - Latest update has made app non functional on iPad and has caused MAJOR issues for my company whose design consultants take measurements on this app and it loses all data that is input. Can’t begin to explain what a headache this has caused everyone. This is a global issue and it’s abso"
+- Microsoft Excel, 1 star: "Keeps Crashing Since the Last Update and Not Saving Work - I use this app regularly to update figures, I open spreadsheets from Dropbox. Since the last update it hangs closing the spreadsheet when I exit it to send it back to Dropbox. It just spins and I eventually have to close the app. The work is"
+- Microsoft Excel, 1 star: "Cannot save!! - Constantly freezes when I try to save, losing work consistently. Rubbish!"
+- Microsoft Excel, 1 star: "Does not save - needs to be fixed - Sack the developers and testers, the latest update has introduced fatal bugs - cannot save changes, cannot see contents of cells when editing"
+
+## small business & freelance
+Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
+
+| App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
+| --- | ---: | ---: | --- | ---: | ---: |
+| [Fetch: Earn Rewards Every Day](https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4) (us) | 7774799 | 4.85126 | Free | 11 | 3 |
+| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1973437 | 4.79904 | Free | 23 | 7 |
+| [iScanner: PDF Doc Scanner App](https://apps.apple.com/gb/app/iscanner-pdf-doc-scanner-app/id1040093707?uo=4) (gb) | 164221 | 4.67936 | Free | 5 | 3 |
+| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 272044 | 4.75007 | Free | 28 | 4 |
+| [Scanner App: Genius Scan](https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4) (us) | 1370636 | 4.89919 | Free | 4 | 1 |
+| [TopCashback: Cashback Deals](https://apps.apple.com/gb/app/topcashback-cashback-deals/id408175694?uo=4) (gb) | 156431 | 4.7938 | Free | 24 | 4 |
+| [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4) (gb) | 195814 | 4.83154 | Free | 9 | 3 |
+| [TurboScan™ Pro: PDF scanner](https://apps.apple.com/us/app/turboscan-pro-pdf-scanner/id342548956?uo=4) (us) | 297098 | 4.92309 | $12.99 | 2 | 0 |
 
 Repeated complaint phrases: none yet
 
-- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
-- CARFAX Car Care, 1 star: "Won’t open crashes - As of 7/31/26 the app will sit on the open screen then close itself after about 30seconds.  Please fix soon"
-- SpotHero: #1 Rated Parking App, 1 star: "Terrible App - Never use Spot Hero unless you are willing to be scammed by them and the owners of the lot. Their app does not do what it says and the customer service does not follow through with customer concerns."
-- SpotHero: #1 Rated Parking App, 1 star: "QR code didn’t work - So I bought a parking spot for $96 for 3 days and my pass worked for the first day but when i came back the next two days my pass did not let me scan in. I kept receiving an error code and was not able to be let in. So I paid almost $100 for a parking spot and was only able to "
-- SpotHero: #1 Rated Parking App, 2 star: "Buggy app - Maintenance work on app / bug fixes leaves A LOT to be desired.I reported an app bug that wouldn’t allow me to update the license plate to customer service. For the next 3 weeks, every time I made a reservation, the bug was still there, despite me downloading the updated version etc. had"
-- ParkNYC Powered by Flowbird, 1 star: "This app is a SCAM - $25 minimum replenishment amount! What an absolute scam. And then a $.05 admin fee because they are forcing me to use the app! I’ve never seen this in any parking app before."
-
-## events & community
-Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
-
-| App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
-| --- | ---: | ---: | --- | ---: | ---: |
-| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5508810 | 4.89211 | Free | 21 | 5 |
-| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1073482 | 4.83836 | Free | 10 | 1 |
-| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1824402 | 4.89655 | Free | 17 | 3 |
-| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 353506 | 4.82308 | Free | 25 | 6 |
-| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 98289 | 4.76729 | Free | 33 | 3 |
-| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 222501 | 4.85573 | Free | 31 | 7 |
-| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 90660 | 4.82541 | Free | 17 | 5 |
-| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 98289 | 4.91315 | Free | 29 | 10 |
-
-Repeated complaint phrases: card to apple (3)
-
-- Zola - Wedding Planner, 1 star: "Seating chart is a scam - That app has been fine but getting to the seating chart: It let me add all the tables I wanted and arranged them. Then, once I started adding guests, I got the option to “upgrade to premium to seat more than 15 guests”. Suck my dick Zola ✌🏼"
-- AAA Auto Club, 2 star: "Long Tow Wait - I waited over four hours on the side of the road for a tow truck that kept getting delayed. To make matters worse, the app sent a notification and updated the status to "Arrived" when there was no tow truck in sight. When you call customer service to find out what happened, you get p"
-- Sam's Club Shopping & Delivery, 1 star: "Shipping - If you offer the item in store I agree I should have to pay to ship it to my house, but  if it is not offered in store why should I pay shipping.  I ended up ordering the items that need to be shipped from somewhere else that doesn’t charge me."
-- Sam's Club Shopping & Delivery, 1 star: "Horrible design,  you cannot use it if there is update - Horrible design,  you cannot use it if there is update. Imagine that you're at Sam Gas Station, you open APP there is nothing works, and there is long line of cars wait and watch you play with your phone try to get it work."
-- Sam's Club Shopping & Delivery, 1 star: "App doesn’t work after recent forced update. - App is useless and no longer works after forced updates. Ridiculous"
-- Sam's Club Shopping & Delivery, 3 star: "The STUPID smiley face - The stupid smiley face blocks the order total when trying to edit the items from an order that’s been placed. Whoever approved the app’s smiley face user interface and location should have a smiley face surgically attached to their butt, apparently that’s the location of the"
+- Fetch: Earn Rewards Every Day, 1 star: "Logging In - Decided to give this app a try. Downloaded and went to create an account. Apparently already have an account, but the problem? I quite literally cannot exit out of the “this email is in use” page. Closed the app, opened the same. On the same page. Deleted the app. Downloaded the app. On"
+- Fetch: Earn Rewards Every Day, 1 star: "Scam - My redeemed reward didn’t show up for days and then when I get the gift card it was zero balance. They also upped the points to redeem rewards. Garbage."
+- Fetch: Earn Rewards Every Day, 1 star: "Scam - This app scams the hell out of you, gives you little amounts of points just to cut you off and not give you your points when you’re about to earn big like my almost 4k points I was supposed to earn and they give zero reason why and their support team is all but nonexistent"
+- Ibotta: Save & Earn Cash Back, 3 star: "Frustrating but does save you money - While this app is beneficial for saving you money, it is equally frustrating to use. The automatic rebates are supposed to make it easier but it is just headache after headache and then to have to submit so much picture evidence to the help desk. And no way to f"
+- Ibotta: Save & Earn Cash Back, 1 star: "Not anymore - I used to love this app. They would allow you to add offers after your purchase. Now they don’t. It’s now useless to me. No one has time to do that."
+- Ibotta: Save & Earn Cash Back, 1 star: "So many errors with cash back! - It’s EXTREMELY frustrating to carefully read the offer, make sure I buy the right product (right size, right variety, right amount) and then submit the receipt and have it say there are no matches. And THEN click “I’m missing cash back”, scan the items and have to wa"

@@ -1,170 +1,941 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "rows": [
   {
-   "cat": "languages & translation",
-   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
-   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "cat": "personal finance & admin",
+   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
+   "url": "https://youtu.be/eAfufDq6Sas",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 14.35,
+   "likes": 43,
+   "text": "9999 for a noise product is very expensive. 4999 is the max i will pay"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 11.39,
+   "likes": 34,
+   "text": "I am manually cross listing about 50 items at a time so it\u2019s manageable most of the people are always saying they go and check that the items are deleted from other markets. So I figured why not do it my self. It only takes a minute."
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
    "signals": [
     "result_report"
    ],
-   "score": 7.87,
-   "likes": 69,
-   "text": "So basically no one learned anything and people went back to the app for the sake of getting the streak. If someone want to realistically learn a skill they would want to engage in it regardless one way or another but once they are forced to do so mentally they are gone it's just a matter of time. Just like a toxic relationship at some point they realize it is not worth it."
+   "score": 9.21,
+   "likes": 170,
+   "text": "This doesn't work with the free version of Claude as the video claims. Claude needs access to your local folders and can best do this through addons like cowork; which are available only on the paid versions of Claude."
   },
   {
-   "cat": "education & study",
-   "video": "Can You Study With JUST One App?",
-   "url": "https://youtu.be/SxecH4bYL3g",
+   "cat": "resellers & second-hand",
+   "video": "I Just Paid $2 for the BEST Yard Sale Find of My Life",
+   "url": "https://youtu.be/_mwhxsbd98A",
    "signals": [
-    "ask_for_tool"
+    "would_pay"
+   ],
+   "score": 8.84,
+   "likes": 6,
+   "text": "Did you end up getting the Metallica shirt?! If so I will buy it! I\u2019m seeing them in Vegas in November!! \ud83e\udd18\ud83c\udffb"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 7.7,
+   "likes": 7,
+   "text": "Thank you for all the work you do for the selling community. 11 year eBay seller and I\u2019ve never sold on another platform. With 900 listings I don\u2019t have the bandwidth to manually move over to other apps. I was just this summer entertaining cross listing and now I\u2019m totally spooked"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "THE CHEAPEST RESELLING PLATFORM ISN'T WHAT YOU THINK (FT35)",
+   "url": "https://youtu.be/yYD_T1e2Jss",
+   "signals": [
+    "would_pay",
+    "result_report"
+   ],
+   "score": 7.62,
+   "likes": 1,
+   "text": "I would pay ebay 5% more in selling fees if they would just get back to fair practices. Sellers who list with a good description, good price and good service should be rewarded.  The Promotional fees are a scam and no matter what you do with that our sales our compromised because they are controlling the views to our listings."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 6.98,
+   "likes": 5,
+   "text": "Clothes sell really well on Vinted. I've been listing manually because they can ban you if you try to Crosslist."
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
+   "url": "https://youtu.be/_9YXliQTAkg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.7,
+   "likes": 31,
+   "text": "This will likely not get monetized at all. Even if it does get monetized, YouTube may later demonetize it for \u201clow effort\u201d content. Without genuine human effort and original value, YouTube doesn\u2019t give much value to this type of content anymore. It\u2019s a waste of time."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 6.52,
+   "likes": 4,
+   "text": "Best video yet! I have been selling 2.5 years. Started on Poshmark and 2 weeks later decided I needed to be on eBay. I do it all manually. I have 400 items in my store. It's very easy to crosslist myself at that size. I am so so exhausted with every reseller video telling me to use their tool and by the way, there's a link in my bio for a discount. I've considered Depop but I am having too much tr"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "June: Monthly Review - Budget vs Actual Numbers - Another Credit Card PAID! - Debt Payoff Journey",
+   "url": "https://youtu.be/Ixp57zYkyVY",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "I have a total of three zero interest loans that come due Aug, September and January with house taxes in September too. So I started doing Shipt again and DD 3 weeks ago and my first zero loan will be paid next month! It is a relief knowing it will be made on time. I have a projected budget on a spreadsheet and update my side hustle money as it comes in. I can see for months if I am going to be sh"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "Noise REP top 5 features \ud83d\ude0d | #noiserep #fitnessband #topfeatures #noise",
+   "url": "https://youtu.be/i6eeDOVMank",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.56,
+   "likes": 14,
+   "text": "Its a scam by Noise. The band is out of stock and the free straps is out of stock too. What their production team ate before going live should be a case study."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
    ],
    "score": 5.25,
    "likes": 2,
-   "text": "Is there a way y\u2019all could keep the annotations as vectors when annotation PDFs?"
+   "text": "Great explanation of this software. I don\u2019t trust so I manually delist the minute I get a sale."
   },
   {
-   "cat": "education & study",
-   "video": "Can You Study With JUST One App?",
-   "url": "https://youtu.be/SxecH4bYL3g",
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
    "signals": [
-    "ask_for_tool"
+    "manual_pain"
    ],
    "score": 5.25,
    "likes": 2,
-   "text": "is there a way to use any third party syncing services like nextcloud via webdev?"
+   "text": "I manually list everything on eBay then import the appropriate items (clothes, hats, shoes) to Crosslist which pushes to Mercari, Poshmark, and Vinted. I manually add items to FBMP. Most of these are local only items.  Am I doing it the most efficient way? Almost certainly not.  Does it work for me? Yes.  I\u2019ve made about 20 sales on those other platforms in the couple of months since starting whic"
   },
   {
-   "cat": "languages & translation",
-   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
-   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "Wow, Justin, this is the video I\u2019ve been looking for because I just started following you on YouTube, probably about three or four months ago, maybe something like that, and I\u2019ve been highly impressed with all the well done videos and all the amazing information. I started selling on eBay in 96. and I was there when they first started using it and breaking it out, and I can give my IT to have the "
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "Hello! Great video and a really interesting topic that I don\u2019t think a lot of people fully understand.  I did want to clarify one thing, though. The video you pulled  my clips from wasn\u2019t actually about this topic, and I think the editing may have unintentionally misconstrued what I was saying. I was actually suspended from Poshmark multiple times before I ever used crosslisting software \u2014 I was d"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Edit a Viral Talking-Head Using ONLY AI (2026 Style)",
+   "url": "https://youtu.be/WcMOCtas1pg",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 5.08,
+   "likes": 1,
+   "text": "If will be 1 time payment i will buy that for sure. But monthly is to much"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
+   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.8,
+   "likes": 8,
+   "text": "THIS VIDEO IS OVERLY SIMPLISTIC! I tried copying her video step by step and Genshark was much more complicated to work with but still great tool. Took me one day to create the coloring book which isn\u2019t bad but she made it seems like it was super simple for her nicely design book and it requires more time and effort and coming up with your own prompts but it works.  Also wanted to add that Genspark"
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.8,
+   "likes": 8,
+   "text": "Man I wish it were this easy but in order to get shots you have to create alot of these clips and Ive copied and pasted the exact prompt and it still does not work properly. Your out of credits very quickly and Im on the highest subscription. we need better pricing"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "I\u2019ve joined Vinted a month ago. In between last month and this month, I made $104.60 combined."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.62,
+   "likes": 7,
+   "text": "Vinted is not for your expensive items. If you want to get rid of your death pile then this is the place. For the first week I made $212 which surprised me. But with all the cheap prices I had it kept me busy because I was shipping like crazy everyday. Good luck trying to sell anything for more than $40."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
+   "url": "https://youtu.be/_r6_rs-MbQk",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "How do you upscale images for Amazon starting from the 1254 px output generated by ChatGPT Images? What tool do you use to reach 3000 px, or what final resolution do you typically use for Amazon listing images? Thank you"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
+   "url": "https://youtu.be/_r6_rs-MbQk",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Thanks for the video. Does your MCP also support the EU, UK, Canada, Australia, and Japan marketplaces, or only the US?  Also, is it possible to retrieve ANY information that can normally be downloaded from Amazon reports, including all advertising reports, Brand Analytics data, business reports, fulfillment data, and similar reports?  One final question: assuming I have already built my own tool "
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Most crosslisting services also can continuously share your inventory. Is there a way of sharing without crosslisting?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Make Insane Motion Graphics With Opus 5.5",
+   "url": "https://youtu.be/747ZnEtsRbg",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "is there a way to get the files to be editable in f.e. premiere pro or after effects to make the final changes in there?"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Should I Sell on Vinted?  Open Reseller Discussion about this Growing Platform",
+   "url": "https://youtu.be/y6yhzqP4iUo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I have a 2 fold strategy with Vinted. I source for my whatnot shows and manually list lower value items or my own pieces over there. I also use Nifty and wish they were integrated. I have a separate bin for just vinted inventory."
+  },
+  {
+   "cat": "photography & video",
+   "video": "8 months with Tourbox Elite Plus",
+   "url": "https://youtu.be/HQ4tjhYJDK4",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I thought you didn't edit manually no more ! All those fancy ai tools you got !  So which one is it !? Do you edit \"Thousands\" of images or do you not !? Don't bother answering that ! It's all sponsor bull anyway we get it \ud83d\ude06"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Tella only allows one camera. What would you recommend for a three camera set up? Is there a software you would use?"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Why I Don't Use Crosslisting Apps",
+   "url": "https://youtu.be/Dj0tfop8LD8",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I manually crossl list as well. The apps are costly and they are not really allowed to be used by ebay ect. Its an easy way to lose your accounts."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.19,
+   "likes": 5,
+   "text": "EBay always has a scam on the go. Holding your selling funds too long, automatic refunds without heating seller story, promotion costs nibbling into your seller costs and profits. EBay needs a wake up call"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.19,
+   "likes": 5,
+   "text": "It seems like it would be nearly impossible to make any money on Vinted.  Sellers really lowball their items into ridiculousness, so it seems like a waste of time."
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "Noise Rep Fitness Tracker First Impressions And Hands On | Exclusively On Business Today",
+   "url": "https://youtu.be/rpimWKfLZMU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.19,
+   "likes": 5,
+   "text": "Made in india h to scam hi hoga, china usa ka hota to thoda trust kar sakte the"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "I\u2019ve done pretty well with my lower cost slow moving eBay items on Vinted, as others have. I\u2019ve sold around 20 items with an average  profit of $9 per item. Yesterday I sold an eBay item for $12 and after regular fees and promoted fees, I made less than $8! I think people forget that the fees on tax and shipping bump it up much higher than the 13.6% base fees, especially for low cost or heavy item"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
+   "url": "https://youtu.be/JrFZ_ky7AzE",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "I like this. Its not a get rich quick scam."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "My Favourite LAPTOP DEALS  under 50K, 60K, 70K, 80K - Flipkart & Amazon SALE!",
+   "url": "https://youtu.be/eXRbuCyOpz0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "I got Acer Aspire 15 Hexa core Ryzen 7 7730u at 49k today!"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "I learn Japanese with Duolingo for more than a year. Current streak is 300 sth. And no, I could not engage a conversation in Japan.   But I anticipate that. The way the courses are structured, I *knew* they are not very useful.  I still pay subscription fee because I want to keep learning.   It is a bit ironic, but I think learning with low progress is still better than not learning at all.  This "
+   "text": "I have tried Vinted. It is not reseller friendly. I keep my listing numbers down to fly under their radar. Currently, Vinted is running a 99-cent special for all shipping. Buyers are motivated to buy. I am certain that when the special runs out, things will go back to normal. I do not bump listings. That upfront fee gets expensive. Vinted and Depop buyers are about the same group. I will continue "
   },
   {
-   "cat": "jobs & careers",
-   "video": "How I find client for website creation and sponsors for youtube | Superintern AI",
-   "url": "https://youtu.be/vdfyFmxr4NM",
+   "cat": "resellers & second-hand",
+   "video": "Everyone Wants an eBay Alternative\u2026 Until This Happens",
+   "url": "https://youtu.be/6dpkmXEwK90",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Vinted is generally awesome. And really, people being cheap on there isn't the biggest deal... the one huge negative about Vinted and Depop is offers are not binding at all. I get tons of offers on those and and half the people never pay... I can live with lower offers, but deadbeats who make offers now that is a frustrating waste of time."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "Best Laptop In Amazon, Flipkart BBD, & GREAT INDIAN FESTIVAL SALE 2026",
+   "url": "https://youtu.be/XK-HRm0VHCI",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I am very confused muje Samaj nhi aa rha kaun sa lu kyuki mai esa laptop chata hu jiska processor shi ho 16 gb and 512 ssd de because mI video editing and graphic designing Krna hai or jiska battery backup bhi shi hai jsime kamse kam 4 thred ya isse jyada  rahe..or budget 50000 hai ..sir if u r free pls suggest me.. Which one I will buy..."
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "FREE Google Fitbit Air vs Expensive WHOOP \u2014 7 Days Review \u2705",
+   "url": "https://youtu.be/zMXQXe03dSI",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Bro i want to buy it but I don't have money i am fitness king of boy and i play cricket also i want it but money problem I order that 5 time, but not have i cancel it so if you help me please I lik that to much, first when i watch that i think i will buy it."
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "Google Fitbit Air Review: Better Than WHOOP?",
+   "url": "https://youtu.be/RII47rv_6FQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "What's the price for fitbit air"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Can ChatGPT 6 Astra Edit better than a Real Video Editor ?",
+   "url": "https://youtu.be/rDrCO1ZHYLY",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "Its totally waste of time, cold calling is worst , maine 100+ logo ko kiya hai call but koi fayda nhi hua"
+   "text": "Me and my life  In 2022 10th 2 baar deya term 1&2 2024 me neet scam 2025 me neet sab se hard  2026 me neet scam fir se  Abhi video editing start keya aur ye  Pata nhi life me aab kya karu \ud83d\ude05\ud83d\ude2e\ud83d\ude22"
   },
   {
-   "cat": "languages & translation",
-   "video": "Learn English with Hey Caro! \ud83e\ude77",
-   "url": "https://youtu.be/63dmNqa2A74",
+   "cat": "resellers & second-hand",
+   "video": "I Tried Selling On Vinted..",
+   "url": "https://youtu.be/KZEpRL85C00",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "People expect Vinted garage sale prices. Waste of time."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I built a Background Remover that does EVERYTHING!",
+   "url": "https://youtu.be/WUm9pCcbeik",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Tool looks great!! Can someone tell me how I can easily get Save Asins for my phone cases? As the Parent Asin doesn't work for Ads but the Asin you can download with Productor or Merch Rex is alwasy the parent Asin. Very weird tbh.  Sadly the Community costs a bit to much for."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "I Paid $100 for a Dusty Abandoned Storage Unit",
+   "url": "https://youtu.be/mf7wH4dbkGw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Some people hate digging thru the clothes. OK.. the ones put away dirty and smell.. No thanks. Toss them. I got a $60 unit the other week. Pics were so boring, hence few bidders. Must have been about 25 large garbage style bags on the floor spread around in a 20 x20. Guys think a Garbage bag is a ' container '. Lots of clothes, all mens stuff. I had filled 5-6 large garbage bags of the clean usabl"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I am spread across 5 platforms, but my store is small\u2014currently between 250 and 300 items. I have not tried a crosslister because I'm cheap. I hate monthly subscription fees\u2014we pay them for software, tv, even food delivery these days. It all adds up. So far, I've had no problems crosslisting manually. I list on eBay, then copy and paste titles and descriptions on the other sites. It doesn't take l"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I haven't tried a crosslisting service yet. I do it manually because I'm so small and it's easy for me to do it myself. It also forces me to engage with each platform everyday no matter which platform the sale was with."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Your timing is, as usual, impeccable.  I just spent my morning manually copying a couple dozen listings over to depop and mercari, precisely because I don't trust cross-listing apps.  Call me anal-retentive, but I want to know exactly what is listed where.  I don't want my entire inventory on every site, even if it didn't require an app to break and enter into my ebay account."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I manually crist list certain items but at most I cross list to 2 platforms 3 if u include Facebook marketplace but if I forget to tshr off marketplace I can just remove it when I get the is this available message because I only do local sales on it. I know cross listing on all platforms would increase my sales a ton but I work 80 plus hours a week with my resell business and my farm job. Adding m"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Exposing the Truth About Cross-Listing Tools",
+   "url": "https://youtu.be/-DJLXEbN4jo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Thanks so much for this information, I really appreciate it, I had no clue, I will continue to manually list all my listings on the platforms. I value your feedback."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "Fastest Way to Make 100 Print on Demand Products",
+   "url": "https://youtu.be/otG_z8u9K-4",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Congraaats! \ud83c\udf89\ud83c\udf89\ud83c\udf89 It is a big step for you, I know. However, it doesn't have my native language (yet) to set as a first language, I'll keep the app waiting for an upgrade that contains Hungarian.\ud83d\ude4f\ud83c\udffb  Btw is there any way we (followers) could help at translating? I'd join in gladly\ud83d\ude0a"
+   "text": "Is there a way to get the mockup generator to mockup your shirts  if your doing physical and not POD ?"
   },
   {
-   "cat": "languages & translation",
-   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
-   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "cat": "photography & video",
+   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+   "url": "https://youtu.be/2OwMjg5As2g",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "(0:04) does anyone know if Fleur van Dommelen is Dutch because that is a very Dutch sounding name both first name and last name i mean her last name is literally a Dutch village \ud83d\ude05"
+   "text": "does anyone know how you can create the captions used in this video? such as the liquid glass speech bubble?"
   },
   {
-   "cat": "outdoors & camping",
-   "video": "Baja Beach Camping:Planning Your First Adventure",
-   "url": "https://youtu.be/Hxsd-mrJe2E",
+   "cat": "photography & video",
+   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+   "url": "https://youtu.be/2OwMjg5As2g",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Thank you for sharing! This is also on my bucket list is Diesel easy to get? Is there a way to see or share your route you show ?? Mil gracias "
+   "text": "Is there any way that I can get higgsifield I have no credit card and I am in Ethiopia and I am 15 years old. If there is any way pls help me out \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
   },
   {
-   "cat": "languages & translation",
-   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
-   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "cat": "investing & crypto",
+   "video": "Introducing ZAR 2.0 | Powerful Portfolio Tracking & Management",
+   "url": "https://youtu.be/xpeIhv0vOjU",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I track my stocks on excel only - how do I upload it on Zar via one file only instead of adding each stock individually?"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I built a Background Remover that does EVERYTHING!",
+   "url": "https://youtu.be/WUm9pCcbeik",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Great... but Questions:  1. for the half tone examples, do we have to manually for sure upscale for the halftone designs. 2. I watched your Photoshop halftone video, so is your new app taking over that problem and solving it? (if so can it be tweaked, or if that one didn't quite make it, go to  PS). 3. Does this app now do the work of Ready Pixel?  Thanks Phillip"
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "It won't be as simple as that, at least as shown here right? Which you already use so many credits already. Also how did the character sound so much like your original sound? Is there a way to do this or is  it edited? I do really appreciate the realistic tips like grey background, framing the location and etc. that works more effectively. I think it would be more useful for us to find easier ways"
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "i just want to know the if utilized Soul ID instead of manually creating characters/elements, what the pros and cons would be."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "10 Required Setup and Total Cost to Start A E-commerce Business in 2026\ud83d\udd25| Amazon, Flipkart, Meesho",
+   "url": "https://youtu.be/BrFVETd3gmM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there any way to talk to you directly?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "This is crazy! I\u2019ve been doing all this one at a time. Is there a way to hook eleven labs up to Claude?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "If we create images manually and also voice over then it's cost less right?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Thanks so much for your video, it works really well!  However, I feel like Claude has access to my entire computer, including my hard drive and other files. Is there a way to restrict its access to specific folders without having to manually approve every single action?  My goal is to automate video editing in CapCut on PC, so Claude can work autonomously on the relevant files while I focus on oth"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Dear Higgsfield, I reverse engineered you in 12 hours",
+   "url": "https://youtu.be/d6spCMcfkew",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Will the character always look consistent throughout the generations? Is there a way to add a character ID or do you keep generating until approved?"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
+   "url": "https://youtu.be/Bmdiqqz2am0",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Bro, what is this app called nobody"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
+   "url": "https://youtu.be/Bmdiqqz2am0",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Does it auto detect workouts and sleep or should I select it manually everytime?"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "Google Fitbit Air Review: Better Than WHOOP?",
+   "url": "https://youtu.be/RII47rv_6FQ",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "For me the Fitbit air didn\u2019t auto detect playing badminton and I tired to log it manually or start manually but I didn\u2019t see badminton under activities section. Can you let me know, how I can track it. Thank You!!"
+  },
+  {
+   "cat": "photography & video",
+   "video": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
+   "url": "https://youtu.be/RaxX_Q7Apj0",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Hi! Liked the idea. Is there any way to automate the clips making process like you did for photos?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
+   "url": "https://youtu.be/0vQ7UEe7rLg",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there a way to use effects between scenes?"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "Easiest Way to Start A.I. Print on Demand in 2026",
+   "url": "https://youtu.be/-dOMKhDYo3c",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "23:42 can I use my own psd mockup in listing view? this basic free mockup I used  for years always worked but I manually place the graphics in there it takes time. was hoping I can just load up design files and do multiple mockup images together."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "How I Store Thousands of eBay Items Without Losing Anything",
+   "url": "https://youtu.be/DM9v4dEaxqM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there a way to increase the volume of items when you\u2019re new without purchasing a store ?"
+  },
+  {
+   "cat": "music & podcasting",
+   "video": "Can The OBSBOT Talent 2 Replace An Entire Podcast Studio?",
+   "url": "https://youtu.be/jHrwNtdjbXg",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "That\u2019s cool I wish I could afford one for my set up"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "\u20b930K for a Screenless Watch? | WHOOP 5.0 Peak Health & Fitness Tracker",
+   "url": "https://youtu.be/DxwuHi5ziRs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I quit the Owl years ago, because I lost my streaks twice. The first time I was outside of a city. I did the tasks in the bus, but probably the internet connection was not great. The next day I found out that my streak had gone. That time I lost, maybe, 150-250 days. I started over.   Duo never respected time. You had to grind every day. No weekends, no holidays. I just became too tired of it. And"
+   "text": "Anna Burger King scam pathi pesunga na"
   },
   {
-   "cat": "languages & translation",
-   "video": "Duolingo: How A Toxic Owl Destroyed Language Learning",
-   "url": "https://youtu.be/Ke5_q-Zqb0E",
+   "cat": "creators & sellers",
+   "video": "The Best AI Side Hustles To Start If You're BROKE",
+   "url": "https://youtu.be/8NvhbfZNTrc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Tried it years ago, it seems obvious that it was going to be a meager-gains scam and notification haunter.  Buh-bye."
+   "text": "Love you love your videos, thanks for putting this content out there.  I want to start now, October 2026, and want to get REALLY clear on YouTube\u2019s terms and conditions now about monetization, and AI content especially. I\u2019ve heard YouTube has removed earning possibilities from many niches and types of videos. Could you pls tell us if all this still works? Scared of putting so much effort into some"
   },
   {
-   "cat": "cars & motoring",
-   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
-   "url": "https://youtu.be/5CnUjbSiV_Y",
+   "cat": "personal finance & admin",
+   "video": "The Subscription Free Fitness Band \ud83e\udd2f #shorts #noise #noiserep #REPBand #fitnessbands",
+   "url": "https://youtu.be/RCHjBnhm-RU",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
+   "text": "No bro it\u2019s just waste of money I use both whoop and rep still I prefer whoop instead of rep sometimes it shows wrong data and didn\u2019t detect work outs"
   },
   {
-   "cat": "education & study",
-   "video": "Can You Study With JUST One App?",
-   "url": "https://youtu.be/SxecH4bYL3g",
+   "cat": "investing & crypto",
+   "video": "Crypto Trading Tax India | How to file ITR For Crypto Trading | Delta Exchange ITR Filing",
+   "url": "https://youtu.be/dIy-zD7T19M",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "bitbns scam ke wajah se usme 16890 withdraw processing me hai since 16 july 2025 se mere account me aya nhi hai aur itr ke ais me add bhi ho gaya hai 17023 rs aur 170 tds. please help karo kya karna chahiye kuch mila hi nhi to tax kaise bharu."
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
+   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "It seems like in phone the Amazon KDP page doesn't work"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
+   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "First Genspark forced me to pay for a subscription, then created a book with error, tried uploading the book and guess what? It didn't work. Error processing interior\r \r Interior file \"Bible Animals Coloring Book.html\" ........"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Yeah I dont know if this works at all  but it doesnt work on PC"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "doesn't work for me, on the stage of setup"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
+   "url": "https://youtu.be/0vQ7UEe7rLg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "when you type anything in describe your edit when once finished video, no matter how many times you give a prompt it will generate same video. google flow is a waste of time. its just one time use. only the first which you get thats the final video and you cant make any edits."
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+   "url": "https://youtu.be/2OwMjg5As2g",
    "signals": [
     "link_ask"
    ],
-   "score": 0.96,
-   "likes": 8,
-   "text": "From where can I download it? Is it for Android or iOS?"
+   "score": 0.78,
+   "likes": 4,
+   "text": "Where can I find the motion prompts skill?"
   },
   {
-   "cat": "education & study",
-   "video": "State and Society up to 1000 CE - One Shot Revision | Class 9 Social Science (Part 1) | Ch 5 | CBSE",
-   "url": "https://youtu.be/U9ugKFyLJT8",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.63,
-   "likes": 2,
-   "text": "Where can I get this pdf from sir?"
-  },
-  {
-   "cat": "students & campus",
-   "video": "Best Tablets Under 50000 in India - Best Tablets For Students, Editing, Gaming & Note Taking in 2026",
-   "url": "https://youtu.be/mVFZAhykDHw",
+   "cat": "photography & video",
+   "video": "How to Make Insane Motion Graphics With Opus 5.5",
+   "url": "https://youtu.be/747ZnEtsRbg",
    "signals": [
     "link_ask"
    ],
    "score": 0.51,
    "likes": 1,
-   "text": "Where can I buy oneplus pad 3"
+   "text": "Great film, I have one question Where can I find that python prompt 6:50 ? I don't see that on X"
   },
   {
-   "cat": "jobs & careers",
-   "video": "Build & Sell AI Websites with Replit (\u20b91 Lakh/Month Freelancing Guide)",
-   "url": "https://youtu.be/aSQgHDntoig",
+   "cat": "photography & video",
+   "video": "How to Edit a Viral Talking-Head Using ONLY AI (2026 Style)",
+   "url": "https://youtu.be/WcMOCtas1pg",
    "signals": [
     "link_ask"
    ],
    "score": 0.51,
    "likes": 1,
-   "text": "Brother, where can I find the document? For the prompt..."
+   "text": "where can I find links to those skills?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+   "url": "https://youtu.be/2OwMjg5As2g",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "umm, where can I download the motion skill md??"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+   "url": "https://youtu.be/2OwMjg5As2g",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "where can I get a copy of the \"Motion Prompt Skill\"?  Seems like an important piece of info."
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
+   "url": "https://youtu.be/_9YXliQTAkg",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "That's a great sharing. Where can I get your guide?"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Work with me VLOG | I'm Changing EVERYTHING | New Inventory System",
+   "url": "https://youtu.be/lXXVIC8RNgs",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Can you share the link to purchase the same hanging racks? I would love to have those in my personal closet."
+  },
+  {
+   "cat": "photography & video",
+   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+   "url": "https://youtu.be/HSON-SoFz7s",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Can you share the link to the image prompt skill? Looks like only the video prompt skill was shared - or does that cover both?"
   }
  ]
 }
