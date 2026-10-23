@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-22
-Keyword groups today: study & work, hobbies & collecting | countries: gb, us
+# App Store review report — 2026-10-23
+Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
 Fetch errors: none
 
-## study & work
+## travel & relocation
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4094750 | 4.78608 | Free | 0 | 0 |
-| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1069180 | 4.71049 | Free | 33 | 12 |
-| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 208703 | 4.57013 | Free | 36 | 9 |
-| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 463930 | 4.71807 | Free | 26 | 17 |
-| [Glassdoor | Jobs & Careers](https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=4) (us) | 788908 | 4.7661 | Free | 35 | 8 |
-| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 197441 | 4.6463 | Free | 37 | 16 |
-| [Notability: AI Notes & Planner](https://apps.apple.com/us/app/notability-ai-notes-planner/id360593530?uo=4) (us) | 458199 | 4.76081 | Free | 39 | 24 |
-| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 658085 | 4.83988 | Free | 21 | 7 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 5981358 | 4.78799 | Free | 22 | 7 |
+| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2201957 | 4.84569 | Free | 25 | 3 |
+| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 476905 | 4.75016 | Free | 14 | 2 |
+| [Booking.com Travel Deals](https://apps.apple.com/gb/app/booking-com-travel-deals/id367003839?uo=4) (gb) | 1289905 | 4.83985 | Free | 19 | 5 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 481603 | 4.82205 | Free | 17 | 6 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283784 | 4.78791 | Free | 6 | 0 |
+| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 312345 | 4.84117 | Free | 11 | 3 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 332737 | 4.89278 | Free | 18 | 5 |
 
-Repeated complaint phrases: used to work (4); used to love (3); select the location (3)
+Repeated complaint phrases: none yet
 
-- Microsoft OneNote, 1 star: "Screen Reset - I work as a math teacher. I’m often in the middle of taking notes with my class when I select from the pen feature to the eraser feature or lasso feature, and OneNote takes me back to the top of the screen almost every time. Then I have to scroll back down to the section of notes wher"
-- Microsoft OneNote, 1 star: "Go back to the prior version - OneNote for Windows 10 was so far superior than the desktop version. It worked nearly flawlessly. Since the forced switch to this version our company has had nothing but issues. Most notably and frustrating is the fact that it is constantly crashing. Like constantly…. "
-- Glassdoor | Jobs & Careers, 1 star: "Actually ZERO STARS - Why does this app require my phone number? This app is a nice idea but it’s a nonessential part of my life. Making it more invasive to use means that I don’t really need to use it at all and won’t be missing anything."
-- Glassdoor | Jobs & Careers, 2 star: "Linkage to Indeed not optional - I can no longer login to Glassdoor without linking my account to Indeed. I don’t want to use their services. They leak data and support job search scams"
-- Glassdoor | Jobs & Careers, 1 star: "Horrible Update - I used to really enjoy Glassdoor. But this recent, AI-centric approach has ruined the experience for me. Not even because it’s “AI”, just because of how they executed. Too many things, like putting in “desired job title” is now REQUIRED. Hey, Glassdoor? Not everyone is set on what "
-- Glassdoor | Jobs & Careers, 1 star: "Impossible to navigate - The new UI is impossible to scroll and skim job ads. I cannot figure out how to do anything I want on here anymore, I get stuck in all these screens looking for feedback"
+- Expedia: Hotels, Flights, Cars, 1 star: "Not accessible - Application is crashing. Cannot open it since latest update."
+- Expedia: Hotels, Flights, Cars, 1 star: "Never again - I used to use this app exclusively. For my last flight I paid $50 per seat to select my seat. When I got to my gate the airline staff told me that they don’t allow third parties platform to assign seats I called Expedia to complain and they told me they don’t charge for seat assignment"
+- Expedia: Hotels, Flights, Cars, 1 star: "No option - It looked like I would save on a bundle but nothing but problems no way to upgrade check in with flight had none of my information stored on airline profile. If you’re going to sell as 3rd party link the info"
+- Expedia: Hotels, Flights, Cars, 1 star: "keeps crashing - app keeps crashing as soon as I log in. frustrating."
+- Expedia: Hotels, Flights, Cars, 1 star: "horrible app - it keeps crashing. doesn’t let me book anything"
+- Expedia: Hotels, Flights, Cars, 1 star: "Sonesta Airport South in Georgia - I checked in around 8:30 or 9 pm alone. Receptionist asked would I be the only person occupying the room? I said “yes.” Over to my right was a very tall man in the vicinity of our conversation. She’s gives me my key card with my room number facing up. I’m average t"
 
-## hobbies & collecting
+## creators & sellers
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119484 | 4.58545 | Free | 27 | 18 |
-| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 612383 | 4.82808 | Free | 36 | 10 |
-| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 75929 | 4.66099 | Free | 25 | 11 |
-| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 318109 | 4.78724 | Free | 27 | 10 |
-| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114279 | 4.75391 | Free | 25 | 10 |
-| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 149404 | 4.81111 | Free | 4 | 0 |
-| [Outsmarted - Companion App](https://apps.apple.com/us/app/outsmarted-companion-app/id1541321303?uo=4) (us) | 68714 | 4.82578 | Free | 5 | 0 |
-| [Collectr - TCG Collector App](https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?uo=4) (us) | 68367 | 4.88394 | Free | 0 | 0 |
+| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5803894 | 4.7768 | Free | 29 | 10 |
+| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4447483 | 4.75372 | Free | 40 | 10 |
+| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8462034 | 4.82632 | Free | 41 | 11 |
+| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969496 | 4.81643 | Free | 48 | 14 |
+| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260712 | 4.75347 | Free | 46 | 18 |
+| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7341956 | 4.92486 | Free | 11 | 4 |
+| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3586834 | 4.87354 | Free | 9 | 2 |
+| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3740891 | 4.89814 | Free | 7 | 4 |
 
-Repeated complaint phrases: pay for subscription (3); used to love (3); trying to charge (3); everything is behind (3)
+Repeated complaint phrases: used to love (7); ads and ai (4); access my account (3)
 
-- Phase 10: Casual Card Game, 2 star: "I don’t want to win every time, but I want it to at least be possible for me to win - I really enjoyed this game for the first 10 levels or so, but they’ve made it so you can’t win without spending money on boosters. And I don’t mean in a “it’s so hard, it’s basically impossible” way. I mean on leve"
-- Phase 10: Casual Card Game, 1 star: "Ads break game and no way to pay the away - Ad supported and no way to pay to remove. Also, the ads force a reboot of the app anyway so there is a way through it, but it sure makes the game feel poorly made. Looking for something else"
-- Phase 10: Casual Card Game, 1 star: "Bots are rigged - I am on level 15. I cannot pass that level. The reason, the bots get very lucky. Tell me how a bot gets 7 of one color in their first hand? I can’t keep up and it’s infuriating. The only way I can win is if I BUY wilds, skips, etc. It’s fine to have it be challenging to entice you "
-- Phase 10: Casual Card Game, 2 star: "Disgusting Cash Grab - Literally ignores you when you tell it you’ve played before, gameplay against a bot is incredibly boring after you get your win condition, and social play costs actual money? This app is trying to cash in on the “addictive gameplay, but continued play costs money” business for"
-- ReciMe: Recipes & Meal Planner, 1 star: "Doesn’t work as expected - Most of the recipes I tried to collect came back with no ingredient list or cooking instructions. This is the whole reason for getting the apps. Useless. Do not buy"
-- ReciMe: Recipes & Meal Planner, 1 star: "Predatory Free Trial - The free trial is not visible on the App Store, you have to go through the app itself, which takes you to a website where you have to re-enter everything you put on the app and then cancel. Even though I did a free trial and cancelled the subscription, it will not let me remov"
+- Pinterest, 1 star: "Too many ads - I used to love Pinterest, it was great for creative inspiration and diy projects. Now it feels like a shopping website. Anything you search automatically takes you to an ad. There os barley any regular content on Pinterest that’s doesn’t take you to a shopping page. Very disappointing"
+- Amazon Shopping, 2 star: "sucks lately - i used to absolutely love buying things on amazon, always reliable and super quick but as of lately anytime i order anything it is being delayed, or packages have been missing and showing up weeks later after saying delivered. i’m very disappointed 🙁"
+- Pinterest, 2 star: "Ads - Pinterest used to be fun, now it’s just ads and AI."
+- Pinterest, 1 star: "ads on ads on ads - i used to love this app now it’s all ads. not worth scrolling anymore"
+- eBay online shopping & selling, 2 star: "Ai is awful - For ebay selling, now with the app, ai automatically tries to create listing for you and it’s just wrong all the time. There is no way to turn off the ebay.ai and it’s incredibly annoying when trying to list stuff for sale. I have change everything the ai generated."
+- Amazon Shopping, 3 star: "Button location for all screen sizes - When looking at detailed photos of any and all items on the app, the cancel or return button is in the top left of the phone. But it is placed too so far that it cannot be selected. I have to force close the app and search for the item again, it’s really frustr"
