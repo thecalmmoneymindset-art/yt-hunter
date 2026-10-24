@@ -1,654 +1,148 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "rows": [
   {
-   "cat": "cooking & meal planning",
-   "video": "This 10 Minute Grocery Hack Saves You $250 Per Month",
-   "url": "https://youtu.be/Z9dMq1YlECU",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 12.27,
-   "likes": 21,
-   "text": "I usually buy the lost leaders and leave. I will buy frozen veggies and berries, produce, and any condiments that are on sale. I stock up because I eat extreme Keto. I have a freezer that paid for itself in 1 year because I don't buy chicken or pork unless it is 99 cents or less. I do a Costco run once a quarter and buy canned meats and tomatoes, sauces and olive oil. I will buy 3 Cryovac bags of "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon's 30th Celebration Is Officially A DISASTER!",
-   "url": "https://youtu.be/QiQYH2V_lCE",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 11.32,
-   "likes": 15,
-   "text": "I started playing the pokemon tcgp mobile game about 4 months ago and really enjoyed it so wanted to start buying some real cards and after trying for a couple months I've given up, I decided to start collecting Lorcana instead. It's annoying as I really love pokemon, but if I can't buy a single booster pack (let alone a 30th anniversary pack) for retail price then what's even the point. I'll take"
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 10.45,
-   "likes": 11,
-   "text": "I predict they will force other private stores to close their doors. Or not even sell what they sell. I'll I owned a privet store I'd buy my stock from them and sell it at my store when they run out."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
+   "cat": "cars & motoring",
+   "video": "Car Simulator : Driving School - Trailer (PS5 & PS4)",
+   "url": "https://youtu.be/zKt8sqyA08g",
    "signals": [
     "result_report"
    ],
-   "score": 10.23,
-   "likes": 336,
-   "text": "I have been saying PSA is a scam for years since I found out the same card easily gets different grades and how much its value goes up."
+   "score": 6.83,
+   "likes": 34,
+   "text": "Genuinely it's not worth it for 20$"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Turned a Plastic Bottle Into Filament for My Bambu Lab Printer!",
-   "url": "https://youtu.be/93P_Neh2eyE",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 9.42,
-   "likes": 195,
-   "text": "It works. The material is PET, without the G, so it is a lot less flexible that PETG, and you need to make sure the hotend you run the strip through is 1.7 mm. Then you print it at 40-50 mm/s and 260 C. I made a dozen Xmas trees for led candles out of green bottle plastic, but honestly it is not worth the time and effort compared to just buying a roll of PETG. Also splicing the strands together is"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 8.28,
-   "likes": 91,
-   "text": "It's almost like this whole grading system is a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.67,
-   "likes": 60,
-   "text": "Glad you covered this. I used to send cards in to PSA. After my 8th card getting shit grades, because I paid the bottom dollar, I realized it's a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How Rocky's Models Were Made for Project Hail Mary",
-   "url": "https://youtu.be/Ozqw1uAEDZc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.31,
-   "likes": 47,
-   "text": "5:58 A thing I find a bit jarring about the perspective trick sculpture is that its an idea Rocky probably wouldn't have thought of, at least not before meeting Grace later, cause it requires human vision to work. The trick doesn't work with his 3D sonar \"vision\", cause he can see through walls, so can always tell its really several disconnected pieces. That sculpture wouldn't ever look like the s"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 6.3,
+   "score": 5.25,
    "likes": 2,
-   "text": "As an Indiana fan I would buy in an instant"
+   "text": "Is there a way y\u2019all could keep the annotations as vectors when annotation PDFs?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 5.99,
-   "likes": 19,
-   "text": "PSA crossover is possibly the biggest scam in grading."
+   "score": 5.25,
+   "likes": 2,
+   "text": "is there a way to use any third party syncing services like nextcloud via webdev?"
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "cycling & running",
+   "video": "Google Flow Credit Problem? Flow ai unlimited free",
+   "url": "https://youtu.be/M7CRt6kylkc",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 5.75,
-   "likes": 16,
-   "text": "It will be a total failure. Out of stock items, incompetent management. Not worth the travel time."
+   "score": 2.5,
+   "likes": 0,
+   "text": "What is the name of the app"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How Rocky's Models Were Made for Project Hail Mary",
-   "url": "https://youtu.be/Ozqw1uAEDZc",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 5.58,
-   "likes": 5,
-   "text": "Love that movie. Wish there was a Hail Marry two coming."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon's 30th Celebration Is Officially A DISASTER!",
-   "url": "https://youtu.be/QiQYH2V_lCE",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.46,
-   "likes": 13,
-   "text": "Me and all my friends have basically stopped collecting. it's just not worth it. Hopfully enough, people wake up and do the same and just starve the scalpers."
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "6 Low-Income Grocery Budget Tips To Help You Survive on $1,330 a Month",
-   "url": "https://youtu.be/Q1zmfWve1AE",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 5.08,
-   "likes": 1,
-   "text": "I will buy 50lb potatoes ( don't  need refrigerator) and cheapest eggs bigest pack (60). Ask friend to drive me to farm or big store. And eat that for  a month.  You can do different  meals with it. Than saving  money  that way so in few months you can easy afford more. If you buying  little  bit of everything is hard to save up."
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "6 Low-Income Grocery Budget Tips To Help You Survive on $1,330 a Month",
-   "url": "https://youtu.be/Q1zmfWve1AE",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.95,
-   "likes": 9,
-   "text": "Even when we were a family of 5 living below the poverty level in 1986-1988 we were able to feed ourselves relatively well without going on food stamps. Our kids did get the free lunch at school and use the clinic for doctor's health checkups. We always had a garden and I shopped the reduced and clearance sections of the market. Clothes were purchased at the thrift store for the kids and my husban"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "My husband plays Magic The Gathering, specifically \"premodern\" which uses cards from a specific printing era. These cards can be worth thousands of dollars. He has a jewelers loop so he can verify he hasn't been sold a fake. He's also gotten a few expensive cards that ended up being a little more beat up than shown in the pictures. It's insane how these cards, these cardboard pieces, are worth so "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "goes to show the scam that grading is. the downtown was clearly off centered and still got a 10."
-  },
-  {
-   "cat": "senior & elderly care",
-   "video": "Clearing Out a Garage Full of Memories & Tools and dealing with dementia",
-   "url": "https://youtu.be/e6zWE9uIku4",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "manual_pain"
    ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Omg dude!  I\u2019m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I\u2019ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I\u2019ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It\u2019s so hard cause even I dont 100% want to get rid of thi"
+   "score": 2.5,
+   "likes": 0,
+   "text": "guys can we genuienly practice all this manually for free without spending money?"
   },
   {
-   "cat": "weddings & events",
-   "video": "MY BROTHER\u2019S WEDDING PLANNER CALLED: \u201cYOUR FAMILY CANCELED YOUR INVITATION, BUT...",
-   "url": "https://youtu.be/ec6YhXpmMkk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "They always expect the independent sibling to cough up their money or assets when failing family chat and when that one doesn't work try family who hasn't talked you who are clueless and won't listen then it's let's force them with being ganged up on not expecting them to prove how they have been supporting their dead beat parents and sibling or siblings then it reversed and it's you ruined our li"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How Rocky's Models Were Made for #ProjectHail#Mary",
-   "url": "https://youtu.be/r-dZB0-IEMY",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "Movie was not worth the theatre price"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Offered $1 MILLION CASH\u2026 He Said NO!",
-   "url": "https://youtu.be/yWf2nWWmux0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "probably just a scam who would pay 1 mil for something valued at 1mil 50k"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon's 30th Celebration Is Officially A DISASTER!",
-   "url": "https://youtu.be/QiQYH2V_lCE",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "As someone just getting back into collecting this is depressing asf. In my local shops you are lucky if there\u2019s any ascended heroes and if there are your paying like \u00a315-16 a pack it\u2019s ridiculous. Chaos rising is everywhere but really not worth the chase imo. Especially with the current depreciation of that set. You can\u2019t find any etb to save your life and any online store is constantly out of sto"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "oh no, let me play the worlds smallest vio- you know what nvm, i wouldn't even disrespect the violin like that, they're not worth it"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I'd Start Collecting Pok\u00e9mon From Scratch!",
-   "url": "https://youtu.be/kUeaOBLwURA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Doing mastersets for sets where you don't like all the cards it's a waste of time and money. Even if you think that set is cheap, it's not worth it. That's how I started my Pokemon journey 2 years ago, doing mastersets. After some time I realized I don't like most of the cards and started selling them and kept only the ones I truly love and appreciate. Hope this helps."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Grading cards has always been a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Pokemon cards are a scam in themselves. The company that grades them is a scam ontop of a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Yeah the entire thing is a scam. If you can send in a card that gets say an 8 and then get it back crack it send it in again and get a 9 then crack it again and this time you get a 5. That is absolutely a scam and these guys have just lined their pockets with everyone\u2019s money because they can make whatever card they want more worth or less worth as they go."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "I got 2 of them for $200 with a coupon before prices went crazy."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Bro I got that charizard UTB for 100dollars"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "This proofs why grading companies are a scam.."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Grading has become a scam. The fact you can crack and have a card regraded proves that. All subjective. Crazy the number of people that buy into it. We need full on AI grading with high grade cameras, and then the cameras need to remember if that particular card has been graded to remove re-grades."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Transformers Assembly | TRANSFORMERS PRIME Optimus Prime Assembly | Blokees Action Edition 06",
-   "url": "https://youtu.be/lgkAnRnW3Gk",
+   "cat": "outdoors & camping",
+   "video": "Baja Beach Camping:Planning Your First Adventure",
+   "url": "https://youtu.be/Hxsd-mrJe2E",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I lost the hands does anyone know where i can find a 3d printable file of his hands?"
+   "text": "Thank you for sharing! This is also on my bucket list is Diesel easy to get? Is there a way to see or share your route you show ?? Mil gracias "
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Let's make realistic details for a tiny Excavator!  \ud83c\udfd7\ufe0f\ud83e\udd2f #Miniatures #diycrafts #shorts",
-   "url": "https://youtu.be/rCnQumCPx4Q",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Does anyone know what kind of adhesive glue is used?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "What\u2019s the best app for comping cards? \ud83e\udd14",
-   "url": "https://youtu.be/O96o9H0Lk2w",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What\u2019s the name of the app so I can get it"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I COULD'VE BEEN RICH \ud83d\ude2d",
-   "url": "https://youtu.be/DcyPRUlo_W4",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I feel like someone should make a big old collection of fancy cards like this except they're all worn and actually played with  Id do it but I'm too broke"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
-   "url": "https://youtu.be/e0y0oWCUlZ4",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I wish I could afford market movers but am on a tight budget"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How many Pikachu Cards can I find in 24 hours?",
-   "url": "https://youtu.be/Ao5B1G9e8sI",
+   "cat": "cycling & running",
+   "video": "Google Flow Credit Problem? Flow ai unlimited free",
+   "url": "https://youtu.be/M7CRt6kylkc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Lachy i aint gonna lie 10.dollars is a scam for a pack"
+   "text": "YouTube createe scam he mat krna"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "'oh no, I can't scam people out of hard earned money by hacking up the price of a rare card I bought in a pack for 1$, what will I do? I know, ILL SUE THEM\""
+   "text": "Chasing certs is fools gold. Not worth it."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How to Make Millions With AI Videos",
-   "url": "https://youtu.be/3h3plWAHzYM",
+   "cat": "cars & motoring",
+   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
+   "url": "https://youtu.be/5CnUjbSiV_Y",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "These videos literally boil down to -  \u201cHere\u2019s how I made $1million\u2026 step 1. Complete a task you\u2019ve got zero experience in and without a doubt the results will be mind blowing. Step 2. Sell that shit to the world\u2019s biggest companies for $100,000 and just sell to 10 of them. Boom you just made a mill dumdum.\u201d"
+   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "These Are the Best AI Tools in 2026",
-   "url": "https://youtu.be/aPSbZbOzB4s",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "These companies puts out some awesome models, and keeping chasing the best one IMHO is a waste of time. If you keep switching between models they never learn well, and benchmark numbers tells you nothing because they are not based on YOUR tasks.  I choosed to keep gpt as my main assistant and then I eventually use the other models for their strength as needed."
+   "score": 0.96,
+   "likes": 8,
+   "text": "From where can I download it? Is it for Android or iOS?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon's 30th Celebration Is Officially A DISASTER!",
-   "url": "https://youtu.be/QiQYH2V_lCE",
+   "cat": "education & study",
+   "video": "State and Society up to 1000 CE - One Shot Revision | Class 9 Social Science (Part 1) | Ch 5 | CBSE",
+   "url": "https://youtu.be/U9ugKFyLJT8",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "EB games in Canada hasn\u2019t opened pre orders yet at least where I live, but they told me that they will keep prices the same as they usually price things at. To put it in perspective, I got a chaos rising ETB for $85 CAD when the MSRP price on Pok\u00e9mon center is $81 CAD. I really hope it stays this way because I do truly appreciate the pricing strategy they\u2019ve chosen"
+   "score": 0.63,
+   "likes": 2,
+   "text": "Where can I get this pdf from sir?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "students & campus",
+   "video": "Best Tablets Under 50000 in India - Best Tablets For Students, Editing, Gaming & Note Taking in 2026",
+   "url": "https://youtu.be/mVFZAhykDHw",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
+   "score": 0.51,
+   "likes": 1,
+   "text": "Where can I buy oneplus pad 3"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
-  },
-  {
-   "cat": "parenting & family",
-   "video": "Trump puts schools ON NOTICE with MAJOR push",
-   "url": "https://youtu.be/XEouFqSOQfw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Homeschooling children is the solution to all of this. Their are great options out there when it comes to curriculum that parents can choose from. I know many parents out there are going to say they aren't equipped to educate their children in this way, but that is a false notion that needs to be sent back to the pit from whence it came. There is no one more qualified to teach your children than y"
-  },
-  {
-   "cat": "parenting & family",
-   "video": "Trump puts schools ON NOTICE with MAJOR push",
-   "url": "https://youtu.be/XEouFqSOQfw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "WHAT CHILDREN HAVE LEARNED FROM TRUMP: Mocking the disabled is cool. Never apologize. Never admit you are wrong. Name-calling is cool. Science is stupid. Empathy is for losers. Be afraid of anyone not white. Cheating is acceptable. Bullying people is good. Stealing from charities is ok. Reading is a waste of time. Attacking dead people is fine. Distorting the truth is normal. Always blame others. "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The index card for grading was the Gretzky Wagner card, a doctored card. I don\u2019t know how they got so big when the first card they ever graded was a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The very first card was a known altered card. Also the upcharge fee is such a scam too"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Man. This really sucks. PSA is basically pricing a large number of consumer out by increasing the price of grading in general, and then crating the dynamic grade pricing based on how expensive your card is.   I was going to go to the national convention and submit a bunch of Pok\u00e9mon cards and some Jordans but now I\u2019m not. It\u2019s not worth it. Too much subjectivity, too much corruption and I\u2019m not pa"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "\"biggest scam in pokemon\" is an illustrous achievement"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Nobody I know still goes to PSA. known scam. steal cards, fake numbers - TAG is the only standard."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pull the MOST EXPENSIVE Card to Win",
-   "url": "https://youtu.be/InfLciaj4zg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "my camera on collectr doesn't work it just endlessly runs. it used to work"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Glad I got to enjoy this when it came out only spending a maximum of $104"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Spending $500 on a Charizard Ultra Premium Collection UPC box - Profit or Loss Part 50",
-   "url": "https://youtu.be/zr9Wj0UgjHw",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I have 3 of those at my house but opened I got them when they were only 100$"
-  },
-  {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Basically the one guy is telling you these stores are nothing more than a scam to gain power.  This is exactly what the left does is use social systems to \"buy\" votes but never increase your well being so that you keep looking to them for the answers."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "surprise he didn\u2019t try and  scam you"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Didint logan openly scam thousands of people of out a total of millions of dollars??? PUBLICLY??? I cant believe none of his spineless fans pressed charged!"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "so are crossovers in slab to the companies a scam? or crack out better?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I pray that everyone that cracks slabs to scam others damages them \ud83e\udef6"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Opened 1,000 World Cup Packs",
-   "url": "https://youtu.be/TU3g3N-scFU",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "Where can I buy this? I'm in Thailand. Which stores sell it? I don't know."
+   "text": "Where can i get the repo of this course"
   }
  ]
 }
