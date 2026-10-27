@@ -1,283 +1,504 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "rows": [
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "AI for small business",
+   "video": "Small businesses are obsessed with AI slop...",
+   "url": "https://youtu.be/fYOQ97gyGCA",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 19.4,
+   "likes": 860,
+   "text": "I opened a mobile cafe this year. I was very deliberate about not using AI. While not openly anti AI, my cafe stands out from the other food trucks by the complete absense of it. My sister designed my logo and burned it onto a wooden sign. I wrote the menu by hand on a giant chalkboard. My social media posts are just pictures of drinks and baked goods, maybe with some text. Maybe it's extra time a"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I Have Spent 1000+ Hours With Claude Code. This Is What I Learned",
+   "url": "https://youtu.be/YAsxyoTWFDA",
+   "signals": [
+    "manual_pain",
+    "result_report"
+   ],
+   "score": 16.36,
+   "likes": 21,
+   "text": "I have never used any of these 'forkflows' in my projects. I work as a solo dev,  no one reviews my code or checks my work, but me. I use coding agents yes, but i would never dare to allow AI to write my code in production, using these 'loops' and 'harnases' or whatever the modern ai coding/ vibe coding demands. I just dont trust these mashines enough to do that. Especially because the code it gen"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Vibe Coder vs SWE: speeding up your application.",
+   "url": "https://youtu.be/Tju9dYr4zd0",
    "signals": [
     "result_report"
    ],
-   "score": 9.51,
-   "likes": 207,
-   "text": "This doesn't work with the free version of Claude as the video claims. Claude needs access to your local folders and can best do this through addons like cowork; which are available only on the paid versions of Claude."
+   "score": 8.88,
+   "likes": 136,
+   "text": "I think the senior would start by asking what is \"slow\", then look at logs and/or traces to see what is the actual bottleneck(s) and only act after that. I kinda get the idea of the video but it gives off a rash thinking feeling\ud83d\ude05   *venting* Though i worked with an engineering manager who believed really beleived we could lower the cost of requests by doing two small ones instead of  big one thoug"
   },
   {
-   "cat": "photography & video",
-   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
-   "url": "https://youtu.be/NnvRMs_0UQ8",
+   "cat": "vibe coding & building apps",
+   "video": "Vibe coding vs software engineering",
+   "url": "https://youtu.be/awFTa5rr8F8",
    "signals": [
-    "wish_build"
+    "manual_pain"
    ],
-   "score": 7.42,
-   "likes": 14,
-   "text": "This is exactly what I've been building but seedance kling and other video generators only do 15 seconds so creating 1 minute and not to mention 10 minute videos takes days for me. I wish there was a way to render longer videos. Love the workflow and i picked up a couple ideas. keep up the great work and i've learned a lot from your videos"
+   "score": 7.99,
+   "likes": 8,
+   "text": "So I have been coding since 2010. I also use AI to help me code sometimes. I\u2019ve been able to code things at a faster rate. Only difference between me and a true vibe coder is that i understand what Claude writes and can review it manually before deploying it."
   },
   {
-   "cat": "writing & publishing",
-   "video": "The Only 6 AI Writing Tools Authors Need in 2026",
-   "url": "https://youtu.be/Wgb0mOXPuYg",
+   "cat": "vibe coding & building apps",
+   "video": "Lovable Full Course for Beginners: Build & Deploy a Real App",
+   "url": "https://youtu.be/pZpoACNOPAw",
    "signals": [
-    "would_pay"
-   ],
-   "score": 7.16,
-   "likes": 3,
-   "text": "Im so thankful that I came across your channel. Im not good with writing and math has always been my strongest area. Since I was kid I've had this story in my head that I have desperately wanted to get out into the world. Your tips and tricks have been great. This week I will buy your program and hit the ground running. I just wanted to say thank you. I dont care to make money I simply want my sto"
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
-   "url": "https://youtu.be/8H4jPOngSf4",
-   "signals": [
-    "ask_for_tool"
+    "manual_pain"
    ],
    "score": 6.98,
    "likes": 5,
-   "text": "How is the name of the app"
+   "text": "I am a student I used lovable a lot while preparing for JEE exams to create scientific simulations and it did it all in one prompt! Now I could have developed those by hand but you can't waste any time when preparing for JEE and it is faster than hand coding and copilot combined."
   },
   {
-   "cat": "photography & video",
-   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
-   "url": "https://youtu.be/_9YXliQTAkg",
+   "cat": "AI tools & agents",
+   "video": "How I Created a $30,000/month Faceless YouTube Channel Using AI Tools",
+   "url": "https://youtu.be/Sp83h2FqOH0",
    "signals": [
     "result_report"
    ],
-   "score": 6.92,
-   "likes": 36,
-   "text": "This will likely not get monetized at all. Even if it does get monetized, YouTube may later demonetize it for \u201clow effort\u201d content. Without genuine human effort and original value, YouTube doesn\u2019t give much value to this type of content anymore. It\u2019s a waste of time."
+   "score": 6.65,
+   "likes": 30,
+   "text": "\ud83e\udd16 Try Kutly: https://kutly.io\r         CODE: FREEKUTLY\r \ud83d\udcda Prompts: https://emmiescalm.gumroad.com/ \r \ud83d\udc49 TRY VIDIQ For $1: https://vidiq.com/mistrAI \r \ud83d\udc49 How I made $400K With Shorts: https://emmiescalm.gumroad.com/l/YouTubeShortsSystem2 \r -- REMEMBER THE GOAL: EVERYONE IS GETTING MONETIZED \r -- MUCH LOVE TO EVERYONE \u2764\u2764\u2764\u2764"
   },
   {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
+   "cat": "vibe coding & building apps",
+   "video": "The Issue With Everyone Vibe Coding Their Own Software",
+   "url": "https://youtu.be/qOQ3MEx6czY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.6,
+   "likes": 29,
+   "text": "Personally I love looking up software for some rare issues, finding a github repo with full documentation and reading it all trying to understand if it's AI slop or installing it and realizing it just doesn't work or almost works and looks like it should but doesn't. What a time to be alive, when you just can't be sure of anything."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "5 Proven Ways To Make Money With AI (No Experience)",
+   "url": "https://youtu.be/DZoeGR_tatA",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 6.39,
+   "likes": 8,
+   "text": "I wish i had a good device to start. It's really hard to do everything in 100 dollar phone but i am not giving up until i win."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Build Your Own Jarvis & Ultron Ai Assistant \ud83e\udd16\ud83d\udd25",
+   "url": "https://youtu.be/2NKpA6smfwg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.99,
+   "likes": 19,
+   "text": "I made one with 0$ and local LLMs"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
    "signals": [
     "manual_pain"
    ],
    "score": 5.97,
    "likes": 3,
-   "text": "I created a workflow in n8n using  Claude. The purpose was to read my script, break it into different sections, generate an image for each section, and then turn each image into a short video. All the outputs, including the images and videos, were saved to a folder on my G drive.  I used Gemini to generate the videos and ChatGPT to create the images. It took me about a day and a half to set everyt"
+   "text": "AI won't debug errors 400s like front end or back end 500s errors. I tried many times, until i fixed it manually. AI, provide only boiler plate codes only, but needs professionals software developer to continue the work"
   },
   {
-   "cat": "writing & publishing",
-   "video": "Try this cute penpal app on iPad \ud83d\udc8c | iPad apps | apple pencil",
-   "url": "https://youtu.be/8H4jPOngSf4",
+   "cat": "vibe coding & building apps",
+   "video": "The Hidden Cost of Vibe-Coding Games [Stream Highlight]",
+   "url": "https://youtu.be/5cbonpAgR5A",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.84,
+   "likes": 17,
+   "text": "In artisanal development, the slowness give you the chance to regularly poke the core design and change direction if it doesn't work. In AI driven development, you can build a lot with very little time cost, so there's less opportunity to poke the design in stages.  Oh goodness, I promised myself I wouldn't comment on AI videos but here we are."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
+   "url": "https://youtu.be/4LwtuscILlc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.35,
+   "likes": 12,
+   "text": "Shows credited 500$. But doesn\u2019t pass through payment screen, tried 5 Indian credit cards, nothing works. Now I\u2019m worried if it\u2019s a scam to grab credit card details"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "AI Runs My Entire Business: EASY Way To Use AI Agents In Your Work, Content & Life (Step by Step!)",
+   "url": "https://youtu.be/Jvt3FxRKDzU",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "Very good podcasts but host is frustrating because he takes ages to ask his questions. After a while you just don't even understand what he is trying to ask."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The Hidden Cost of Vibe-Coding Games [Stream Highlight]",
+   "url": "https://youtu.be/5cbonpAgR5A",
    "signals": [
     "ask_for_tool"
    ],
    "score": 5.25,
    "likes": 2,
-   "text": "I also have same iPad can you tell me what app is best for free notes \ud83c\udf37\ud83c\udfb6"
+   "text": "This video is mostly talking about REALLY vibe coding a game, that is, prompting an agent, and giving it the full wheel  Does anyone know if he has other videos, for more serious usage of ai in game dev? Not giving it everything, but integrating agents in the pipeline in a meaningful way? Not assets generation, technical side only.  Thanks !"
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "The New 67W Xiaomi 5i Powerbank is Super Value for Money!",
-   "url": "https://youtu.be/P8uKmUo81_I",
+   "cat": "vibe coding & building apps",
+   "video": "The Issue With Everyone Vibe Coding Their Own Software",
+   "url": "https://youtu.be/qOQ3MEx6czY",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "I vibe coded a terminal UI todo list that i self host on my server. I dont like vibe coding in general but i did this for me, i wouldnt share it because i do not know the full codebase and i cant edit it all by hand yet. But its probably the simplest yet more used thing \"i\" have made."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Meta Muse is an INCREDIBLE AI agent",
+   "url": "https://youtu.be/Wod_A8xIy4E",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "I told it to go through my Amazon, email, and Google Drive to find all my spending, plot it onto a spreadsheet, and categorize it. It did it all in minutes, which would take me hours. Also i took pictures of receipts that i haven't recorded yet and it could plot it in the appropriate spreedsheet in seconds."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
    "signals": [
     "result_report"
    ],
-   "score": 5.23,
-   "likes": 11,
-   "text": "I didn't had much money so i got mi 4i 20k mAh 33w one. And its very good"
+   "score": 4.8,
+   "likes": 8,
+   "text": "When I see this current change I can't help but remember that scene from the first RoboCop movie, when Dick Jones confronts Bob Morton in OCP's VP bathroom for interfering with the ED-209 rollout. \"I had secured the government contracts! Who cares if it works ?\". It's the same situation, that's how executives \"think\", only the immediate profit matters, who cares if it doesn't work?"
   },
   {
-   "cat": "fashion & clothing",
-   "video": "RenoMuse app made a Home Theater, Walk-in Closet and Home Library from one pic",
-   "url": "https://youtu.be/iirIpAY289I",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 5.08,
-   "likes": 1,
-   "text": "5 I will buy it my bid is 0\u20b9"
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "KDP Royalty Change Authors Wanted for Years | Self-Publishing News (July 9, 2026)",
-   "url": "https://youtu.be/ePj0m6H2sAo",
+   "cat": "vibe coding & building apps",
+   "video": "Epic Games Vibe Coded Their Launcher And It Broke",
+   "url": "https://youtu.be/M519QYEjDVI",
    "signals": [
     "result_report"
    ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "0:00 Intro 0:31 Dibbly Create 2:16 KDP Community: The 70% eBook Royalty Option price band has expanded to $2.99\u2013$12.99 4:15 Kindlepreneur: How to Fill in Your 7 KDP Keyword Boxes 5:05 Kindlepreneur: How to Find Amazon Book Categories Most Authors Miss 5:48 The Authors Guild: Publishing Scam Alerts 7:24 Laterpress: Collaborative Writing with the Enhanced Laterpress Assistant 8:18 Voices by INAudio:"
+   "score": 4.62,
+   "likes": 7,
+   "text": "I know people who use vibe coding mainly for the most gruelling tasks so they have it easier while still doing 80% of the work by hand. These people utalise it as a helpful tool while Epic just built a house out of glue and is surprised that it doesn't work properly.  What I'm saying is that vibe coding by itself doesn't have to be bad, it's mainly the people that use it who are extremely incompet"
   },
   {
-   "cat": "photography & video",
-   "video": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
-   "url": "https://youtu.be/CHHH8tNioSc",
+   "cat": "AI for small business",
+   "video": "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)",
+   "url": "https://youtu.be/JWMizuT_A8E",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Hi I am yash an ai content creator but still struggling to get audience could you  help me . I make cartoon videos,ugc add short movie with realistic character and sound. If you giv me a chance I I'll send my video just tell me the platform,, it is frist time to comment on your channel with a severe hope . Looking forward to your response"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "GPT-6 Astra + Higgsfield AI: Build a $39K/Month Faceless Channel",
+   "url": "https://youtu.be/7SZ76s-nqpQ",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "Is there a way to keep audio consistent across multiple generations? the character voices and all."
+   "text": "Hi Adil, is there a website where one could find all the Skills related to Claude\u2014or in this case, Higgsfield? Thanks for the videos; very informative! \ud83d\ude00"
   },
   {
-   "cat": "photography & video",
-   "video": "How to Make Insane Motion Graphics With Opus 5.5",
-   "url": "https://youtu.be/747ZnEtsRbg",
+   "cat": "AI for small business",
+   "video": "Every Grok Bot Concept Explained for Normal People",
+   "url": "https://youtu.be/NyfYxpXiw_0",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "is there a way to get the files to be editable in f.e. premiere pro or after effects to make the final changes in there?"
+   "text": "Hey mate, what software do you use to create the diagrams"
   },
   {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
+   "cat": "AI tools & agents",
+   "video": "AI Agents are the new SaaS",
+   "url": "https://youtu.be/83fWzQSWB10",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "Tella only allows one camera. What would you recommend for a three camera set up? Is there a software you would use?"
+   "text": "Is there a way to get those great flow charts? For those of us who are visual? Be amazing if that was avaialbe."
   },
   {
-   "cat": "writing & publishing",
-   "video": "Amazon Terminated Her KDP Account. Now What? | Self-Publishing News (Oct. 1, 2026)",
-   "url": "https://youtu.be/vEe2oKXCFuA",
+   "cat": "AI for small business",
+   "video": "Small businesses are obsessed with AI slop...",
+   "url": "https://youtu.be/fYOQ97gyGCA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.19,
+   "likes": 5,
+   "text": "I used to work on a small retail business and i could tell you that, my former boss didn't want to hire any marketing or designer because it's a waste of money (even thou she have a lot of money), instead completely paying for an AI service to do it's job"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The Issue With Everyone Vibe Coding Their Own Software",
+   "url": "https://youtu.be/qOQ3MEx6czY",
    "signals": [
     "result_report"
    ],
    "score": 3.91,
    "likes": 4,
-   "text": "0:00 Intro 0:33 Novel Report 2:17 The Holiday Season Makeover Challenge 2:59 Ruthanne Reid: Amazon just deleted my KDP account 4:27 Dale L. Roberts: KDP Appeal Rejected? You Still Have Options 5:23 Draft2Digital Announces Ebook Preorder Sales Now Available at the Smashwords Store 6:15 Ingram Finds Success in AI Rollout 7:53 Writer Beware: How Those Personalized Generative AI Scam Emails Are Built "
+   "text": "I am a Software Engineer,  the amount of projects I had abandoned over the years because of lack of time or losing interest are so many. But now with AI I can build anything I want for a reasonable price and far less time. I had vibe coded a fitness tracker app just for myself and friends, it does exactly what I want and only what I want, and I self host it. I have a bunch of devops stuff generate"
   },
   {
-   "cat": "writing & publishing",
-   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
-   "url": "https://youtu.be/y41CRIVzSoI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.91,
-   "likes": 4,
-   "text": "Never trusted AI detectors because they are massively flawed and Panscam is just as flawed. I'm not going to dumb down my writing to appease that snake oil salesman Max Spero and his scam. Let the reader decide if it's good or trash, not some software. Like you mentioned, we've been doing this for years without Panscam."
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
-   "url": "https://youtu.be/y41CRIVzSoI",
+   "cat": "AI tools & agents",
+   "video": "The Biggest Launch Since ChatGPT (Muse)",
+   "url": "https://youtu.be/1LRvMRC_pfY",
    "signals": [
     "result_report"
    ],
    "score": 3.58,
    "likes": 3,
-   "text": "For an experiment, I typed in a page from a Sanderson novel, and the Substack AI detector said it was only 55% Human. There is no way that can be true. Sanderson does love his em dashes, so that's probably why. AI detectors are a scam, and all writers hurt by them need to sue!"
+   "text": "Are people THAT busy that they need AI to organize their lives?  The data centers that are being built for these AI assistants are NOT worth it."
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "\ud83e\udd2f \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0b99\u0bcd\u0b95 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0bbe \ud83d\ude31 iPhone Type-C Problem! #shorts",
-   "url": "https://youtu.be/1bBS5MQcQx4",
+   "cat": "vibe coding & building apps",
+   "video": "How to Build $10K Websites in Minutes (Claude AI)",
+   "url": "https://youtu.be/snErQUyqwCU",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 3.39,
+   "likes": 1,
+   "text": "Clear and understandable, I wish there was more information like this."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+   "url": "https://youtu.be/LM7Ft7g8qJw",
    "signals": [
     "result_report"
    ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "\ud83c\udf4ewaste of money,worthless except performance and camera,no features, simply waste.  Android is best and full freedom and features with budget friendly"
+   "score": 3.15,
+   "likes": 2,
+   "text": "Not feeling you on this one, humanity comes first, not this tyrannical scam."
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "Fix Your TV with a USB Cable and Phone App",
-   "url": "https://youtu.be/CQcgmchuNYE",
+   "cat": "legal & bills admin",
+   "video": "Hardware Stores Complaints: People Blame Tools for Their Own Stupidity",
+   "url": "https://youtu.be/OMtvO0H_c-Y",
    "signals": [
     "result_report"
    ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Netflix intro paused at early frames. The rest just scam from microsoft tech. \ud83d\ude02"
+   "score": 3.15,
+   "likes": 2,
+   "text": "Have an empty box that's labeled \"left handed\". Hide it under the counter.  Customer: \"My hammer doesn't work. It's right-handed. I demand a left-handed hammer!\" Employee (without missing a beat): \"One moment...\" Disappears behind the counter.  ...rustling noises...  Returns carrying the LEFT HANDED box. Opens it dramatically.  \"...Ah! We still had one left.\"  It implies the store has a universal "
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "Fix Your TV with a USB Cable and Phone App",
-   "url": "https://youtu.be/CQcgmchuNYE",
+   "cat": "vibe coding & building apps",
+   "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
+   "url": "https://youtu.be/4LwtuscILlc",
    "signals": [
     "result_report"
    ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "What if the model of my tv isn't on that list? AAAAND.. I have around 8 \"old\" phones with this problem, the would function but the display doesn't work on them anymore, so is there an solution to that too????"
+   "score": 3.15,
+   "likes": 2,
+   "text": "Bro your credits are not able to redeem seems like just a. Scam"
   },
   {
-   "cat": "photography & video",
-   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
-   "url": "https://youtu.be/HSON-SoFz7s",
+   "cat": "AI tools & agents",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
    "signals": [
-    "ask_for_tool"
+    "result_report"
    ],
-   "score": 2.5,
+   "score": 3.15,
+   "likes": 2,
+   "text": "I'm curious about what happens when something doesn't work and the client expects you to fix it, like a glitch or something"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Muse is Amazon\u2019s Worst Nightmare",
+   "url": "https://youtu.be/qCQe5tLxmw0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Sounds like too many things are getting in between the sellers and the buyers.  Which drives up cost. Am I missing something?  It just seems like the greedy are fighting over who gets to scam people more, to manipulate them for more money they don't need."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Create an Android App with AI in 20 Minutes for Free (0 Coding)",
+   "url": "https://youtu.be/-jRBmbNqjrQ",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
    "likes": 0,
-   "text": "It won't be as simple as that, at least as shown here right? Which you already use so many credits already. Also how did the character sound so much like your original sound? Is there a way to do this or is  it edited? I do really appreciate the realistic tips like grey background, framing the location and etc. that works more effectively. I think it would be more useful for us to find easier ways"
+   "text": "Mein ek chhota sa app banwana chahata hu, for my new caf\u00e9. Kya aap bana sakte hai,i will pay for it."
   },
   {
-   "cat": "photography & video",
-   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
-   "url": "https://youtu.be/HSON-SoFz7s",
+   "cat": "vibe coding & building apps",
+   "video": "I Built $10000 Website With Free AI Tools In 15 Minutes || No Coding || Free Resources",
+   "url": "https://youtu.be/nPxMF2YV77I",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "Really amazing work! Is it possible to get some support? I would pay for it"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "4 Months of Learning Claude in Just 40 Mints \u0627\u0631\u062f\u0648 / \u0939\u093f\u0902\u0926\u0940",
+   "url": "https://youtu.be/nAc-pn4rsgU",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I want to learn from u sir in person please sir I will pay you, everyone selling course but nothing in it..I don't know any one who knows ai tools, kindly for God sake help me,I'm girl I can't have access to anyone I need somebody from whom I can contact I could ask please I'm in emergency condition many people have faceless YouTube channel in3,4 months they r earning a lot but I have no one from "
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+   "url": "https://youtu.be/LM7Ft7g8qJw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "No, it's not worth it. Just wait and the free versions, from multiple companies, will come. And soon."
+  },
+  {
+   "cat": "AI for small business",
+   "video": "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)",
+   "url": "https://youtu.be/JWMizuT_A8E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "It doesn't work like this people content and make people fool and earn views and earn money themselves he not share the idea he is just making us  watch this vedioe and he earn much by make people fool"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The Complete Beginners Guide To Vibe Coding",
+   "url": "https://youtu.be/x8WUtEv1YEg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "What is the point of creating these project if literally anyone can create it with english.  Waste of time. That's why sass is dead."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How I built an $80K/Mo mobile app with Claude Code (Full Vibe Code Tutorial)",
+   "url": "https://youtu.be/UMjeSU6C4qU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "scam, you're not earning 60k/month with that lol"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "Small businesses are obsessed with AI slop...",
+   "url": "https://youtu.be/fYOQ97gyGCA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "10:00  There's no way that manequinn doesn't work"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Adobe Reacts to Vibe Coded Photoshop Clone",
+   "url": "https://youtu.be/NCxbzbwBHzI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I had bought a version of PS a long long time ago was it 3 or 7, I don't remember.  Then came the windows update and it didn't work anymore even with the fix years later.  I was told by support I could no longer use it.  So I don't feel sorry for them.  It was a lot of money back then, hundreds."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Meta Muse is an INCREDIBLE AI agent",
+   "url": "https://youtu.be/Wod_A8xIy4E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "First of all, I think Instinct is not worth the time for anyone.  That being said, I do think Muse is really good in certain situations. For example, I have it filtering my personal Gmail account and when a new email sender comes in that I don\u2019t want. I just tell Muse and it runs every hour of the day and, last weekend, I was on a road trip to Columbus, Ohio and I told Muse I\u2019m looking for a hotel"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Therapy for the Vibe-Coded Brain",
+   "url": "https://youtu.be/DkhhE97Swmo",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "i just want to know the if utilized Soul ID instead of manually creating characters/elements, what the pros and cons would be."
+   "text": "I am a victim and have used AI to code my own websites. Because the concept is super cool! But learning it takes forever. But that was months ago. I knew it was wrong, and it's been preventing me from actually touching a coding program to really learn it. After seeing this video, taking the tips, just put a ton of motivation in me. And I don't feel so much guilt anymore, because I know I can fix t"
   },
   {
-   "cat": "fashion & clothing",
-   "video": "I Organized My ENTIRE Closet Into an App\u2026 Now I Can\u2019t Stop Making Outfits \ud83d\udcf2\ud83d\udc5a",
-   "url": "https://youtu.be/D2YabM7yIsM",
+   "cat": "vibe coding & building apps",
+   "video": "Use Claude Code for free with unlimited usage using Omniroute",
+   "url": "https://youtu.be/fZIBK_4fKq8",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I\u2019m not sure if I missed it but what\u2019s the name of the app!? I had tried looking for one a while ago and gave up but definitely need to try that\ud83d\ude4c\ud83c\udffc"
+   "text": "How do you create animations like these in your videos? What software do you use for the motion graphics?"
   },
   {
-   "cat": "fashion & clothing",
-   "video": "I Organized My ENTIRE Closet Into an App\u2026 Now I Can\u2019t Stop Making Outfits \ud83d\udcf2\ud83d\udc5a",
-   "url": "https://youtu.be/D2YabM7yIsM",
+   "cat": "AI for small business",
+   "video": "Sell THIS AI Receptionist to Salons for $997/mo (n8n + Retell AI)",
+   "url": "https://youtu.be/mTfwBmWZQec",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Ok but what\u2019s the name of the app?"
+   "text": "thank you for this awesome guide! is there a way to use Retell if my preferred language is not listed in the voice options? like Arabic?"
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "AI tools & agents",
+   "video": "8 ChatGPT Agents That Do My Work for Me (Steal These)",
+   "url": "https://youtu.be/ubzhh4kMCLo",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "This is crazy! I\u2019ve been doing all this one at a time. Is there a way to hook eleven labs up to Claude?"
+   "text": "Does anyone know how to log in with a different email on the iOS app? I can\u2019t access my business account on iPhone"
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "If we create images manually and also voice over then it's cost less right?"
-  },
-  {
-   "cat": "fashion & clothing",
+   "cat": "vibe coding & building apps",
    "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
    "url": "https://youtu.be/ppI_7LRAoa4",
    "signals": [
@@ -288,18 +509,7 @@
    "text": "WHAT IS THIS APP I NEED IT"
   },
   {
-   "cat": "fashion & clothing",
-   "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
-   "url": "https://youtu.be/ppI_7LRAoa4",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What app is that?? I need that now"
-  },
-  {
-   "cat": "fashion & clothing",
+   "cat": "vibe coding & building apps",
    "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
    "url": "https://youtu.be/ppI_7LRAoa4",
    "signals": [
@@ -310,334 +520,477 @@
    "text": "Hey nick what app is that please"
   },
   {
-   "cat": "photography & video",
-   "video": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
-   "url": "https://youtu.be/RaxX_Q7Apj0",
+   "cat": "vibe coding & building apps",
+   "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
+   "url": "https://youtu.be/ppI_7LRAoa4",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Hi! Liked the idea. Is there any way to automate the clips making process like you did for photos?"
+   "text": "What is the name of the app please"
   },
   {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to download the 10 free AI tools?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
+   "cat": "AI for small business",
+   "video": "AI Receptionists Stop Losing Customers From Missed Calls #aireceptionist",
+   "url": "https://youtu.be/_SdjT2gRtVk",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "i try this OmniRoute , after new version i did upgrade and never worked (3+ upgrades now ) , never backup restore bd worked, i forsed 3+ times to setup and setup all api keys manually! now some days after that , when try test apis that all good, are all red !!! some issues but with all api ? i use freellmapi and not have all these errors and upgrade works."
+   "text": "Does the AI receptionist connect directly with Google Calendar for booking appointments, or do we need to manually sync the schedules afterwards?"
   },
   {
-   "cat": "photography & video",
-   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
-   "url": "https://youtu.be/0vQ7UEe7rLg",
+   "cat": "vibe coding & building apps",
+   "video": "Best AI Game Builder That Actually Work in 2026 (I Tried All)",
+   "url": "https://youtu.be/ordRjXns820",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Is there a way to use effects between scenes?"
+   "text": "0:15 what is the name of this app"
   },
   {
-   "cat": "photography & video",
-   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
-   "url": "https://youtu.be/0vQ7UEe7rLg",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there any way you can remove that gemini ai icon cz it looks so annoying?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
-   "url": "https://youtu.be/hffQ4UleKUU",
+   "cat": "AI for small business",
+   "video": "Small businesses are obsessed with AI slop...",
+   "url": "https://youtu.be/fYOQ97gyGCA",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Thank you! I have been stalling my channel for the last 2 years. You are a life saver. Editing takes forever. I use Claude every day as a developer but never thought you could do that with claude."
+   "text": "Family member of mine used AI to make their business logo. Because I've been requested to make a stamping system to make marking items easier, I've thankfully been given authority to redo the logo by hand (which I have to because working with AI-generated designs is a pain in the ass)."
   },
   {
-   "cat": "photography & video",
-   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
-   "url": "https://youtu.be/NnvRMs_0UQ8",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What is the tool used to create the voice references?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
+   "cat": "AI for small business",
+   "video": "I Built an AI Receptionist Business with Claude Code (Full Guide)",
+   "url": "https://youtu.be/pblQ8ZwpgAo",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "It wont edit my final cut property videos where I might have say 10 different versions of a clip but i choose the very best cuts manually?  how can i know this level of picky?"
+   "text": "My doubt is how other people use the same workflow can we enter every credentials for every client manually or do we have to make it multi tanent but how can we make it ?"
   },
   {
-   "cat": "photography & video",
-   "video": "Make Long AI Videos FREE\ud83d\udd25One Click, Voice + Lip Sync\u2728AI Video kaise banaye \ud83d\udd25FREE AI Video Generator",
-   "url": "https://youtu.be/xpHmIfpaqlA",
+   "cat": "vibe coding & building apps",
+   "video": "Vibe coding vs software engineering",
+   "url": "https://youtu.be/awFTa5rr8F8",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "This is why I write my code by hand. It takes hours. And is infinitely better than some crap that ai pukes out in a few minutes"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The Hidden Cost of Vibe-Coding Games [Stream Highlight]",
+   "url": "https://youtu.be/5cbonpAgR5A",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I feel this. Work is all agentic now, so I have a little vibe coded web game going. There is too much text, there is too much information, and not enough ability to tell what the point is. I have made games before \"by hand\" and there is truth in being hands on forces one to take a serious look at everything one makes and see if it makes sense. I'm maybe halfway through the 90% that takes 10% of th"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "AI Receptionist Business: $0 to $10K/mo (Full Course)",
+   "url": "https://youtu.be/UK52c72noOk",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "What's the app name for making ai video"
+   "text": "Couple of quick questions : Do you charge a retainer + call usage fees or just a retainer with a set amount of usage and if so how do you track client usage. Secondly does anyone know how to setup call forwarding in Australia? Would love to hear from you!"
   },
   {
-   "cat": "writing & publishing",
-   "video": "Best iPad Case for Productivity: MOFT Dynamic Folio \ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udcf1\u270d\ud83c\udffc",
-   "url": "https://youtu.be/_AVC6i7IiCQ",
+   "cat": "AI for small business",
+   "video": "How to Build a One Person AI Business (Using Claude Code)",
+   "url": "https://youtu.be/LVAHYV4Xrto",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Hi, hopefully someone can help me with this question, which I'm struggling to find an answer: Let's suppose you built an automation to sell it to a company. After the sale, how do you make the company use your automation: Is it through an installed software, web link? Thanks for all the help."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "I Have Spent 1000+ Hours With Claude Code. This Is What I Learned",
+   "url": "https://youtu.be/YAsxyoTWFDA",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "hi, what tool do you use to see the token consumption?"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "Google Charges for Missed Calls: Sell the $397/Mo AI Receptionist",
+   "url": "https://youtu.be/AQmxFTn13nE",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What a golden nugget Adam!! Thanks for sharing. Couple of questions... 1. Google will charge this fee to whomeever is paying ads and not picking up. In your example you go through the list skipping the top ones that have everything in place but pay. You go to the non payers guys...how come if those are not going to be penalized by google?  2. Is there a way for the customer to turn off the bot whe"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "The Truth About AI Coding in 2026 - No Hype, Only Truth",
+   "url": "https://youtu.be/sO-ssqm9jPk",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I don't know how many will agree.. But I think manually writing code and finding fix on stack overflow feels safe and secure as a developer in long term"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "I Let AI Make and Save Me Money for 6 Weeks (Here\u2019s What Worked)",
+   "url": "https://youtu.be/JhyVSrQPVSg",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I bought the $19 offer to hopefully understand what tool you used to determine there is more demand than supply for Laredo Cranes.   I still couldn\u2019t find the tool.   What is the tool you used to find the asymmetric supply/demand?"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "I Let AI Make and Save Me Money for 6 Weeks (Here\u2019s What Worked)",
+   "url": "https://youtu.be/JhyVSrQPVSg",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there a way to get invite to Instinct ai? Or am I doing something wrong? lol"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How to Build Real Mobile Apps with Claude - FULL COURSE",
+   "url": "https://youtu.be/tpge9xJ0m5U",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there any tool with price tag except claude"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "You\u2019re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
+   "url": "https://youtu.be/Bm84BAtOfQw",
    "signals": [
     "wish_build"
    ],
    "score": 2.0,
    "likes": 0,
-   "text": "I wish there was something like this for the galaxy tabs"
+   "text": "Thank you for this video, Dan. I've had a blast playing around with Claude this last week. It means a lot hearing that I'm ahead of the curve by embracing AI automation. I just can't seem to get over my crippling fear of failure. I wish I could apply what I've been told."
   },
   {
-   "cat": "music & podcasting",
-   "video": "Can The OBSBOT Talent 2 Replace An Entire Podcast Studio?",
-   "url": "https://youtu.be/jHrwNtdjbXg",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "That\u2019s cool I wish I could afford one for my set up"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "AI for small business",
+   "video": "These Are the Best AI Tools in 2026",
+   "url": "https://youtu.be/aPSbZbOzB4s",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Claude is proud of you, kid\u2014you pulled off a scam by claiming it could run on the free version, when in reality, it requires payment."
+   "text": "These companies puts out some awesome models, and keeping chasing the best one IMHO is a waste of time. If you keep switching between models they never learn well, and benchmark numbers tells you nothing because they are not based on YOUR tasks.  I choosed to keep gpt as my main assistant and then I eventually use the other models for their strength as needed."
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "vibe coding & building apps",
+   "video": "Use Claude Code for free with unlimited usage using Omniroute",
+   "url": "https://youtu.be/fZIBK_4fKq8",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Yeah I dont know if this works at all  but it doesnt work on PC"
+   "text": "Scam \u2026 You will get the free account from  Other provider and run bad local model because the pc you use can\u2019t run a decent model\u2026 please stop giving wrong advice"
   },
   {
-   "cat": "writing & publishing",
-   "video": "Claude Built this AI Tool and Monetize with Google Adsense",
-   "url": "https://youtu.be/yIHf-PAXk0g",
+   "cat": "vibe coding & building apps",
+   "video": "How To Make Roblox Games Using AI?",
+   "url": "https://youtu.be/kn8SAo9dw7k",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "You won't be able to rank such websites. It's a waste of time."
+   "text": "btw bro forgot to say its payed and free trial is not worth it"
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
-   "url": "https://youtu.be/4MOieRaYqRY",
+   "cat": "vibe coding & building apps",
+   "video": "I Challenged a Security Guard and an Engineer to Vibe Code",
+   "url": "https://youtu.be/1dJdxilwbb4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "NOTHING IS REALLY TRYING TO SCAM PEOPLE THEY INCREASED THEIR PHONE PRICES BY 5 TO 10 K IN INDIA BY THE NAME OF PRICE HIKE , I MEAN LIKE HOW CAN RAM AND STORAGES CAN BE SO SO SO EXPENSIVE IN JUST FEW MONTHS"
+   "text": "Comparison doesn't work like that. Specially the duration is the problem. Give them 1 week and then see who builds better."
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
-   "url": "https://youtu.be/4MOieRaYqRY",
+   "cat": "AI for small business",
+   "video": "Every Grok Bot Concept Explained for Normal People",
+   "url": "https://youtu.be/NyfYxpXiw_0",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "6 Gen 4 doesn't deserve a price tag of more than $150. It's a scam to loot naive customers \ud83d\ude02\ud83e\udd23"
+   "text": "this is a SCAM !!! i never got the invitation mail but i did pay the 99 dollars !!!!"
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
-   "url": "https://youtu.be/4MOieRaYqRY",
+   "cat": "vibe coding & building apps",
+   "video": "I Built an UNCENSORED AI app For Hacking (and YOU can too)",
+   "url": "https://youtu.be/bwzK1FuSp1Q",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Bro really,  Nothing phone 4b\u274c\ufe0f\u274c\ufe0f\ud83d\udca9 \ud83d\udca9 \u2705\ufe0f\u2705\ufe0f UFS 2.2, prosasor 6s  Gen 4, And  with out Optikall lens or Taliphoto lens in this price segment ( 30k -35k ).. Build quality \ud83d\ude33 Cheap plastic.. in This price segment Outher Brand can provide Best options,  like performance or camera... Anyone Who probably Think To Buy This Phone After seen this reel soo please Don't Buy This Phone and not wasted you money."
+   "text": "Bro i had like a jailbreak for deepseek and i like asked why something didnt work idk what it was but it was always giving me some bs python script"
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "Fix Your TV with a USB Cable and Phone App",
-   "url": "https://youtu.be/CQcgmchuNYE",
+   "cat": "vibe coding & building apps",
+   "video": "I Built an UNCENSORED AI app For Hacking (and YOU can too)",
+   "url": "https://youtu.be/bwzK1FuSp1Q",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Can you help me to fix the LG Magic Remote, the ON amd OFF button doesn't work"
+   "text": "The moment he mentioned the host stinger, I was out. They\u2019re overpriced and a waste of money. I\u2019m not rich."
   },
   {
-   "cat": "smart home & gadgets",
-   "video": "Fix Your TV with a USB Cable and Phone App",
-   "url": "https://youtu.be/CQcgmchuNYE",
+   "cat": "vibe coding & building apps",
+   "video": "I Built an UNCENSORED AI app For Hacking (and YOU can too)",
+   "url": "https://youtu.be/bwzK1FuSp1Q",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I have tried it, it doesn't work for Samsung here in Germany!"
+   "text": "Don't waste your time, money, and resources! As of today, Sept. 11, 26 this does NOT work."
   },
   {
-   "cat": "fashion & clothing",
-   "video": "The tech girlies made an app JUST like Chers clueless closet\ud83d\ude0d #ootd #fitcheck #fashiontrends #style",
-   "url": "https://youtu.be/Cx-62KSO94Y",
+   "cat": "AI for small business",
+   "video": "5000 Hours of Building AI in Just 17 Minutes",
+   "url": "https://youtu.be/7WZ6XldxX0U",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "is the link scam or like virus i just dont trust links sorry Xx also is it available in the uk?"
+   "text": "Opus 5 spawning agents to spawn more agents. How are you PAYING for all of this?!  Since I switched from 4.8 to 5, my $200/month plan is now giving me maybe 15-30 minutes of work every 5 hours. I\u2019ve switched effort level from xhigh to low, run multiple attempts to throttle verbosity, killed thinking, pruned skills, everything i have found recommended to deal with this, and still\u2026 30 minutes. I tri"
   },
   {
-   "cat": "writing & publishing",
-   "video": "How to Find UNTAPPED Amazon KDP Keywords in Seconds Using AI",
-   "url": "https://youtu.be/fPnFZ3eoJGI",
+   "cat": "AI tools & agents",
+   "video": "AI Agents are the new SaaS",
+   "url": "https://youtu.be/83fWzQSWB10",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Awesome way to create value quickly and reduce waste of time and money! Thanks for the great video Sean."
+   "text": "Claude 5 ist a scam project - they need more money- it is the 4.8 - fable 5 is only marketing name"
   },
   {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
+   "cat": "AI tools & agents",
+   "video": "AI Agents are the new SaaS",
+   "url": "https://youtu.be/83fWzQSWB10",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "doesn't work for me, on the stage of setup"
+   "text": "Blah, blah, blah.   Same mindless BS about AI every day.    If AI is so good why aren\u2019t these AI \u201cexperts\u201d on their super yachts ?   LOL.  The fools don't get it.   AI companies are shonks and grifters.    AI cannot \"do\" maths,  It cannot verify itself,  it doesn't store any knowledge,  it is wrong 50% of the time,  it cannot be used in law,  and it can hallucinate.   It's the biggest scam in hist"
   },
   {
-   "cat": "writing & publishing",
-   "video": "\u201cI Can\u2019t Afford to Self-Publish\u201d \u2014 Yes, You Can",
-   "url": "https://youtu.be/X4vHkh6WDZY",
+   "cat": "AI tools & agents",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "When you said, what's the name? What's the term? My mind instantly said scam, and then you said it. L o l"
+   "text": "52:49 emergency offer or limited offers as an Australian.. will likely be a scam. As I am seeing more Australia and America have massive attitude gaps with their buy and sell systems. I.e your potential clients because you were helping them would not work in many Ozzy businesses they just ask you for help :/"
   },
   {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
+   "cat": "vibe coding & building apps",
+   "video": "The Hidden Cost of Vibe-Coding Games [Stream Highlight]",
+   "url": "https://youtu.be/5cbonpAgR5A",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I've been coding games for maybe 10 years now. I've been using LLMs the past year, and while it does certainly speed things up, it's VERY easy to get ahead of myself. I still like to review and understand the code, but sometimes if I'm feeling lazy or tired I just let it steer...and it often ends up with this bloated, 10x over-complicated version of what I'd have done if I wrote the code. Sometime"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "China just made AI free",
+   "url": "https://youtu.be/zRuRGL1pU_g",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "doesnt work half the time"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Anthropic's Engineers Stopped Building AI Agents. Here's What They Build Instead.",
+   "url": "https://youtu.be/VxGIopUQVKo",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "this is nothing new. waste of time."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)",
+   "url": "https://youtu.be/bcM9dP_uXJU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Claude 5 ist a scam project - they need more money"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Adobe Reacts to Vibe Coded Photoshop Clone",
+   "url": "https://youtu.be/NCxbzbwBHzI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "It's very sad to see copying your tools by other people and sometimes they succeed more than you , you feel bad even if their tool does not work."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Adobe Reacts to Vibe Coded Photoshop Clone",
+   "url": "https://youtu.be/NCxbzbwBHzI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I was looking for an easy & free way to mass re-size images and resave between formats - searched for 10 minutes online, nothing obvious - so wrote my own in 30 mins (\"wrote my own\" -> \"wrote the prompt for AI to code\" ... didn't work on initial code (2 minutes) so most the time testing and tweaking ... now I use it repeatedly in my work, 1000s of images modified, really fast. This is what A.I. co"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Adobe Reacts to Vibe Coded Photoshop Clone",
+   "url": "https://youtu.be/NCxbzbwBHzI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I will say, the apps are getting major progress made on them so features that didn't work are improving almost daily it seems."
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Build Your Own Jarvis & Ultron Ai Assistant \ud83e\udd16\ud83d\udd25",
+   "url": "https://youtu.be/2NKpA6smfwg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "It doesnt work for mw i cant get to the terminal part it just doesnt let me it takes me to a part where there is no code but a terminal button and i press it and copy the code thing in but it says unotherized someone please help i did it on cursor"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Build Your First AI Agent in 10 Minutes \u2014 No Coding",
+   "url": "https://youtu.be/7ReHiROdPbE",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "It is not agent , it is scheduled task not automating workflow , waste of time"
+  },
+  {
+   "cat": "AI for small business",
+   "video": "I Let AI Make and Save Me Money for 6 Weeks (Here\u2019s What Worked)",
+   "url": "https://youtu.be/JhyVSrQPVSg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Hey something is wrong with the online call booking for the ai makers it doesn't work..."
+  },
+  {
+   "cat": "AI for small business",
+   "video": "HERMES AGENT FULL COURSE 3 HOURS: Build & Sell (2026)",
+   "url": "https://youtu.be/8yE6G1Lup1s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Thank you very much for this tutorial, i try hard to follow your instruction by using vps server it didnt work, are you planning to do one for vps please?"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "AI Apps are Getting Hacked. Use these prompts to fix it #vibecoding #cybersecurity #apps #coding",
+   "url": "https://youtu.be/8vl61ok6dlE",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.63,
+   "likes": 2,
+   "text": "Can you share the link to the pdf for security review"
+  },
+  {
+   "cat": "vibe coding & building apps",
+   "video": "Can Claude build a cross-platform AI app?",
+   "url": "https://youtu.be/IEYzYopNGVQ",
    "signals": [
     "link_ask"
    ],
    "score": 0.51,
    "likes": 1,
-   "text": "OpenGenerative AI Where can I find the key?"
+   "text": "This is sick!! where can i get it?"
   },
   {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "where can i get github links i have been in community since 2 months but the link in community directly navigating to youtube please help me out"
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "AI Tools Ranked Round 2: Learning, Video, Design, Productivity",
-   "url": "https://youtu.be/JS78u9kC-84",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "Where can I find your follow ups? I write the code words but I don\u2019t receive anything???"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Make Insane Motion Graphics With Opus 5.5",
-   "url": "https://youtu.be/747ZnEtsRbg",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "Great film, I have one question Where can I find that python prompt 6:50 ? I don't see that on X"
-  },
-  {
-   "cat": "photography & video",
-   "video": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
-   "url": "https://youtu.be/HSON-SoFz7s",
+   "cat": "vibe coding & building apps",
+   "video": "The AI Coding Boom Is Backfiring",
+   "url": "https://youtu.be/S2TJZodK2BE",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "Can you share the link to the image prompt skill? Looks like only the video prompt skill was shared - or does that cover both?"
+   "text": "Where can i find a notepad like this at 5:24?"
   },
   {
-   "cat": "photography & video",
-   "video": "How to Build a Kids Animation Channel with AI (Full Workflow)",
-   "url": "https://youtu.be/NnvRMs_0UQ8",
+   "cat": "AI for small business",
+   "video": "AI AGENTS MASTERCLASS 4 HOURS: Build & Sell (2026)",
+   "url": "https://youtu.be/0C6xYvQhjwQ",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "where can I download the Claud Md file?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
-   "url": "https://youtu.be/_9YXliQTAkg",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "That's a great sharing. Where can I get your guide?"
+   "text": "where can i get the text prompts , please ?"
   }
  ]
 }
