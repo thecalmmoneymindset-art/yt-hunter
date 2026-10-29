@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-28
-Keyword groups today: study & work, hobbies & collecting | countries: gb, us
+# App Store review report — 2026-10-29
+Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
 Fetch errors: none
 
-## study & work
+## travel & relocation
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4101053 | 4.78608 | Free | 35 | 8 |
-| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1070056 | 4.71033 | Free | 31 | 12 |
-| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 208933 | 4.56996 | Free | 37 | 9 |
-| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 465335 | 4.71804 | Free | 32 | 17 |
-| [Glassdoor | Jobs & Careers](https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=4) (us) | 789813 | 4.76607 | Free | 33 | 10 |
-| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 197788 | 4.6464 | Free | 40 | 15 |
-| [Notability: AI Notes & Planner](https://apps.apple.com/us/app/notability-ai-notes-planner/id360593530?uo=4) (us) | 458363 | 4.76075 | Free | 35 | 14 |
-| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 660846 | 4.83967 | Free | 16 | 5 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 5990657 | 4.78794 | Free | 24 | 4 |
+| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2209650 | 4.84572 | Free | 0 | 0 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/gb/app/expedia-hotels-flights-cars/id427916203?uo=4) (gb) | 277545 | 4.69507 | Free | 0 | 0 |
+| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 477738 | 4.75021 | Free | 14 | 2 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 481781 | 4.82205 | Free | 0 | 0 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283849 | 4.78786 | Free | 8 | 0 |
+| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 312672 | 4.84123 | Free | 0 | 0 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 334288 | 4.89276 | Free | 0 | 0 |
 
-Repeated complaint phrases: used to love (4); used to work (3); select the location (3)
+Repeated complaint phrases: none yet
 
-- Microsoft OneNote, 1 star: "Screen Reset - I work as a math teacher. I’m often in the middle of taking notes with my class when I select from the pen feature to the eraser feature or lasso feature, and OneNote takes me back to the top of the screen almost every time. Then I have to scroll back down to the section of notes wher"
-- Glassdoor | Jobs & Careers, 1 star: "Actually ZERO STARS - Why does this app require my phone number? This app is a nice idea but it’s a nonessential part of my life. Making it more invasive to use means that I don’t really need to use it at all and won’t be missing anything."
-- Glassdoor | Jobs & Careers, 2 star: "Linkage to Indeed not optional - I can no longer login to Glassdoor without linking my account to Indeed. I don’t want to use their services. They leak data and support job search scams"
-- Glassdoor | Jobs & Careers, 1 star: "Horrible Update - I used to really enjoy Glassdoor. But this recent, AI-centric approach has ruined the experience for me. Not even because it’s “AI”, just because of how they executed. Too many things, like putting in “desired job title” is now REQUIRED. Hey, Glassdoor? Not everyone is set on what "
-- Glassdoor | Jobs & Careers, 1 star: "Impossible to navigate - The new UI is impossible to scroll and skim job ads. I cannot figure out how to do anything I want on here anymore, I get stuck in all these screens looking for feedback"
-- Glassdoor | Jobs & Careers, 1 star: "Terrible website - Sadly this website is now useless. My profile is destroyed, my reviews have been lost, can’t get help, can’t add a new review, can’t add a new salary… can’t do much of anything anymore!"
+- Expedia: Hotels, Flights, Cars, 1 star: "Stole $150 from me. - Expedia stole my airline credits worth $150. The hung up on me several times when I was trying to use my credit. They are a scam."
+- Expedia: Hotels, Flights, Cars, 1 star: "Used to be easy - Now, terrible app.  No customer service"
+- Expedia: Hotels, Flights, Cars, 1 star: "Do not stay in suite 201 - The room was beautiful but smelled like mildew. The blanket was stained. Cracks in the ceiling and stains in the floor. The fridge was was not working properly. The freezer part was frozen with a big block of ice. I talked to the property person/manager via text. I told th"
+- Expedia: Hotels, Flights, Cars, 1 star: "No help at all - The hotels here are cheap for a reason the hotels are below par and they do not help with reservations when there is a problem i was told when asking to cancel and rebook another hotel on a 2 night stay that they emailed the property and to allow 3-5 business days for a response… i "
+- Skyscanner Flights & Travel, 1 star: "Open jaw tickets - Sorry should have been three star but would not let me change. I wanted premium economy out from LHR to Grand Cayman and then Business from Miami to LHR but could not see how to do it."
+- Skyscanner Flights & Travel, 1 star: "Not Feasible now - Before it was used to be a good app but now doing same like others and increase the prices by searching multiple times and other apps showing far less as compared to sky-scanner. Going to delete the app now."
 
-## hobbies & collecting
+## creators & sellers
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119516 | 4.58546 | Free | 25 | 16 |
-| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 613255 | 4.8281 | Free | 32 | 7 |
-| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 76250 | 4.66122 | Free | 25 | 9 |
-| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 322739 | 4.78674 | Free | 23 | 10 |
-| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114373 | 4.75384 | Free | 24 | 10 |
-| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 149991 | 4.81124 | Free | 3 | 0 |
-| [Outsmarted - Companion App](https://apps.apple.com/us/app/outsmarted-companion-app/id1541321303?uo=4) (us) | 68813 | 4.82595 | Free | 6 | 0 |
-| [Collectr - TCG Collector App](https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?uo=4) (us) | 68838 | 4.88374 | Free | 18 | 7 |
+| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5808843 | 4.7767 | Free | 0 | 0 |
+| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4448066 | 4.75366 | Free | 40 | 10 |
+| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8465682 | 4.8262 | Free | 0 | 0 |
+| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969564 | 4.81637 | Free | 0 | 0 |
+| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260730 | 4.75342 | Free | 0 | 0 |
+| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7351869 | 4.92482 | Free | 0 | 0 |
+| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3595334 | 4.87334 | Free | 9 | 4 |
+| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3756900 | 4.89776 | Free | 8 | 3 |
 
-Repeated complaint phrases: day free trial (3); used to love (3); trying to charge (3)
+Repeated complaint phrases: none yet
 
-- Phase 10: Casual Card Game, 1 star: "Scam - It’s rigged so bad to make you lose."
-- Phase 10: Casual Card Game, 1 star: "Pay to win past level 15. SCAM - Exactly as my title says. You play against AI and cannot pass level 15 without buying a bunch of power ups. Waste of time energy and space in our world."
-- Phase 10: Casual Card Game, 1 star: "Horrible adaptation of a game I love - This is THE worst version of Phase 10. It’s like yay! We’re having a party! I hate having to move through levels and using coins to play. This isn’t even Phase 10 as I know it. You play part of a level of Phase 10 and if you defeat one or two opponents (why doe"
-- Phase 10: Casual Card Game, 1 star: "So sad - It’s sad to see what this game is becoming. It used to be so customer focused. They actually would take polls and cared about what we liked and disliked. Recently I lost access to the side journey mini games. I reached out to support but all they gave me was non-answers, dancing around the "
-- Phase 10: Casual Card Game, 1 star: "Pay to Play - Game isn’t terrible to start but after a little while it becomes blatantly obvious they want you to pay for the boost if you want to win. You will be stuck on phase 1 while computer is 4 phase ahead of you because they get 3-4 wild cards every hand while you get none. Wish the game wou"
-- Phase 10: Casual Card Game, 1 star: "Hate this game - If your not putting money in game gonna make you lose lots of games not worth it everybody you go against got perfect cards"
+- OfferUp Buy & Sell Marketplace, 3 star: "USED TO BE GREAT… - This app USED to be a great alternative to ebay… But these days it has become so you get an ad every two listings and if you happen to touch the ad it will AUTOMATICALLY OPEN A WESITE IN YOUR BROWSER…  SO ANNOYING YOU DON’T EVEN FEEL LIKE BROWSING THE LISTING…"
+- OfferUp Buy & Sell Marketplace, 1 star: "Awful - Incredibly annoying notifications. Still bugs you about things you may have looked at briefly or years ago. Constantly trying to get you to spend money to "promote" your listings."
+- OfferUp Buy & Sell Marketplace, 1 star: "Scammers galore, no action from offer up - You have to sift through the scammers. I have reported multiple people for verified scams, but offer up has no interest in seeing the proof, or curbing this abuse."
+- OfferUp Buy & Sell Marketplace, 1 star: "pay to sell - I made an account to sell my motorcycle and I have to wait until November 1st to post or pay $4.99 to post right now. I just made the account... at this point, offerup should have paid me $4.99 for downloading and making an account on their app..."
+- OfferUp Buy & Sell Marketplace, 1 star: "Angel Perez, - Item is being listed as free then he is asking how much I would offer, he was rude acting like not responding, acting very slow to answer message or questioning as I was reporting add. I can not confirm what he is asking for it because he refused to answer, offered cash, bitcoin, Zell"
+- OfferUp Buy & Sell Marketplace, 2 star: "It’s abusing notification system - This app abuse notification system. It’s annoying. And all the accounts talked to me became deactivated later which means there are quite some scammers i guess."
