@@ -1,49 +1,49 @@
-# App Store review report — 2026-10-30
-Keyword groups today: cars & transport, events & community | countries: gb, us
+# App Store review report — 2026-10-31
+Keyword groups today: money & budgeting, small business & freelance | countries: gb, us
 Fetch errors: none
 
-## cars & transport
+## money & budgeting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 238659 | 4.72741 | Free | 30 | 13 |
-| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 256555 | 4.76992 | Free | 31 | 7 |
-| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 396178 | 4.82049 | £5.99 | 1 | 0 |
-| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184254 | 4.76541 | Free | 7 | 2 |
-| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101302 | 4.72756 | Free | 9 | 6 |
-| [SpotHero: #1 Rated Parking App](https://apps.apple.com/us/app/spothero-1-rated-parking-app/id499097243?uo=4) (us) | 426010 | 4.86279 | Free | 20 | 3 |
-| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187761 | 4.80694 | Free | 48 | 13 |
-| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 128485 | 4.84105 | Free | 26 | 5 |
+| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 403556 | 4.47354 | Free | 37 | 15 |
+| [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4) (us) | 1482097 | 4.74759 | Free | 29 | 10 |
+| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 284127 | 4.65789 | Free | 46 | 21 |
+| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 158007 | 4.63086 | Free | 47 | 14 |
+| [Plum: Smart Saving & Investing](https://apps.apple.com/gb/app/plum-smart-saving-investing/id1456139507?uo=4) (gb) | 70964 | 4.67577 | Free | 46 | 16 |
+| [EveryDollar: Budget Management](https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4) (us) | 84186 | 4.73381 | Free | 29 | 10 |
+| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 151172 | 4.85649 | Free | 10 | 4 |
+| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 116173 | 4.88973 | Free | 17 | 9 |
 
-Repeated complaint phrases: flash and quit (3)
+Repeated complaint phrases: over and over (5); cancel my subscription (3); used to love (3)
 
-- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
-- ParkWhiz - #1 Parking App, 1 star: "Reservation not honored. - I had a reservation for this morning at the iPark garage on 15 E 83rd St NYC. When I arrived, the attendant refused to even look at my confirmed & prepaid reservation. He said the garage was full and ParkWhiz has no knowledge of the parking availability when it booked my r"
-- ParkWhiz - #1 Parking App, 1 star: "Do not use in Chicago! - This app ended up being useless in Chicago. We were unable to locate an actual lot that matched the address, descriptions and pictures of the first place we booked. The picture shows street parking that is all reserved parking; the description made no sense regarding locatio"
-- CARFAX Car Care, 1 star: "Won’t open crashes - As of 7/31/26 the app will sit on the open screen then close itself after about 30seconds.  Please fix soon"
-- SpotHero: #1 Rated Parking App, 1 star: "Scam - You can park for free at treasure Island, and Circus Circus"
-- SpotHero: #1 Rated Parking App, 1 star: "Useless scam - The worst. They take your money and won’t refund you if they mess up. You can get cheaper parking by reaching out directly to the garage. This is a scam."
+- Microsoft Excel, 1 star: "Microsoft! - No, I don’t want to leave a review. No, I don’t want to dismiss this message every time I open the Excel app, or Outlook, or Teams, or anything else!! I just want to view a file. This prompt is preventing me from doing my job and is wasting my time.    The app has a purpose. Why are you"
+- Microsoft Excel, 1 star: "VERY annoying Copilot - Microsoft added Copilot, and now I have a Copilot icon blocking my view of cells in the lower right corner of my spreadsheet and have no way to turn it off or make it go away."
+- Rocket Money - Bills & Budgets, 1 star: "TERRIBLE - Can’t even figure out how to cancel my subscription"
+- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
+- Microsoft Excel, 1 star: "USELESS !!! - Latest update has made app non functional on iPad and has caused MAJOR issues for my company whose design consultants take measurements on this app and it loses all data that is input. Can’t begin to explain what a headache this has caused everyone. This is a global issue and it’s abso"
+- Microsoft Excel, 1 star: "Keeps Crashing Since the Last Update and Not Saving Work - I use this app regularly to update figures, I open spreadsheets from Dropbox. Since the last update it hangs closing the spreadsheet when I exit it to send it back to Dropbox. It just spins and I eventually have to close the app. The work is"
 
-## events & community
+## small business & freelance
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5544828 | 4.89182 | Free | 21 | 1 |
-| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1092211 | 4.83954 | Free | 8 | 2 |
-| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1833003 | 4.89641 | Free | 0 | 0 |
-| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 355227 | 4.82307 | Free | 27 | 7 |
-| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 109644 | 4.76876 | Free | 17 | 0 |
-| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 223084 | 4.85553 | Free | 30 | 5 |
-| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 91926 | 4.82604 | Free | 18 | 3 |
-| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 98700 | 4.91315 | Free | 31 | 11 |
+| [Fetch: Earn Rewards Every Day](https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4) (us) | 7815509 | 4.85124 | Free | 12 | 4 |
+| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1975833 | 4.79904 | Free | 21 | 6 |
+| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 198102 | 4.64662 | Free | 40 | 14 |
+| [iScanner: PDF Doc Scanner App](https://apps.apple.com/gb/app/iscanner-pdf-doc-scanner-app/id1040093707?uo=4) (gb) | 164421 | 4.67929 | Free | 5 | 3 |
+| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 273742 | 4.74982 | Free | 18 | 5 |
+| [Scanner App: Genius Scan](https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4) (us) | 1373732 | 4.89913 | Free | 3 | 1 |
+| [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4) (gb) | 196328 | 4.83141 | Free | 11 | 4 |
+| [TurboScan™ Pro: PDF scanner](https://apps.apple.com/us/app/turboscan-pro-pdf-scanner/id342548956?uo=4) (us) | 297357 | 4.92296 | $12.99 | 2 | 0 |
 
-Repeated complaint phrases: none yet
+Repeated complaint phrases: used to work (3); select the location (3)
 
-- Zola - Wedding Planner, 1 star: "Seating chart is a scam - That app has been fine but getting to the seating chart: It let me add all the tables I wanted and arranged them. Then, once I started adding guests, I got the option to “upgrade to premium to seat more than 15 guests”. Suck my dick Zola ✌🏼"
-- Sam's Club Shopping & Delivery, 1 star: "Unusable / Ad ridden - App completely unusable now, search filled with ads that play videos, slows scrolling to a crawl. No way to disable ads or stop them from playing. Useful items always out of stock or priced $$$ more for shipping vs store pickup."
-- BJs Wholesale Club, 1 star: "Was great not so much anymore - I paid $100 to get free delivery and it only worked once. They did refund my $ but now I can’t even use the app to order for pick up. I keep getting errors so I have to come in to make my purchases. As a small business owner, this is very inconvenient. Hoping they fix"
-- BJs Wholesale Club, 2 star: "Could not place order for pickup; app freezes - This is the 4th time this month, I wasted time trying to place an order for pickup. I had to order from Walmart instead   :("
-- Eventbrite, 2 star: "Impossible to search - Eventbrite works ok if you’ve got a link to an event you want to attend. But it is useless for searching - even if you tell it exactly what and where you want it shows you lots of irrelevant events in other places!"
-- Eventbrite, 1 star: "Adding multiple tickets to apple wallet doesn’t work - Adding multiple tickets to apple wallet doesn’t work. This is the sort of thing that should’ve been caught in basic testing, and of course the app offers no easy way to send bug reports. I guess they’d be inundated if they did. More shoddy progr"
+- Ibotta: Save & Earn Cash Back, 2 star: "Used to be great-caters to Walmart - I used to love this Ibotta but it seems to more often deny my local Brookshires coupons. I will add the coupons prior to shopping, will buy SPECIFICALLY because of the coupons and get denied. I send to review and STILL get denied when I made sure everything was c"
+- Fetch: Earn Rewards Every Day, 1 star: "Aweful app - My mom got addicted to this app and she started playing this over and over everyday until we were in the streets now we are broke we lost all our money this app is a scam and makes you go broke."
+- Fetch: Earn Rewards Every Day, 2 star: "Manu Bar Disappeared - The latest release has a bug that makes the menu bar disappear and leaves you stranded until you hard quit the app."
+- Fetch: Earn Rewards Every Day, 1 star: "Points! - Why are the points increasing for the rewards so much? Every other month Amazon gift card points increase when I use my points for that. I find this appalling and I’m discouraged to use the app. I’ve also noticed all the winners are only women for the sweepstakes! This seems like a scam to"
+- Fetch: Earn Rewards Every Day, 2 star: "Not what they used to be - I’ve been with this app for quite some time but it’s getting harder and harder just to reach a $50 gift card; not to mention they raised the amount of points you need to get one! I used to be able to get two gift cards a year and now I can barely get one in a year. Just di"
+- Ibotta: Save & Earn Cash Back, 1 star: "Always missing cashback - Always having issues getting my hannaford cash back offers and they ask for a reipt after its thru online and I don't have my grocery repit so I lost out on over twenty dollars justnor happy"
