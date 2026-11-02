@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-01
-Keyword groups today: property & home, family & parenting | countries: gb, us
+# App Store review report — 2026-11-02
+Keyword groups today: health & fitness, pets | countries: gb, us
 Fetch errors: none
 
-## property & home
+## health & fitness
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7240498 | 4.80009 | Free | 0 | 0 |
-| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 506878 | 4.69147 | Free | 0 | 0 |
-| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1649845 | 4.79887 | Free | 0 | 0 |
-| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1086881 | 4.78882 | Free | 0 | 0 |
-| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1415462 | 4.81647 | Free | 26 | 8 |
-| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 221344 | 4.73777 | Free | 0 | 0 |
-| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 324759 | 4.84307 | Free | 20 | 6 |
-| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 478306 | 4.89031 | Free | 0 | 0 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2386989 | 4.71363 | Free | 27 | 8 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 475344 | 4.70395 | Free | 33 | 14 |
+| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390849 | 4.74153 | Free | 42 | 28 |
+| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1050337 | 4.8289 | Free | 11 | 1 |
+| [ShutEye®: Sleep Tracker, Sound](https://apps.apple.com/us/app/shuteye-sleep-tracker-sound/id1490078804?uo=4) (us) | 350297 | 4.76424 | Free | 38 | 19 |
+| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532156 | 4.84612 | Free | 16 | 8 |
+| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 770362 | 4.94724 | Free | 7 | 3 |
+| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432892 | 4.90794 | Free | 11 | 2 |
 
-Repeated complaint phrases: matching your search (3); filters to find (3); find more homes (3)
+Repeated complaint phrases: used to love (5); pay for subscription (3); me to pay (3); ve been using (3)
 
-- Trulia Real Estate & Rentals, 1 star: "Used to be my favorite home-search app — please fix Map Search - I’ve used Trulia for years, and it’s astonishing that one change to the app has made me dislike using it this much.  I search primarily using the map with very specific filters already set. Previously, if I moved the map into an area w"
-- Houzz - Home Design & Remodel, 1 star: "The most miserable company - In my opinion, the company’s main goal is to get your credit card information. After that, I experienced repeated issues with their customer service that made the entire experience extremely frustrating.  Based on my personal experience, I cannot recommend doing business"
-- Trulia Real Estate & Rentals, 1 star: "Ripe with fraudulent listings - Ripe with fraudulent listings and no way to report them."
-- Trulia Real Estate & Rentals, 1 star: "Black vignette - Re: I appreciate the feedback, BUT I’m not talking about the "black zone" around the photo. I’m referring to the gradient darkening at the top of the image that appears when the iPhone is rotated to landscape mode. In this mode, the vignette still obscures a quarter of the photo. It"
-- Trulia Real Estate & Rentals, 1 star: "Unnecessary clutter makes what should be a simple home search incredibly frustrating - The app has become incredibly frustrating to use because my search results are littered with off-market homes. I’m searching for a home to BUY - I need to see homes that are actually for sale.  Even when I specifi"
-- Trulia Real Estate & Rentals, 1 star: "Open maps - The app used to work on map view, now it errors out and the filters do not work. PLEASE FIX"
+- MyFitnessPal: Calorie Counter, 1 star: "New look - This new updated look is a lot less user friendly and there seems to be less features even on a premium account it feels like features are missing"
+- BetterSleep: Relax and Sleep, 1 star: "Greedy app - I’ve had this app for years and a lot of sounds used to be free. Now you only get three free sounds, crazy. The developers got greedy."
+- MyFitnessPal: Calorie Counter, 1 star: "iPad View - Free Version - Recently something changed with the oversized ads. You cannot full see you meal selections. Unusable - Muse ad obnoxious"
+- MyFitnessPal: Calorie Counter, 1 star: "YET ANOTHER update THAT SUCKS - CAN YOU PLEASE GET RID OF THE COLUMNAR LAYOUT IN iPAD OS, OR AT LEAST REINSTATE THE OPTION TO DISMISS? MORE STUPID "ITERATION!" Again and again, useless changes "for the sake of change," annoying and CONSTANT alterations to the UI for no discernible (to USERS) reason."
+- MyFitnessPal: Calorie Counter, 1 star: "Sucks worse now than ever - I came back to this app after using it years ago, and it sucks now. When I log food, it forgets half of the entries and I have to go back and enter it again. Nearly everything I touch includes an annoying popup to buy Premium. It’s not what it used to be, and I’ll be swit"
+- MyFitnessPal: Calorie Counter, 2 star: "Doesn’t open/load - I used to love this app, but now the app just doesn’t open or load for me anymore. I’ve tried uninstalling it and re-logging in, but nothing works unfortunately I will have to switch to a different app."
 
-## family & parenting
+## pets
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 2010392 | 4.74219 | Free | 0 | 0 |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 163657 | 4.62338 | Free | 0 | 0 |
-| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 402169 | 4.80701 | Free | 0 | 0 |
-| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227365 | 4.80077 | Free | 0 | 0 |
-| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 380685 | 4.87045 | Free | 0 | 0 |
-| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 298717 | 4.89196 | Free | 0 | 0 |
-| [Skylight App](https://apps.apple.com/us/app/skylight-app/id1438779037?uo=4) (us) | 52536 | 4.80294 | Free | 11 | 7 |
-| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 143477 | 4.92333 | Free | 0 | 0 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 163821 | 4.62355 | Free | 20 | 12 |
+| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1237504 | 4.91077 | Free | 6 | 1 |
+| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 103050 | 4.71373 | Free | 19 | 4 |
+| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 509256 | 4.85886 | Free | 10 | 3 |
+| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 515778 | 4.88523 | Free | 44 | 6 |
+| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 67642 | 4.76454 | Free | 27 | 3 |
+| [AllTrails: Hike, Run & Walk](https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943?uo=4) (gb) | 65651 | 4.84466 | Free | 11 | 5 |
+| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 78877 | 4.92976 | Free | 9 | 2 |
 
-Repeated complaint phrases: none yet
+Repeated complaint phrases: pay for background (4); bug after bug (3)
 
-- Skylight App, 2 star: "Pay to play - One thing I love about the calendar is the photos I find it frustrating you have to pay a subscription to utilize part of the device that you purchased."
-- Skylight App, 1 star: "Beware if using for photos - After 1 year they want you to pay a $75 yearly subscription to display photos. I find this offensive and am frustrated with this."
-- Skylight App, 1 star: "Poorly made app - We switched to the Skylight app after using FamilyWall for the last 3 to 4 years because we bought a Skylight device. The calendar and menus are nowhere near as user-friendly or intuitive and the notification system is useless. furthermore, it is very frustrating than in order to a"
-- Skylight App, 1 star: "Another way to duplicate your data - This apps only usable feature is that it can replicate your data from connected accounts, but you have to go through several menus to access the calendar. The calendar setup itself was not intuitive and resulted in a dozen different labels for a single account. T"
-- Skylight App, 1 star: "Crashing app - At one point, the app work perfectly… But for the last month, it has been crashing every time and every time you try to send images, photos to your picture frame… please fix ASAP….. there’s a grandmother that needs to see her grandchildren!!!"
-- Skylight App, 3 star: "Updates now have Pros and Cons - Love the Skylight. Recently they have taken away a lot of the free features and now you have to pay for a subscription which is too expensive and not worth it for only the extra features I would want so I don’t pay for it all and just deal with what I can do for free"
+- AllTrails: Hike, Run & Walk, 2 star: "Purposefully blocking loaded maps - I don’t use the app frequently enough to warrant a subscription. Over the years I have navigated with AllTrails, I haven’t had any issues with disruption to my data - the map loads when there is a signal and stays loaded. Or at least, it used to. In what appears t"
+- Chewy - Pet Care & Pharmacy, 1 star: "Auto-subscribe not available - Made a $700 order that kept crashing on webpage when I tried to complete payment.  Items are not listed by final price on final page, just one number for total order.  Switched to app and then told “auto-subscribe is not available.”  Forty dollar difference is huge."
+- Rover – Pet Sitters, 1 star: "Terrible customer service - I was a rover sitter but unfortunately and unfairly had my rover account closed. I am a 5 star sitter and they refused to provide me any information for closing my account. Their customer service has been of no help at all and have refused to reactivate my account. I’m so"
+- Rover – Pet Sitters, 1 star: "Dont download scam and dont pay for background check - Paid 40$ for background check and no business even with a good profile dont download unless u want to loose 40$"
+- Rover – Pet Sitters, 2 star: "It’s not just annoying this app seems CONCERNING for YOUR PETS SAFETY - Where do I start? Maybe first the fact that there’s a day option for dogs but not cats?? Seems kinda stupid. I mean, on the website on Google it seems you can drop them off at any given time “per night”, but on the current app I"
+- Rover – Pet Sitters, 2 star: "Lost my trust - Rover lost my trust after our dog was abandoned by two separate Dog Sitter’s for overnights. Then Rover was unresponsive with their emergency support people transferring us around the company and no one picked up the phone. This caused us deep, emotional stress and consternation as o"

@@ -1,448 +1,470 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "rows": [
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 9.66,
-   "likes": 229,
-   "text": "This doesn't work with the free version of Claude as the video claims. Claude needs access to your local folders and can best do this through addons like cowork; which are available only on the paid versions of Claude."
-  },
-  {
-   "cat": "photography & video",
-   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
-   "url": "https://youtu.be/_9YXliQTAkg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.14,
-   "likes": 42,
-   "text": "This will likely not get monetized at all. Even if it does get monetized, YouTube may later demonetize it for \u201clow effort\u201d content. Without genuine human effort and original value, YouTube doesn\u2019t give much value to this type of content anymore. It\u2019s a waste of time."
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
+   "cat": "AI tools & agents",
+   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
+   "url": "https://youtu.be/NhqSuQPPvbg",
    "signals": [
     "manual_pain"
    ],
-   "score": 6.98,
-   "likes": 5,
-   "text": "I created a workflow in n8n using  Claude. The purpose was to read my script, break it into different sections, generate an image for each section, and then turn each image into a short video. All the outputs, including the images and videos, were saved to a folder on my G drive.  I used Gemini to generate the videos and ChatGPT to create the images. It took me about a day and a half to set everyt"
+   "score": 11.53,
+   "likes": 36,
+   "text": "That example he gave with the garage door company would NEVER work. It's another example of a guy teaching someone to do something he has NEVER done himself... it's horrible advice. It would be a nightmare to \"charge Mary $80, then send $40 to Bob to change the oil\". And what happens when Mary comes in and sees Bob's sign charging everyone else $40. Another \"guru without a clue\"...."
   },
   {
-   "cat": "resellers & second-hand",
-   "video": "Why I Don't Use Crosslisting Apps",
-   "url": "https://youtu.be/Dj0tfop8LD8",
+   "cat": "AI tools & agents",
+   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
+   "url": "https://youtu.be/NhqSuQPPvbg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.18,
+   "likes": 43,
+   "text": "I did vending machines for years and I made 100k a year\u2026 the key is getting them into schools. That\u2019s where I made all my money. I just sold the business for a lot of money  14:38   I\u2019m going to start  a consulting business if you want to get into the vending machine business!"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "How I Created a $30,000/month Faceless YouTube Channel Using AI Tools",
+   "url": "https://youtu.be/Sp83h2FqOH0",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.88,
+   "likes": 35,
+   "text": "\ud83e\udd16 Try Kutly: https://kutly.io\r         CODE: FREEKUTLY\r \ud83d\udcda Prompts: https://emmiescalm.gumroad.com/ \r \ud83d\udc49 TRY VIDIQ For $1: https://vidiq.com/mistrAI \r \ud83d\udc49 How I made $400K With Shorts: https://emmiescalm.gumroad.com/l/YouTubeShortsSystem2 \r -- REMEMBER THE GOAL: EVERYONE IS GETTING MONETIZED \r -- MUCH LOVE TO EVERYONE \u2764\u2764\u2764\u2764"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
+   "url": "https://youtu.be/d9c5gloGPMU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 6.7,
+   "likes": 31,
+   "text": "Grok told me Grok Bot is not worth it atm lol"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "5 Proven Ways To Make Money With AI (No Experience)",
+   "url": "https://youtu.be/DZoeGR_tatA",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 6.39,
+   "likes": 8,
+   "text": "I wish i had a good device to start. It's really hard to do everything in 100 dollar phone but i am not giving up until i win."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
+   "url": "https://youtu.be/4LwtuscILlc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 5.35,
+   "likes": 12,
+   "text": "Shows credited 500$. But doesn\u2019t pass through payment screen, tried 5 Indian credit cards, nothing works. Now I\u2019m worried if it\u2019s a scam to grab credit card details"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Meta Muse is an INCREDIBLE AI agent",
+   "url": "https://youtu.be/Wod_A8xIy4E",
    "signals": [
     "manual_pain"
    ],
    "score": 5.25,
    "likes": 2,
-   "text": "I manually crossl list as well. The apps are costly and they are not really allowed to be used by ebay ect. Its an easy way to lose your accounts."
+   "text": "I told it to go through my Amazon, email, and Google Drive to find all my spending, plot it onto a spreadsheet, and categorize it. It did it all in minutes, which would take me hours. Also i took pictures of receipts that i haven't recorded yet and it could plot it in the appropriate spreedsheet in seconds."
   },
   {
-   "cat": "photography & video",
-   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
-   "url": "https://youtu.be/AsvN_feasyY",
+   "cat": "smart home & gadgets",
+   "video": "The New 67W Xiaomi 5i Powerbank is Super Value for Money!",
+   "url": "https://youtu.be/P8uKmUo81_I",
    "signals": [
     "result_report"
    ],
-   "score": 5.1,
-   "likes": 10,
-   "text": "The moment you mention the scam company that is higgsfield  you lose all credibility. I stopped watching."
+   "score": 5.23,
+   "likes": 11,
+   "text": "I didn't had much money so i got mi 4i 20k mAh 33w one. And its very good"
   },
   {
-   "cat": "fashion & clothing",
-   "video": "RenoMuse app made a Home Theater, Walk-in Closet and Home Library from one pic",
-   "url": "https://youtu.be/iirIpAY289I",
+   "cat": "AI tools & agents",
+   "video": "7 Proven Ways to Make Money With AI (No Experience)",
+   "url": "https://youtu.be/hriu0irRcpE",
    "signals": [
-    "would_pay"
+    "ask_for_tool"
    ],
-   "score": 5.08,
+   "score": 4.23,
    "likes": 1,
-   "text": "5 I will buy it my bid is 0\u20b9"
+   "text": "Is there any way to watch the 5-day challenge course in Spanish? My English is quite poor, unfortunately. :("
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "AI tools & agents",
+   "video": "7 Proven Ways to Make Money With AI (No Experience)",
+   "url": "https://youtu.be/hriu0irRcpE",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 4.8,
-   "likes": 8,
-   "text": "THIS VIDEO IS OVERLY SIMPLISTIC! I tried copying her video step by step and Genshark was much more complicated to work with but still great tool. Took me one day to create the coloring book which isn\u2019t bad but she made it seems like it was super simple for her nicely design book and it requires more time and effort and coming up with your own prompts but it works.  Also wanted to add that Genspark"
+   "score": 4.23,
+   "likes": 1,
+   "text": "How can I watch the intensive if I\u2019m from Russia and don\u2019t speak English? Is there any way to work around this?"
   },
   {
-   "cat": "writing & publishing",
-   "video": "KDP Royalty Change Authors Wanted for Years | Self-Publishing News (July 9, 2026)",
-   "url": "https://youtu.be/ePj0m6H2sAo",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "0:00 Intro 0:31 Dibbly Create 2:16 KDP Community: The 70% eBook Royalty Option price band has expanded to $2.99\u2013$12.99 4:15 Kindlepreneur: How to Fill in Your 7 KDP Keyword Boxes 5:05 Kindlepreneur: How to Find Amazon Book Categories Most Authors Miss 5:48 The Authors Guild: Publishing Scam Alerts 7:24 Laterpress: Collaborative Writing with the Enhanced Laterpress Assistant 8:18 Voices by INAudio:"
-  },
-  {
-   "cat": "resellers & second-hand",
-   "video": "Should I Sell on Vinted?  Open Reseller Discussion about this Growing Platform",
-   "url": "https://youtu.be/y6yhzqP4iUo",
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
+   "url": "https://youtu.be/d9c5gloGPMU",
    "signals": [
     "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "I have a 2 fold strategy with Vinted. I source for my whatnot shows and manually list lower value items or my own pieces over there. I also use Nifty and wish they were integrated. I have a separate bin for just vinted inventory."
+   "text": "2:50 The only issue I\u2019m seeing is managing logins. I hate having to take over the agents computer every 10 seconds."
   },
   {
-   "cat": "photography & video",
-   "video": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
-   "url": "https://youtu.be/CHHH8tNioSc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Is there a way to keep audio consistent across multiple generations? the character voices and all."
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Make Insane Motion Graphics With Opus 5.5",
-   "url": "https://youtu.be/747ZnEtsRbg",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "is there a way to get the files to be editable in f.e. premiere pro or after effects to make the final changes in there?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Tella only allows one camera. What would you recommend for a three camera set up? Is there a software you would use?"
-  },
-  {
-   "cat": "creators & sellers",
-   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
-   "url": "https://youtu.be/_r6_rs-MbQk",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "How do you upscale images for Amazon starting from the 1254 px output generated by ChatGPT Images? What tool do you use to reach 3000 px, or what final resolution do you typically use for Amazon listing images? Thank you"
-  },
-  {
-   "cat": "creators & sellers",
-   "video": "I Replaced EVERY Amazon Software Tool with Claude AI",
-   "url": "https://youtu.be/_r6_rs-MbQk",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Thanks for the video. Does your MCP also support the EU, UK, Canada, Australia, and Japan marketplaces, or only the US?  Also, is it possible to retrieve ANY information that can normally be downloaded from Amazon reports, including all advertising reports, Brand Analytics data, business reports, fulfillment data, and similar reports?  One final question: assuming I have already built my own tool "
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
-   "url": "https://youtu.be/y41CRIVzSoI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.91,
-   "likes": 4,
-   "text": "Never trusted AI detectors because they are massively flawed and Panscam is just as flawed. I'm not going to dumb down my writing to appease that snake oil salesman Max Spero and his scam. Let the reader decide if it's good or trash, not some software. Like you mentioned, we've been doing this for years without Panscam."
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "Amazon Terminated Her KDP Account. Now What? | Self-Publishing News (Oct. 1, 2026)",
-   "url": "https://youtu.be/vEe2oKXCFuA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.91,
-   "likes": 4,
-   "text": "0:00 Intro 0:33 Novel Report 2:17 The Holiday Season Makeover Challenge 2:59 Ruthanne Reid: Amazon just deleted my KDP account 4:27 Dale L. Roberts: KDP Appeal Rejected? You Still Have Options 5:23 Draft2Digital Announces Ebook Preorder Sales Now Available at the Smashwords Store 6:15 Ingram Finds Success in AI Rollout 7:53 Writer Beware: How Those Personalized Generative AI Scam Emails Are Built "
-  },
-  {
-   "cat": "resellers & second-hand",
-   "video": "Everyone Wants an eBay Alternative\u2026 Until This Happens",
-   "url": "https://youtu.be/6dpkmXEwK90",
+   "cat": "AI tools & agents",
+   "video": "The Biggest Launch Since ChatGPT (Muse)",
+   "url": "https://youtu.be/1LRvMRC_pfY",
    "signals": [
     "result_report"
    ],
    "score": 3.58,
    "likes": 3,
-   "text": "Vinted is generally awesome. And really, people being cheap on there isn't the biggest deal... the one huge negative about Vinted and Depop is offers are not binding at all. I get tons of offers on those and and half the people never pay... I can live with lower offers, but deadbeats who make offers now that is a frustrating waste of time."
+   "text": "Are people THAT busy that they need AI to organize their lives?  The data centers that are being built for these AI assistants are NOT worth it."
   },
   {
-   "cat": "writing & publishing",
-   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
-   "url": "https://youtu.be/y41CRIVzSoI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.58,
-   "likes": 3,
-   "text": "For an experiment, I typed in a page from a Sanderson novel, and the Substack AI detector said it was only 55% Human. There is no way that can be true. Sanderson does love his em dashes, so that's probably why. AI detectors are a scam, and all writers hurt by them need to sue!"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "AI tools & agents",
+   "video": "Muse is Amazon\u2019s Worst Nightmare",
+   "url": "https://youtu.be/qCQe5tLxmw0",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "Claude is proud of you, kid\u2014you pulled off a scam by claiming it could run on the free version, when in reality, it requires payment."
+   "text": "Sounds like too many things are getting in between the sellers and the buyers.  Which drives up cost. Am I missing something?  It just seems like the greedy are fighting over who gets to scam people more, to manipulate them for more money they don't need."
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
+   "cat": "AI tools & agents",
+   "video": "How To Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)",
+   "url": "https://youtu.be/4LwtuscILlc",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Bro your credits are not able to redeem seems like just a. Scam"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "I'm curious about what happens when something doesn't work and the client expects you to fix it, like a glitch or something"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+   "url": "https://youtu.be/LM7Ft7g8qJw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Not feeling you on this one, humanity comes first, not this tyrannical scam."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
+   "url": "https://youtu.be/NhqSuQPPvbg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "Welcome to the normie version of the Tate brothers BS, \"bro you're a brokie! now come to dA REaL woRLd where REAL entrepreneurs will teach YOU how to become a scam... errr I mean a BILLIONAIRE selling SIDE HUSTLES!\". This is all so tiresome."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "11 Grok Bot Use Cases That Feel Like Cheating",
+   "url": "https://youtu.be/5CSXUsljJ_E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "This is a real waste of time and energy."
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "Fix Your TV with a USB Cable and Phone App",
+   "url": "https://youtu.be/CQcgmchuNYE",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "It's doesn't work on phone?"
+   "text": "Netflix intro paused at early frames. The rest just scam from microsoft tech. \ud83d\ude02"
   },
   {
-   "cat": "writing & publishing",
-   "video": "Why Smart Authors Aren't Worried About AI",
-   "url": "https://youtu.be/_eCckkUWYDk",
+   "cat": "smart home & gadgets",
+   "video": "Fix Your TV with a USB Cable and Phone App",
+   "url": "https://youtu.be/CQcgmchuNYE",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "For writing, I prefer Claude Projects in the primary system. While the formal automations in all their forms are great for scientific tasks like programming or creating documentation, the ecosystem is fundamentally different. Also, the process of writing is different. With the primary system project, you form a history and working relationship with the models that has more or less become seamless "
+   "text": "What if the model of my tv isn't on that list? AAAAND.. I have around 8 \"old\" phones with this problem, the would function but the display doesn't work on them anymore, so is there an solution to that too????"
   },
   {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
+   "cat": "smart home & gadgets",
+   "video": "\ud83e\udd2f \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0b99\u0bcd\u0b95 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0bbe \ud83d\ude31 iPhone Type-C Problem! #shorts",
+   "url": "https://youtu.be/1bBS5MQcQx4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "\ud83c\udf4ewaste of money,worthless except performance and camera,no features, simply waste.  Android is best and full freedom and features with budget friendly"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Meta Muse is an INCREDIBLE AI agent",
+   "url": "https://youtu.be/Wod_A8xIy4E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "First of all, I think Instinct is not worth the time for anyone.  That being said, I do think Muse is really good in certain situations. For example, I have it filtering my personal Gmail account and when a new email sender comes in that I don\u2019t want. I just tell Muse and it runs every hour of the day and, last weekend, I was on a road trip to Columbus, Ohio and I told Muse I\u2019m looking for a hotel"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+   "url": "https://youtu.be/LM7Ft7g8qJw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "No, it's not worth it. Just wait and the free versions, from multiple companies, will come. And soon."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "The EASIEST AI Side Hustle To Start Today (Copy This)",
+   "url": "https://youtu.be/NhqSuQPPvbg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "this is the same thing we called a pryamid sceme back in the game it doesnt matter the shape its top teir makes money suckering people to buy into their teaching you how to make money ,then as the teirs go down you dont have anyone to pitch to,,,the starters make a fortune then they sucker you in,you pitch to family friends to get people under you so you can make money,its all a huge scam,,,dont b"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "11 Grok Bot Use Cases That Feel Like Cheating",
+   "url": "https://youtu.be/5CSXUsljJ_E",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "The mindless AI spin never ends.   AI has no \"intelligence\".   It's just an LLM.  It can't verify its own results,  it has no logic or deduction capability,  it\u2019s not trusted in law or medicine,  it\u2019s only right 50% of the time,  and it can hallucinate.  It added glue to a pizza recipe, it said the word Google had 2 \"p\"s,  it said we should eat rocks for vitamins and minerals.   It's the biggest s"
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "Fix Your TV with a USB Cable and Phone App",
+   "url": "https://youtu.be/CQcgmchuNYE",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What is the name of the app"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
+   "url": "https://youtu.be/d9c5gloGPMU",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "i try this OmniRoute , after new version i did upgrade and never worked (3+ upgrades now ) , never backup restore bd worked, i forsed 3+ times to setup and setup all api keys manually! now some days after that , when try test apis that all good, are all red !!! some issues but with all api ? i use freellmapi and not have all these errors and upgrade works."
+   "text": "Grok is changing my life.  Period.  I now have access to all things Excel.  I ask for what I need and it\u2019s literally done in 3 min.  Grok is answering my emails. Merging files with my input and getting it all done while I\u2019m making coffee.  WTF.  I am just at the very beginning and I\u2019m super excited about it. Oh and she books my flights dinner reservations and hotels. All the things I hate doing an"
   },
   {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to download the 10 free AI tools?"
-  },
-  {
-   "cat": "fashion & clothing",
-   "video": "I made her a wardrobe\ud83d\udc57 #shorts #couple #relationship #codeflying",
-   "url": "https://youtu.be/ppI_7LRAoa4",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "WHAT IS THIS APP I NEED IT"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
-   "url": "https://youtu.be/hffQ4UleKUU",
+   "cat": "AI tools & agents",
+   "video": "How to Build a One Person AI Business (Using Claude Code)",
+   "url": "https://youtu.be/LVAHYV4Xrto",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Thank you! I have been stalling my channel for the last 2 years. You are a life saver. Editing takes forever. I use Claude every day as a developer but never thought you could do that with claude."
+   "text": "Hi, hopefully someone can help me with this question, which I'm struggling to find an answer: Let's suppose you built an automation to sell it to a company. After the sale, how do you make the company use your automation: Is it through an installed software, web link? Thanks for all the help."
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
-   "url": "https://youtu.be/2OwMjg5As2g",
+   "cat": "AI tools & agents",
+   "video": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
+   "url": "https://youtu.be/jVOk8oc-a70",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "does anyone know how you can create the captions used in this video? such as the liquid glass speech bubble?"
+   "text": "What tool do you use to change your background please?"
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
-   "url": "https://youtu.be/2OwMjg5As2g",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there any way that I can get higgsifield I have no credit card and I am in Ethiopia and I am 15 years old. If there is any way pls help me out \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
-   "url": "https://youtu.be/AsvN_feasyY",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Does anyone know why \"motion\" doesn't appear in my artifacts?"
-  },
-  {
-   "cat": "resellers & second-hand",
-   "video": "How I Store Thousands of eBay Items Without Losing Anything",
-   "url": "https://youtu.be/DM9v4dEaxqM",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to increase the volume of items when you\u2019re new without purchasing a store ?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Use Google Flow (Step-by-Step Tutorial)",
-   "url": "https://youtu.be/0vQ7UEe7rLg",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to use effects between scenes?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
-   "url": "https://youtu.be/RaxX_Q7Apj0",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Hi! Liked the idea. Is there any way to automate the clips making process like you did for photos?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "It wont edit my final cut property videos where I might have say 10 different versions of a clip but i choose the very best cuts manually?  how can i know this level of picky?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to connect Claude or Codex to Premiere Pro so that I can still add some personal touches to the video?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Create Stickman Animation with AI 100% FREE",
-   "url": "https://youtu.be/H8FAaKeCguA",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Honest question: do people actually prefer stickman animations over cinematic motion comics?  I write my own WHAT IF stories with satire and dark humor, but I'm struggling to find an audience. Is it the format, pacing, or storytelling?  I'd love some honest feedback from people who enjoy this genre. What makes you click away from an animated story?"
-  },
-  {
-   "cat": "creators & sellers",
-   "video": "Fastest Way to Make 100 Print on Demand Products",
-   "url": "https://youtu.be/otG_z8u9K-4",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to get the mockup generator to mockup your shirts  if your doing physical and not POD ?"
-  },
-  {
-   "cat": "creators & sellers",
-   "video": "Easiest Way to Start A.I. Print on Demand in 2026",
-   "url": "https://youtu.be/-dOMKhDYo3c",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "23:42 can I use my own psd mockup in listing view? this basic free mockup I used  for years always worked but I manually place the graphics in there it takes time. was hoping I can just load up design files and do multiple mockup images together."
-  },
-  {
-   "cat": "music & podcasting",
-   "video": "Can The OBSBOT Talent 2 Replace An Entire Podcast Studio?",
-   "url": "https://youtu.be/jHrwNtdjbXg",
+   "cat": "AI tools & agents",
+   "video": "You\u2019re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
+   "url": "https://youtu.be/Bm84BAtOfQw",
    "signals": [
     "wish_build"
    ],
    "score": 2.0,
    "likes": 0,
-   "text": "That\u2019s cool I wish I could afford one for my set up"
+   "text": "Thank you for this video, Dan. I've had a blast playing around with Claude this last week. It means a lot hearing that I'm ahead of the curve by embracing AI automation. I just can't seem to get over my crippling fear of failure. I wish I could apply what I've been told."
   },
   {
-   "cat": "writing & publishing",
-   "video": "How to Find UNTAPPED Amazon KDP Keywords in Seconds Using AI",
-   "url": "https://youtu.be/fPnFZ3eoJGI",
+   "cat": "AI tools & agents",
+   "video": "11 Grok Bot Use Cases That Feel Like Cheating",
+   "url": "https://youtu.be/5CSXUsljJ_E",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I wish it could connect to Yahoo mail"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)",
+   "url": "https://youtu.be/ZvDkJsKE80k",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Awesome way to create value quickly and reduce waste of time and money! Thanks for the great video Sean."
+   "text": "The clueless fools don't get it.   Do your research.   Ai has no autonomy or self volition.  It has no \"intelligence\".   AI can't verify itself.  It has no logic or deduction capability,  it can\u2019t \u201cdo\u201d maths,  it\u2019s not trusted in law or medicine, and it can hallucinate.  AI added glue to a pizza recipe,  it said we should eat rocks for minerals and vitamins,  it didn\u2019t know how many letters \u201cr\u201d we"
   },
   {
-   "cat": "writing & publishing",
-   "video": "\u201cI Can\u2019t Afford to Self-Publish\u201d \u2014 Yes, You Can",
-   "url": "https://youtu.be/X4vHkh6WDZY",
+   "cat": "smart home & gadgets",
+   "video": "Fix Your TV with a USB Cable and Phone App",
+   "url": "https://youtu.be/CQcgmchuNYE",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "When you said, what's the name? What's the term? My mind instantly said scam, and then you said it. L o l"
+   "text": "Can you help me to fix the LG Magic Remote, the ON amd OFF button doesn't work"
   },
   {
-   "cat": "creators & sellers",
-   "video": "Amazon Influencer Product Research! (Complete A to Z Masterclass)",
-   "url": "https://youtu.be/luCuSzRfbIQ",
+   "cat": "smart home & gadgets",
+   "video": "Fix Your TV with a USB Cable and Phone App",
+   "url": "https://youtu.be/CQcgmchuNYE",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "What are your thoughts on thumbnails for Amazon review? Effective? Waste of time? Similar approach to YouTube or different?"
+   "text": "I have tried it, it doesn't work for Samsung here in Germany!"
   },
   {
-   "cat": "creators & sellers",
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
+   "url": "https://youtu.be/d9c5gloGPMU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Getting the x account suspended  and lose it is not worth it."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "Grok Bot Is Only $20 Now. Here's What They're Not Telling You",
+   "url": "https://youtu.be/d9c5gloGPMU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "not worth it. Even while using the paid plan, the number of mistakes and lag, i'd barely call it a beta; they should be ashamed of presenting such a service"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "These Are the Best AI Tools in 2026",
+   "url": "https://youtu.be/aPSbZbOzB4s",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "These companies puts out some awesome models, and keeping chasing the best one IMHO is a waste of time. If you keep switching between models they never learn well, and benchmark numbers tells you nothing because they are not based on YOUR tasks.  I choosed to keep gpt as my main assistant and then I eventually use the other models for their strength as needed."
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "The Easiest Way to Make Money With AI Right Now",
+   "url": "https://youtu.be/22Jpzt683jw",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Input in the code SUPPORT but it did not work \ud83d\ude22"
+  },
+  {
+   "cat": "AI tools & agents",
+   "video": "The $1,000/hour Solo AI business (Full Course)",
+   "url": "https://youtu.be/dhbcVxYhWaQ",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "52:49 emergency offer or limited offers as an Australian.. will likely be a scam. As I am seeing more Australia and America have massive attitude gaps with their buy and sell systems. I.e your potential clients because you were helping them would not work in many Ozzy businesses they just ask you for help :/"
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
+   "url": "https://youtu.be/4MOieRaYqRY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "NOTHING IS REALLY TRYING TO SCAM PEOPLE THEY INCREASED THEIR PHONE PRICES BY 5 TO 10 K IN INDIA BY THE NAME OF PRICE HIKE , I MEAN LIKE HOW CAN RAM AND STORAGES CAN BE SO SO SO EXPENSIVE IN JUST FEW MONTHS"
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
+   "url": "https://youtu.be/4MOieRaYqRY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "6 Gen 4 doesn't deserve a price tag of more than $150. It's a scam to loot naive customers \ud83d\ude02\ud83e\udd23"
+  },
+  {
+   "cat": "smart home & gadgets",
+   "video": "NEW Nothing Phone (4b) has a PROBLEM\ud83e\udd14",
+   "url": "https://youtu.be/4MOieRaYqRY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Bro really,  Nothing phone 4b\u274c\ufe0f\u274c\ufe0f\ud83d\udca9 \ud83d\udca9 \u2705\ufe0f\u2705\ufe0f UFS 2.2, prosasor 6s  Gen 4, And  with out Optikall lens or Taliphoto lens in this price segment ( 30k -35k ).. Build quality \ud83d\ude33 Cheap plastic.. in This price segment Outher Brand can provide Best options,  like performance or camera... Anyone Who probably Think To Buy This Phone After seen this reel soo please Don't Buy This Phone and not wasted you money."
+  },
+  {
+   "cat": "AI tools & agents",
    "video": "The Best AI Side Hustles To Start If You're BROKE",
    "url": "https://youtu.be/8NvhbfZNTrc",
    "signals": [
@@ -453,257 +475,70 @@
    "text": "Love you love your videos, thanks for putting this content out there.  I want to start now, October 2026, and want to get REALLY clear on YouTube\u2019s terms and conditions now about monetization, and AI content especially. I\u2019ve heard YouTube has removed earning possibilities from many niches and types of videos. Could you pls tell us if all this still works? Scared of putting so much effort into some"
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "AI tools & agents",
+   "video": "Making $$$ with Grok Bot",
+   "url": "https://youtu.be/qQluNEfSVHk",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "It seems like in phone the Amazon KDP page doesn't work"
+   "text": "So what are the business IDEAS that make all this money?  You never talk about good ideas, only what happens when you get and use the agents.  Waste of time."
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "AI tools & agents",
+   "video": "Making $$$ with Grok Bot",
+   "url": "https://youtu.be/qQluNEfSVHk",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I tried at least for me did not work. Even did funnels and ads and nothing."
+   "text": "Why this guy sound like he is trying to scam people?"
   },
   {
-   "cat": "creators & sellers",
-   "video": "EASY Amazon Side Hustle Selling Ai Coloring Books (HOW TO START NOW) ",
-   "url": "https://youtu.be/2TnzXTzJ-N4",
+   "cat": "AI tools & agents",
+   "video": "Making $$$ with Grok Bot",
+   "url": "https://youtu.be/qQluNEfSVHk",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "First Genspark forced me to pay for a subscription, then created a book with error, tried uploading the book and guess what? It didn't work. Error processing interior\r \r Interior file \"Bible Animals Coloring Book.html\" ........"
+   "text": "What a waste of time. Get Intuit tell us how we can use it. Tell us something useful. I don\u2019t wanna know about that color friggin icon."
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "What am i missing. Does not work on my mac I have both claude and capcut installed locally but claude says it can not do this ??"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Yeah I dont know if this works at all  but it doesnt work on PC"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
-   "url": "https://youtu.be/5N1moUCsVhI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I have installed capcut and claude on my pc but it doesnt work. Is there a missing part i ned to setup to link both?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-   "url": "https://youtu.be/HzXD4GVqXwM",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "doesn't work for me, on the stage of setup"
-  },
-  {
-   "cat": "fashion & clothing",
-   "video": "The tech girlies made an app JUST like Chers clueless closet\ud83d\ude0d #ootd #fitcheck #fashiontrends #style",
-   "url": "https://youtu.be/Cx-62KSO94Y",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "is the link scam or like virus i just dont trust links sorry Xx also is it available in the uk?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
-   "url": "https://youtu.be/2OwMjg5As2g",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.78,
-   "likes": 4,
-   "text": "Where can I find the motion prompts skill?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "where can i get github links i have been in community since 2 months but the link in community directly navigating to youtube please help me out"
-  },
-  {
-   "cat": "photography & video",
-   "video": "Free AI Tools So Good They're Making Paid Versions Obsolete",
-   "url": "https://youtu.be/QucgvbO5gsM",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "OpenGenerative AI Where can I find the key?"
-  },
-  {
-   "cat": "writing & publishing",
-   "video": "AI Tools Ranked Round 2: Learning, Video, Design, Productivity",
-   "url": "https://youtu.be/JS78u9kC-84",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "Where can I find your follow ups? I write the code words but I don\u2019t receive anything???"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Make Insane Motion Graphics With Opus 5.5",
-   "url": "https://youtu.be/747ZnEtsRbg",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.51,
-   "likes": 1,
-   "text": "Great film, I have one question Where can I find that python prompt 6:50 ? I don't see that on X"
-  },
-  {
-   "cat": "resellers & second-hand",
-   "video": "Work with me VLOG | I'm Changing EVERYTHING | New Inventory System",
-   "url": "https://youtu.be/lXXVIC8RNgs",
+   "cat": "AI tools & agents",
+   "video": "I tested 50+ AI Tools, here's What I'd actually use to Make Money",
+   "url": "https://youtu.be/4vx3oSMFsJk",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "Can you share the link to purchase the same hanging racks? I would love to have those in my personal closet."
+   "text": "Can you share the link of the black metal track behind you?"
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
-   "url": "https://youtu.be/2OwMjg5As2g",
+   "cat": "AI tools & agents",
+   "video": "Making $$$ with Grok Bot",
+   "url": "https://youtu.be/qQluNEfSVHk",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "umm, where can I download the motion skill md??"
+   "text": "i'm building a local newsletter as well. Where can I get a deeper dive on setting it up? like actually step-by-step. Also, he didn't really cover how to make the content enough."
   },
   {
-   "cat": "photography & video",
-   "video": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
-   "url": "https://youtu.be/2OwMjg5As2g",
+   "cat": "AI tools & agents",
+   "video": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
+   "url": "https://youtu.be/jVOk8oc-a70",
    "signals": [
     "link_ask"
    ],
    "score": 0.3,
    "likes": 0,
-   "text": "where can I get a copy of the \"Motion Prompt Skill\"?  Seems like an important piece of info."
-  },
-  {
-   "cat": "photography & video",
-   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
-   "url": "https://youtu.be/AsvN_feasyY",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "where can i get the flim skill md?  is it the paper flim skill?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
-   "url": "https://youtu.be/RaxX_Q7Apj0",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "Where can I find the file?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
-   "url": "https://youtu.be/RaxX_Q7Apj0",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "Where can i get the material sources?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
-   "url": "https://youtu.be/_9YXliQTAkg",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "That's a great sharing. Where can I get your guide?"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Create Stickman Animation with AI 100% FREE",
-   "url": "https://youtu.be/H8FAaKeCguA",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "Mark AI Guy Amazing videos. where can i find the prompt"
-  },
-  {
-   "cat": "photography & video",
-   "video": "How to Create Stickman Animation with AI 100% FREE",
-   "url": "https://youtu.be/H8FAaKeCguA",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "Where can i get the master prompt?please.."
-  },
-  {
-   "cat": "creators & sellers",
-   "video": "Newly Crafted: What\u2019s New At Etsy? | Etsy Up 2026",
-   "url": "https://youtu.be/QymLKY9dAPg",
-   "signals": [
-    "link_ask"
-   ],
-   "score": 0.3,
-   "likes": 0,
-   "text": "Where can I find AI stats assistant??"
+   "text": "Where can I find someone to help me with my business? I need someone from Vietnam a\u0219 they very smart"
   }
  ]
 }
