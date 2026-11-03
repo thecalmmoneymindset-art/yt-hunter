@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-02
-Keyword groups today: health & fitness, pets | countries: gb, us
+# App Store review report — 2026-11-03
+Keyword groups today: study & work, hobbies & collecting | countries: gb, us
 Fetch errors: none
 
-## health & fitness
+## study & work
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2386989 | 4.71363 | Free | 27 | 8 |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 475344 | 4.70395 | Free | 33 | 14 |
-| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390849 | 4.74153 | Free | 42 | 28 |
-| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1050337 | 4.8289 | Free | 11 | 1 |
-| [ShutEye®: Sleep Tracker, Sound](https://apps.apple.com/us/app/shuteye-sleep-tracker-sound/id1490078804?uo=4) (us) | 350297 | 4.76424 | Free | 38 | 19 |
-| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532156 | 4.84612 | Free | 16 | 8 |
-| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 770362 | 4.94724 | Free | 7 | 3 |
-| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432892 | 4.90794 | Free | 11 | 2 |
+| [Google Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729?uo=4) (us) | 2395838 | 4.7267 | Free | 3 | 0 |
+| [Indeed Job Search](https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4) (us) | 4106983 | 4.78606 | Free | 38 | 11 |
+| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1071001 | 4.71017 | Free | 29 | 14 |
+| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 466895 | 4.71814 | Free | 31 | 13 |
+| [Glassdoor | Jobs & Careers](https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=4) (us) | 790788 | 4.76607 | Free | 31 | 10 |
+| [Notability: AI Notes & Planner](https://apps.apple.com/us/app/notability-ai-notes-planner/id360593530?uo=4) (us) | 458519 | 4.76072 | Free | 33 | 16 |
+| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 663939 | 4.83934 | Free | 19 | 5 |
+| [ZipRecruiter Job Search](https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4) (us) | 594598 | 4.86501 | Free | 16 | 3 |
 
-Repeated complaint phrases: used to love (5); pay for subscription (3); me to pay (3); ve been using (3)
+Repeated complaint phrases: want to use (3)
 
-- MyFitnessPal: Calorie Counter, 1 star: "New look - This new updated look is a lot less user friendly and there seems to be less features even on a premium account it feels like features are missing"
-- BetterSleep: Relax and Sleep, 1 star: "Greedy app - I’ve had this app for years and a lot of sounds used to be free. Now you only get three free sounds, crazy. The developers got greedy."
-- MyFitnessPal: Calorie Counter, 1 star: "iPad View - Free Version - Recently something changed with the oversized ads. You cannot full see you meal selections. Unusable - Muse ad obnoxious"
-- MyFitnessPal: Calorie Counter, 1 star: "YET ANOTHER update THAT SUCKS - CAN YOU PLEASE GET RID OF THE COLUMNAR LAYOUT IN iPAD OS, OR AT LEAST REINSTATE THE OPTION TO DISMISS? MORE STUPID "ITERATION!" Again and again, useless changes "for the sake of change," annoying and CONSTANT alterations to the UI for no discernible (to USERS) reason."
-- MyFitnessPal: Calorie Counter, 1 star: "Sucks worse now than ever - I came back to this app after using it years ago, and it sucks now. When I log food, it forgets half of the entries and I have to go back and enter it again. Nearly everything I touch includes an annoying popup to buy Premium. It’s not what it used to be, and I’ll be swit"
-- MyFitnessPal: Calorie Counter, 2 star: "Doesn’t open/load - I used to love this app, but now the app just doesn’t open or load for me anymore. I’ve tried uninstalling it and re-logging in, but nothing works unfortunately I will have to switch to a different app."
+- Indeed Job Search, 1 star: "INFORMATION LEAKED AND GHOST JOBS/ SCAM JOBS EVERYWHERE. - YOUR INFORMATION WILL BE LEAKED. since joining indeed all i’ve been shown are jobs that will not hire, they some how have leaked all of my information put in and continue to get an abundance of spam and scam bots trying to get ahold of me. y"
+- Glassdoor | Jobs & Careers, 1 star: "Actually ZERO STARS - Why does this app require my phone number? This app is a nice idea but it’s a nonessential part of my life. Making it more invasive to use means that I don’t really need to use it at all and won’t be missing anything."
+- Glassdoor | Jobs & Careers, 2 star: "Linkage to Indeed not optional - I can no longer login to Glassdoor without linking my account to Indeed. I don’t want to use their services. They leak data and support job search scams"
+- Glassdoor | Jobs & Careers, 1 star: "Horrible Update - I used to really enjoy Glassdoor. But this recent, AI-centric approach has ruined the experience for me. Not even because it’s “AI”, just because of how they executed. Too many things, like putting in “desired job title” is now REQUIRED. Hey, Glassdoor? Not everyone is set on what "
+- Glassdoor | Jobs & Careers, 1 star: "Impossible to navigate - The new UI is impossible to scroll and skim job ads. I cannot figure out how to do anything I want on here anymore, I get stuck in all these screens looking for feedback"
+- Glassdoor | Jobs & Careers, 1 star: "Terrible website - Sadly this website is now useless. My profile is destroyed, my reviews have been lost, can’t get help, can’t add a new review, can’t add a new salary… can’t do much of anything anymore!"
 
-## pets
+## hobbies & collecting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 163821 | 4.62355 | Free | 20 | 12 |
-| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1237504 | 4.91077 | Free | 6 | 1 |
-| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 103050 | 4.71373 | Free | 19 | 4 |
-| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 509256 | 4.85886 | Free | 10 | 3 |
-| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 515778 | 4.88523 | Free | 44 | 6 |
-| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 67642 | 4.76454 | Free | 27 | 3 |
-| [AllTrails: Hike, Run & Walk](https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943?uo=4) (gb) | 65651 | 4.84466 | Free | 11 | 5 |
-| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 78877 | 4.92976 | Free | 9 | 2 |
+| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119572 | 4.58549 | Free | 23 | 13 |
+| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 614079 | 4.82815 | Free | 32 | 5 |
+| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 326516 | 4.78658 | Free | 18 | 5 |
+| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 76517 | 4.66166 | Free | 25 | 9 |
+| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114450 | 4.75373 | Free | 25 | 10 |
+| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 150405 | 4.81148 | Free | 4 | 1 |
+| [AnyList: Grocery Shopping List](https://apps.apple.com/us/app/anylist-grocery-shopping-list/id522167641?uo=4) (us) | 81291 | 4.86435 | Free | 4 | 0 |
+| [Collectr - TCG Collector App](https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?uo=4) (us) | 69201 | 4.88343 | Free | 16 | 5 |
 
-Repeated complaint phrases: pay for background (4); bug after bug (3)
+Repeated complaint phrases: used to love (3); trying to charge (3)
 
-- AllTrails: Hike, Run & Walk, 2 star: "Purposefully blocking loaded maps - I don’t use the app frequently enough to warrant a subscription. Over the years I have navigated with AllTrails, I haven’t had any issues with disruption to my data - the map loads when there is a signal and stays loaded. Or at least, it used to. In what appears t"
-- Chewy - Pet Care & Pharmacy, 1 star: "Auto-subscribe not available - Made a $700 order that kept crashing on webpage when I tried to complete payment.  Items are not listed by final price on final page, just one number for total order.  Switched to app and then told “auto-subscribe is not available.”  Forty dollar difference is huge."
-- Rover – Pet Sitters, 1 star: "Terrible customer service - I was a rover sitter but unfortunately and unfairly had my rover account closed. I am a 5 star sitter and they refused to provide me any information for closing my account. Their customer service has been of no help at all and have refused to reactivate my account. I’m so"
-- Rover – Pet Sitters, 1 star: "Dont download scam and dont pay for background check - Paid 40$ for background check and no business even with a good profile dont download unless u want to loose 40$"
-- Rover – Pet Sitters, 2 star: "It’s not just annoying this app seems CONCERNING for YOUR PETS SAFETY - Where do I start? Maybe first the fact that there’s a day option for dogs but not cats?? Seems kinda stupid. I mean, on the website on Google it seems you can drop them off at any given time “per night”, but on the current app I"
-- Rover – Pet Sitters, 2 star: "Lost my trust - Rover lost my trust after our dog was abandoned by two separate Dog Sitter’s for overnights. Then Rover was unresponsive with their emergency support people transferring us around the company and no one picked up the phone. This caused us deep, emotional stress and consternation as o"
+- Phase 10: Casual Card Game, 1 star: "Scam - This game is garbage it started me over after playing for weeks. I was almost finished with the Halloween event. I lost everything on this trash game"
+- Phase 10: Casual Card Game, 2 star: "Can’t win - When it takes an average of 4 or 5 tries to get through each level, it’s no longer fun. You don’t even have to win to get through the level, but I can’t even get through most of them in less than 3 tries, usually more. I’m stuck on a level now, about to go for my 7th attempt. I also star"
+- Phase 10: Casual Card Game, 1 star: "Slow - I used to love this game, but it’s like this level. Everything is so slow."
+- Phase 10: Casual Card Game, 1 star: "Scam - It’s rigged so bad to make you lose."
+- Phase 10: Casual Card Game, 1 star: "Pay to win past level 15. SCAM - Exactly as my title says. You play against AI and cannot pass level 15 without buying a bunch of power ups. Waste of time energy and space in our world."
+- ReciMe: Recipes & Meal Planner, 2 star: "Don’t waste your money - This is a very expensive App, compared to other comparable Apps, and grossly underperforms. So many of the functions that are touted simply do not work. Specifically, trying to save from a website; only a partial recipe transfers or the instructions are left off the transfer"
