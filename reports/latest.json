@@ -1,963 +1,302 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "rows": [
   {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
+   "cat": "personal finance & admin",
+   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
+   "url": "https://youtu.be/eAfufDq6Sas",
    "signals": [
-    "result_report"
+    "would_pay"
    ],
-   "score": 10.24,
-   "likes": 338,
-   "text": "I have been saying PSA is a scam for years since I found out the same card easily gets different grades and how much its value goes up."
+   "score": 14.42,
+   "likes": 44,
+   "text": "9999 for a noise product is very expensive. 4999 is the max i will pay"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Turned a Plastic Bottle Into Filament for My Bambu Lab Printer!",
-   "url": "https://youtu.be/93P_Neh2eyE",
-   "signals": [
-    "result_report"
-   ],
-   "score": 9.42,
-   "likes": 196,
-   "text": "It works. The material is PET, without the G, so it is a lot less flexible that PETG, and you need to make sure the hotend you run the strip through is 1.7 mm. Then you print it at 40-50 mm/s and 260 C. I made a dozen Xmas trees for led candles out of green bottle plastic, but honestly it is not worth the time and effort compared to just buying a roll of PETG. Also splicing the strands together is"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 8.3,
-   "likes": 92,
-   "text": "It's almost like this whole grading system is a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.67,
-   "likes": 60,
-   "text": "Glad you covered this. I used to send cards in to PSA. After my 8th card getting shit grades, because I paid the bottom dollar, I realized it's a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
+   "cat": "personal finance & admin",
+   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
+   "url": "https://youtu.be/uS6BrQrBiGo",
    "signals": [
     "manual_pain"
    ],
    "score": 7.36,
    "likes": 6,
-   "text": "Great breakdown, especially the part about the free model needing 5 tries on the sound mix. One thing I'd add for anyone following along: once the render is done, any small fix (a caption timing, a volume dip, a shot that runs long) means another full run. I've been pairing this kind of workflow with AlaukCut, a CapCut-style editor where Claude connects directly to the timeline, no terminal needed"
+   "text": "I had a CRIQA for a month and I ended up returning it, I use an Applewatch ultra 2 for my trainings and really wanted to start using garmin or being inside the garmin ecosystem with the CIRQA, hwever for training , even though it is true it gives you a lot of data , it is not able to pick one single training automatically. I run, swim, do hyrox and strength training, and I had to start every singl"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "cars & motoring",
+   "video": "Car Simulator : Driving School - Trailer (PS5 & PS4)",
+   "url": "https://youtu.be/zKt8sqyA08g",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.03,
+   "likes": 39,
+   "text": "Genuinely it's not worth it for 20$"
+  },
+  {
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "Is there a way y\u2019all could keep the annotations as vectors when annotation PDFs?"
+  },
+  {
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.25,
+   "likes": 2,
+   "text": "is there a way to use any third party syncing services like nextcloud via webdev?"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
+   "url": "https://youtu.be/uS6BrQrBiGo",
    "signals": [
     "would_pay"
    ],
-   "score": 6.3,
-   "likes": 2,
-   "text": "As an Indiana fan I would buy in an instant"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 6.07,
-   "likes": 20,
-   "text": "PSA crossover is possibly the biggest scam in grading."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Sliced Pitch Black Pokemon Card ETBs",
-   "url": "https://youtu.be/ToR6oMhxAa0",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 5.89,
-   "likes": 6,
-   "text": "aaaah i wish i had a genie , scalpers would get a funny wish"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "goes to show the scam that grading is. the downtown was clearly off centered and still got a 10."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "My husband plays Magic The Gathering, specifically \"premodern\" which uses cards from a specific printing era. These cards can be worth thousands of dollars. He has a jewelers loop so he can verify he hasn't been sold a fake. He's also gotten a few expensive cards that ended up being a little more beat up than shown in the pictures. It's insane how these cards, these cardboard pieces, are worth so "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
+   "score": 5.08,
    "likes": 1,
-   "text": "Hey you just created about 1 minute long video and that took 70% of memory  after hitting 100% even if u open opencode in different folder it will say u ran out of memory coem back X hours later for ur session etc. Is there a way to use it nonstop?  CAN ANYONE HELP."
+   "text": "I really REALLY want to love my Fitbit air as I think the premium AI coach is awesome but I have had mine for 4 months now and it does everything great, except my HRV which I get a flat 300ms most nights and so it thinks my range is 270-310 and when it does drop down to an equally unlikely 150 It tanks my readiness score.  I have tried resets clearing data, repairing it and have just got it back f"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "CGC Head Grader REVEALS the TRUTH About Card Grading",
-   "url": "https://youtu.be/VeRZ3DiSOaQ",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Does anyone know what the best Canadian card grading company would be?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "CGC Head Grader REVEALS the TRUTH About Card Grading",
-   "url": "https://youtu.be/VeRZ3DiSOaQ",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.19,
-   "likes": 5,
-   "text": "So if I do all that hoopla and I do all the  necessary steps and I think I have a 10 and I ship it off for grading\u2026 who\u2019s to tell me the grader, when he takes the card out of the protection, isn\u2019t going to damage my card? The guy said in the very beginning that that could happen. He said that in between taking the card out of the protection, the grader can damage the card. The fact is\u2026 grading is "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
-   "signals": [
-    "manual_pain",
-    "result_report"
-   ],
-   "score": 4.0,
-   "likes": 0,
-   "text": "7:41, I did. it didn't work. I started opencode in my cartoon folder (which contains the \"what-if-animation-main\" folder), but i didn't see the \"/what-if\" once i typed it in opencode. also, what do you mean by \"put the skill in the skill folder?\" i dont see any \"skills\" folder. do i have to create it manually?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How We're Saving Tons Of Silicone For Our Small Molds",
-   "url": "https://youtu.be/GJqCg3Anc_I",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.91,
-   "likes": 4,
-   "text": "Tin cured silicone it's a must. I've tried platinum and it does not work with resin parts, even after extra cleaning/curing and multiple coats of spray paint. It offgasses something that prevents the silicone from fully curing. It's a bummer but lesson learned \ud83d\udc4d"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How Rocky's Models Were Made for #ProjectHail#Mary",
-   "url": "https://youtu.be/r-dZB0-IEMY",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "Movie was not worth the theatre price"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "It's a scam. I don't know how anyone can defend this and say it's 'Not bad' ...   It's a complete scam, unless you're spending THOUSANDS you won't get anything decent.  On top of that, having a fee to open packs and ship cards is a scam as well.   Avoid these sites."
-  },
-  {
-   "cat": "weddings & events",
-   "video": "MY BROTHER\u2019S WEDDING PLANNER CALLED: \u201cYOUR FAMILY CANCELED YOUR INVITATION, BUT...",
-   "url": "https://youtu.be/ec6YhXpmMkk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "They always expect the independent sibling to cough up their money or assets when failing family chat and when that one doesn't work try family who hasn't talked you who are clueless and won't listen then it's let's force them with being ganged up on not expecting them to prove how they have been supporting their dead beat parents and sibling or siblings then it reversed and it's you ruined our li"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Offered $1 MILLION CASH\u2026 He Said NO!",
-   "url": "https://youtu.be/yWf2nWWmux0",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "probably just a scam who would pay 1 mil for something valued at 1mil 50k"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Sliced Pitch Black Pokemon Card ETBs",
-   "url": "https://youtu.be/ToR6oMhxAa0",
+   "cat": "personal finance & admin",
+   "video": "FREE Google Fitbit Air vs Expensive WHOOP \u2014 7 Days Review \u2705",
+   "url": "https://youtu.be/zMXQXe03dSI",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "1 pack not bad??? That\u2019s some \ud83d\udd25\ud83d\udd25\ud83d\udd25 for 1 pack. I got a bundle that looks sus. Probably gonna open. But paying near market at my LCS is insane. Almost like take my money at this point \ud83d\ude02\ud83d\ude02 I love Darkrai tho so I don\u2019t care for the 30th"
+   "text": "Bro i want to buy it but I don't have money i am fitness king of boy and i play cricket also i want it but money problem I order that 5 time, but not have i cancel it so if you help me please I lik that to much, first when i watch that i think i will buy it."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How the Claude Code team uses Claude Code",
-   "url": "https://youtu.be/S-sYlFiGFv8",
+   "cat": "personal finance & admin",
+   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
+   "url": "https://youtu.be/GztWQ5bWZvA",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "What is the pricing of Claude Tag compared to the $200 plan ?"
+   "text": "I'd buy coilovers for my car to get that baby up and running for when I get back to the states."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "I think it pretty fair!! I mean I would pay more for shipping if it something of value due to all the horror stories I\u2019ve seen about shipping companies"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I'd Start Collecting Pok\u00e9mon From Scratch!",
-   "url": "https://youtu.be/kUeaOBLwURA",
+   "cat": "personal finance & admin",
+   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
+   "url": "https://youtu.be/eAfufDq6Sas",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "Doing mastersets for sets where you don't like all the cards it's a waste of time and money. Even if you think that set is cheap, it's not worth it. That's how I started my Pokemon journey 2 years ago, doing mastersets. After some time I realized I don't like most of the cards and started selling them and kept only the ones I truly love and appreciate. Hope this helps."
+   "text": "Dear sir, Don,t purchase this product, sleep data and recovery data not generation after 4 days use, waste of money"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Claude Makes a New Kind of Video - Full Tutorial",
-   "url": "https://youtu.be/Ge1B-Ok1Pfk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "The link is a scam. There\u2019s no prompt anywhere, and the site requires your phone number. Don\u2019t give your contact info to these scammers. Even the website itself is just AI slop."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "This proofs why grading companies are a scam.."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Grading has become a scam. The fact you can crack and have a card regraded proves that. All subjective. Crazy the number of people that buy into it. We need full on AI grading with high grade cameras, and then the cameras need to remember if that particular card has been graded to remove re-grades."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "So you are saying what Topps and fanatics are doing is a scam too? It\u2019s exactly the same thing."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "People don\u2019t learn anything associated with Paul family is a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Easy. Anything Logan Paul does is a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "SCAM SITE / OPEN FEE/ SELL FEE/ WITHDRAW FEE/ % ARE SHIT/ DON'T GAMBLE KIDS! IT WILL DESTROY YOUR LIFE! ESPECIALLY DON'T GAMBLE AND DON'T BELIEVE IF IT'S PROMOTED BY PEOPLE WHO SIT AT HOME AND LIVE THEIR LIFE HOW THEY WANT WHILE ALWAYS RECORDING! THEY USING YOU!"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Anything with logan paul is a scam some how some way. Triumph is better and packz. No playform fees and 100% buyback rate. Screw ripit lol"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Why nobody do something about this company scam \ud83d\ude22\ud83d\ude22 Thank you for the awakening \ud83d\udc4c\ud83c\udffc"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Grading cards has always been a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Pokemon cards are a scam in themselves. The company that grades them is a scam ontop of a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Yeah the entire thing is a scam. If you can send in a card that gets say an 8 and then get it back crack it send it in again and get a 9 then crack it again and this time you get a 5. That is absolutely a scam and these guys have just lined their pockets with everyone\u2019s money because they can make whatever card they want more worth or less worth as they go."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Does anyone know how to solve this? This is my first message on OpenCode, and it says I hit the free limit. Why?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Is there a way to make it create a longer video"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Claude Makes a New Kind of Video - Full Tutorial",
-   "url": "https://youtu.be/Ge1B-Ok1Pfk",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "is there a way to do this locally for free ??"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "What\u2019s the best app for comping cards? \ud83e\udd14",
-   "url": "https://youtu.be/O96o9H0Lk2w",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What\u2019s the name of the app so I can get it"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
+   "cat": "jobs & careers",
+   "video": "The Easiest Way to Track & Organize Your Job Applications",
+   "url": "https://youtu.be/oKjbYLlKl_E",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Hey Poke pastor, ive been really enjoying your videos and i appreciate you a lot. I am struggling to find sellers on facebook marketplace that want like 70%, they usually want like 85%. Should i js go negotiate?"
+   "text": "does it sync with LinkedIn applications automatically or do we have to click and add them manually?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
-   "url": "https://youtu.be/meBi616y1mg",
+   "cat": "jobs & careers",
+   "video": "I Automated My Job Search Using AI | Step by Step with Live Demo | Find Jobs and Auto Apply",
+   "url": "https://youtu.be/V_OlWyt8g7I",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I used to work extensively with scanners and CAD and using GOM and a load of other tools because they only ever seem to do one thing well. This tool would have literally changed my life if it had been available back then... it's perfect. Every thing I struggled with doing it manually as best I could, you've thought of and made a fix for. Genuinely incredible work, industry disrupting"
+   "text": "This is so relatable! I was spending hours every day manually applying. I recently started using Jobbyo and it actually handles the whole mind-numbing application part on autopilot, which let me focus on my portfolio and creative direction again. Saved me so much time and burnout. Great breakdown in the video btw!"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
-   "url": "https://youtu.be/meBi616y1mg",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "This is absolutely nuts. I just fed it a .PLY mesh of a broken part and a half-assed drawing that someone else made showing what was missing, then connected it to GPT and about 10 minutes later I had a print-ready model of the broken part. Absolutely incredible. Completely insane. This would have been a few hours worth of work if I'd had to do it by hand."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
-   "url": "https://youtu.be/meBi616y1mg",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Just a year ago I was doing similar stuff manually in blender with Gaussian splats. I\u2019m very impressed with your work and am glad we can have agents help/automate the process. Hope the hardware gets more affordable, or maybe we get another leap forward in vision models like the jump from photogrammetry to splats"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Best Pokemon Card Scanner App (I Tested 5 Free Ones).",
-   "url": "https://youtu.be/6KzSvc_LBh8",
+   "cat": "jobs & careers",
+   "video": "How to Build Real Mobile Apps with Claude - FULL COURSE",
+   "url": "https://youtu.be/tpge9xJ0m5U",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "What app do you suggest to use to track your collection? For example, has a wide range of cards including other languages and variants, allows you to put what I\u2019ve paid plus conditions but can compare to market based on condition. As well as allows to have it organized in a binder style way or even just in folders to have it separate from others."
+   "text": "Is there any tool with price tag except claude"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "You\u2019re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
-   "url": "https://youtu.be/Bm84BAtOfQw",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
-    "wish_build"
+    "manual_pain"
    ],
-   "score": 2.0,
+   "score": 2.5,
    "likes": 0,
-   "text": "Thank you for this video, Dan. I've had a blast playing around with Claude this last week. It means a lot hearing that I'm ahead of the curve by embracing AI automation. I just can't seem to get over my crippling fear of failure. I wish I could apply what I've been told."
+   "text": "guys can we genuienly practice all this manually for free without spending money?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
-   "url": "https://youtu.be/e0y0oWCUlZ4",
+   "cat": "personal finance & admin",
+   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
+   "url": "https://youtu.be/Bmdiqqz2am0",
    "signals": [
-    "wish_build"
+    "ask_for_tool"
    ],
-   "score": 2.0,
+   "score": 2.5,
    "likes": 0,
-   "text": "I wish I could afford market movers but am on a tight budget"
+   "text": "Bro, what is this app called nobody"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Pull the MOST EXPENSIVE Card to Win",
-   "url": "https://youtu.be/InfLciaj4zg",
+   "cat": "personal finance & admin",
+   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
+   "url": "https://youtu.be/Bmdiqqz2am0",
    "signals": [
-    "result_report"
+    "manual_pain"
    ],
-   "score": 1.5,
+   "score": 2.5,
    "likes": 0,
-   "text": "my camera on collectr doesn't work it just endlessly runs. it used to work"
+   "text": "Does it auto detect workouts and sleep or should I select it manually everytime?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Essential Skills for Becoming an AI Engineer: RAG, AI Agents, & More",
-   "url": "https://youtu.be/XN3xNJvWXsc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "AI Engineer \ud83d\ude06 ... there's no such thing, stop deceiving people. You can call it Promptardation or in best case Prompt Operator.  For young lads, this is a scam. Do something better with your lives. They\u2019ve completely destroyed the industry."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
+   "cat": "personal finance & admin",
+   "video": "The Subscription Free Fitness Band \ud83e\udd2f #shorts #noise #noiserep #REPBand #fitnessbands",
+   "url": "https://youtu.be/RCHjBnhm-RU",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "It doesnt work on windows"
+   "text": "No bro it\u2019s just waste of money I use both whoop and rep still I prefer whoop instead of rep sometimes it shows wrong data and didn\u2019t detect work outs"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I found a way to make these AI animations for $0",
-   "url": "https://youtu.be/avIK9YTKpjU",
+   "cat": "personal finance & admin",
+   "video": "Budget Loan App 2026 || Budget Loan Real Or Fake || Budget Loan Review ",
+   "url": "https://youtu.be/dVHqE2JGoI4",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Honestly, this was a waste of time for me. The video I ended up with was awful."
+   "text": "Mera id hi nahi ban raha he inlog ke sath mene hi scam kardiya he 2 bar 1200 1200 nikal ke alag alag app se loan leker Unown number block call per daldo Or whatapp only contact per kardo setting me app option he use on kardo mobile secure 1 week tak aese hi rehne do wo khud call sms karna ban karenge Or aap ne jiska number diya he reference me uska mobile me bhi aesa hi kardo scamer ke sath scam f"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Claude Makes a New Kind of Video - Full Tutorial",
-   "url": "https://youtu.be/Ge1B-Ok1Pfk",
+   "cat": "cars & motoring",
+   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
+   "url": "https://youtu.be/5CnUjbSiV_Y",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Doesn't work with sonnet \ud83d\ude22"
+   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Claude Makes a New Kind of Video - Full Tutorial",
-   "url": "https://youtu.be/Ge1B-Ok1Pfk",
+   "cat": "personal finance & admin",
+   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
+   "url": "https://youtu.be/uS6BrQrBiGo",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "It was not able to create a small 30 seconds video with using your prompt and it hit the limit (on a new free Claude account). I wonder what's FREE here in your title.... Not worth it using Free account."
+   "text": "Since you asked, I think they are a waste of money if you have even the most basic sports watch and probably even if you don't. Good overview though!"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "personal finance & admin",
+   "video": "\ud83d\udd25 Noise Rep Unboxing & Review \u2014 Is It Better Than Fitbit & Whoop? | No Subscription! || In Telugu ||",
+   "url": "https://youtu.be/5svKHdl0iZI",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Even tho you can see thru the packaging it\u2019s not worth it there almost all ruined in shipping at least for me"
+   "text": "Dear brother, Don't purchase noise rep this product, sleep data and recovery data not generation after 4 days use, waste of money"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
+   "text": "I just watched more than 30 mins but this content is terrible - author trying to do something, it doesn't work and he has no clue, then figures it out along the way (\"oh I missed to copy this line of code from example of claude docs\"), renames file - it doesn't work, trying to figure out why, etc.... I'm not expecting the best tutorial \"for free\" but this is ridiculous..."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
+   "text": "Chasing certs is fools gold. Not worth it."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How the Claude Code team uses Claude Code",
-   "url": "https://youtu.be/S-sYlFiGFv8",
+   "cat": "personal finance & admin",
+   "video": "Micropayment number 130 \ud83e\udd29 #debtpayoff #micropayments #debtfreejourney #debtpayoffjourney #debt",
+   "url": "https://youtu.be/GztWQ5bWZvA",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "THIS TECHNOLOGY IS A SCAM. I'VE BEEN ASKING FOR A REFUND AND WANTED TO SPEAK TO A SUPPORT PERSON, AND ALL I GET IS \"FIN\" FROM A BOT THAT ISN'T EVEN OWNED BY THIS SCAMMER COMPANY."
+   "text": "I actually was gifted $1000 out of the blue a few months ago (my great grandpa died and I didn't realized he left me some inheritance!) It was a very shockingly pleasant surprise! I spent $200 on some items I had been wanting for a while and the rest got invested!"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How To Make Cat In The Hat In Melon Sandbox!\ud83d\ude40\ud83c\udfa9 #shorts #melonsanbox #melonpg #catinthehat",
-   "url": "https://youtu.be/dKCgXvzvYTA",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I tried that but it didn't work"
+   "score": 0.96,
+   "likes": 8,
+   "text": "From where can I download it? Is it for Android or iOS?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "How do you reduce your shipping price to justify selling these low-cost cards. It takes 5$ for me to ship that and unless someone grabs a bunch of cards, it\u2019s not worth it."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I've watched your videos. But i still cant grasp how i could achieve all the bulk you're talking about.  In Sweden, NO ONE sells bulk for the price mentioned. Some kind of epidemic has happened with the prices, even reached out to the moms selling ther kids 100 cards collections thinking they will receive the price of a car.  I've tried eBay and the shipping for me is mostly not worth it. Free int"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "PSA Grade Reveal Vs. Digital Grading Co. #pokemoncards",
-   "url": "https://youtu.be/kJnlZ1p8Lds",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "bro dont resubmit at $80, $80 barely worth it $160(or more) DEFINITELY not worth it"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "so are crossovers in slab to the companies a scam? or crack out better?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
-   "url": "https://youtu.be/c_QalWlppa4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I pray that everyone that cracks slabs to scam others damages them \ud83e\udef6"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I mean tbh it\u2019s no more or less a scam than a scratch ticket at the end of the day it\u2019s both gambling and people should go on understanding that"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Only a Sucker would have anything to do with a SCAM artist."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Wow\u2026 Logan Paul\u2019s rip site seems like a scam. So much fees."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Haha I\u2019d bet money before watching the vid it\u2019s either a scam or looks good on the surface but is actually a terrible deal when you break it down. Gunna watch the vid now to see if I\u2019m right or right \ud83d\ude02"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "If logan paul is involved then its 100% a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "All scam triumph rips is best"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Like your video \u2764 but f rip it scam stuff"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "If a paul is involved, its a scam..."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I HAVE SEEN THESE VIDEOS AND COMPLAIN ABOUT THE PULL RATE RE-SELL IT IS WHAT IT IS. SAME AS YOU WERE BUYING PACKS AT STORES AND SENDING THEM TO PSA THATS A RATE FOR GRADING IT FEE FOR SHIPPING ETC, SAME CRAP. THIS WORLD OF BUYING, GRADING, SELLING IS A 50/50 WINNING AND LOOSING ETC. ITS GAMBLING PERIOD. JUST BECAUSE ITS LOGAN PAUL ITS CONSIDERED A SCAM? NOT RIGHT. POKEMON AND OTHER TRADING CARDS I"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
-   "url": "https://youtu.be/s67te-4YOtA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Didn\u2019t he scam people with a digital currency coin? No thanks"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "\u201cWhat am I gonna tell my wife\u201d that you can\u2019t scam people? Idfk"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Really the best way to fix this is to have two packs. One with cool cards for the kids and players and a pro type pack for the collectors. Base pack has the cool cards with a very small chance of getting a special card or halo. Then the pro pack with a slightly higher chance for a special card. Shift the scalper away from the base pack without devaluing the social and halo cards on the high end. A"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "surprise he didn\u2019t try and  scam you"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Didint logan openly scam thousands of people of out a total of millions of dollars??? PUBLICLY??? I cant believe none of his spineless fans pressed charged!"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The index card for grading was the Gretzky Wagner card, a doctored card. I don\u2019t know how they got so big when the first card they ever graded was a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The very first card was a known altered card. Also the upcharge fee is such a scam too"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The whole TCG hobby is a scam, you buy a pack with odds stacked against you. The company printing distributes the value. Then you go to a grading buisness to gamble AGAIN on getting a good grade."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "\"biggest scam in pokemon\" is an illustrous achievement"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Nobody I know still goes to PSA. known scam. steal cards, fake numbers - TAG is the only standard."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "\"So they're selling the books AND administering the tests? It's a scam.\" - Dale Gribble"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The fact that they charge for their service based on what the card is graded/valued at is such a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Man. This really sucks. PSA is basically pricing a large number of consumer out by increasing the price of grading in general, and then crating the dynamic grade pricing based on how expensive your card is.   I was going to go to the national convention and submit a bunch of Pok\u00e9mon cards and some Jordans but now I\u2019m not. It\u2019s not worth it. Too much subjectivity, too much corruption and I\u2019m not pa"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Refuse to even do business with people who have graded cards i refuse to partake in a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "i didn\u2019t need a video to know that a corporate monopoly is a money extracting scam that hurts consumers."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Claude Makes a New Kind of Video - Full Tutorial",
-   "url": "https://youtu.be/Ge1B-Ok1Pfk",
+   "cat": "students & campus",
+   "video": "Best Tablets Under 50000 in India - Best Tablets For Students, Editing, Gaming & Note Taking in 2026",
+   "url": "https://youtu.be/mVFZAhykDHw",
    "signals": [
     "link_ask"
    ],
    "score": 0.63,
    "likes": 2,
-   "text": "Please i registerd to the website, where can i find the video styles ??"
+   "text": "Where can I buy oneplus pad 3"
+  },
+  {
+   "cat": "personal finance & admin",
+   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
+   "url": "https://youtu.be/uS6BrQrBiGo",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "I like that Fitbit air band! Where can I get one from?"
+  },
+  {
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Where can i get the repo of this course"
   }
  ]
 }
