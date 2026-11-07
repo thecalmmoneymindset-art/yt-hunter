@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-06
-Keyword groups today: money & budgeting, small business & freelance | countries: gb, us
+# App Store review report — 2026-11-07
+Keyword groups today: property & home, family & parenting | countries: gb, us
 Fetch errors: none
 
-## money & budgeting
+## property & home
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 405640 | 4.47312 | Free | 43 | 21 |
-| [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4) (us) | 1486024 | 4.74741 | Free | 27 | 11 |
-| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 284736 | 4.65778 | Free | 44 | 20 |
-| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 158212 | 4.63079 | Free | 0 | 0 |
-| [Plum: Smart Saving & Investing](https://apps.apple.com/gb/app/plum-smart-saving-investing/id1456139507?uo=4) (gb) | 70966 | 4.6757 | Free | 45 | 15 |
-| [EveryDollar: Budget Management](https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4) (us) | 84222 | 4.73267 | Free | 41 | 19 |
-| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 152420 | 4.85623 | Free | 0 | 0 |
-| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 117295 | 4.88962 | Free | 18 | 6 |
+| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7241233 | 4.80009 | Free | 39 | 14 |
+| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 507615 | 4.69137 | Free | 35 | 13 |
+| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1651691 | 4.79875 | Free | 30 | 6 |
+| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1088318 | 4.78892 | Free | 21 | 12 |
+| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1415582 | 4.81644 | Free | 27 | 9 |
+| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 221787 | 4.73787 | Free | 32 | 7 |
+| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 324882 | 4.84307 | Free | 20 | 6 |
+| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 479696 | 4.8903 | Free | 18 | 9 |
 
-Repeated complaint phrases: ve been using (4); cancel my subscription (3); used to love (3)
+Repeated complaint phrases: waste of time (3); real estate agents (3); matching your search (3); filters to find (3); find more homes (3); used to love (3)
 
-- Microsoft Excel, 1 star: "Microsoft! - No, I don’t want to leave a review. No, I don’t want to dismiss this message every time I open the Excel app, or Outlook, or Teams, or anything else!! I just want to view a file. This prompt is preventing me from doing my job and is wasting my time.    The app has a purpose. Why are you"
-- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
-- Microsoft Excel, 1 star: "USELESS !!! - Latest update has made app non functional on iPad and has caused MAJOR issues for my company whose design consultants take measurements on this app and it loses all data that is input. Can’t begin to explain what a headache this has caused everyone. This is a global issue and it’s abso"
-- Microsoft Excel, 1 star: "Keeps Crashing Since the Last Update and Not Saving Work - I use this app regularly to update figures, I open spreadsheets from Dropbox. Since the last update it hangs closing the spreadsheet when I exit it to send it back to Dropbox. It just spins and I eventually have to close the app. The work is"
-- Microsoft Excel, 1 star: "Cannot save!! - Constantly freezes when I try to save, losing work consistently. Rubbish!"
-- Microsoft Excel, 1 star: "Does not save - needs to be fixed - Sack the developers and testers, the latest update has introduced fatal bugs - cannot save changes, cannot see contents of cells when editing"
+- Rent. Apartments and Homes, 1 star: "Terrible experience - This community is horrible. There are cockroaches everywhere, and when it comes to fixing an AC, they take an entire month. They have a supervisor who spends his time smoking, and the office staff — especially Maggie — is almost never there. You call, and they never answer the "
+- Redfin: Buy, Sell & Rent Homes, 1 star: "iPad version useless - iPad version useless"
+- Trulia Real Estate & Rentals, 1 star: "Used to be my favorite home-search app — please fix Map Search - I’ve used Trulia for years, and it’s astonishing that one change to the app has made me dislike using it this much.  I search primarily using the map with very specific filters already set. Previously, if I moved the map into an area w"
+- Apartment List: Apt rentals, 1 star: "Scams - People posting real apartments and claiming availability and changing the phone numbers to theirs so you’re calling them not the actual place. They want to steal your info when you apply and take your money when you pay application fees and or even deposits if you don’t tour. Only way to pro"
+- Apartment List: Apt rentals, 1 star: "Useless - This app needs a feature where you can click “strict budget” or just say outright “hey we can’t find anything in your parameters” instead of “there’s nothing in your budget but here’s a house that’s $2,000 above your budget!” And also are the only apartments for view ones from rental compa"
+- Houzz - Home Design & Remodel, 1 star: "The most miserable company - In my opinion, the company’s main goal is to get your credit card information. After that, I experienced repeated issues with their customer service that made the entire experience extremely frustrating.  Based on my personal experience, I cannot recommend doing business"
 
-## small business & freelance
+## family & parenting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Fetch: Earn Rewards Every Day](https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4) (us) | 7839277 | 4.85126 | Free | 10 | 2 |
-| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1977271 | 4.79901 | Free | 27 | 8 |
-| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 198429 | 4.64692 | Free | 38 | 13 |
-| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 274393 | 4.74964 | Free | 23 | 5 |
-| [Scanner App: Genius Scan](https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4) (us) | 1375701 | 4.89905 | Free | 7 | 1 |
-| [TopCashback: Cashback Deals](https://apps.apple.com/gb/app/topcashback-cashback-deals/id408175694?uo=4) (gb) | 157155 | 4.79416 | Free | 23 | 4 |
-| [Adobe Scan: PDF & Doc Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-doc-scanner/id1199564834?uo=4) (gb) | 196569 | 4.83141 | Free | 10 | 4 |
-| [Pogo: Earn Cash & Rewards](https://apps.apple.com/us/app/pogo-earn-cash-rewards/id1509325230?uo=4) (us) | 146298 | 4.84733 | Free | 24 | 7 |
+| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 2015807 | 4.74171 | Free | 15 | 6 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 164524 | 4.62425 | Free | 20 | 13 |
+| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 402563 | 4.80703 | Free | 9 | 3 |
+| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227365 | 4.80069 | Free | 29 | 16 |
+| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 380866 | 4.87045 | Free | 6 | 1 |
+| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 298896 | 4.89199 | Free | 0 | 0 |
+| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 143878 | 4.92344 | Free | 19 | 5 |
+| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 45046 | 4.82969 | Free | 11 | 4 |
 
-Repeated complaint phrases: worth the time (3); used to work (3); select the location (3)
+Repeated complaint phrases: new what next (3); pay for subscription (3); pay for background (3); bug after bug (3)
 
-- Pogo: Earn Cash & Rewards, 1 star: "Not worth your time - Honestly this is one of the worst ones out there. They advertise “INSTANT CASHOUTS”   BUT, if it’s over $4 you’re gonna easily sit and wait while it processes for atleast 24hrs while they dig under the couch cushions to find enough loose change to afford to pay out."
-- Fetch: Earn Rewards Every Day, 1 star: "One of the worst - Doesn’t give correct points. Cheats u out of points. Customer service useless!!!!!!"
-- Fetch: Earn Rewards Every Day, 1 star: "Not the same - Fetch is not the same as it used to be to be, now every time I scan a receipt all I get is 25 pts. They change to were if you don’t buy the few items they have listed then you get no points. Disappointing"
-- Ibotta: Save & Earn Cash Back, 2 star: "This app used to be better. - It seems as if every update would improve the app, but it isn’t. I usually need to correct each receipt for missed items."
-- Ibotta: Save & Earn Cash Back, 1 star: "Done with Ibotta - I have been an Ibotta user for over 10 years but recently I have nothing but hiccups trying to submit rebates. Most recently I had a receipt kicked back saying they can’t read all of the information or the offers are not valid when the item is clearly the item pictured for the reb"
-- Ibotta: Save & Earn Cash Back, 3 star: "Fair app - You used to be able to get much more points quicker for a faster payout. Now it’s about half of what I got five years ago. The problem is is things are more expensive to buy and you’re giving less points."
+- Baby Tracker - Newborn Log, 1 star: "New “what’s next” AI Slop - The latest update adds a “what’s next” section that is not hideable so it takes half your screens real estate. The UI screams AI slop. The dev clearly wanted a reason to make this app into a subscription for more money but I want parents to know that what the dev added is"
+- Flo Cycle & Period Tracker, 3 star: "Decent - The app is excellent for predicting your cycle and ovulation, however I don’t use much of the other features that analyze your symptoms because they’re kind of time consuming and it feels like im reading a lot of words. Also the new battery “check ins” are highly ineffective and kind of use"
+- Flo Cycle & Period Tracker, 3 star: "so many ads - i’ve been using flo for almost 10 years now and i feel like it’s just a useless app. if you want to do anything more than just track your period you have to buy a subscription. genuinely everything is locked behind a paywall. there’s so much stuff on this app that seems like it can be "
+- Flo Cycle & Period Tracker, 1 star: "Not free - App asks for a payment plan/subscription every time you open it. Would be nice to have the option if you want to pay to have more but not every time you open the app. It is what has made me delete the app and will not be using it."
+- Flo Cycle & Period Tracker, 3 star: "Paid Subscription for the year! - Paid the subscription for the entire year—went ahead and canceled it. However since I’ve already paid it I was suppose to still have access to the full app and its features. Yet I don’t. So it took my money and full access. Honestly the only problem I have with Flo."
+- Flo Cycle & Period Tracker, 3 star: "Too much - I’ve been using this app for years. On my second year I even paid for the premium subscription but ended up not sticking with it because I just need to log the period/sex days. It’s become challenging to even open the app, because I get tons of pop ups for the paid membership, then there "
