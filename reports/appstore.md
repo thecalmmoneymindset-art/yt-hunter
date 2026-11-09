@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-08
-Keyword groups today: health & fitness, pets | countries: gb, us
+# App Store review report — 2026-11-09
+Keyword groups today: study & work, hobbies & collecting | countries: gb, us
 Fetch errors: none
 
-## health & fitness
+## study & work
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2390125 | 4.71373 | Free | 33 | 11 |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 475922 | 4.70397 | Free | 36 | 13 |
-| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1057096 | 4.82871 | Free | 9 | 1 |
-| [GoodRx: Prescription Savings](https://apps.apple.com/us/app/goodrx-prescription-savings/id485357017?uo=4) (us) | 703927 | 4.84084 | Free | 4 | 0 |
-| [Planet Fitness](https://apps.apple.com/us/app/planet-fitness/id399857015?uo=4) (us) | 815653 | 4.87193 | Free | 43 | 12 |
-| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532298 | 4.84608 | Free | 16 | 7 |
-| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 773009 | 4.94722 | Free | 2 | 0 |
-| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432922 | 4.90794 | Free | 11 | 2 |
+| [Google Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729?uo=4) (us) | 2412255 | 4.72726 | Free | 6 | 2 |
+| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1071986 | 4.71 | Free | 29 | 15 |
+| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 209344 | 4.56989 | Free | 35 | 8 |
+| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 468339 | 4.71809 | Free | 32 | 10 |
+| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 198627 | 4.64695 | Free | 38 | 13 |
+| [Notability: AI Notes & Study](https://apps.apple.com/us/app/notability-ai-notes-study/id360593530?uo=4) (us) | 458669 | 4.7606 | Free | 37 | 18 |
+| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 666800 | 4.83905 | Free | 22 | 9 |
+| [ZipRecruiter Job Search](https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4) (us) | 595837 | 4.86516 | Free | 16 | 4 |
 
-Repeated complaint phrases: again and again (4)
+Repeated complaint phrases: used to work (4); select the location (3)
 
-- Planet Fitness, 1 star: "fix the bugs if you’re expecting payment - i’m really not gonna go back and forth with someone on the phone because your app doesn’t work. 6 times i’ve put in my information to pay this bill, and i’m being told there’s a “glitch in the system”. we’ll fix the glitch if you want your money!"
-- Planet Fitness, 1 star: "Scam - Planet fitness is a complete scam for a low quality gym!  You get kid tier facilities that are mostly dirty   And guess what you thought it was because planet f it ness is affordable. NOOOOPEEE.   They started off charging me and annually feee of $25 a month and then added m addition fees eve"
-- Planet Fitness, 1 star: "Doesn't load - The app never loads for me, I cannot use it. I've deleted the app and reinstalled numerous times, I've shut my phone down and back on as well. The app simply doesn't work."
-- Planet Fitness, 1 star: "Ruined my night - Apparently the day passes are reserved for people who are 18 or older, but memberships aren’t according to this lady I talked to over the phone. I had already gone and gotten a day pass before and had a stupid waiver signed for it. I don’t know if the worker messed it up or if plan"
-- Planet Fitness, 1 star: "App animation - I’ve always hated how many clicks it takes to get from my card to the guest card and they somehow made it worse by adding a useless animation when you sign in and have to back out and scroll down to get to the guest membership."
-- Planet Fitness, 2 star: "New update not great - Please fix problems with the latest update. No way to track distance for treadmills; need to click twice after checking in (back button, confirm check in), randomly freezes up…. Otherwise it’s OK"
+- Notes, 3 star: "Was Great Until Update - This app WAS really great to work with. I like making lists and I used to be able to quickly look things up in the find notes section of the app. But AFTER THE RECENT UPDATE, now whenever I use it, instead of looking up each word, sentence, letter that Im trying to look spec"
+- Notability: AI Notes & Study, 2 star: "Used to be good, now it sucks - Endless popups about further upgrading and spending more money. Sucks at syncing across devices. Takes forever to load docs when you open it. Was better before all the AI garbage was added."
+- Notability: AI Notes & Study, 1 star: "Not honest… - When I purchased the app 3 years ago, it was a full version for a lifetime. Now they named my version classic and they don’t give me the new features. That’s dirty. At the beginning they were generous… They could at least give an option to buy new features. I hate subscription will nev"
+- Google Gemini, 1 star: "Just pay for a subscription from another ai app - One of the absolute worst AI systems I have ever used in my life.  Anytime I’ve used it, it has always been completely wrong to the point of where it hasn’t even been able to get simple calculations. One time asked to do 2+2 and it gave me the wrong "
+- Google Gemini, 1 star: "Nerfed since September 2026 - They locked the capable models behind a paywall. Now, the free tier model absolutely pales in comparison to what they offered before. Use another LLM, this one is terrible"
+- Microsoft OneNote, 1 star: "Too many bugs - Every single time I use this app it crashes for one reason or another. If my notes weren’t all on this app I wouldn’t even think about using it"
 
-## pets
+## hobbies & collecting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 164560 | 4.62431 | Free | 20 | 13 |
-| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1247871 | 4.91059 | Free | 7 | 0 |
-| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 103397 | 4.71394 | Free | 20 | 3 |
-| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 510801 | 4.85893 | Free | 11 | 4 |
-| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 515833 | 4.88516 | Free | 45 | 7 |
-| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 67744 | 4.76457 | Free | 29 | 3 |
-| [AllTrails: Hike, Run & Walk](https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943?uo=4) (gb) | 65672 | 4.84471 | Free | 10 | 5 |
-| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 79180 | 4.92983 | Free | 7 | 3 |
+| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119599 | 4.58547 | Free | 25 | 14 |
+| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 614861 | 4.82815 | Free | 36 | 7 |
+| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 330616 | 4.78629 | Free | 24 | 9 |
+| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 76803 | 4.66232 | Free | 25 | 10 |
+| [MONOPOLY Solitaire: Card Games](https://apps.apple.com/us/app/monopoly-solitaire-card-games/id1536804215?uo=4) (us) | 75668 | 4.69958 | Free | 39 | 10 |
+| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114547 | 4.75385 | Free | 25 | 10 |
+| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 150684 | 4.81163 | Free | 5 | 1 |
+| [Collectr - TCG Collector App](https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?uo=4) (us) | 69733 | 4.88347 | Free | 12 | 5 |
 
-Repeated complaint phrases: pay for background (4); bug after bug (3)
+Repeated complaint phrases: trying to charge (5); love this game (4); used to love (4); charge my card (3)
 
-- AllTrails: Hike, Run & Walk, 2 star: "Purposefully blocking loaded maps - I don’t use the app frequently enough to warrant a subscription. Over the years I have navigated with AllTrails, I haven’t had any issues with disruption to my data - the map loads when there is a signal and stays loaded. Or at least, it used to. In what appears t"
-- Rover – Pet Sitters, 1 star: "The most frustrating app - No way to change your email because you have maybe 30 seconds to verify new email rather than the stated 15 minutes. Can’t change pets only add. I’ve deleted and re-signed up twice now."
-- Rover – Pet Sitters, 1 star: "Useless on an iPad - Why would I try and plan a visit picking over an iPhone key pad instead of exploring things on my iPad?"
-- Rover – Pet Sitters, 1 star: "Save yourself AND your pet the trauma - I’m gonna start by saying I’m  sure there are some incredible sitters on here; HOWEVER, I have had nothing but horrible experiences with vetted and verified people on here. Rover needs to have a much better vetting system because my dog’s needs have never been"
-- Rover – Pet Sitters, 1 star: "Terrible customer service - I was a rover sitter but unfortunately and unfairly had my rover account closed. I am a 5 star sitter and they refused to provide me any information for closing my account. Their customer service has been of no help at all and have refused to reactivate my account. I’m so"
-- Rover – Pet Sitters, 1 star: "Dont download scam and dont pay for background check - Paid 40$ for background check and no business even with a good profile dont download unless u want to loose 40$"
+- Phase 10: Casual Card Game, 1 star: "Let Me Play - Too much going let me just play the card game without out all the extra stuff going on it’s quite annoying and you can’t even bypass it, you have click on it. FIX IT to how it used to be."
+- Phase 10: Casual Card Game, 1 star: "So much potential not worth it - I love this game, but the fact that it costs FIVE lives just to play ONE hand, and you only get 1 life back for every 5 mins that passes is absolutely UNREASONABLE. I’d actually be willing to pay for more lives if it weren’t for the fact that you go through lives so "
+- Phase 10: Casual Card Game, 3 star: "Great game but sometimes unfair - I LOVE this game so much, however I do wish that on some levels you absolutely get obliterated before you can even get a chance, the levels are challenging but some of them are unbeatable without purchasing extra help."
+- Phase 10: Casual Card Game, 3 star: "Game screws you over - I used to love playing this game and i still do but its so aggravating because the game screws you over. They make the bots way get all the good cards and ive had to play most of the levels at least 3 times because it wont deal me the cards i need. Needs improvement for sure b"
+- Phase 10: Casual Card Game, 1 star: "Scam - This game is garbage it started me over after playing for weeks. I was almost finished with the Halloween event. I lost everything on this trash game"
+- Phase 10: Casual Card Game, 2 star: "Can’t win - When it takes an average of 4 or 5 tries to get through each level, it’s no longer fun. You don’t even have to win to get through the level, but I can’t even get through most of them in less than 3 tries, usually more. I’m stuck on a level now, about to go for my 7th attempt. I also star"
