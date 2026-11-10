@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-09
-Keyword groups today: study & work, hobbies & collecting | countries: gb, us
+# App Store review report — 2026-11-10
+Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
 Fetch errors: none
 
-## study & work
+## travel & relocation
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Google Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729?uo=4) (us) | 2412255 | 4.72726 | Free | 6 | 2 |
-| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1071986 | 4.71 | Free | 29 | 15 |
-| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 209344 | 4.56989 | Free | 35 | 8 |
-| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 468339 | 4.71809 | Free | 32 | 10 |
-| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 198627 | 4.64695 | Free | 38 | 13 |
-| [Notability: AI Notes & Study](https://apps.apple.com/us/app/notability-ai-notes-study/id360593530?uo=4) (us) | 458669 | 4.7606 | Free | 37 | 18 |
-| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 666800 | 4.83905 | Free | 22 | 9 |
-| [ZipRecruiter Job Search](https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4) (us) | 595837 | 4.86516 | Free | 16 | 4 |
+| [Google](https://apps.apple.com/us/app/google/id284815942?uo=4) (us) | 5343919 | 4.64506 | Free | 18 | 1 |
+| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 6007929 | 4.78786 | Free | 31 | 8 |
+| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2223768 | 4.84593 | Free | 21 | 7 |
+| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 478689 | 4.7501 | Free | 16 | 2 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 482043 | 4.82203 | Free | 15 | 2 |
+| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283989 | 4.78781 | Free | 10 | 1 |
+| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 313123 | 4.84126 | Free | 13 | 2 |
+| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 336668 | 4.89282 | Free | 12 | 2 |
 
-Repeated complaint phrases: used to work (4); select the location (3)
+Repeated complaint phrases: will never use (5)
 
-- Notes, 3 star: "Was Great Until Update - This app WAS really great to work with. I like making lists and I used to be able to quickly look things up in the find notes section of the app. But AFTER THE RECENT UPDATE, now whenever I use it, instead of looking up each word, sentence, letter that Im trying to look spec"
-- Notability: AI Notes & Study, 2 star: "Used to be good, now it sucks - Endless popups about further upgrading and spending more money. Sucks at syncing across devices. Takes forever to load docs when you open it. Was better before all the AI garbage was added."
-- Notability: AI Notes & Study, 1 star: "Not honest… - When I purchased the app 3 years ago, it was a full version for a lifetime. Now they named my version classic and they don’t give me the new features. That’s dirty. At the beginning they were generous… They could at least give an option to buy new features. I hate subscription will nev"
-- Google Gemini, 1 star: "Just pay for a subscription from another ai app - One of the absolute worst AI systems I have ever used in my life.  Anytime I’ve used it, it has always been completely wrong to the point of where it hasn’t even been able to get simple calculations. One time asked to do 2+2 and it gave me the wrong "
-- Google Gemini, 1 star: "Nerfed since September 2026 - They locked the capable models behind a paywall. Now, the free tier model absolutely pales in comparison to what they offered before. Use another LLM, this one is terrible"
-- Microsoft OneNote, 1 star: "Too many bugs - Every single time I use this app it crashes for one reason or another. If my notes weren’t all on this app I wouldn’t even think about using it"
+- Expedia: Hotels, Flights, Cars, 1 star: "Supporting total scam companies - My rental car is a total scam and expedia defended them."
+- Expedia: Hotels, Flights, Cars, 1 star: "Scammers - Worst refund policies and never got what I paid for. Unreal."
+- Expedia: Hotels, Flights, Cars, 1 star: "Refuse to refund cancelled trip that was booked for over a year. - Don't use site. Run. Its a scam"
+- Expedia: Hotels, Flights, Cars, 1 star: "Nightmare motel - Pending approval            Photos pending approval We're reviewing your photos before they're published. Expedia has always guided me right but this time they killed me with this motel. I don’t know where to start. This was like a roach. Motel. The place didn’t feel safe. The room"
+- Expedia: Hotels, Flights, Cars, 1 star: "Expedia - Total ripoff beware when you go through Expedia they charge you to use them and then they set you up with places that cost way more then just doing it yourself."
+- Expedia: Hotels, Flights, Cars, 1 star: "No customer service. - Wish I could give 0 stars.. I hate to give bad reviews as I am not a complainer or a “Karen” or feel like I am privileged, just a regular person attempting to go help my kid in the service due to planned surgery. Everything is automated, you can’t talk to anyone. The choices f"
 
-## hobbies & collecting
+## creators & sellers
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119599 | 4.58547 | Free | 25 | 14 |
-| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 614861 | 4.82815 | Free | 36 | 7 |
-| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 330616 | 4.78629 | Free | 24 | 9 |
-| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 76803 | 4.66232 | Free | 25 | 10 |
-| [MONOPOLY Solitaire: Card Games](https://apps.apple.com/us/app/monopoly-solitaire-card-games/id1536804215?uo=4) (us) | 75668 | 4.69958 | Free | 39 | 10 |
-| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114547 | 4.75385 | Free | 25 | 10 |
-| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 150684 | 4.81163 | Free | 5 | 1 |
-| [Collectr - TCG Collector App](https://apps.apple.com/us/app/collectr-tcg-collector-app/id1603892248?uo=4) (us) | 69733 | 4.88347 | Free | 12 | 5 |
+| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5819447 | 4.77634 | Free | 44 | 8 |
+| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4449218 | 4.75363 | Free | 37 | 14 |
+| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8480549 | 4.82601 | Free | 37 | 11 |
+| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969553 | 4.81628 | Free | 47 | 13 |
+| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260745 | 4.75337 | Free | 47 | 19 |
+| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7374100 | 4.92473 | Free | 15 | 6 |
+| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3612013 | 4.87308 | Free | 13 | 4 |
+| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3790484 | 4.89719 | Free | 2 | 0 |
 
-Repeated complaint phrases: trying to charge (5); love this game (4); used to love (4); charge my card (3)
+Repeated complaint phrases: less and less (3); turn it off (3); used to love (3)
 
-- Phase 10: Casual Card Game, 1 star: "Let Me Play - Too much going let me just play the card game without out all the extra stuff going on it’s quite annoying and you can’t even bypass it, you have click on it. FIX IT to how it used to be."
-- Phase 10: Casual Card Game, 1 star: "So much potential not worth it - I love this game, but the fact that it costs FIVE lives just to play ONE hand, and you only get 1 life back for every 5 mins that passes is absolutely UNREASONABLE. I’d actually be willing to pay for more lives if it weren’t for the fact that you go through lives so "
-- Phase 10: Casual Card Game, 3 star: "Great game but sometimes unfair - I LOVE this game so much, however I do wish that on some levels you absolutely get obliterated before you can even get a chance, the levels are challenging but some of them are unbeatable without purchasing extra help."
-- Phase 10: Casual Card Game, 3 star: "Game screws you over - I used to love playing this game and i still do but its so aggravating because the game screws you over. They make the bots way get all the good cards and ive had to play most of the levels at least 3 times because it wont deal me the cards i need. Needs improvement for sure b"
-- Phase 10: Casual Card Game, 1 star: "Scam - This game is garbage it started me over after playing for weeks. I was almost finished with the Halloween event. I lost everything on this trash game"
-- Phase 10: Casual Card Game, 2 star: "Can’t win - When it takes an average of 4 or 5 tries to get through each level, it’s no longer fun. You don’t even have to win to get through the level, but I can’t even get through most of them in less than 3 tries, usually more. I’m stuck on a level now, about to go for my 7th attempt. I also star"
+- eBay online shopping & selling, 2 star: "Used to be a great - eBay used to be a great way for regular people to offload things they no longer want and allowed others to get things used at cheaper prices.   Now eBay is fillled with AI slop inaccurately listing information, impersonal interactions, scammers and just plain garbage. Hoping som"
+- eBay online shopping & selling, 1 star: "Search on app is broken - There really aren’t any Seiko solar watches on eBay?  Weird, because the search on a web browser finds them, whereas the iOS app returns zero.  eBay used to have one of the best search engines on the internet. People used to for image searching a decade before Google Images"
+- eBay online shopping & selling, 1 star: "eBay money back guarantee not working anymore? - I recently got in a package from a seller based out of Germany. The package arrived damaged and missing four out of the six items. Between $400 and $500 in missing value. I communicated with the seller, but they wouldn’t give a refund. eBay wouldn’t l"
+- eBay online shopping & selling, 1 star: "EBAY helped a scammer scam me - So I was reselling items then I packed a order and was sent. I wrapped molds in paper and taped it and wrapped box 5 times as buyer said. Buyer claims 2 molds were not there and files a report and eBay sides with him. His account was three weeks old and mine is 20 yea"
+- eBay online shopping & selling, 3 star: "Not what it used to be - Not even close to the heights of what it used to be. Transaction fees are actually absurd, seller protection at an all time low (if usps loses an item you lose your item and have to grant a refund), try to make you pay for promotion on listings, new camera is GARBAGE quality"
+- eBay online shopping & selling, 1 star: "Rip-off service - They took over $50 from my sale. Never told me how much until I already made the sale. I would have never told that item. I will never use eBay again."
