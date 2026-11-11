@@ -1,49 +1,39 @@
-# App Store review report — 2026-11-10
-Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
+# App Store review report — 2026-11-11
+Keyword groups today: cars & transport, events & community | countries: gb, us
 Fetch errors: none
 
-## travel & relocation
+## cars & transport
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Google](https://apps.apple.com/us/app/google/id284815942?uo=4) (us) | 5343919 | 4.64506 | Free | 18 | 1 |
-| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 6007929 | 4.78786 | Free | 31 | 8 |
-| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2223768 | 4.84593 | Free | 21 | 7 |
-| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 478689 | 4.7501 | Free | 16 | 2 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 482043 | 4.82203 | Free | 15 | 2 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/gb/app/tripadvisor-plan-book-trips/id284876795?uo=4) (gb) | 283989 | 4.78781 | Free | 10 | 1 |
-| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 313123 | 4.84126 | Free | 13 | 2 |
-| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 336668 | 4.89282 | Free | 12 | 2 |
+| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 239053 | 4.72735 | Free | 0 | 0 |
+| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 259031 | 4.76865 | Free | 0 | 0 |
+| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 398242 | 4.82024 | £5.99 | 0 | 0 |
+| [YourParkingSpace - Parking App](https://apps.apple.com/gb/app/yourparkingspace-parking-app/id1107618222?uo=4) (gb) | 62567 | 4.66505 | Free | 0 | 0 |
+| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184412 | 4.76515 | Free | 0 | 0 |
+| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101512 | 4.72776 | Free | 0 | 0 |
+| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187767 | 4.80679 | Free | 0 | 0 |
+| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 128811 | 4.84109 | Free | 0 | 0 |
 
-Repeated complaint phrases: will never use (5)
+Repeated complaint phrases: none yet
 
-- Expedia: Hotels, Flights, Cars, 1 star: "Supporting total scam companies - My rental car is a total scam and expedia defended them."
-- Expedia: Hotels, Flights, Cars, 1 star: "Scammers - Worst refund policies and never got what I paid for. Unreal."
-- Expedia: Hotels, Flights, Cars, 1 star: "Refuse to refund cancelled trip that was booked for over a year. - Don't use site. Run. Its a scam"
-- Expedia: Hotels, Flights, Cars, 1 star: "Nightmare motel - Pending approval            Photos pending approval We're reviewing your photos before they're published. Expedia has always guided me right but this time they killed me with this motel. I don’t know where to start. This was like a roach. Motel. The place didn’t feel safe. The room"
-- Expedia: Hotels, Flights, Cars, 1 star: "Expedia - Total ripoff beware when you go through Expedia they charge you to use them and then they set you up with places that cost way more then just doing it yourself."
-- Expedia: Hotels, Flights, Cars, 1 star: "No customer service. - Wish I could give 0 stars.. I hate to give bad reviews as I am not a complainer or a “Karen” or feel like I am privileged, just a regular person attempting to go help my kid in the service due to planned surgery. Everything is automated, you can’t talk to anyone. The choices f"
 
-## creators & sellers
+## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5819447 | 4.77634 | Free | 44 | 8 |
-| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4449218 | 4.75363 | Free | 37 | 14 |
-| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8480549 | 4.82601 | Free | 37 | 11 |
-| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969553 | 4.81628 | Free | 47 | 13 |
-| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260745 | 4.75337 | Free | 47 | 19 |
-| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7374100 | 4.92473 | Free | 15 | 6 |
-| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3612013 | 4.87308 | Free | 13 | 4 |
-| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3790484 | 4.89719 | Free | 2 | 0 |
+| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5590083 | 4.89151 | Free | 0 | 0 |
+| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1107281 | 4.84023 | Free | 15 | 2 |
+| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1841361 | 4.89625 | Free | 0 | 0 |
+| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 356954 | 4.82299 | Free | 0 | 0 |
+| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 114060 | 4.76896 | Free | 0 | 0 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 223690 | 4.85527 | Free | 0 | 0 |
+| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 93138 | 4.82671 | Free | 0 | 0 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 99043 | 4.91296 | Free | 0 | 0 |
 
-Repeated complaint phrases: less and less (3); turn it off (3); used to love (3)
+Repeated complaint phrases: none yet
 
-- eBay online shopping & selling, 2 star: "Used to be a great - eBay used to be a great way for regular people to offload things they no longer want and allowed others to get things used at cheaper prices.   Now eBay is fillled with AI slop inaccurately listing information, impersonal interactions, scammers and just plain garbage. Hoping som"
-- eBay online shopping & selling, 1 star: "Search on app is broken - There really aren’t any Seiko solar watches on eBay?  Weird, because the search on a web browser finds them, whereas the iOS app returns zero.  eBay used to have one of the best search engines on the internet. People used to for image searching a decade before Google Images"
-- eBay online shopping & selling, 1 star: "eBay money back guarantee not working anymore? - I recently got in a package from a seller based out of Germany. The package arrived damaged and missing four out of the six items. Between $400 and $500 in missing value. I communicated with the seller, but they wouldn’t give a refund. eBay wouldn’t l"
-- eBay online shopping & selling, 1 star: "EBAY helped a scammer scam me - So I was reselling items then I packed a order and was sent. I wrapped molds in paper and taped it and wrapped box 5 times as buyer said. Buyer claims 2 molds were not there and files a report and eBay sides with him. His account was three weeks old and mine is 20 yea"
-- eBay online shopping & selling, 3 star: "Not what it used to be - Not even close to the heights of what it used to be. Transaction fees are actually absurd, seller protection at an all time low (if usps loses an item you lose your item and have to grant a refund), try to make you pay for promotion on listings, new camera is GARBAGE quality"
-- eBay online shopping & selling, 1 star: "Rip-off service - They took over $50 from my sale. Never told me how much until I already made the sale. I would have never told that item. I will never use eBay again."
+- BJs Wholesale Club, 1 star: "List order - I lost my last delivery order and even when requested proof delivery inf you guys kept saying it was delivered.  Very disappointing and bad customer service"
+- BJs Wholesale Club, 3 star: "Ok app - It’s a decent app for shopping but wish the coupon section was easier to find what I need. Also, why on earth wouldn’t you have the store hours of the physical location listed on the app? And list the hours of the gas station too. I can’t keep up with holiday hours and can’t believe those a"
