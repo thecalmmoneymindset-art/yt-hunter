@@ -1,533 +1,170 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "rows": [
   {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 11.66,
-   "likes": 38,
-   "text": "Were was this 6 months ago! This is exactly how I manually add support in CAD. Definitely the best method if you can tilt your part to 45 degrees which isn't always possible."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
+   "cat": "cars & motoring",
+   "video": "Car Simulator : Driving School - Trailer (PS5 & PS4)",
+   "url": "https://youtu.be/zKt8sqyA08g",
    "signals": [
     "result_report"
    ],
-   "score": 10.26,
-   "likes": 342,
-   "text": "I have been saying PSA is a scam for years since I found out the same card easily gets different grades and how much its value goes up."
+   "score": 7.03,
+   "likes": 39,
+   "text": "Genuinely it's not worth it for 20$"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Turned a Plastic Bottle Into Filament for My Bambu Lab Printer!",
-   "url": "https://youtu.be/93P_Neh2eyE",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "ask_for_tool"
    ],
-   "score": 9.42,
-   "likes": 196,
-   "text": "It works. The material is PET, without the G, so it is a lot less flexible that PETG, and you need to make sure the hotend you run the strip through is 1.7 mm. Then you print it at 40-50 mm/s and 260 C. I made a dozen Xmas trees for led candles out of green bottle plastic, but honestly it is not worth the time and effort compared to just buying a roll of PETG. Also splicing the strands together is"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 8.31,
-   "likes": 93,
-   "text": "It's almost like this whole grading system is a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 7.67,
-   "likes": 60,
-   "text": "Glad you covered this. I used to send cards in to PSA. After my 8th card getting shit grades, because I paid the bottom dollar, I realized it's a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 6.3,
+   "score": 5.25,
    "likes": 2,
-   "text": "As an Indiana fan I would buy in an instant"
+   "text": "Is there a way y\u2019all could keep the annotations as vectors when annotation PDFs?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "manual_pain"
+    "ask_for_tool"
    ],
-   "score": 5.97,
+   "score": 5.25,
+   "likes": 2,
+   "text": "is there a way to use any third party syncing services like nextcloud via webdev?"
+  },
+  {
+   "cat": "cars & motoring",
+   "video": "How I Inspect a Used Car \u2014 And Know When to Walk Away",
+   "url": "https://youtu.be/2HjJHFP6l9I",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
    "likes": 3,
-   "text": "I really dig this concept and the potential for it, but it got me wondering if I could acheive similar results by just manually painting a single thin line (with breaks in it to replicate the little contact fins) of normal manual support onto the slanted cube in Bambu Slicer. Tried it out: support brush set to 0.4 (smallest size possible), set the top interface spacing to zero and base pattern to "
+   "text": "When he mentioned checking all the buttons and see if they work i bought a Honda from a main dealer in the summer so couldnt actually see if the rear heater screen worked. First time i needed to clear the rear screen, months later, it didnt work fully, some elements were broken and  Honda wouldnt fix them even though the car had a warranty."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 4.42,
-   "likes": 6,
-   "text": "My husband plays Magic The Gathering, specifically \"premodern\" which uses cards from a specific printing era. These cards can be worth thousands of dollars. He has a jewelers loop so he can verify he hasn't been sold a fake. He's also gotten a few expensive cards that ended up being a little more beat up than shown in the pictures. It's insane how these cards, these cardboard pieces, are worth so "
-  },
-  {
-   "cat": "senior & elderly care",
-   "video": "Clearing Out a Garage Full of Memories & Tools and dealing with dementia",
-   "url": "https://youtu.be/e6zWE9uIku4",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Omg dude!  I\u2019m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I\u2019ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I\u2019ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It\u2019s so hard cause even I dont 100% want to get rid of thi"
-  },
-  {
-   "cat": "gaming & tabletop",
-   "video": "Alternatives to AI for D&D",
-   "url": "https://youtu.be/1ylBawxOB7U",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 4.23,
-   "likes": 1,
-   "text": "Here is the thing. AI is going no where. So it is not a matter of use or don't use it. It is all about using it properly. People said the same thing about sites like DND Beyond...\"I would rather have my pen and paper character sheet\" and \"I don't trust the computer to store my data\" blah blah blah.  I have built a homebrew world and used AI on several fronts. I use Claude for example quite a lot. "
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How We're Saving Tons Of Silicone For Our Small Molds",
-   "url": "https://youtu.be/GJqCg3Anc_I",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.91,
-   "likes": 4,
-   "text": "Tin cured silicone it's a must. I've tried platinum and it does not work with resin parts, even after extra cleaning/curing and multiple coats of spray paint. It offgasses something that prevents the silicone from fully curing. It's a bummer but lesson learned \ud83d\udc4d"
-  },
-  {
-   "cat": "weddings & events",
-   "video": "MY BROTHER\u2019S WEDDING PLANNER CALLED: \u201cYOUR FAMILY CANCELED YOUR INVITATION, BUT...",
-   "url": "https://youtu.be/ec6YhXpmMkk",
-   "signals": [
-    "result_report"
-   ],
-   "score": 3.15,
-   "likes": 2,
-   "text": "They always expect the independent sibling to cough up their money or assets when failing family chat and when that one doesn't work try family who hasn't talked you who are clueless and won't listen then it's let's force them with being ganged up on not expecting them to prove how they have been supporting their dead beat parents and sibling or siblings then it reversed and it's you ruined our li"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pok\u00e9mon Scalper HID the ENTIRE RESTOCK Under the Store Shelve",
-   "url": "https://youtu.be/LFsC0YvyK1M",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "dude if i had the money i would buy every single one of those and give them away for free for strangers just to piss the scalpers off"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Pokemon Scalpers Are Pissed.",
-   "url": "https://youtu.be/c4qDqHsqTXc",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "From \"I gotta buy them before none are left\" To \"I gotta buy them because I get the cards I want so easily\".  They finally understood us... now take my money \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Quit my Tech Job to Build Models Full Time",
-   "url": "https://youtu.be/G7hcaoQPlcI",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 3.0,
-   "likes": 0,
-   "text": "i would buy this from you. great career change and good voice over !"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I'd Start Collecting Pok\u00e9mon From Scratch!",
-   "url": "https://youtu.be/kUeaOBLwURA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Doing mastersets for sets where you don't like all the cards it's a waste of time and money. Even if you think that set is cheap, it's not worth it. That's how I started my Pokemon journey 2 years ago, doing mastersets. After some time I realized I don't like most of the cards and started selling them and kept only the ones I truly love and appreciate. Hope this helps."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Why nobody do something about this company scam \ud83d\ude22\ud83d\ude22 Thank you for the awakening \ud83d\udc4c\ud83c\udffc"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 2.54,
-   "likes": 1,
-   "text": "Grading cards has always been a scam."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "What\u2019s the best app for comping cards? \ud83e\udd14",
-   "url": "https://youtu.be/O96o9H0Lk2w",
+   "cat": "languages & translation",
+   "video": "Learn English with Hey Caro! \ud83e\ude77",
+   "url": "https://youtu.be/63dmNqa2A74",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "What\u2019s the name of the app so I can get it"
+   "text": "Congraaats! \ud83c\udf89\ud83c\udf89\ud83c\udf89 It is a big step for you, I know. However, it doesn't have my native language (yet) to set as a first language, I'll keep the app waiting for an upgrade that contains Hungarian.\ud83d\ude4f\ud83c\udffb  Btw is there any way we (followers) could help at translating? I'd join in gladly\ud83d\ude0a"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Found My 3D Print Being Sold on Amazon",
-   "url": "https://youtu.be/cucM7cUb-ZI",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I feel your pain.  I design and manufacture 3D items for sale.  Everything I make takes hours to design and refine."
+   "text": "guys can we genuienly practice all this manually for free without spending money?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Daaaaaamn man! I created this type of supports by hand so many time, it was a pain EVERY SINGLE TIME. You deserve all the good this world has to offer <3"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I have SO many designs that come with large supports that always A, take an age to remove, and B, really scar the piece that takes forever to sand down. I am SUPER excited to try your support fins! Thank you~ \ud83d\udc96"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "this is usefull. i've spend quite a lot of time doing similar supports by hand and this fits well in to that workflow. time saver"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "i'll try this out for sure! i've been drawing these slant3d supports manually, it kinda *****, but these work so well! did also some fine-tuning so minimize the little dimple artifacts from where these touch"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "I\u2019ve been manually making these in my 3d program for the past 4 years"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
-   "signals": [
-    "manual_pain"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Hey Poke pastor, ive been really enjoying your videos and i appreciate you a lot. I am struggling to find sellers on facebook marketplace that want like 70%, they usually want like 85%. Should i js go negotiate?"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
-   "url": "https://youtu.be/oW6LYTFlZ-8",
+   "cat": "education & study",
+   "video": "How to use one of the most underrated revision tools you already own \ud83d\udcda\ud83e\udde0\u270d\ud83c\udffc",
+   "url": "https://youtu.be/ImiKbRenTFo",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Honestly it looks so much cooler like that (also does anyone know where the pokemon go stamped come from? I can\u2019t remember where I got mine)"
+   "text": "Hi , does anyone know what the background music is pls"
   },
   {
-   "cat": "gaming & tabletop",
-   "video": "Alternatives to AI for D&D",
-   "url": "https://youtu.be/1ylBawxOB7U",
+   "cat": "languages & translation",
+   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
+   "url": "https://youtu.be/_z9ddExksrc",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "How about a generator that works off existing content. Does this exists?   For instance if I'm playing in daggerdale  in the forgotten realms. Is there a tool out there where I could take a snapshot on my phone out of the book and upload it and manipulate that. Something that can be used with a current campaign set."
+   "text": "Does anyone know what app is best to use for learning Korean? I'm using teuida but I'm not sure if I will be able to learn proper Korean from it"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
-   "url": "https://youtu.be/e0y0oWCUlZ4",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I wish I could afford market movers but am on a tight budget"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Stop Using Tree Support for Your 3D Prints",
-   "url": "https://youtu.be/WGsi5SCurpM",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "This is awesome.  Wish there was something like this for resin style supports."
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
-   "url": "https://youtu.be/n_aa-dKIE6o",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "Man, I wish this would happen to me"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "The Battle for Pok\u00e9mon Cards: Scalper vs. Collector!",
-   "url": "https://youtu.be/n_aa-dKIE6o",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I live in Indiana I wish someone would push me \ud83e\udd23\ud83e\udd23\ud83e\udd23stand ur ground state and open carry they won't be scalping anymore looking like Swiss cheese"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I RUINED My Childhood Pok\u00e9mon Collection",
-   "url": "https://youtu.be/oW6LYTFlZ-8",
-   "signals": [
-    "wish_build"
-   ],
-   "score": 2.0,
-   "likes": 0,
-   "text": "I just wish there was a way to peel the corner without covering up Spinarak. Because you can see the other two with the corner down"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Essential Skills for Becoming an AI Engineer: RAG, AI Agents, & More",
-   "url": "https://youtu.be/XN3xNJvWXsc",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "AI Engineer \ud83d\ude06 ... there's no such thing, stop deceiving people. You can call it Promptardation or in best case Prompt Operator.  For young lads, this is a scam. Do something better with your lives. They\u2019ve completely destroyed the industry."
+   "text": "Chasing certs is fools gold. Not worth it."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "Pull the MOST EXPENSIVE Card to Win",
-   "url": "https://youtu.be/InfLciaj4zg",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "my camera on collectr doesn't work it just endlessly runs. it used to work"
+   "text": "I just watched more than 30 mins but this content is terrible - author trying to do something, it doesn't work and he has no clue, then figures it out along the way (\"oh I missed to copy this line of code from example of claude docs\"), renames file - it doesn't work, trying to figure out why, etc.... I'm not expecting the best tutorial \"for free\" but this is ridiculous..."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
+   "cat": "languages & translation",
+   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
+   "url": "https://youtu.be/_z9ddExksrc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I've watched your videos. But i still cant grasp how i could achieve all the bulk you're talking about.  In Sweden, NO ONE sells bulk for the price mentioned. Some kind of epidemic has happened with the prices, even reached out to the moms selling ther kids 100 cards collections thinking they will receive the price of a car.  I've tried eBay and the shipping for me is mostly not worth it. Free int"
+   "text": "it doesnt work that way they updated course -.-"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
-   "url": "https://youtu.be/5pytOsDkHes",
+   "cat": "languages & translation",
+   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
+   "url": "https://youtu.be/_z9ddExksrc",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "How do you reduce your shipping price to justify selling these low-cost cards. It takes 5$ for me to ship that and unless someone grabs a bunch of cards, it\u2019s not worth it."
+   "text": "Duolingo does not work good i heard it sucks at teaching"
   },
   {
-   "cat": "gaming & tabletop",
-   "video": "Alignment Is a Tool, Not a Trap",
-   "url": "https://youtu.be/IGdB2xunPNg",
+   "cat": "cars & motoring",
+   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
+   "url": "https://youtu.be/5CnUjbSiV_Y",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Alignment is based on your personal morality and since human have an incredibly wide view of morality it is no wonder that for 50+ years we have been fighting about alignment. It is an attempt to take the human experience and boil it down to two letters that define your existence. People are very complex, so it doesn't work. Too many people think you act a certain way because your alignment is \"x\""
+   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "education & study",
+   "video": "Can You Study With JUST One App?",
+   "url": "https://youtu.be/SxecH4bYL3g",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Even tho you can see thru the packaging it\u2019s not worth it there almost all ruined in shipping at least for me"
+   "score": 0.96,
+   "likes": 8,
+   "text": "From where can I download it? Is it for Android or iOS?"
   },
   {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
+   "cat": "education & study",
+   "video": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+   "url": "https://youtu.be/reDRM0tqhNs",
    "signals": [
-    "result_report"
+    "link_ask"
    ],
-   "score": 1.5,
+   "score": 0.3,
    "likes": 0,
-   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
-   "url": "https://youtu.be/mMLruVS-bjg",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "How To Make Cat In The Hat In Melon Sandbox!\ud83d\ude40\ud83c\udfa9 #shorts #melonsanbox #melonpg #catinthehat",
-   "url": "https://youtu.be/dKCgXvzvYTA",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "I tried that but it didn't work"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The very first card was a known altered card. Also the upcharge fee is such a scam too"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "The index card for grading was the Gretzky Wagner card, a doctored card. I don\u2019t know how they got so big when the first card they ever graded was a scam"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Investigating The Biggest Scam in Pok\u00e9mon",
-   "url": "https://youtu.be/nGTaJCHz_gI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "\"biggest scam in pokemon\" is an illustrous achievement"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "surprise he didn\u2019t try and  scam you"
-  },
-  {
-   "cat": "hobbies & collecting",
-   "video": "Logan Paul Wanted To Buy My Card.. #pokemontcg #cardshow",
-   "url": "https://youtu.be/5GDsgfv0X14",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Didint logan openly scam thousands of people of out a total of millions of dollars??? PUBLICLY??? I cant believe none of his spineless fans pressed charged!"
-  },
-  {
-   "cat": "gaming & tabletop",
-   "video": "Alternatives to AI for D&D",
-   "url": "https://youtu.be/1ylBawxOB7U",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Alternative tools are great! But I am afraid they can't quite match the flexibility, speed, and quality AI provides for many of the use cases stated here. And I don't think a lot of people will actually follow through on giving up on what AI can provide by replacing it with those tools.  In my opinion, the online TTRPG space has a bit of an \"ego problem\", which fuels the desire to use AI. GMs spec"
+   "text": "Where can i get the repo of this course"
   }
  ]
 }
