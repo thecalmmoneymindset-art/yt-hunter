@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-14
-Keyword groups today: health & fitness, pets | countries: gb, us
+# App Store review report — 2026-11-15
+Keyword groups today: study & work, hobbies & collecting | countries: gb, us
 Fetch errors: none
 
-## health & fitness
+## study & work
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2392702 | 4.71379 | Free | 33 | 15 |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 476431 | 4.70393 | Free | 36 | 9 |
-| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390911 | 4.74146 | Free | 0 | 0 |
-| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1062480 | 4.82841 | Free | 13 | 0 |
-| [GoodRx: Prescription Savings](https://apps.apple.com/us/app/goodrx-prescription-savings/id485357017?uo=4) (us) | 704197 | 4.84087 | Free | 3 | 0 |
-| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532411 | 4.84607 | Free | 15 | 5 |
-| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 775318 | 4.94724 | Free | 2 | 0 |
-| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432956 | 4.90797 | Free | 12 | 3 |
+| [Google Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729?uo=4) (us) | 2430580 | 4.72797 | Free | 5 | 0 |
+| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1072854 | 4.7098 | Free | 32 | 14 |
+| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 209570 | 4.56954 | Free | 36 | 10 |
+| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 469701 | 4.71788 | Free | 30 | 14 |
+| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 199116 | 4.64715 | Free | 33 | 11 |
+| [Notability: AI Notes & PDF](https://apps.apple.com/us/app/notability-ai-notes-pdf/id360593530?uo=4) (us) | 458869 | 4.76046 | Free | 38 | 19 |
+| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 669692 | 4.83884 | Free | 14 | 5 |
+| [ZipRecruiter Job Search](https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4) (us) | 596762 | 4.86526 | Free | 13 | 3 |
 
-Repeated complaint phrases: none yet
+Repeated complaint phrases: used to work (5); years of work (3); over the last (3); select the location (3)
 
-- MyFitnessPal: Calorie Counter, 1 star: "Food log - Please add pear as a fruit. Also, please review adding food format since it doesn’t accommodate adding fruit. Thanks"
-- MyFitnessPal: Calorie Counter, 2 star: "Annoying ads - Used to be great. Lately, the new UI bugs out when I add foods to certain meals.  There's a huge blank space at the bottom. If I had to guess, it is the ads. If I click the food and then go back that space will disappear. iOS 26 iPhone 16  Still broken with latest update."
-- MyFitnessPal: Calorie Counter, 1 star: "Update is terrible! - Recently the app updated and I lost the ability to copy my friends’ meals to my own. At first I thought it was a bug and lived with it expecting another update but it would seem this is intentional. Another issue is the user interface is becoming less and less intuitive and is "
-- MyFitnessPal: Calorie Counter, 2 star: "Not worth the cost - The app is good but the developers want way more than it’s worth. The monthly price is obscene and their annual prices are exorbitant for the value of the software. There are other apps that do the same thing for significantly less. Don’t waste your money."
-- MyFitnessPal: Calorie Counter, 1 star: "Constantly Logs Out - Slow PITA. Disappointing subscription. Loses settings."
-- MyFitnessPal: Calorie Counter, 1 star: "Great app with one limitation - I’ve used this app for 5+ years and have always loved it and I pay for the top tier subscription. They do a good job evolving and doing cool things with the user interface. Up until a month ago, this review would be 5-star.   However, I recently started using an AI ag"
+- Microsoft OneNote, 1 star: "I've never hated anything so much in my life - Uses for work to quickly shift between iPad laptop and phone and it is an atrocious dumpster fire. Littered with issues, quirks, synch errors and excessive login request etc. wish I could find an alternative."
+- Notes, 3 star: "Was Great Until Update - This app WAS really great to work with. I like making lists and I used to be able to quickly look things up in the find notes section of the app. But AFTER THE RECENT UPDATE, now whenever I use it, instead of looking up each word, sentence, letter that Im trying to look spec"
+- Microsoft OneNote, 3 star: "Can be better - Tool is good but there are a lot of issues with no one to support. Feels like I pay for the subscription but Microsoft treats me as if I am getting this service for free. I tried to contact Microsoft multiple times but no luck. If anyone is taking this comment seriously please contac"
+- Microsoft OneNote, 1 star: "UI - The previous interface with just Home, search, and notebooks (sticky notes is nice) was easier to use. Copilot notebooks takes the majority of the bar and I don’t use it. And to switch between recent pages and notebooks I now have to go up to the top. Also, the recent pages keep flickering and "
+- Microsoft OneNote, 1 star: "Login keeps failing - Cannot login despite correct credentials. It keeps failing with a server issue. Please correct."
+- Microsoft OneNote, 2 star: "Good but pretty buggy - Needs to be restarted frequently"
 
-## pets
+## hobbies & collecting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 165429 | 4.62526 | Free | 22 | 11 |
-| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1259501 | 4.91035 | Free | 7 | 1 |
-| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 103817 | 4.71399 | Free | 16 | 4 |
-| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 512380 | 4.85905 | Free | 12 | 4 |
-| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 517065 | 4.88513 | Free | 17 | 4 |
-| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 67873 | 4.7648 | Free | 29 | 3 |
-| [AllTrails: Hike, Run & Walk](https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943?uo=4) (gb) | 65685 | 4.8445 | Free | 12 | 5 |
-| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 79473 | 4.92981 | Free | 6 | 3 |
+| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119627 | 4.5856 | Free | 24 | 12 |
+| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 615487 | 4.82813 | Free | 39 | 7 |
+| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 335268 | 4.78625 | Free | 25 | 12 |
+| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 77123 | 4.66263 | Free | 21 | 9 |
+| [MONOPOLY Solitaire: Card Games](https://apps.apple.com/us/app/monopoly-solitaire-card-games/id1536804215?uo=4) (us) | 75666 | 4.69961 | Free | 39 | 10 |
+| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114616 | 4.75396 | Free | 23 | 9 |
+| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 150881 | 4.81158 | Free | 4 | 1 |
+| [AnyList: Grocery Shopping List](https://apps.apple.com/us/app/anylist-grocery-shopping-list/id522167641?uo=4) (us) | 81501 | 4.86366 | Free | 5 | 1 |
 
-Repeated complaint phrases: pay for background (3); bug after bug (3)
+Repeated complaint phrases: love this game (4); used to love (3); charged for year (3); trying to charge (3)
 
-- AllTrails: Hike, Run & Walk, 2 star: "Purposefully blocking loaded maps - I don’t use the app frequently enough to warrant a subscription. Over the years I have navigated with AllTrails, I haven’t had any issues with disruption to my data - the map loads when there is a signal and stays loaded. Or at least, it used to. In what appears t"
-- Chewy - Pet Care & Pharmacy, 1 star: "Terrible company - This company hates free speech and condemns people for literally laughing at jokes. Freedom is not worth the convenience of not having to put dog food in my cart with the other groceries I’m already getting!"
-- Rover – Pet Sitters, 1 star: "Bug - Well since there’s no way to report a bug I guess a review it is!  Why can’t I scroll down under care instructions in the app?? It just freezes and the scroll locks. You’re telling me I need to go to a desktop to see care instructions?? Do some regression testing!!!"
-- Rover – Pet Sitters, 2 star: "The calendar doesn’t fit with apple duo - The calendar is completely misaligned. The dates like Nov 14,21 are missing from the calendar. When you are on 2 screens, it’s even worse"
-- Rover – Pet Sitters, 1 star: "The most frustrating app - No way to change your email because you have maybe 30 seconds to verify new email rather than the stated 15 minutes. Can’t change pets only add. I’ve deleted and re-signed up twice now."
-- Rover – Pet Sitters, 1 star: "Useless on an iPad - Why would I try and plan a visit picking over an iPhone key pad instead of exploring things on my iPad?"
+- Fishbrain - Fishing App, 1 star: "Pay wall - All useable content is hidden behind a paywall. I would rather ask locals rather than pay $13 a month."
+- Phase 10: Casual Card Game, 3 star: "Somethings missing - I’ve been playing phase 10 mobile for many years. There used to be a small break in between the (idk what’s it called) not events, maybe Journey’s. For example the pop the balloon that seemed to just start now it’s gone or the 1 where the mirror appears and you get to double wha"
+- Phase 10: Casual Card Game, 2 star: "Used to love this game - I’ve been playing on and off for many years. This game has become ridiculous. I tired of losing an insane number of rounds to bots that go out immediately with 4 wilds. There is no way to win most of the time. As someone who doesn’t “pay” to get ahead, it’s discouraging. It "
+- Phase 10: Casual Card Game, 2 star: "Great Memories, Very Poor Execution - Great memories as a kid playing this game with family. Unfortunately, this version of it absolutely sucks. So many ads, NPC’s constantly getting way better deals, and the chest that fills with all your accomplishments that you have to pay for is a scam. This gam"
+- Phase 10: Casual Card Game, 2 star: "What happened - Game used to be very good. Now it’s a stick in the mud."
+- Phase 10: Casual Card Game, 1 star: "Let Me Play - Too much going let me just play the card game without out all the extra stuff going on it’s quite annoying and you can’t even bypass it, you have click on it. FIX IT to how it used to be."
