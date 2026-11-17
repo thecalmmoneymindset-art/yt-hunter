@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-16
-Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
+# App Store review report — 2026-11-17
+Keyword groups today: cars & transport, events & community | countries: gb, us
 Fetch errors: none
 
-## travel & relocation
+## cars & transport
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Google](https://apps.apple.com/us/app/google/id284815942?uo=4) (us) | 5371049 | 4.64497 | Free | 21 | 2 |
-| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 6018882 | 4.78782 | Free | 27 | 4 |
-| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2232214 | 4.84602 | Free | 25 | 5 |
-| [Xoom: Send Money & Transfer](https://apps.apple.com/us/app/xoom-send-money-transfer/id529615515?uo=4) (us) | 1213946 | 4.81614 | Free | 12 | 3 |
-| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 479235 | 4.75007 | Free | 17 | 3 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 482195 | 4.82204 | Free | 16 | 2 |
-| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 313408 | 4.84134 | Free | 13 | 4 |
-| [GetYourGuide: Plan & Book](https://apps.apple.com/us/app/getyourguide-plan-book/id705079381?uo=4) (us) | 337916 | 4.89286 | Free | 11 | 2 |
+| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 239211 | 4.72729 | Free | 33 | 9 |
+| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 260235 | 4.76816 | Free | 27 | 2 |
+| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 399495 | 4.82029 | £5.99 | 0 | 0 |
+| [YourParkingSpace - Parking App](https://apps.apple.com/gb/app/yourparkingspace-parking-app/id1107618222?uo=4) (gb) | 62688 | 4.66509 | Free | 39 | 7 |
+| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184497 | 4.76508 | Free | 8 | 3 |
+| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101649 | 4.72775 | Free | 9 | 6 |
+| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187771 | 4.8067 | Free | 47 | 11 |
+| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 128965 | 4.84119 | Free | 24 | 4 |
 
-Repeated complaint phrases: none yet
+Repeated complaint phrases: flash and quit (3)
 
-- Booking.com: Hotels & Travel, 1 star: "⭐ 1 star — In tears, stranded with five children, and no meaningful help - Our property owner emailed to cancel our reservation just 30 minutes before we were supposed to check in. I was in Florida with my five children, suddenly facing the possibility of having nowhere for them to sleep.  I immedia"
-- Xoom: Send Money & Transfer, 1 star: "Joke Service - Send all valid documents (which 3rd party verify) sent drivers license and required documents that I asked. All have same name, address and matching details. Bank statements of 3 months, W2, tax forms etc. Xoom said they cant verify so will cancel document. When asked what is not able"
-- Expedia: Hotels, Flights, Cars, 3 star: "Scam artist - Ai fake prices"
-- Expedia: Hotels, Flights, Cars, 2 star: "Bookings great adjustments horrible - Bookings are smooth and easy but if you run into any problems it’s really bad. Legit have went to an overbooked hotel they said they couldn’t help me after booking me for it. And FAA cancelled my flights and I’m missing a vacation I planned waited on hold for 5 "
-- Expedia: Hotels, Flights, Cars, 1 star: "Scammed twice in one day - The hotel looked nothing like the pictures. There was a bad smell, and it looked drug infested."
-- Expedia: Hotels, Flights, Cars, 1 star: "Too expensive try kayak or Skyscanner - Customer service is very poor never received right answer and on time just wasted time third class customer service"
+- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
+- ParkWhiz - #1 Parking App, 1 star: "Reservation not honored. - I had a reservation for this morning at the iPark garage on 15 E 83rd St NYC. When I arrived, the attendant refused to even look at my confirmed & prepaid reservation. He said the garage was full and ParkWhiz has no knowledge of the parking availability when it booked my r"
+- ParkWhiz - #1 Parking App, 1 star: "Do not use in Chicago! - This app ended up being useless in Chicago. We were unable to locate an actual lot that matched the address, descriptions and pictures of the first place we booked. The picture shows street parking that is all reserved parking; the description made no sense regarding locatio"
+- YourParkingSpace - Parking App, 1 star: "Useless - Wont login with Google or Apple, parking locations not being identified. Constant red banner saying “unauthorised” but no explanation to fix the issue."
+- ParkNYC Powered by Flowbird, 1 star: "Mediocre design!! - Poorly designed. Should have key numbers instead of long nonsense numbers. Long steps to park. Connections issues with."
+- ParkNYC Powered by Flowbird, 1 star: "Scam - Why do I have to top off the account with 25$ if I’m only in New York for a day and won’t be spending more then 3$"
 
-## creators & sellers
+## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5826166 | 4.77599 | Free | 42 | 15 |
-| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4449900 | 4.75359 | Free | 39 | 15 |
-| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8489661 | 4.82589 | Free | 40 | 13 |
-| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969558 | 4.81623 | Free | 44 | 12 |
-| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260754 | 4.75333 | Free | 47 | 17 |
-| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7387364 | 4.92467 | Free | 16 | 8 |
-| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3621226 | 4.87291 | Free | 14 | 5 |
-| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3807173 | 4.89689 | Free | 9 | 1 |
+| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5611664 | 4.89142 | Free | 23 | 3 |
+| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1114384 | 4.84026 | Free | 23 | 2 |
+| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1845187 | 4.89621 | Free | 11 | 5 |
+| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 357712 | 4.82284 | Free | 28 | 8 |
+| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 115068 | 4.76863 | Free | 16 | 1 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 224110 | 4.85513 | Free | 30 | 4 |
+| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 93783 | 4.82721 | Free | 8 | 0 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 99251 | 4.91291 | Free | 32 | 10 |
 
-Repeated complaint phrases: used to love (11); poor customer service (3)
+Repeated complaint phrases: way to save (3)
 
-- eBay marketplace: shopping app, 1 star: "Forced AI is less than useless. - I hate anything that forces me me to use ai. It should not be mandatory to let bad ai tools provide an incorrect assessment of your listing which you then have to correct anyway knowing you’ve wasted a bunch of power and water for the privilege. Gonna go sell on vin"
-- Pinterest, 1 star: "Bad AI images & Amazon spam - The title of this review sums it up. I started using Pinterest when it first launched… you know, when you had to get an “invite” to join. Pure joy in sharing ideas and learning from others. I cannot believe the trash this has turned into. I guess eveyone sells out at so"
-- eBay marketplace: shopping app, 1 star: "Irritating - Notifications really irritating even though I’ve opted out. Wish they’d get rid of eBay live too - not interested and just clutters up the app"
-- eBay marketplace: shopping app, 1 star: "Avoid selling on eBay - absolutely terrible experience ! - I have had an absolutely appalling experience with eBay. My selling account has been suspended, seemingly without any reasonable explanation, and eBay has been holding over £3,000 of my hard-earned money for more than 180 days (over 6 months"
-- eBay marketplace: shopping app, 1 star: "Live is terrible - Worst update yet with no way to change it!! No wonder ebay is losing so many sellers & buyers to other apps!"
-- eBay marketplace: shopping app, 2 star: "Please add way to opt out / remove eBay live from Home Screen - App otherwise good, but ruined by the addition of the hard selling live adverts which constantly open accidentally and are ridiculously difficult to close"
+- Sam's Club Shopping & Delivery, 2 star: "Hate the new layout - I hate that Sam’s Club is merging into another Walmart. I understand they’re owned by the same people but the original Sam’s app was much better. By copying Walmart you’re also accepting their faults as well. Like now when you put in a curbside order they want you to do substit"
+- Sam's Club Shopping & Delivery, 1 star: "Over charged for membership - And cannot get through to customer service to fix the problem. The phone call won’t get picked up after being on hold and the AI chat freezes and times out."
+- Sam's Club Shopping & Delivery, 1 star: "Online sux - I ordered everything, it was all confirmed and then a few minutes later it got cancelled.  Some items were on the list still, but others weren’t and now I don’t know what I’m missing!"
+- Eventbrite, 1 star: "worthless - unlike every other ticket app in the universe, this one has no support for Apple wallet.  It also has no way to add tickets to your account, so if somebody buys tickets and sends them to you, there is no way to save them.  it claims to let you download tickets, but all it does is open a "
+- Eventbrite, 1 star: "Where are the tickets hiding? - It’s not intuitive for me to find my tickets and be able to log on to event. I check my email confirmation and Apple Wallet. What am I missing (besides a brain that understands how to access Eventbrite tickets?)"
+- Eventbrite, 1 star: "Scam event app - Do not buy from this app it is a scam and the 5 star reviews are a lie"
