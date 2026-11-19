@@ -1,72 +1,65 @@
-# Stack Exchange unmet-needs report — 2026-11-18
-Sites today: outdoors, law, photo, music, fitness, lifehacks | window: last 365 days | questions with zero answers, ranked by votes
+# Stack Exchange unmet-needs report — 2026-11-19
+Sites today: webapps, academia, islam, sports, homebrew, interpersonal | window: last 365 days | questions with zero answers, ranked by votes
 
 Fetch errors: none
 
-## outdoors (3 unanswered popular questions; API quota left: 299)
+## webapps (30 unanswered popular questions; API quota left: 299)
 Repeated phrases: none
 
-- 5 votes, 488 views — [Is Niagra Falls ever turned up to maximum?](https://outdoors.stackexchange.com/questions/30404/is-niagra-falls-ever-turned-up-to-maximum) — tags: waterfalls
-- 1 votes, 260 views — [keep finding bug/mite looking creature in my water bottle](https://outdoors.stackexchange.com/questions/30420/keep-finding-bug-mite-looking-creature-in-my-water-bottle) — tags: bug-identification
-- 3 votes, 89 views — [Does the heating capability of down change dramatically with humidity?](https://outdoors.stackexchange.com/questions/30541/does-the-heating-capability-of-down-change-dramatically-with-humidity) — tags: sleeping-bags, rain, temperature, down
+- 1 votes, 415 views — [Personal Gmail + business email merged, how to separate?](https://webapps.stackexchange.com/questions/182311/personal-gmail-business-email-merged-how-to-separate) — tags: gmail, google-workspace, google-account
+- 3 votes, 371 views — [Endless console spam from https://static.licdn.com/aero-v1/sc/h/... on linkedin.com — Chrome only](https://webapps.stackexchange.com/questions/182298/endless-console-spam-from-https-static-licdn-com-aero-v1-sc-h-on-linkedin) — tags: google-chrome, linkedin
+- 4 votes, 213 views — [How to ban Copilot from GitHub repo?](https://webapps.stackexchange.com/questions/182412/how-to-ban-copilot-from-github-repo) — tags: github
+- 3 votes, 200 views — [Select all messages from a search query in Proton Mail](https://webapps.stackexchange.com/questions/182150/select-all-messages-from-a-search-query-in-proton-mail) — tags: protonmail
+- 1 votes, 198 views — [If I block someone on X, and then I mention them on my post, will they get notified?](https://webapps.stackexchange.com/questions/182345/if-i-block-someone-on-x-and-then-i-mention-them-on-my-post-will-they-get-notif) — tags: x.com
+- 2 votes, 190 views — [Can Slack’s “Double-check this link” warning be disabled for internal links/IP addresses?](https://webapps.stackexchange.com/questions/182278/can-slack-s-double-check-this-link-warning-be-disabled-for-internal-links-ip-a) — tags: slack
+- 1 votes, 139 views — [How to make Youtube buffer an entire video?](https://webapps.stackexchange.com/questions/182587/how-to-make-youtube-buffer-an-entire-video) — tags: youtube
+- 1 votes, 96 views — [How do I search Facebook Marketplace for recent trending sold items?](https://webapps.stackexchange.com/questions/182448/how-do-i-search-facebook-marketplace-for-recent-trending-sold-items) — tags: facebook, facebook-marketplace
+- 3 votes, 89 views — [Show only a single transit route selection in Google Maps](https://webapps.stackexchange.com/questions/182082/show-only-a-single-transit-route-selection-in-google-maps) — tags: google-maps, google-transit
+- 2 votes, 86 views — [How to return the latest existing snapshot of a webpage?](https://webapps.stackexchange.com/questions/182429/how-to-return-the-latest-existing-snapshot-of-a-webpage) — tags: archive.org
 
-## law (30 unanswered popular questions; API quota left: 298)
+## academia (24 unanswered popular questions; API quota left: 298)
 Repeated phrases: none
 
-- 3 votes, 395 views — [What head games can a big corporation’s lawyers play with a self-represented litigant, right before the hearing?](https://law.stackexchange.com/questions/115513/what-head-games-can-a-big-corporation-s-lawyers-play-with-a-self-represented-lit) — tags: litigant-in-person
-- 2 votes, 274 views — [(How) Can a lawyer be disbarred from practicing in U.S. federal courts?](https://law.stackexchange.com/questions/114201/how-can-a-lawyer-be-disbarred-from-practicing-in-u-s-federal-courts) — tags: united-states, lawyer, federal-courts
-- 9 votes, 243 views — [Are the wearers of Ray-Ban Metas data controllers?](https://law.stackexchange.com/questions/115157/are-the-wearers-of-ray-ban-metas-data-controllers) — tags: united-kingdom, gdpr, european-union
-- 3 votes, 234 views — [Is Atlassians plan for training AI models on user data unlawful under GDPR?](https://law.stackexchange.com/questions/114652/is-atlassians-plan-for-training-ai-models-on-user-data-unlawful-under-gdpr) — tags: gdpr, european-union, is-x-legal, artificial-intelligence
-- 2 votes, 215 views — [Why does Flavacol Popcorn Salt have an iodine disclosure, but Lawry's Seasoned Salt does not?](https://law.stackexchange.com/questions/114568/why-does-flavacol-popcorn-salt-have-an-iodine-disclosure-but-lawrys-seasoned-s) — tags: regulations, food
-- 2 votes, 206 views — [What was the legal difference (if any) between the US government offering a bounty for Maduro and sending special forces to arrest Maduro?](https://law.stackexchange.com/questions/113961/what-was-the-legal-difference-if-any-between-the-us-government-offering-a-boun) — tags: international
-- 2 votes, 197 views — [Is muslim sect of Quarnaists that reject all hadiths also subject to apostasy in Sharia law?](https://law.stackexchange.com/questions/112510/is-muslim-sect-of-quarnaists-that-reject-all-hadiths-also-subject-to-apostasy-in) — tags: religious-law, freedom-of-religion, islamic-law
-- 3 votes, 192 views — [Statistically, what happens to defendants found not guilty by reason of insanity in the US?](https://law.stackexchange.com/questions/115620/statistically-what-happens-to-defendants-found-not-guilty-by-reason-of-insanity) — tags: united-states, insanity
-- 2 votes, 187 views — [Can a spouse keep a mother from visiting the incapacitated son and husband?](https://law.stackexchange.com/questions/114364/can-a-spouse-keep-a-mother-from-visiting-the-incapacitated-son-and-husband) — tags: united-states, florida, utah, guardianship
-- 1 votes, 164 views — [Are Bills of Attainder Constitutional in Canada?](https://law.stackexchange.com/questions/115328/are-bills-of-attainder-constitutional-in-canada) — tags: canada, constitutional-law, attainder
+- 4 votes, 931 views — [Are arXiv "on-hold" review delays lengthening following the July 2026 Cornell spin-out?](https://academia.stackexchange.com/questions/227260/are-arxiv-on-hold-review-delays-lengthening-following-the-july-2026-cornell-sp) — tags: publications, research-process, computer-science, arxiv
+- 1 votes, 435 views — [Different manuscript statuses between SNAPP and Editorial Manager (Springer)](https://academia.stackexchange.com/questions/226208/different-manuscript-statuses-between-snapp-and-editorial-manager-springer) — tags: publications, peer-review, journals, paper-submission
+- 3 votes, 392 views — [When is it worth inviting collaborators onto a paper I have already drafted?](https://academia.stackexchange.com/questions/225549/when-is-it-worth-inviting-collaborators-onto-a-paper-i-have-already-drafted) — tags: authorship, writing, collaboration, changing-fields
+- 2 votes, 314 views — [The correct approach when in doubt with a co-author](https://academia.stackexchange.com/questions/225459/the-correct-approach-when-in-doubt-with-a-co-author) — tags: conference, authorship
+- 2 votes, 311 views — [When should I send e-mail to a potential supervisor if I want to start an individual PhD in April 2027? [Germany]](https://academia.stackexchange.com/questions/224241/when-should-i-send-e-mail-to-a-potential-supervisor-if-i-want-to-start-an-indivi) — tags: phd, germany, social-science
+- 5 votes, 306 views — [Rights of applicants for W positions in Germany seeking information](https://academia.stackexchange.com/questions/226928/rights-of-applicants-for-w-positions-in-germany-seeking-information) — tags: career-path, germany
+- 3 votes, 278 views — [Making my case in proposing a reputable journal in which to publish](https://academia.stackexchange.com/questions/225959/making-my-case-in-proposing-a-reputable-journal-in-which-to-publish) — tags: disreputable-publishers
+- 0 votes, 266 views — [What is expected of a pure mathematics PhD dissertation (in the UK)?](https://academia.stackexchange.com/questions/226416/what-is-expected-of-a-pure-mathematics-phd-dissertation-in-the-uk) — tags: phd, thesis, writing, united-kingdom
+- 5 votes, 260 views — [PhD recruitment process Norway](https://academia.stackexchange.com/questions/226939/phd-recruitment-process-norway) — tags: phd, university, interview, norway
+- 5 votes, 248 views — [Is there a page limit for the research project in a CNRS Chaire de Professeur Junior (CPJ) application?](https://academia.stackexchange.com/questions/227529/is-there-a-page-limit-for-the-research-project-in-a-cnrs-chaire-de-professeur-ju) — tags: job-search, job, assistant-professor, france
 
-## photo (11 unanswered popular questions; API quota left: 297)
+## islam (30 unanswered popular questions; API quota left: 297)
 Repeated phrases: none
 
-- 0 votes, 187 views — [Changing the date of a photo taken on a digital camera](https://photo.stackexchange.com/questions/138340/changing-the-date-of-a-photo-taken-on-a-digital-camera) — tags: metadata
-- 0 votes, 144 views — [How can I identify a ring on a hand from a number of old non digital photos. Any attempt to magnify the photo ends in blurr](https://photo.stackexchange.com/questions/138363/how-can-i-identify-a-ring-on-a-hand-from-a-number-of-old-non-digital-photos-any) — tags: photoshop
-- 0 votes, 106 views — [Photomed Canon SX730 Camera](https://photo.stackexchange.com/questions/138277/photomed-canon-sx730-camera) — tags: canon
-- 1 votes, 103 views — [Track-side photo locations at Mantorp Park, Sweden (2026)](https://photo.stackexchange.com/questions/138636/track-side-photo-locations-at-mantorp-park-sweden-2026) — tags: locations, motorsports
-- 1 votes, 97 views — [Why is my Lumix DMC-GX1 shutter closing instead of opening? Is it a software issue?](https://photo.stackexchange.com/questions/138587/why-is-my-lumix-dmc-gx1-shutter-closing-instead-of-opening-is-it-a-software-iss) — tags: troubleshooting, software, shutter, error
-- 0 votes, 93 views — [Is there a simple way to keep Canon ProGraf-300 drivers up to date on MacOS](https://photo.stackexchange.com/questions/138360/is-there-a-simple-way-to-keep-canon-prograf-300-drivers-up-to-date-on-macos) — tags: canon, printer
-- 0 votes, 81 views — [Accidentally advanced film while "L" was active, now film doesn't advance at all. Canon AE-1](https://photo.stackexchange.com/questions/138525/accidentally-advanced-film-while-l-was-active-now-film-doesnt-advance-at-all) — tags: canon, camera
-- 0 votes, 80 views — [Why does Hugin tint a TIFF file red before it starts stitching?](https://photo.stackexchange.com/questions/137186/why-does-hugin-tint-a-tiff-file-red-before-it-starts-stitching) — tags: hugin
-- 0 votes, 46 views — [Stereo vs compound microscope for focus stacking—resolution vs depth tradeoff?](https://photo.stackexchange.com/questions/138491/stereo-vs-compound-microscope-for-focus-stacking-resolution-vs-depth-tradeoff) — tags: image-quality, microscopy
-- 0 votes, 29 views — [Mising speedlight menu at canon R7 using yn622c-tx](https://photo.stackexchange.com/questions/138454/mising-speedlight-menu-at-canon-r7-using-yn622c-tx) — tags: troubleshooting
+- 1 votes, 114 views — [Can we shave this part of the beard](https://islam.stackexchange.com/questions/91189/can-we-shave-this-part-of-the-beard) — tags: halal-haram, fatwa, beard
+- 1 votes, 104 views — [Is it Permissible to Follow Different Ramadhan Start and Eid Dates Due to Work and Hometown Differences?](https://islam.stackexchange.com/questions/91183/is-it-permissible-to-follow-different-ramadhan-start-and-eid-dates-due-to-work-a) — tags: ramadan, eid
+- 0 votes, 83 views — [Can a husband help appoint a wali for his wife if she does not have any suitable wali? (Before Marriage)](https://islam.stackexchange.com/questions/91686/can-a-husband-help-appoint-a-wali-for-his-wife-if-she-does-not-have-any-suitable) — tags: fiqh, nikah, husband-wife, wali
+- 1 votes, 69 views — [Video game containing an ability with a shirk name](https://islam.stackexchange.com/questions/91312/video-game-containing-an-ability-with-a-shirk-name) — tags: fatwa
+- 1 votes, 55 views — [Lawful killing of a convicted murderer](https://islam.stackexchange.com/questions/89799/lawful-killing-of-a-convicted-murderer) — tags: practical-islam, sharia
+- 1 votes, 53 views — [is it haram to buy counterfeit goods](https://islam.stackexchange.com/questions/91571/is-it-haram-to-buy-counterfeit-goods) — tags: halal-haram, sharia, allah, prophet-muhammad
+- 1 votes, 51 views — [Starting reciting tashahud after sajda sahw](https://islam.stackexchange.com/questions/91018/starting-reciting-tashahud-after-sajda-sahw) — tags: hadith, fiqh, sunni, usool-ul-fiqh
+- 1 votes, 50 views — [Hadith of a Companion(ra) of Prophet Muhammad(saw. The companion(ra) was near death and spoke of the world being like smoke](https://islam.stackexchange.com/questions/91381/hadith-of-a-companionra-of-prophet-muhammadsaw-the-companionra-was-near-de) — tags: hadith, source-identification, reference-request
+- 0 votes, 50 views — [Who is Finhas ibn al-'Izar ibn Harun ibn 'Imran? (عليه السلام)](https://islam.stackexchange.com/questions/92759/who-is-finhas-ibn-al-izar-ibn-harun-ibn-imran-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) — tags: prophets
+- 0 votes, 48 views — [How to be sure that Islam is the correct religion?](https://islam.stackexchange.com/questions/91693/how-to-be-sure-that-islam-is-the-correct-religion) — tags: theology
 
-## music (27 unanswered popular questions; API quota left: 296)
+## sports (4 unanswered popular questions; API quota left: 296)
 Repeated phrases: none
 
-- 0 votes, 182 views — [Impedance converter](https://music.stackexchange.com/questions/143333/impedance-converter) — tags: electric-guitar, recording, equipment
-- 1 votes, 181 views — [Can Musipedia identify a tune on a midi file?](https://music.stackexchange.com/questions/143506/can-musipedia-identify-a-tune-on-a-midi-file) — tags: melody
-- 2 votes, 180 views — [What are the scales used in Chinese traditional music?](https://music.stackexchange.com/questions/144365/what-are-the-scales-used-in-chinese-traditional-music) — tags: scales, modes
-- 5 votes, 131 views — [Out of tune three-string F♯ piano key had one string tuned to D♯ and one to F. How can that happen?](https://music.stackexchange.com/questions/143372/out-of-tune-three-string-f%e2%99%af-piano-key-had-one-string-tuned-to-d%e2%99%af-and-one-to-f-h) — tags: piano, tuning, strings
-- 0 votes, 129 views — [How to get the deep robotic voice sound effect?](https://music.stackexchange.com/questions/144219/how-to-get-the-deep-robotic-voice-sound-effect) — tags: voice, daw, production, effects
-- 2 votes, 123 views — [Multiple systems on the same line - Lilypond](https://music.stackexchange.com/questions/142821/multiple-systems-on-the-same-line-lilypond) — tags: lilypond, engraving
-- 4 votes, 115 views — [What arrangement and composition techniques for the accompaniment help the singer sing better?](https://music.stackexchange.com/questions/143829/what-arrangement-and-composition-techniques-for-the-accompaniment-help-the-singe) — tags: composition, arranging, accompaniment
-- 0 votes, 102 views — [Gold king flute](https://music.stackexchange.com/questions/143351/gold-king-flute) — tags: flute
-- 2 votes, 100 views — [Interpreting Weber’s Dynamic Markings in the Freischütz Overture (mm. 86ff.)](https://music.stackexchange.com/questions/144144/interpreting-weber-s-dynamic-markings-in-the-freisch%c3%bctz-overture-mm-86ff) — tags: notation, orchestra, dynamics, orchestration
-- 3 votes, 94 views — [Tab errors when exporting MIDI from DAW to tab creation software](https://music.stackexchange.com/questions/143947/tab-errors-when-exporting-midi-from-daw-to-tab-creation-software) — tags: guitar, midi, tablature, musicxml
+- 1 votes, 89 views — [How long was Virat Kohli able to maintain 50+ Avg. in all 3 formats of test, ODI and T20 I &Did any other international player maintained such record?](https://sports.stackexchange.com/questions/30254/how-long-was-virat-kohli-able-to-maintain-50-avg-in-all-3-formats-of-test-odi) — tags: cricket, statistics, records
+- 2 votes, 74 views — [NBA Rule: Distinction Between Stopping the Clock and Resetting Time After a Foul](https://sports.stackexchange.com/questions/30197/nba-rule-distinction-between-stopping-the-clock-and-resetting-time-after-a-foul) — tags: nba, game-time
+- 1 votes, 39 views — [Which cyclist has won the greatest proportion of stages in a 3 week Grand Tour?](https://sports.stackexchange.com/questions/30213/which-cyclist-has-won-the-greatest-proportion-of-stages-in-a-3-week-grand-tour) — tags: cycling, tour-de-france
+- 1 votes, 22 views — [Did Superbon beat Buakaw?](https://sports.stackexchange.com/questions/30398/did-superbon-beat-buakaw) — tags: rules
 
-## fitness (14 unanswered popular questions; API quota left: 295)
+## homebrew (2 unanswered popular questions; API quota left: 295)
 Repeated phrases: none
 
-- 0 votes, 180 views — [Frontal v. scapular lateral raises](https://fitness.stackexchange.com/questions/48769/frontal-v-scapular-lateral-raises) — tags: shoulders, deltoids
-- 1 votes, 139 views — [Difficulty doing pull-up and push-up](https://fitness.stackexchange.com/questions/48759/difficulty-doing-pull-up-and-push-up) — tags: muscle
-- 1 votes, 121 views — [How far out can estimated basal metabolic rate and exercise expenditure be?](https://fitness.stackexchange.com/questions/48773/how-far-out-can-estimated-basal-metabolic-rate-and-exercise-expenditure-be) — tags: weight-loss, calories, bmr
-- 0 votes, 99 views — [Can you review my current plan?](https://fitness.stackexchange.com/questions/48778/can-you-review-my-current-plan) — tags: weight-loss, workout-routines, strength-training, routine
-- 2 votes, 82 views — [Sitting down briefly at a provisions stop on a long (30kms+) trail run](https://fitness.stackexchange.com/questions/48738/sitting-down-briefly-at-a-provisions-stop-on-a-long-30kms-trail-run) — tags: long-distance-running
-- 1 votes, 59 views — [How does caloric deficit relative to body fat relate to FFM loss relative to total weight loss?](https://fitness.stackexchange.com/questions/48763/how-does-caloric-deficit-relative-to-body-fat-relate-to-ffm-loss-relative-to-tot) — tags: weight-loss, cutting
-- 0 votes, 58 views — [best prep for Grand Canyon backpacking](https://fitness.stackexchange.com/questions/48804/best-prep-for-grand-canyon-backpacking) — tags: exercise, cardio, lower-body-strength
-- 0 votes, 47 views — [On this machine is the bar scored as 20 pounds?](https://fitness.stackexchange.com/questions/48902/on-this-machine-is-the-bar-scored-as-20-pounds) — tags: weights
-- 0 votes, 46 views — [Rehab Program Review](https://fitness.stackexchange.com/questions/48795/rehab-program-review) — tags: workout-routines, routine, programming, rehabilitation
-- 2 votes, 44 views — [Vegan Wide Toebox Lifting Shoes](https://fitness.stackexchange.com/questions/48930/vegan-wide-toebox-lifting-shoes) — tags: weightlifting, shoes, lifting
+- 0 votes, 50 views — [Dunkelweizen comes out like a stout](https://homebrew.stackexchange.com/questions/27319/dunkelweizen-comes-out-like-a-stout) — tags: airlock, stout
+- 0 votes, 40 views — [Does anyone know of valved stoppers being available?](https://homebrew.stackexchange.com/questions/27304/does-anyone-know-of-valved-stoppers-being-available) — tags: bottling
 
-## lifehacks (1 unanswered popular questions; API quota left: 294)
+## interpersonal (1 unanswered popular questions; API quota left: 294)
 Repeated phrases: none
 
-- 0 votes, 82 views — [I m planning to fight in Ukraine trenches. But how do I overcome this problem](https://lifehacks.stackexchange.com/questions/28367/i-m-planning-to-fight-in-ukraine-trenches-but-how-do-i-overcome-this-problem) — tags: home
+- 0 votes, 117 views — [Shortened version of Indian names](https://interpersonal.stackexchange.com/questions/31178/shortened-version-of-indian-names) — tags: india, nickname
