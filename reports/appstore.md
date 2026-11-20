@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-19
-Keyword groups today: property & home, family & parenting | countries: gb, us
+# App Store review report — 2026-11-20
+Keyword groups today: health & fitness, pets | countries: gb, us
 Fetch errors: none
 
-## property & home
+## health & fitness
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7242595 | 4.80008 | Free | 46 | 17 |
-| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 508754 | 4.69126 | Free | 38 | 16 |
-| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1655270 | 4.79849 | Free | 33 | 8 |
-| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1090991 | 4.78911 | Free | 23 | 13 |
-| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1415846 | 4.81642 | Free | 28 | 9 |
-| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 222586 | 4.73803 | Free | 31 | 8 |
-| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 325104 | 4.84306 | Free | 20 | 6 |
-| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 482573 | 4.89018 | Free | 12 | 4 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2395689 | 4.7139 | Free | 25 | 8 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 476849 | 4.70397 | Free | 34 | 9 |
+| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1068130 | 4.82822 | Free | 15 | 4 |
+| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390914 | 4.74138 | Free | 40 | 29 |
+| [ShutEye®: Sleep Tracker, Sound](https://apps.apple.com/us/app/shuteye-sleep-tracker-sound/id1490078804?uo=4) (us) | 350486 | 4.76405 | Free | 38 | 21 |
+| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532513 | 4.84605 | Free | 16 | 6 |
+| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 777775 | 4.94721 | Free | 4 | 1 |
+| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432979 | 4.90794 | Free | 12 | 3 |
 
-Repeated complaint phrases: way to search (3); search for wheelchair (3); wheelchair accessible homes (3); matching your search (3); filters to find (3); find more homes (3)
+Repeated complaint phrases: used to love (7); subscription to use (3)
 
-- Rent. Apartments and Homes, 1 star: "Terrible experience - This community is horrible. There are cockroaches everywhere, and when it comes to fixing an AC, they take an entire month. They have a supervisor who spends his time smoking, and the office staff — especially Maggie — is almost never there. You call, and they never answer the "
-- Zillow Real Estate & Rentals, 2 star: "WAS great - I wish they would stop messing with it. Every week is a new update. Really, no one needs to update every week. But this last one actually did something. It made it horrible-covering up the map with the listing bar. Now you get tons of extraneous areas you don’t want to look at or you can"
-- Zillow Real Estate & Rentals, 1 star: "Photos to small. - Please fix the app, since updated the pictures are so small. Should have left it alone, the app was great before."
-- Zillow Real Estate & Rentals, 2 star: "Misleading - While the app has good features like drawing your own map boundary, the fact it cannot accurately filter homes based off of filters, especially the bathrooms, this causes a lot of frustration, and has only driven me to utilize other platforms"
-- Zillow Real Estate & Rentals, 1 star: "Why did they make the photos tiny? - I have used the app for years.  In the latest update the photos are really small (on ipad) with no way to make the  full screen.  What kind of incompetent person makes this sort of decision.  I am off to find a different app with better pictures.  Also, the "show"
-- Zillow Real Estate & Rentals, 1 star: "iPad Small Photos in latest update and Defects - iPad photos are very small with the latest update.  It only uses about 60% of the screen for the photo. The rest is black space.   This should be a responsive design that dynamically adjusts with larger iPad screens (11” and 13”).    Can you fix this?"
+- BetterSleep: Relax and Sleep, 1 star: "Pay Wall - I actually used to love this app. I was even considering subscribing to get all its features. Then one day my super basic mix that I used on the free version stopped being free. I thought well that’s odd. Then I come to discover 90% of what was free is now behind a pay wall. Wow. Insane g"
+- BetterSleep: Relax and Sleep, 1 star: "Disappointed - This is so disappointing. I’ve been using this app for years. I had a favorite sound for sleeping and now all those sounds I use are blocked behind a subscription paywall. Sad to see this app go down. I would’ve been open to a one-time fee but the sub model is so annoying. We have too"
+- BetterSleep: Relax and Sleep, 1 star: "Greedy app - I’ve had this app for years and a lot of sounds used to be free. Now you only get three free sounds, crazy. The developers got greedy."
+- MyFitnessPal: Calorie Counter, 1 star: "Coach Tab On My Diary Screen… - Today the Coach tab appeared on my diary screen.  I had to search to find how to get to my Community and Other options screen.  Now I cannot view my friends’ diaries in the app.  I am not a Premium subscriber…when will the Coach tab be removed…more unfriendly changes…"
+- MyFitnessPal: Calorie Counter, 2 star: "old interface way better - me and multiple people have agreed new interface is so annoying. the fact you cant edit foods you’ve made anymore, and you cant delete meals as a whole and have to do it individually is super annoying. they literally need to fire whoever keeps approving the new updates bec"
+- MyFitnessPal: Calorie Counter, 3 star: "Still a gap - The latest two updates have improved on this issue however there's still a gap when logging food on iPhone 16. It used to be a keyboard sized gap in previous updates but now it's about half that size."
 
-## family & parenting
+## pets
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 2025841 | 4.74088 | Free | 35 | 14 |
-| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 403574 | 4.80705 | Free | 3 | 0 |
-| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 227384 | 4.80058 | Free | 29 | 16 |
-| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 381233 | 4.87055 | Free | 3 | 0 |
-| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 299216 | 4.89205 | Free | 1 | 0 |
-| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 144566 | 4.92351 | Free | 19 | 5 |
-| [Pregnancy + | Tracker App](https://apps.apple.com/gb/app/pregnancy-tracker-app/id505864483?uo=4) (gb) | 40184 | 4.81687 | Free | 13 | 2 |
-| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 45286 | 4.82975 | Free | 9 | 3 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 166097 | 4.62596 | Free | 23 | 11 |
+| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1273051 | 4.91024 | Free | 8 | 3 |
+| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 104221 | 4.71439 | Free | 18 | 5 |
+| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 513801 | 4.85914 | Free | 13 | 4 |
+| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 520298 | 4.88526 | Free | 12 | 0 |
+| [Habit Tracker](https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4) (us) | 149040 | 4.79058 | Free | 23 | 5 |
+| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 68000 | 4.76484 | Free | 30 | 4 |
+| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 79750 | 4.92982 | Free | 6 | 3 |
 
-Repeated complaint phrases: trying to charge (3); new what next (3)
+Repeated complaint phrases: pay for background (3); bug after bug (3)
 
-- Flo Cycle & Period Tracker, 1 star: "Money hungry - The most you can do is tell it what happened today, all the insights, tips and actual advice are locked behind a paywall. All they want is your money, don’t download."
-- Flo Cycle & Period Tracker, 1 star: "Horrible subscription process - I accepted the free trial for the app but proceeded to cancel it day of, yet they are continuously trying to charge me $43.99 for a subscription that is cancelled"
-- Baby Tracker - Newborn Log, 1 star: "New “what’s next” AI Slop - The latest update adds a “what’s next” section that is not hideable so it takes half your screens real estate. The UI screams AI slop. The dev clearly wanted a reason to make this app into a subscription for more money but I want parents to know that what the dev added is"
-- Flo Cycle & Period Tracker, 1 star: "Very very bad - I have used this app for many years. But now it turned so uncomfortable, because every time I open the app just to check the day of my cycle, I need to skip ads in several taps. Okay, I can understand that you want to promote your premium subscription, but why do you make people play"
-- Flo Cycle & Period Tracker, 1 star: "Please cancel my subscription - I want to cancel my subscription and I’ve tried everything I know. But I still keep getting charged"
-- Flo Cycle & Period Tracker, 1 star: "Dont bother if you’re a free user - Completely worthless if you’re a free user. With every single click of a button they will try to sell you their subscription with annoying pop ups that are hard to get out of."
+- Habit Tracker, 1 star: "Nobody eats and drinks their way to a new life - A cron job does not make your goals happen. You cannot yoga and stretch your way into your goals. This is a glorified calendar. Your mood is not a set of emojis to choose from"
+- Habit Tracker, 1 star: "Useless app - Accidentally paid for the app. Support didn’t answer. Checked the app - the worst, nothing interesting and useful at all. Too bright and colourful for the eyes. Russian language is bad translated. I paid money for clunky translation. Super nice, supporters. It’s too expensive for the a"
+- Habit Tracker, 1 star: "total scam - oh my goshhh i just wanted a app to help with my unhealthy habits and was shown to be a completely free app but there was no way for me to use it without buying the premium i did not want to buy. it was shown online as free but i was just shoved in the face with "buy premium buy premium"
+- Instawork: Work when you want, 1 star: "DO NOT DOWNLOAD - DO NOT DOWNLOAD THIS APP UNDER ANY CIRCUMSTANCES WHENEVER YOU TRY AND CONTACT CUSTOMER SUPPORT, YOU NEVER GET A HOLD OF ANYONE ESPECIALLY A HUMAN BEING AND IF YOU DO RECEIVE A MESSAGE FROM A HUMAN BEING, THEY WILL INSTANTLY CLOSE THE CHAT. THE AI IS NO HELP. THEY DON’T RESPOND. YOU"
+- Instawork: Work when you want, 1 star: "Scammed - I worked an entire shift for over 7+ hours just for them to say I didn’t show up and support takes over 8+ hours to respond just once this app is horrible it’s been 4 days since I’ve worked and they suspended my account and took contact away with all the people I worked the shift with. The"
+- Chewy - Pet Care & Pharmacy, 2 star: "Issues - I used to really like Chewy. I had no issues with it but yesterday when I tried to sign in it gave me a big hassle and I couldn’t get in. I asked for a password it took forever. Finally, I gave up by the time I gave up and went to bed. I noticed that finally the Passwords came during my sle"
