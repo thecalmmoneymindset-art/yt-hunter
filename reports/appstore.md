@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-20
-Keyword groups today: health & fitness, pets | countries: gb, us
+# App Store review report — 2026-11-21
+Keyword groups today: study & work, hobbies & collecting | countries: gb, us
 Fetch errors: none
 
-## health & fitness
+## study & work
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2395689 | 4.7139 | Free | 25 | 8 |
-| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 476849 | 4.70397 | Free | 34 | 9 |
-| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1068130 | 4.82822 | Free | 15 | 4 |
-| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390914 | 4.74138 | Free | 40 | 29 |
-| [ShutEye®: Sleep Tracker, Sound](https://apps.apple.com/us/app/shuteye-sleep-tracker-sound/id1490078804?uo=4) (us) | 350486 | 4.76405 | Free | 38 | 21 |
-| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532513 | 4.84605 | Free | 16 | 6 |
-| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 777775 | 4.94721 | Free | 4 | 1 |
-| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 432979 | 4.90794 | Free | 12 | 3 |
+| [Google Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729?uo=4) (us) | 2447986 | 4.72869 | Free | 4 | 1 |
+| [Microsoft OneNote](https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4) (us) | 1073592 | 4.7097 | Free | 34 | 11 |
+| [Microsoft OneNote](https://apps.apple.com/gb/app/microsoft-onenote/id410395246?uo=4) (gb) | 209758 | 4.56942 | Free | 36 | 10 |
+| [Goodnotes: AI Notes, Docs, PDF](https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4) (us) | 470864 | 4.71781 | Free | 29 | 14 |
+| [QuickBooks Workforce](https://apps.apple.com/us/app/quickbooks-workforce/id864076487?uo=4) (us) | 199464 | 4.64728 | Free | 33 | 12 |
+| [Notability: AI Notes & Study](https://apps.apple.com/us/app/notability-ai-notes-study/id360593530?uo=4) (us) | 460000 | 4.76079 | Free | 29 | 15 |
+| [Notes](https://apps.apple.com/us/app/notes/id1110145109?uo=4) (us) | 672424 | 4.83871 | Free | 14 | 5 |
+| [Structured: Daily Planner Todo](https://apps.apple.com/us/app/structured-daily-planner-todo/id1499198946?uo=4) (us) | 169231 | 4.79314 | Free | 14 | 6 |
 
-Repeated complaint phrases: used to love (7); subscription to use (3)
+Repeated complaint phrases: used to work (5); years of work (3); select the location (3); two way calendar (3)
 
-- BetterSleep: Relax and Sleep, 1 star: "Pay Wall - I actually used to love this app. I was even considering subscribing to get all its features. Then one day my super basic mix that I used on the free version stopped being free. I thought well that’s odd. Then I come to discover 90% of what was free is now behind a pay wall. Wow. Insane g"
-- BetterSleep: Relax and Sleep, 1 star: "Disappointed - This is so disappointing. I’ve been using this app for years. I had a favorite sound for sleeping and now all those sounds I use are blocked behind a subscription paywall. Sad to see this app go down. I would’ve been open to a one-time fee but the sub model is so annoying. We have too"
-- BetterSleep: Relax and Sleep, 1 star: "Greedy app - I’ve had this app for years and a lot of sounds used to be free. Now you only get three free sounds, crazy. The developers got greedy."
-- MyFitnessPal: Calorie Counter, 1 star: "Coach Tab On My Diary Screen… - Today the Coach tab appeared on my diary screen.  I had to search to find how to get to my Community and Other options screen.  Now I cannot view my friends’ diaries in the app.  I am not a Premium subscriber…when will the Coach tab be removed…more unfriendly changes…"
-- MyFitnessPal: Calorie Counter, 2 star: "old interface way better - me and multiple people have agreed new interface is so annoying. the fact you cant edit foods you’ve made anymore, and you cant delete meals as a whole and have to do it individually is super annoying. they literally need to fire whoever keeps approving the new updates bec"
-- MyFitnessPal: Calorie Counter, 3 star: "Still a gap - The latest two updates have improved on this issue however there's still a gap when logging food on iPhone 16. It used to be a keyboard sized gap in previous updates but now it's about half that size."
+- Structured: Daily Planner Todo, 1 star: "Useless - Another app that only cares about making money.  Disappointing.  A daily planner is near useless if you can’t make the schedule repeat without paying for it.  This app claims to be geared towards those who struggle with ADHD yet excluded a tool that would make it a thousand times easier to"
+- Google Gemini, 2 star: "This app has the intelligence of a toddler - It’s decent for writing and stuff, but you’d think math would be its strong suit. It’s not. The one definite subject that can only have one correct answer to every problem is for some reason a struggle for this useless AI."
+- Microsoft OneNote, 2 star: "Glitching and crashing - It crashes every time when using the back button"
+- Microsoft OneNote, 1 star: "Misalignment - Ever since new update(16.115 and up) my writing/imaging has been misaligned on the OneNote IPad version, similar to that on the OneNote web version. Notes are normal on Desktop and Android versions. Contacted Microsoft support several times over the last 2 months with no success. Orig"
+- Microsoft OneNote, 3 star: "Can be better - Tool is good but there are a lot of issues with no one to support. Feels like I pay for the subscription but Microsoft treats me as if I am getting this service for free. I tried to contact Microsoft multiple times but no luck. If anyone is taking this comment seriously please contac"
+- Microsoft OneNote, 1 star: "UI - The previous interface with just Home, search, and notebooks (sticky notes is nice) was easier to use. Copilot notebooks takes the majority of the bar and I don’t use it. And to switch between recent pages and notebooks I now have to go up to the top. Also, the recent pages keep flickering and "
 
-## pets
+## hobbies & collecting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 166097 | 4.62596 | Free | 23 | 11 |
-| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1273051 | 4.91024 | Free | 8 | 3 |
-| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 104221 | 4.71439 | Free | 18 | 5 |
-| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 513801 | 4.85914 | Free | 13 | 4 |
-| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 520298 | 4.88526 | Free | 12 | 0 |
-| [Habit Tracker](https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4) (us) | 149040 | 4.79058 | Free | 23 | 5 |
-| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 68000 | 4.76484 | Free | 30 | 4 |
-| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 79750 | 4.92982 | Free | 6 | 3 |
+| [Plantum - AI Plant Identifier](https://apps.apple.com/us/app/plantum-ai-plant-identifier/id1476047194?uo=4) (us) | 119658 | 4.58554 | Free | 23 | 13 |
+| [Phase 10: Casual Card Game](https://apps.apple.com/us/app/phase-10-casual-card-game/id1463509237?uo=4) (us) | 616071 | 4.82812 | Free | 32 | 7 |
+| [ReciMe: Recipes & Meal Planner](https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280?uo=4) (us) | 340769 | 4.78591 | Free | 24 | 7 |
+| [Fishbrain - Fishing App](https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747?uo=4) (us) | 77446 | 4.66316 | Free | 13 | 3 |
+| [MONOPOLY Solitaire: Card Games](https://apps.apple.com/us/app/monopoly-solitaire-card-games/id1536804215?uo=4) (us) | 75668 | 4.6996 | Free | 39 | 10 |
+| [Planta: Plant & Garden Care](https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4) (us) | 114705 | 4.75393 | Free | 23 | 10 |
+| [Outsmarted - Companion App](https://apps.apple.com/gb/app/outsmarted-companion-app/id1541321303?uo=4) (gb) | 151228 | 4.81147 | Free | 3 | 1 |
+| [AnyList: Grocery Shopping List](https://apps.apple.com/us/app/anylist-grocery-shopping-list/id522167641?uo=4) (us) | 81629 | 4.86358 | Free | 0 | 0 |
 
-Repeated complaint phrases: pay for background (3); bug after bug (3)
+Repeated complaint phrases: used to love (3); love this game (3); trying to charge (3)
 
-- Habit Tracker, 1 star: "Nobody eats and drinks their way to a new life - A cron job does not make your goals happen. You cannot yoga and stretch your way into your goals. This is a glorified calendar. Your mood is not a set of emojis to choose from"
-- Habit Tracker, 1 star: "Useless app - Accidentally paid for the app. Support didn’t answer. Checked the app - the worst, nothing interesting and useful at all. Too bright and colourful for the eyes. Russian language is bad translated. I paid money for clunky translation. Super nice, supporters. It’s too expensive for the a"
-- Habit Tracker, 1 star: "total scam - oh my goshhh i just wanted a app to help with my unhealthy habits and was shown to be a completely free app but there was no way for me to use it without buying the premium i did not want to buy. it was shown online as free but i was just shoved in the face with "buy premium buy premium"
-- Instawork: Work when you want, 1 star: "DO NOT DOWNLOAD - DO NOT DOWNLOAD THIS APP UNDER ANY CIRCUMSTANCES WHENEVER YOU TRY AND CONTACT CUSTOMER SUPPORT, YOU NEVER GET A HOLD OF ANYONE ESPECIALLY A HUMAN BEING AND IF YOU DO RECEIVE A MESSAGE FROM A HUMAN BEING, THEY WILL INSTANTLY CLOSE THE CHAT. THE AI IS NO HELP. THEY DON’T RESPOND. YOU"
-- Instawork: Work when you want, 1 star: "Scammed - I worked an entire shift for over 7+ hours just for them to say I didn’t show up and support takes over 8+ hours to respond just once this app is horrible it’s been 4 days since I’ve worked and they suspended my account and took contact away with all the people I worked the shift with. The"
-- Chewy - Pet Care & Pharmacy, 2 star: "Issues - I used to really like Chewy. I had no issues with it but yesterday when I tried to sign in it gave me a big hassle and I couldn’t get in. I asked for a password it took forever. Finally, I gave up by the time I gave up and went to bed. I noticed that finally the Passwords came during my sle"
+- Phase 10: Casual Card Game, 2 star: "Bring back mini games - I have been playing this for a few years. Recently you took away the side games with the extra help cards. Bring them back! Also, I have noticed that now the game is rigged so that all the players end up on the same level. If I am one level up, I will lose until the other pla"
+- Fishbrain - Fishing App, 1 star: "Pay wall - All useable content is hidden behind a paywall. I would rather ask locals rather than pay $13 a month."
+- Phase 10: Casual Card Game, 1 star: "Game blatantly rips you off!! - Should be able to leave a 0 star review! The new hard and super hard levels are a complete joke! Bots just blatantly cheat!!! Get their phase and then later play a skip and a wild on the same turn!!! So ridiculous!!! Loyal player for 6+ years and will be quitting the "
+- Phase 10: Casual Card Game, 1 star: "Good but its impossible to win - I used to love this game and had it back in 2023 and it was addicting i grew up playing it as a child. I just redownloaded this game and it’s literally impossible to win. I used 100 energies to play and still kept loosing. Not because lack of skill but because the ga"
+- Phase 10: Casual Card Game, 3 star: "Nice but could be better - I wish we could play against real people like in the “Uno” app. Thats FUN! The coin system can suck though.. but FUN! I get bored of this one fairly quickly.."
+- Phase 10: Casual Card Game, 1 star: "Great Memories, Very Poor Execution - Great memories as a kid playing this game with family. Unfortunately, this version of it absolutely sucks. So many ads, NPC’s constantly getting way better deals, and the chest that fills with all your accomplishments that you have to pay for is a scam. This gam"
