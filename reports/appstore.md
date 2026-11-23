@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-22
-Keyword groups today: travel & relocation, creators & sellers | countries: gb, us
+# App Store review report — 2026-11-23
+Keyword groups today: cars & transport, events & community | countries: gb, us
 Fetch errors: none
 
-## travel & relocation
+## cars & transport
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Google](https://apps.apple.com/us/app/google/id284815942?uo=4) (us) | 5394009 | 4.64487 | Free | 13 | 3 |
-| [Expedia: Hotels, Flights, Cars](https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203?uo=4) (us) | 6024944 | 4.78777 | Free | 27 | 8 |
-| [Booking.com: Hotels & Travel](https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839?uo=4) (us) | 2237089 | 4.84608 | Free | 0 | 0 |
-| [Skyscanner Flights & Travel](https://apps.apple.com/gb/app/skyscanner-flights-travel/id415458524?uo=4) (gb) | 479712 | 4.74993 | Free | 17 | 3 |
-| [Booking.com Travel Deals](https://apps.apple.com/gb/app/booking-com-travel-deals/id367003839?uo=4) (gb) | 1309188 | 4.84006 | Free | 15 | 5 |
-| [MoneyGram® Money Transfers App](https://apps.apple.com/us/app/moneygram-money-transfers-app/id867619606?uo=4) (us) | 716432 | 4.85635 | Free | 20 | 7 |
-| [Tripadvisor: Plan & Book Trips](https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795?uo=4) (us) | 482249 | 4.82204 | Free | 16 | 1 |
-| [TripIt: Travel Planner](https://apps.apple.com/us/app/tripit-travel-planner/id311035142?uo=4) (us) | 313597 | 4.84138 | Free | 14 | 4 |
+| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 239331 | 4.72721 | Free | 34 | 11 |
+| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 261502 | 4.76743 | Free | 27 | 2 |
+| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 400678 | 4.82028 | £5.99 | 2 | 1 |
+| [YourParkingSpace - Parking App](https://apps.apple.com/gb/app/yourparkingspace-parking-app/id1107618222?uo=4) (gb) | 62800 | 4.6651 | Free | 40 | 9 |
+| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184572 | 4.76499 | Free | 11 | 3 |
+| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101778 | 4.72785 | Free | 9 | 6 |
+| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187764 | 4.80667 | Free | 47 | 12 |
+| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 129131 | 4.84115 | Free | 22 | 4 |
 
-Repeated complaint phrases: none yet
+Repeated complaint phrases: refund for unused (3); let you cancel (3); flash and quit (3)
 
-- Expedia: Hotels, Flights, Cars, 1 star: "Complaint - This is the second time we booked a room and paid for it and got screwed !  They have cheated us out of almost 500.00  The hotel even said this time that they needed to refund our money but no way to even get ahold of them!!"
-- Expedia: Hotels, Flights, Cars, 1 star: "Rental Car Insurance is a scam - I bought Expedia’s insurance on my car rental. No exclusions were shown. I paid in advance as required. Front tire blowout happened. I just received an invoice for $925 “administrative and loss of use fees” that, I am now informed, are not covered under the policy.  "
-- Expedia: Hotels, Flights, Cars, 1 star: "So this is how you run your business ! - I tried booking a hotel for October 1-3, 2026 and I  was fine with the no cancellation policy because I needed it for those particular dates. I put in for October 1-3, but Expedia, or the hotel, gave me alternate dates that I could not use. I never booked tho"
-- Expedia: Hotels, Flights, Cars, 1 star: "Left us stranded with no place to stay even though we had a reservation! - Months in advance, I reserved a room in one of the nicest places (the element) in Colorado Springs for the Labor Day lift off hot air balloon weekend event. When I arrived, they said that Expedia OVERSOLD the rooms. I was sup"
-- Expedia: Hotels, Flights, Cars, 1 star: "Misleading - I booked a trip through Expedia and it was extremely misleading, it turned out to be a gay hotel, there was zero indication of this on their site, I was sexually harassed by gay guys while staying there, on top of that the rooms were awful. And they were doing active asbestos abatement "
-- Expedia: Hotels, Flights, Cars, 1 star: "Do not buy airline tickets from Expedia. Unless you wish to be stranded. - Expedia does not have the tickets or access to boarding pass. The Expedia UI collects numbers in a form that cannot be read by other airlines, so if you do not already have an account with them the Expedia UI blocks this, esp"
+- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
+- ParkWhiz - #1 Parking App, 1 star: "Reservation not honored. - I had a reservation for this morning at the iPark garage on 15 E 83rd St NYC. When I arrived, the attendant refused to even look at my confirmed & prepaid reservation. He said the garage was full and ParkWhiz has no knowledge of the parking availability when it booked my r"
+- ParkWhiz - #1 Parking App, 1 star: "Do not use in Chicago! - This app ended up being useless in Chicago. We were unable to locate an actual lot that matched the address, descriptions and pictures of the first place we booked. The picture shows street parking that is all reserved parking; the description made no sense regarding locatio"
+- YourParkingSpace - Parking App, 1 star: "Useless - Wont login with Google or Apple, parking locations not being identified. Constant red banner saying “unauthorised” but no explanation to fix the issue."
+- Driving Theory Test 4 in 1 Kit, 1 star: "Prices are not the same for everyone - Like the content but the prices are not same for everyone. My husband paid once for lifetime and for me it’s offering a subscription model where one month is just 1gbp less than he paid for the lifetime. I don’t have such an option although I would love to. We’"
+- ParkNYC Powered by Flowbird, 2 star: "Convenient app, but no refund for unused time  The app itself is very convenient and works well. But - Convenient app, but no refund for unused time  The app itself is very convenient and works well. But there is one huge drawback: if you pay for 30 minutes and leave after 10, the remaining 20 minut"
 
-## creators & sellers
+## events & community
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Pinterest](https://apps.apple.com/us/app/pinterest/id429047995?uo=4) (us) | 5830615 | 4.77583 | Free | 32 | 11 |
-| [OfferUp Buy & Sell Marketplace](https://apps.apple.com/us/app/offerup-buy-sell-marketplace/id468996152?uo=4) (us) | 4450273 | 4.75352 | Free | 40 | 15 |
-| [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951?uo=4) (us) | 8493957 | 4.82581 | Free | 41 | 12 |
-| [eBay online shopping & selling](https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4) (us) | 4969442 | 4.81619 | Free | 49 | 15 |
-| [eBay marketplace: shopping app](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216?uo=4) (gb) | 2260748 | 4.75329 | Free | 47 | 14 |
-| [Etsy: Shop from Real People](https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4) (us) | 7399564 | 4.92455 | Free | 35 | 9 |
-| [Canva AI Photo & Video Editor](https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4) (us) | 3628575 | 4.87277 | Free | 9 | 5 |
-| [Vinted: Shop & sell pre-loved](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380?uo=4) (gb) | 3821476 | 4.89668 | Free | 3 | 0 |
+| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5632898 | 4.8913 | Free | 20 | 0 |
+| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1120472 | 4.8407 | Free | 14 | 0 |
+| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1848679 | 4.89618 | Free | 16 | 10 |
+| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 358417 | 4.82282 | Free | 26 | 8 |
+| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 116605 | 4.7695 | Free | 17 | 1 |
+| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 224340 | 4.85491 | Free | 31 | 4 |
+| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 94347 | 4.82758 | Free | 7 | 0 |
+| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 99371 | 4.91285 | Free | 31 | 8 |
 
-Repeated complaint phrases: account has been (3); ads and ai (3)
+Repeated complaint phrases: way to save (3)
 
-- Pinterest, 3 star: "Raporting a bug - iOS 27 – Pinterest widget redirects to Help Center, Edit Widget and Edit Stack options are broken/missing i tried everything to fix this problem and nothing works. Please fix this"
-- eBay online shopping & selling, 1 star: "Spammed with coupon notifications - I keep getting spammed with push notifications from the app even though I have disabled every optional setting. There is no way to disable the coupon notifications. Why!?!? I never asked for coupons!"
-- eBay online shopping & selling, 1 star: "Annoying coupon notifications - Keeps sending me coupon code notifications with no way to turn off, or the setting to turn these off isn't working. I am a seller and don't want this to distract my seller responsibilities!!!!!!!!"
-- eBay online shopping & selling, 1 star: "app issue but no way to report - the concept of ebay is great but the app has a problem where there is always an urgent notification alert but when I try to view the alert there is nothing there. My frustration is compounded by the fact that there is no one to report a problem with the app I get lea"
-- eBay online shopping & selling, 2 star: "absolute frauds - hi i sold an item here and payed a fee for my money to hit my bank account in 30 minutes and now its hitting in a day the selling fees are through the roof ultimately its not worth it sell your products somewhere else."
-- eBay online shopping & selling, 1 star: "No MONEY BACK GUARANTEE - I bought a funko pop which I sent to get authenticated it ended up being a fake and seller and title said it was real they still didn’t give me not ONE cent back. Seems like it’s neither a seller or a buyer store given the fees on both sides. eBay used to be better. It is n"
+- Eventbrite, 1 star: "No excuse bugs - This is one of the buggiest apps in the App Store and with this kind of stature you’d think the developers and mgmt would take a little more pride in their work. Search functionality is terrible, deep linking doesn’t work, 404 pages instead of indicating an event is sold out so you "
+- Eventbrite, 1 star: "Eventbrite is a disaster now! - This app used to work well, but now it’s a mess. I was ripped off for a ticket and it never showed up on the app. The AI chat it was useless."
+- Eventbrite, 1 star: "Poor execution - I have registered for this event three times. My colleagues have registered and are actually in the event, but I cannot get in neither by phone nor computer. What a joke."
+- Eventbrite, 1 star: "Not user friendly - Having changed jobs, I need to change my email address in Eventbrite. There is no simple way to accomplish that. It makes this not worth my using."
+- Eventbrite, 1 star: "Not able to open - I cannot open for my ticket for turkey on 11/18"
+- Eventbrite, 1 star: "worthless - unlike every other ticket app in the universe, this one has no support for Apple wallet.  It also has no way to add tickets to your account, so if somebody buys tickets and sends them to you, there is no way to save them.  it claims to let you download tickets, but all it does is open a "
