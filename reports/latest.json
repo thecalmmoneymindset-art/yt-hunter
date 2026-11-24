@@ -1,82 +1,566 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "rows": [
   {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
    "signals": [
     "would_pay"
    ],
-   "score": 10.45,
-   "likes": 11,
-   "text": "I predict they will force other private stores to close their doors. Or not even sell what they sell. I'll I owned a privet store I'd buy my stock from them and sell it at my store when they run out."
+   "score": 6.3,
+   "likes": 2,
+   "text": "As an Indiana fan I would buy in an instant"
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "hobbies & collecting",
+   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
+   "url": "https://youtu.be/c_QalWlppa4",
    "signals": [
     "result_report"
    ],
-   "score": 5.75,
-   "likes": 16,
-   "text": "It will be a total failure. Out of stock items, incompetent management. Not worth the travel time."
+   "score": 6.07,
+   "likes": 20,
+   "text": "PSA crossover is possibly the biggest scam in grading."
   },
   {
-   "cat": "senior & elderly care",
-   "video": "Clearing Out a Garage Full of Memories & Tools and dealing with dementia",
-   "url": "https://youtu.be/e6zWE9uIku4",
+   "cat": "hobbies & collecting",
+   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
+   "url": "https://youtu.be/c_QalWlppa4",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "Quick question. If PSA pop of a card limited to 10 print are broken and sent to bgs for example and regraded then the pop count for the card now is 20 for a card that has print 10. How does anyone know if the card is counterfeit or has been regraded"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Build a Trading Algo with AI | No Coding Required",
+   "url": "https://youtu.be/V9Ra8klDzrM",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 5.97,
+   "likes": 3,
+   "text": "I wanted to do this since a long time, thanks Karthik and Akshay for the wonderful video. I could follow it step by step and got the same output shown in your video. Codex was asking for internet access time and again. Due to this issue I had to manually execute some steps. Things worked out well."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
+   "url": "https://youtu.be/c_QalWlppa4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 4.42,
+   "likes": 6,
+   "text": "goes to show the scam that grading is. the downtown was clearly off centered and still got a 10."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Why I stopped 3D printing and started injection moulding products",
+   "url": "https://youtu.be/J00qybe5lpM",
    "signals": [
     "manual_pain"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "Omg dude!  I\u2019m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I\u2019ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I\u2019ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It\u2019s so hard cause even I dont 100% want to get rid of thi"
+   "text": "I have over 25 years experience with injection molding.  Compared to 3D prints it is typically going to be stronger, more durable, better fit and finish, and will hold dimensions better.    That said i never thought that 3D printing would even be real.  Back in the day we had to pay thousands to get \"rapid prototypes\" that anyone today could make for way under $1000.    The issue with injection mo"
   },
   {
-   "cat": "senior & elderly care",
-   "video": "SNL Sister",
-   "url": "https://youtu.be/bEiYPc2V-Xg",
+   "cat": "hobbies & collecting",
+   "video": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
+   "url": "https://youtu.be/meBi616y1mg",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Just a year ago I was doing similar stuff manually in blender with Gaussian splats. I\u2019m very impressed with your work and am glad we can have agents help/automate the process. Hope the hardware gets more affordable, or maybe we get another leap forward in vision models like the jump from photogrammetry to splats"
+  },
+  {
+   "cat": "weddings & events",
+   "video": "GoHighLevel ALL NEW Event Management Feature - FULL TUTORIAL",
+   "url": "https://youtu.be/usfSrtSVWGc",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": ". Is there a way to take deposits through this event management and track remaining balances?"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How We're Saving Tons Of Silicone For Our Small Molds",
+   "url": "https://youtu.be/GJqCg3Anc_I",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Tin cured silicone it's a must. I've tried platinum and it does not work with resin parts, even after extra cleaning/curing and multiple coats of spray paint. It offgasses something that prevents the silicone from fully curing. It's a bummer but lesson learned \ud83d\udc4d"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How To Animate a Short Film with Blender + Higgsfield (Breakdown)",
+   "url": "https://youtu.be/reFzEtCG_m8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.58,
+   "likes": 3,
+   "text": "higgsfield having their own animation studio that tells them what works and what does not work is next level smart move. well done!"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Why I stopped 3D printing and started injection moulding products",
+   "url": "https://youtu.be/J00qybe5lpM",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "3D printing is cheaper, in some way faster, and way more intuitive. You also have more use areas too. Injection mold makes sense for stronger parts and tools, but the cost is often not worth it."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Give Me 17 Minutes and I\u2019ll Change How You Collect Pok\u00e9mon Cards",
+   "url": "https://youtu.be/axjkh8Pjcn8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "I just buy cards that I think look cool and NO slabs. Those things are scam cubes."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.15,
+   "likes": 2,
+   "text": "It's a scam. I don't know how anyone can defend this and say it's 'Not bad' ...   It's a complete scam, unless you're spending THOUSANDS you won't get anything decent.  On top of that, having a fee to open packs and ship cards is a scam as well.   Avoid these sites."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Pokemon Scalpers Are Pissed.",
+   "url": "https://youtu.be/c4qDqHsqTXc",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "From \"I gotta buy them before none are left\" To \"I gotta buy them because I get the cards I want so easily\".  They finally understood us... now take my money \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "would_pay"
+   ],
+   "score": 3.0,
+   "likes": 0,
+   "text": "I think it pretty fair!! I mean I would pay more for shipping if it something of value due to all the horror stories I\u2019ve seen about shipping companies"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
+   "url": "https://youtu.be/c_QalWlppa4",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "What about Single Sister? When sister + husband doesn't work? I'm that."
+   "text": "This proofs why grading companies are a scam.."
   },
   {
-   "cat": "cooking & meal planning",
-   "video": "Friedberg: NYC\u2019s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-   "url": "https://youtu.be/2j0l5lWSTiA",
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "SCAM SITE / OPEN FEE/ SELL FEE/ WITHDRAW FEE/ % ARE SHIT/ DON'T GAMBLE KIDS! IT WILL DESTROY YOUR LIFE! ESPECIALLY DON'T GAMBLE AND DON'T BELIEVE IF IT'S PROMOTED BY PEOPLE WHO SIT AT HOME AND LIVE THEIR LIFE HOW THEY WANT WHILE ALWAYS RECORDING! THEY USING YOU!"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "People don\u2019t learn anything associated with Paul family is a scam"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Easy. Anything Logan Paul does is a scam"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Anything with logan paul is a scam some how some way. Triumph is better and packz. No playform fees and 100% buyback rate. Screw ripit lol"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "The Best Pokemon Card Scanner App (I Tested 5 Free Ones).",
+   "url": "https://youtu.be/6KzSvc_LBh8",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What app do you suggest to use to track your collection? For example, has a wide range of cards including other languages and variants, allows you to put what I\u2019ve paid plus conditions but can compare to market based on condition. As well as allows to have it organized in a binder style way or even just in folders to have it separate from others."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Why Didn\u2019t I Print This 5 Years Ago?",
+   "url": "https://youtu.be/N0E5dsKmtQo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I\u2019m commenting only three minutes into your video.  Awesome video your production is crazy. Good just amazingly good. All that crazy transforming awesomeness. My God man that\u2019s gonna take hours probably maybe I don\u2019t even know you might be laughing right now and said I just said that AI do this I don\u2019t know. I also don\u2019t know why you bother subscribing I know it\u2019s to help the creator and I\u2019m all f"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "What\u2019s the best app for comping cards? \ud83e\udd14",
+   "url": "https://youtu.be/O96o9H0Lk2w",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "What\u2019s the name of the app so I can get it"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Let's make realistic details for a tiny Excavator!  \ud83c\udfd7\ufe0f\ud83e\udd2f #Miniatures #diycrafts #shorts",
+   "url": "https://youtu.be/rCnQumCPx4Q",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Does anyone know what kind of adhesive glue is used?"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
+   "url": "https://youtu.be/meBi616y1mg",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I used to work extensively with scanners and CAD and using GOM and a load of other tools because they only ever seem to do one thing well. This tool would have literally changed my life if it had been available back then... it's perfect. Every thing I struggled with doing it manually as best I could, you've thought of and made a fix for. Genuinely incredible work, industry disrupting"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
+   "url": "https://youtu.be/5pytOsDkHes",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Hey Poke pastor, ive been really enjoying your videos and i appreciate you a lot. I am struggling to find sellers on facebook marketplace that want like 70%, they usually want like 85%. Should i js go negotiate?"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "The Ultimate Beginner\u2019s Guide to Hermes Agent",
+   "url": "https://youtu.be/XNcKUSL1CTE",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "I've been thinking about getting a 3000 myself. Fully offline, zero hallucinations, no subscriptions, and an unlimited context window. Only downside is that I have to generate all the tokens manually. \ud83d\ude02"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Why I stopped 3D printing and started injection moulding products",
+   "url": "https://youtu.be/J00qybe5lpM",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I wish there was more plastic in the world"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Tried to Buy This 13-Year-Old\u2019s $300,000 Collection",
+   "url": "https://youtu.be/e0y0oWCUlZ4",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I wish I could afford market movers but am on a tight budget"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How to Start Collecting Pok\u00e9mon Cards in LATE 2026",
+   "url": "https://youtu.be/inuZcgpOHEs",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Basically the one guy is telling you these stores are nothing more than a scam to gain power.  This is exactly what the left does is use social systems to \"buy\" votes but never increase your well being so that you keep looking to them for the answers."
+   "text": "I lost and jist found my super older shining charizard worth like 11k and now it is so scratched on the bsck but like perfect on the front and now I'm so sad that it's scratched on the back since it was such a good card I also found 2 other Charisard cards that weren't as expensive the illustration was by Hironobo Yoshida"
   },
   {
-   "cat": "home DIY & renovation",
-   "video": "40x60 Metal Building Cost Comparison 2026 | Tubular vs. Red Iron | WolfSteel Buildings",
-   "url": "https://youtu.be/CLcxUwbJ14s",
+   "cat": "hobbies & collecting",
+   "video": "How to AFFORDABLY Buy Pok\u00e9mon Cards in LATE 2026",
+   "url": "https://youtu.be/wUFOKRtnSl0",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "How about cold formed?? Best of both worlds or waste of time?"
+   "text": "People need to calm down because of fomo for 30th Celebration. I am a collector since childhood and anniversary Sets Like generations or Celebration will BE printed to the ground and for longer than a year. The cards will for a Long Time stay cheap (Look at Celebration 25th). And maybe at the start the prices are high but will drop when they realize Nobody is buying the cards.   Also dont sell you"
   },
   {
-   "cat": "senior & elderly care",
-   "video": "Is This the Greatest SNL Skit of All Time? | 'Sister' Sketch",
-   "url": "https://youtu.be/5z4It-2wiTw",
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "When you're trying to get thru to a person on a recorded insurance company line, try saying \"operator\" or \"representative\" instead of whatever the message prompts.  If that doesn't work, try saying jabbering, \"snagglefraggle.\"  After several of these the system will sometimes relent and give you an operator."
+   "text": "Even tho you can see thru the packaging it\u2019s not worth it there almost all ruined in shipping at least for me"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Why is the punchhole still in tacked when he took it off the hanger, scam post, thats not the packed pulled off the rack"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Can\u2019t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!",
+   "url": "https://youtu.be/mMLruVS-bjg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "This product is Ass IMO\u2026 mega boxes were such a waste of money"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "I Cracked and Regraded $300,000 in Cards with PSA\u2026 I Was NOT Expecting This!",
+   "url": "https://youtu.be/c_QalWlppa4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I pray that everyone that cracks slabs to scam others damages them \ud83e\udef6"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Putting fins to my giant 3D Printed Colorful Shark",
+   "url": "https://youtu.be/Ma0dC9gQQ54",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Whatever has been made of all this is the best, it is a waste of time, a waste of money, everything is useless, there is no benefit in making all these things."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "PSA Grade Reveal Vs. Digital Grading Co. #pokemoncards",
+   "url": "https://youtu.be/kJnlZ1p8Lds",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "bro dont resubmit at $80, $80 barely worth it $160(or more) DEFINITELY not worth it"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How To Make Cat In The Hat In Melon Sandbox!\ud83d\ude40\ud83c\udfa9 #shorts #melonsanbox #melonpg #catinthehat",
+   "url": "https://youtu.be/dKCgXvzvYTA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I tried that but it didn't work"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Custom Diamond Ring Making | From Wax Model to Finished Jewelry",
+   "url": "https://youtu.be/Fowmp-ZYOy4",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Why?? Total waste of time."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Can You MAKE Money Opening Sports Cards in 2026?",
+   "url": "https://youtu.be/DQMKdKZtkhA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Flagship is such a waste of money"
+  },
+  {
+   "cat": "gaming & tabletop",
+   "video": "Alignment Is a Tool, Not a Trap",
+   "url": "https://youtu.be/IGdB2xunPNg",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Alignment is based on your personal morality and since human have an incredibly wide view of morality it is no wonder that for 50+ years we have been fighting about alignment. It is an attempt to take the human experience and boil it down to two letters that define your existence. People are very complex, so it doesn't work. Too many people think you act a certain way because your alignment is \"x\""
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
+   "url": "https://youtu.be/5pytOsDkHes",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "How do you reduce your shipping price to justify selling these low-cost cards. It takes 5$ for me to ship that and unless someone grabs a bunch of cards, it\u2019s not worth it."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "How I Make Money Selling BULK Pok\u00e9mon Cards (No Rare Cards Needed)",
+   "url": "https://youtu.be/5pytOsDkHes",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I've watched your videos. But i still cant grasp how i could achieve all the bulk you're talking about.  In Sweden, NO ONE sells bulk for the price mentioned. Some kind of epidemic has happened with the prices, even reached out to the moms selling ther kids 100 cards collections thinking they will receive the price of a car.  I've tried eBay and the shipping for me is mostly not worth it. Free int"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "I mean tbh it\u2019s no more or less a scam than a scratch ticket at the end of the day it\u2019s both gambling and people should go on understanding that"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Only a Sucker would have anything to do with a SCAM artist."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Wow\u2026 Logan Paul\u2019s rip site seems like a scam. So much fees."
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Haha I\u2019d bet money before watching the vid it\u2019s either a scam or looks good on the surface but is actually a terrible deal when you break it down. Gunna watch the vid now to see if I\u2019m right or right \ud83d\ude02"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "If logan paul is involved then its 100% a scam"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "We Tested Logan Paul's New Digital Pok\u00e9mon Mystery Packs...",
+   "url": "https://youtu.be/s67te-4YOtA",
+   "signals": [
+    "result_report"
+   ],
+   "score": 1.5,
+   "likes": 0,
+   "text": "Like your video \u2764 but f rip it scam stuff"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Ferrari 365 GTB4 COMPETIZIONE with AMARU GTC | Diecarz App",
+   "url": "https://youtu.be/mXMTqiZVmtU",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Where can I buy this in mrp"
+  },
+  {
+   "cat": "hobbies & collecting",
+   "video": "Why Didn\u2019t I Print This 5 Years Ago?",
+   "url": "https://youtu.be/N0E5dsKmtQo",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Hey bro\u2026 Skadis stl file, where can i get it?"
   }
  ]
 }

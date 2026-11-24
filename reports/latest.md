@@ -1,51 +1,73 @@
-# YouTube demand report — 2026-11-23
-Videos scanned: 34 | signal comments (all types): 7 | window: last 120 days
-Categories scanned today: home DIY & renovation, gardening & allotments, food & hospitality, cooking & meal planning, health & fitness, senior & elderly care, parenting & family
+# YouTube demand report — 2026-11-24
+Videos scanned: 81 | signal comments (all types): 51 | window: last 120 days
+Categories scanned today: weddings & events, pets, hobbies & collecting, gaming & tabletop, sports & clubs, outdoors & camping, cycling & running
 API errors: none
 
 ## Recurring phrases in signal comments (candidate problems)
-- ve been trying (2)
+- waste of money (3)
+- gotta buy them (2)
+- waste of time (2)
 
 ## Signals per category (top 6 each; a category with 0 means nothing found, not nothing exists)
-### home DIY & renovation — 0 signal comments across 0 videos
-### gardening & allotments — 0 signal comments across 0 videos
-### food & hospitality — 0 signal comments across 0 videos
-### cooking & meal planning — 1 signal comments across 1 videos
-- [would_pay] score 10.45, 11 likes — "I predict they will force other private stores to close their doors. Or not even sell what they sell. I'll I owned a privet store I'd buy my stock from them and sell it at my store when they run out." — _Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028_ (https://youtu.be/2j0l5lWSTiA)
-### health & fitness — 0 signal comments across 0 videos
-### senior & elderly care — 1 signal comments across 1 videos
-- [manual_pain] score 4.23, 1 likes — "Omg dude!  I’m crying!  Your channel really hit me today.  Thank you so much for validating the overwhelm.  I’ve been trying to go through this kinda stuff, (14 pounds of JUST HEX WRENCHES for example). I’ve been trying to downsize and do it with respect and responsibility but everyone in the family criticizes and questions, zero support.  It’s so hard cause even I dont 100% want to get rid of thi" — _Clearing Out a Garage Full of Memories & Tools and dealing with dementia_ (https://youtu.be/e6zWE9uIku4)
-### parenting & family — 0 signal comments across 0 videos
+### weddings & events — 1 signal comments across 1 videos
+- [ask_for_tool] score 4.23, 1 likes — ". Is there a way to take deposits through this event management and track remaining balances?" — _GoHighLevel ALL NEW Event Management Feature - FULL TUTORIAL_ (https://youtu.be/usfSrtSVWGc)
+### pets — 0 signal comments across 0 videos
+### hobbies & collecting — 16 signal comments across 14 videos
+- [would_pay] score 6.3, 2 likes — "As an Indiana fan I would buy in an instant" — _I Can’t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack!_ (https://youtu.be/mMLruVS-bjg)
+- [ask_for_tool] score 5.97, 3 likes — "Quick question. If PSA pop of a card limited to 10 print are broken and sent to bgs for example and regraded then the pop count for the card now is 20 for a card that has print 10. How does anyone know if the card is counterfeit or has been regraded" — _I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This!_ (https://youtu.be/c_QalWlppa4)
+- [manual_pain] score 5.97, 3 likes — "I wanted to do this since a long time, thanks Karthik and Akshay for the wonderful video. I could follow it step by step and got the same output shown in your video. Codex was asking for internet access time and again. Due to this issue I had to manually execute some steps. Things worked out well." — _Build a Trading Algo with AI | No Coding Required_ (https://youtu.be/V9Ra8klDzrM)
+- [manual_pain] score 4.23, 1 likes — "I have over 25 years experience with injection molding.  Compared to 3D prints it is typically going to be stronger, more durable, better fit and finish, and will hold dimensions better.    That said i never thought that 3D printing would even be real.  Back in the day we had to pay thousands to get "rapid prototypes" that anyone today could make for way under $1000.    The issue with injection mo" — _Why I stopped 3D printing and started injection moulding products_ (https://youtu.be/J00qybe5lpM)
+- [manual_pain] score 4.23, 1 likes — "Just a year ago I was doing similar stuff manually in blender with Gaussian splats. I’m very impressed with your work and am glad we can have agents help/automate the process. Hope the hardware gets more affordable, or maybe we get another leap forward in vision models like the jump from photogrammetry to splats" — _3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)_ (https://youtu.be/meBi616y1mg)
+- [would_pay] score 3.0, 0 likes — "From "I gotta buy them before none are left" To "I gotta buy them because I get the cards I want so easily".  They finally understood us... now take my money 😂😂😂😂😂" — _Pokemon Scalpers Are Pissed._ (https://youtu.be/c4qDqHsqTXc)
+### gaming & tabletop — 0 signal comments across 0 videos
+### sports & clubs — 0 signal comments across 0 videos
+### outdoors & camping — 0 signal comments across 0 videos
+### cycling & running — 0 signal comments across 0 videos
 ### trending — 0 signal comments across 0 videos
 
 ## Same ask on 2+ different videos (strongest evidence of a real recurring need)
 - none yet
 
 ## Money-method verdicts (what viewers say happened when they tried it; anecdotes, not proof)
-- 16 likes — "It will be a total failure. Out of stock items, incompetent management. Not worth the travel time." — _Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028_ (https://youtu.be/2j0l5lWSTiA)
-- 1 likes — "What about Single Sister? When sister + husband doesn't work? I'm that." — _SNL Sister_ (https://youtu.be/bEiYPc2V-Xg)
-- 0 likes — "Basically the one guy is telling you these stores are nothing more than a scam to gain power.  This is exactly what the left does is use social systems to "buy" votes but never increase your well being so that you keep looking to them for the answers." — _Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028_ (https://youtu.be/2j0l5lWSTiA)
-- 0 likes — "How about cold formed?? Best of both worlds or waste of time?" — _40x60 Metal Building Cost Comparison 2026 | Tubular vs. Red Iron | WolfSteel Buildings_ (https://youtu.be/CLcxUwbJ14s)
-- 0 likes — "When you're trying to get thru to a person on a recorded insurance company line, try saying "operator" or "representative" instead of whatever the message prompts.  If that doesn't work, try saying jabbering, "snagglefraggle."  After several of these the system will sometimes relent and give you an operator." — _Is This the Greatest SNL Skit of All Time? | 'Sister' Sketch_ (https://youtu.be/5z4It-2wiTw)
+- 20 likes — "PSA crossover is possibly the biggest scam in grading." — _I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This!_ (https://youtu.be/c_QalWlppa4)
+- 6 likes — "goes to show the scam that grading is. the downtown was clearly off centered and still got a 10." — _I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This!_ (https://youtu.be/c_QalWlppa4)
+- 4 likes — "Tin cured silicone it's a must. I've tried platinum and it does not work with resin parts, even after extra cleaning/curing and multiple coats of spray paint. It offgasses something that prevents the silicone from fully curing. It's a bummer but lesson learned 👍" — _How We're Saving Tons Of Silicone For Our Small Molds_ (https://youtu.be/GJqCg3Anc_I)
+- 3 likes — "higgsfield having their own animation studio that tells them what works and what does not work is next level smart move. well done!" — _How To Animate a Short Film with Blender + Higgsfield (Breakdown)_ (https://youtu.be/reFzEtCG_m8)
+- 2 likes — "3D printing is cheaper, in some way faster, and way more intuitive. You also have more use areas too. Injection mold makes sense for stronger parts and tools, but the cost is often not worth it." — _Why I stopped 3D printing and started injection moulding products_ (https://youtu.be/J00qybe5lpM)
+- 2 likes — "I just buy cards that I think look cool and NO slabs. Those things are scam cubes." — _Give Me 17 Minutes and I’ll Change How You Collect Pokémon Cards_ (https://youtu.be/axjkh8Pjcn8)
+- 2 likes — "It's a scam. I don't know how anyone can defend this and say it's 'Not bad' ...   It's a complete scam, unless you're spending THOUSANDS you won't get anything decent.  On top of that, having a fee to open packs and ship cards is a scam as well.   Avoid these sites." — _We Tested Logan Paul's New Digital Pokémon Mystery Packs..._ (https://youtu.be/s67te-4YOtA)
+- 1 likes — "This proofs why grading companies are a scam.." — _I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This!_ (https://youtu.be/c_QalWlppa4)
+- 1 likes — "SCAM SITE / OPEN FEE/ SELL FEE/ WITHDRAW FEE/ % ARE SHIT/ DON'T GAMBLE KIDS! IT WILL DESTROY YOUR LIFE! ESPECIALLY DON'T GAMBLE AND DON'T BELIEVE IF IT'S PROMOTED BY PEOPLE WHO SIT AT HOME AND LIVE THEIR LIFE HOW THEY WANT WHILE ALWAYS RECORDING! THEY USING YOU!" — _We Tested Logan Paul's New Digital Pokémon Mystery Packs..._ (https://youtu.be/s67te-4YOtA)
+- 1 likes — "People don’t learn anything associated with Paul family is a scam" — _We Tested Logan Paul's New Digital Pokémon Mystery Packs..._ (https://youtu.be/s67te-4YOtA)
+- 1 likes — "Easy. Anything Logan Paul does is a scam" — _We Tested Logan Paul's New Digital Pokémon Mystery Packs..._ (https://youtu.be/s67te-4YOtA)
+- 1 likes — "Anything with logan paul is a scam some how some way. Triumph is better and packz. No playform fees and 100% buyback rate. Screw ripit lol" — _We Tested Logan Paul's New Digital Pokémon Mystery Packs..._ (https://youtu.be/s67te-4YOtA)
 
 ## Videos with most signal comments
-- 3 signals — Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028 (All-In Podcast, 70206 views) https://youtu.be/2j0l5lWSTiA
-  - description: Follow the besties:  https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg  Follow on X: https://x.com/theallinpod  Follow on Instagram: https://www.instagram.com/theallinpod  Follow on TikTok: https://www.tiktok.com/@allin  Follow on LinkedIn:  https://www.linkedin.com/company/allinpod  Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg  Intro Video Credit: https://x.com/TheZachEffect  #allin #tech #news
-- 1 signals — SNL Sister (Jeannie Gane, 441051 views) https://youtu.be/bEiYPc2V-Xg
-  - description: This SNL Elder Care skit from 11/14/26 is a classic. Enjoy!
-- 1 signals — 40x60 Metal Building Cost Comparison 2026 | Tubular vs. Red Iron | WolfSteel Buildings (WolfSteel Buildings, 38507 views) https://youtu.be/CLcxUwbJ14s
-  - description: WSP12326   Pack, is there really a price difference between web style truss tubular and weld up red iron metal buildings?  Today, we’re breaking down the cost of this 40x60 tubular metal building, designed as both a workshop and a family getaway. We’ll give you the full price breakdown, from the building itself to the features that brought this project to life, and then compare it to what a 40x60 red iron building would cost with similar specifications.  But here’s the big question: How much is 
-- 1 signals — Is This the Greatest SNL Skit of All Time? | 'Sister' Sketch (GOLD Radio | Just Good Fun, 657469 views) https://youtu.be/5z4It-2wiTw
-  - description: Is this the greatest Saturday Night Live sketch of all time? In the hilarious "Sister" digital short, John Mulaney, Kenan Thompson, Andrew Dismukes and the SNL cast parody a pharmaceutical commercial with a very relatable solution to caring for aging parents: your sister.  The sketch pokes fun at family dynamics, inheritance, caregiving responsibilities, and the unequal expectations often placed on daughters. From quitting her job to moving across the country and becoming a full-time carer, "Sis
-- 1 signals — Clearing Out a Garage Full of Memories & Tools and dealing with dementia (The Millennial Inheritance with Nick Fox, 25144 views) https://youtu.be/e6zWE9uIku4
-  - description: Suggested Description: Going through a loved one’s workshop or garage isn't just physical work—it’s an emotional journey, especially while navigating dementia. Sending so much love and support to Lois.  What was the hardest room or category of items for you to sort through during an estate clear-out?  #EstatePlanning #GarageCleanout #DementiaCare #CaregiverSupport #MillennialInheritance #Shorts
-- 0 signals — СКОЛЬКО СТОИТ РЕМОНТ В 2027 ГОДУ? #дизайнинтерьера #вседляремонта #отделка #хранение #мебель (Yuloo Studio | Студия инвест ремонта под ключ, 20114 views) https://youtu.be/bPVcvgv0bqM
-- 0 signals — Garden Design,Home Garden Ideas (Home Book by Mimsha, 196666 views) https://youtu.be/P5vNJGlDl3s
-- 0 signals — DIY Bathroom Renovation | New Electrical + Shower Reno Plans (Kelsey Romito DIY, 22912 views) https://youtu.be/ydGN-gmQU0U
-- 0 signals — Get so busy building your own life that you stop comparing it to others#foryoupage #viralvideo (🥀 Lafz-e-Dil, 37845 views) https://youtu.be/VAf-hq-CYss
-- 0 signals — 🌱 August Garden To-Do List | 12 Things You Need to Do This Month (A Gardener's Journey Homestead, 4345 views) https://youtu.be/T6y733Z7hLo
-- 0 signals — Світло вносить свої корективи #плитка #diy #ремонт (Поліщук Сергій , 43230 views) https://youtu.be/fkFgkwffddM
-- 0 signals — My Complete Fall Garden Plan | Part 2 RE-UPLOAD (A Gardener's Journey Homestead, 3064 views) https://youtu.be/b5HpMwukUXw
-- 0 signals — ಪ್ರತಿ ತಿಂಗಳು Extra Income ಬೇಕಾ? | Top 10 Passive Income Ideas in Kannada | side income| Sharath MS (Boss Wallah (Kannada), 646017 views) https://youtu.be/YwqwztZJK9w
-- 0 signals — Эти решения в ремонте устарели (ЮРИЙ ПЕТРОВ | РЕМОНТ КВАРТИР ОТДЕЛКА | ДИЗАЙН, 12310 views) https://youtu.be/qjajdkMVig4
-- 0 signals — How to Shop Smarter When Grocery Prices Keep Rising | #budgeting #savingmoney (Budgeting Just Because, 2129 views) https://youtu.be/uZT9Qc8yyGY
+- 12 signals — We Tested Logan Paul's New Digital Pokémon Mystery Packs... (TOAK Pulls, 233819 views) https://youtu.be/s67te-4YOtA
+  - description: Today, we are taking a deep dive into Logan Paul's digital mystery pack website and it's worse than we thought... --------------------------------------------------------------------------------------------------------- 👉Get Hat Tricks HERE: https://toakpulls.com/products/hat-trick-mystery-pack 👉Become A Member HERE: https://www.youtube.com/@TOAKPulls/membership --------------------------------------------------------------------------------------------------------- Check Out Our Socials!  ►TikT
+- 5 signals — I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This! (Sports Card Investor, 200540 views) https://youtu.be/c_QalWlppa4
+  - description: I Cracked and Regraded $300,000 in Cards with PSA… I Was NOT Expecting This!   🛒 SHOP CARDS Shop CardsHQ ► https://tinyurl.com/sciyoutubechq  📈 MARKET MOVERS Track card prices & your collection ► https://tinyurl.com/sciyoutubemm  🔥 JOIN US ON WHATNOT CardsHQ Breaks ► https://bit.ly/cardshqbreaks CardsHQ Shop ► https://bit.ly/cardshqshop CardsHQ Blitz ► https://bit.ly/cardshqblitz CardsHQ Hoops ► https://bit.ly/cardshqhoops CardsHQ Poke ► https://bit.ly/cardshqpoke  🏆 CARD GRADING Discounted PSA/
+- 4 signals — I Can’t Believe I Pulled THIS From a 2026 Topps Flagship Football Value Pack! (American Arbitrage Cards, 333377 views) https://youtu.be/mMLruVS-bjg
+- 3 signals — Why I stopped 3D printing and started injection moulding products (Buildy Bryce, 1897553 views) https://youtu.be/J00qybe5lpM
+  - description: @PCBWayCom
+- 3 signals — How I Make Money Selling BULK Pokémon Cards (No Rare Cards Needed) (Poke Pastor TCG , 188836 views) https://youtu.be/5pytOsDkHes
+  - description: https://doubleholo.com/premium-tools?ref=POKEPASTOR  30% off code pokepastor  Google Play  https://play.google.com/store/apps/details?id=com.doubleholo.mobile  ios  https://apps.apple.com/us/app/double-holo-card-marketplace/id6759494054  Be my next order 5% under Market here! https://pokepastor.com/collections/pokemon-singles?sort_by=price-descending&grid=default  Discord https://discord.gg/GfutVqdxd  SortSwift Link https://www.sortswift.com/?ref=pokepastortcg26  Amazon Affiliate Links   TCG sol
+- 2 signals — Why Didn’t I Print This 5 Years Ago? (Made by Madman, 719269 views) https://youtu.be/N0E5dsKmtQo
+  - description: I finally transformed my messy workshop using 3D printing, and this new modular storage wall changed everything. In this video, I take you through my entire workshop organization process—from planning the wall layout to printing custom tool holders and modular organization racks.  If your workbench is constantly cluttered and you’re looking for smart 3D printing workshop ideas, this DIY storage setup is a complete game changer. Watch the full transformation from complete chaos to the ultimate cl
+- 2 signals — 3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra) (CNC Kitchen, 823770 views) https://youtu.be/meBi616y1mg
+  - description: Thanks to @ElegooOfficial for sponsoring this video. Check out the M1 Ultra https://geni.us/ElegooM1Ultra ScanRuler is FREE and OPEN SOURCE: https://scanruler.com  I built ScanRuler, a completely free and open-source tool that turns 3D scans into something genuinely useful, from precise measurements and deviation analysis to wall-thickness inspection and reverse engineering. With the help of AI, it can even automatically turn a scanned part into a fully editable, parametric CAD model, repair bro
+- 1 signals — How to Start Collecting Pokémon Cards in LATE 2026 (Collector's Corner TCG, 165438 views) https://youtu.be/inuZcgpOHEs
+  - description: 🥇 Check out my FAVORITE way to build, sort, and track my TCG collection with the Collectr app today! Use the link https://link-to.app/amMGkitMif to let them know I sent you!  📲 How I Track My Collection (Collectr): https://link-to.app/amMGkitMif  👇 My favorite things (affiliate links also support the channel!):  ✅ CHANNEL PARTNERS (what I use):   ● My Sleeves: https://strictlysealed.com/?ref=Corner5       ◆ Code CORNER5 for 5% off   ● My Cases: https://dragonscalesupplies.com       ◆ Code CORNER
+- 1 signals — The Best Pokemon Card Scanner App (I Tested 5 Free Ones). (Black Star Promo, 15998 views) https://youtu.be/6KzSvc_LBh8
+  - description: The best Pokemon card scanner app is the one that gets the card right the first time, and that ruled out more of these than I expected. I tested 5 free Pokemon card scanner apps on the same stack of cards to see which one actually reads them correctly and gives you a price you can trust. eBay, Rare Candy, TCGplayer, PriceCharting, and Collectr, plus a bonus app most collectors have never heard of.  I ran every app through the same test. Same lighting, same cards, same order, and was really blown
+- 1 signals — How to AFFORDABLY Buy Pokémon Cards in LATE 2026 (Collector's Corner TCG, 142273 views) https://youtu.be/wUFOKRtnSl0
+  - description: 🥇 Buy AFFORDABLE cards straight from Japan with Buyee! Join with my link https://buyee-link.co/collectorscornertcg to get 10% off your first purchase!  📲 How I Track My Collection (Collectr): https://link-to.app/amMGkitMif  Pokémon Center Drops YT Channel: https://www.youtube.com/@Itwasneveraphasecards  Pokémon Center Drops Discord: https://discordbotlist.com/servers/rattlepokemon/join#goog_rewarded  👇 My favorite things (affiliate links also support the channel!):  ✅ CHANNEL PARTNERS (what I us
+- 1 signals — Ferrari 365 GTB4 COMPETIZIONE with AMARU GTC | Diecarz App (Joel P George / JPG , 8475 views) https://youtu.be/mXMTqiZVmtU
+  - description: TWO COMPLETELY DIFFERENT HOT WHEELS CASTINGS + A MUST-HAVE APP FOR DIECAST COLLECTORS! 🔥  Today we’re checking out two interesting Hot Wheels releases — the legendary Ferrari 365 GTB4 Competizione and the futuristic Amaru GTC! And there’s something special for every diecast collector: we’re also exploring the Diecarz app! 📱  🏁 a 365 GTB4 COMPETIZIONE  A beautiful tribute to Ferrari’s racing heritage! The legendary Daytona-inspired racing machine gets the Hot Wheels treatment with an aggressive b
+- 1 signals — How To Animate a Short Film with Blender + Higgsfield (Breakdown) (Higgsfield AI, 472683 views) https://youtu.be/reFzEtCG_m8
+  - description: Welcome to the first-ever Higgsfield Animation Breakdown video! Join our animator Amina to discover how we combine Blender and AI animation for our upcoming short film, Passport Rush. 🧩All the Prompts: https://higgsfield.ai/s/higgsfield-animation-episode-1-higgsfieldanimation-cyOPRU  Subscribe to ⁨@HiggsfieldAnimation for more Animation tutorials and full breakdowns.  In this practical AI animation tutorial, you’ll follow our process from storyboards and character design to Blender previs and AI
+- 1 signals — Putting fins to my giant 3D Printed Colorful Shark (3D Printing Doctor, 2090457 views) https://youtu.be/Ma0dC9gQQ54
+  - description: Want to learn how to print like this, design your own models, and be an influencer like me? I am teaching how in my community: https://www.skool.com/3dprintingdoctor It is 7 days free for a limited time! Putting the fins and alignments of this 3D Printed shark body 🦈 part 2 is out.   The is the biggest shark I have ever 3D Printed so far. It is humongous and heavy. And its only the one half.  I am removing the left over support and brim in this video with satisfying asmr style.🎧🔊 use headphones 
+- 1 signals — PSA Grade Reveal Vs. Digital Grading Co. #pokemoncards (Kyky Rips, 171820 views) https://youtu.be/kJnlZ1p8Lds
+- 1 signals — How We're Saving Tons Of Silicone For Our Small Molds (E. S. Schubert, Sculpture Studios, 460736 views) https://youtu.be/GJqCg3Anc_I
+  - description: Instead of building a traditional wooden box mold, we model a form-fitting shell directly around our 3D file. Check it out!

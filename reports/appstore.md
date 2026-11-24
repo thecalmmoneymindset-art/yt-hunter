@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-23
-Keyword groups today: cars & transport, events & community | countries: gb, us
+# App Store review report — 2026-11-24
+Keyword groups today: money & budgeting, small business & freelance | countries: gb, us
 Fetch errors: none
 
-## cars & transport
+## money & budgeting
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zutobi: Permit & Driving Prep](https://apps.apple.com/us/app/zutobi-permit-driving-prep/id1394069110?uo=4) (us) | 239331 | 4.72721 | Free | 34 | 11 |
-| [ParkNYC Powered by Flowbird](https://apps.apple.com/us/app/parknyc-powered-by-flowbird/id1135073877?uo=4) (us) | 261502 | 4.76743 | Free | 27 | 2 |
-| [Driving Theory Test 4 in 1 Kit](https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836?uo=4) (gb) | 400678 | 4.82028 | £5.99 | 2 | 1 |
-| [YourParkingSpace - Parking App](https://apps.apple.com/gb/app/yourparkingspace-parking-app/id1107618222?uo=4) (gb) | 62800 | 4.6651 | Free | 40 | 9 |
-| [DMV Genie: Permit Test 2026](https://apps.apple.com/us/app/dmv-genie-permit-test-2026/id513850893?uo=4) (us) | 184572 | 4.76499 | Free | 11 | 3 |
-| [Driving Theory Test Kit | RAC](https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883?uo=4) (gb) | 101778 | 4.72785 | Free | 9 | 6 |
-| [ParkWhiz - #1 Parking App](https://apps.apple.com/us/app/parkwhiz-1-parking-app/id595743376?uo=4) (us) | 187764 | 4.80667 | Free | 47 | 12 |
-| [CARFAX Car Care](https://apps.apple.com/us/app/carfax-car-care/id552472249?uo=4) (us) | 129131 | 4.84115 | Free | 22 | 4 |
+| [Rocket Money - Bills & Budgets](https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4) (us) | 410315 | 4.47207 | Free | 36 | 16 |
+| [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4) (us) | 1494818 | 4.74691 | Free | 28 | 7 |
+| [Microsoft Excel](https://apps.apple.com/gb/app/microsoft-excel/id586683407?uo=4) (gb) | 286236 | 4.65712 | Free | 44 | 18 |
+| [Expensify - Travel & Expense](https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4) (us) | 158587 | 4.63069 | Free | 47 | 11 |
+| [Plum: Smart Saving & Investing](https://apps.apple.com/gb/app/plum-smart-saving-investing/id1456139507?uo=4) (gb) | 70974 | 4.67543 | Free | 46 | 16 |
+| [EveryDollar: Budget Management](https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4) (us) | 84278 | 4.73177 | Free | 31 | 14 |
+| [MoneySavingExpert](https://apps.apple.com/gb/app/moneysavingexpert/id1590502794?uo=4) (gb) | 155033 | 4.85489 | Free | 13 | 4 |
+| [Monarch: Budget & Track Money](https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4) (us) | 119833 | 4.8894 | Free | 28 | 9 |
 
-Repeated complaint phrases: refund for unused (3); let you cancel (3); flash and quit (3)
+Repeated complaint phrases: used to love (3)
 
-- Zutobi: Permit & Driving Prep, 1 star: "Paywall - Ad stated the game was free. While they found a loophole. Offering a free trial, it is not free. You cannot do any lessons- anything. As soon as you open the app- boom paywall. Not worth the time. Just go get the good ol book. It’s probably more accurate than this anyways."
-- ParkWhiz - #1 Parking App, 1 star: "Reservation not honored. - I had a reservation for this morning at the iPark garage on 15 E 83rd St NYC. When I arrived, the attendant refused to even look at my confirmed & prepaid reservation. He said the garage was full and ParkWhiz has no knowledge of the parking availability when it booked my r"
-- ParkWhiz - #1 Parking App, 1 star: "Do not use in Chicago! - This app ended up being useless in Chicago. We were unable to locate an actual lot that matched the address, descriptions and pictures of the first place we booked. The picture shows street parking that is all reserved parking; the description made no sense regarding locatio"
-- YourParkingSpace - Parking App, 1 star: "Useless - Wont login with Google or Apple, parking locations not being identified. Constant red banner saying “unauthorised” but no explanation to fix the issue."
-- Driving Theory Test 4 in 1 Kit, 1 star: "Prices are not the same for everyone - Like the content but the prices are not same for everyone. My husband paid once for lifetime and for me it’s offering a subscription model where one month is just 1gbp less than he paid for the lifetime. I don’t have such an option although I would love to. We’"
-- ParkNYC Powered by Flowbird, 2 star: "Convenient app, but no refund for unused time  The app itself is very convenient and works well. But - Convenient app, but no refund for unused time  The app itself is very convenient and works well. But there is one huge drawback: if you pay for 30 minutes and leave after 10, the remaining 20 minut"
+- Rocket Money - Bills & Budgets, 1 star: "Wish less than one star was an option - They won’t cancel my membership despite repeated emails and attempts on the app. If you want a waste of your money download."
+- Rocket Money - Bills & Budgets, 1 star: "Payday view gone - I’ve used this app for close to a decade before Rocket purchased it, and they removed the one useful tool to estimate how much money would be left in your account after bills. They have shifted most of there useful free features behind paywalls. The app is no longer useful and I’l"
+- Microsoft Excel, 1 star: "Stopped working since update - This no longer works since the latest update, the version with the new logo. When you open a spreadsheet it just freezes, completely useless now."
+- Plum: Smart Saving & Investing, 1 star: "Was a good app - This used to be a great app but they have recently changed it- it’s now very confusing to set up pockets to save money and seems to have become more expensive to use. I’ve been using it for several years but I am now looking to move to a different savings app."
+- Plum: Smart Saving & Investing, 1 star: "Must pay for interest on savings - Had a savings pot closed with talk of great things coming to then find out the great things are requiring to pay for the top tier subscription to get interest on savings. Absolute joke. Emptied my accounts and using a far superior service now in trading 212"
+- Plum: Smart Saving & Investing, 1 star: "Leaving after nearly 6 years - I’ve been with Plum for nearly 6 years and I’ve regularly recommended it to others. This week they’re removing the ability to have separate interest-bearing pots and a technical issue during this switch nearly caused chaos with my existing funds and investments. Comms "
 
-## events & community
+## small business & freelance
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Sam's Club Shopping & Delivery](https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397?uo=4) (us) | 5632898 | 4.8913 | Free | 20 | 0 |
-| [BJs Wholesale Club](https://apps.apple.com/us/app/bjs-wholesale-club/id1287596508?uo=4) (us) | 1120472 | 4.8407 | Free | 14 | 0 |
-| [Eventbrite](https://apps.apple.com/us/app/eventbrite/id487922291?uo=4) (us) | 1848679 | 4.89618 | Free | 16 | 10 |
-| [Eventbrite](https://apps.apple.com/gb/app/eventbrite/id487922291?uo=4) (gb) | 358417 | 4.82282 | Free | 26 | 8 |
-| [Co-op Membership: Shop & Save](https://apps.apple.com/gb/app/co-op-membership-shop-save/id1473611046?uo=4) (gb) | 116605 | 4.7695 | Free | 17 | 1 |
-| [The Knot: Wedding Planner App](https://apps.apple.com/us/app/the-knot-wedding-planner-app/id457941553?uo=4) (us) | 224340 | 4.85491 | Free | 31 | 4 |
-| [AAA Auto Club](https://apps.apple.com/us/app/aaa-auto-club/id1094393125?uo=4) (us) | 94347 | 4.82758 | Free | 7 | 0 |
-| [Zola - Wedding Planner](https://apps.apple.com/us/app/zola-wedding-planner/id852691916?uo=4) (us) | 99371 | 4.91285 | Free | 31 | 8 |
+| [Fetch: Earn Rewards Every Day](https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4) (us) | 7894684 | 4.851 | Free | 6 | 1 |
+| [Ibotta: Save & Earn Cash Back](https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4) (us) | 1980999 | 4.79905 | Free | 27 | 9 |
+| [iScanner: PDF Doc Scanner App](https://apps.apple.com/gb/app/iscanner-pdf-doc-scanner-app/id1040093707?uo=4) (gb) | 164825 | 4.67902 | Free | 4 | 1 |
+| [Receipt Hog: Shopping Rewards](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4) (us) | 276573 | 4.74972 | Free | 21 | 4 |
+| [TopCashback: Cashback Deals](https://apps.apple.com/gb/app/topcashback-cashback-deals/id408175694?uo=4) (gb) | 157732 | 4.7944 | Free | 22 | 5 |
+| [Adobe Scan: PDF & Doc Scanner](https://apps.apple.com/gb/app/adobe-scan-pdf-doc-scanner/id1199564834?uo=4) (gb) | 197243 | 4.83108 | Free | 0 | 0 |
+| [Pogo: Earn Cash & Rewards](https://apps.apple.com/us/app/pogo-earn-cash-rewards/id1509325230?uo=4) (us) | 147578 | 4.84748 | Free | 23 | 8 |
+| [Invoice Simple: Invoice Maker](https://apps.apple.com/us/app/invoice-simple-invoice-maker/id694831622?uo=4) (us) | 122851 | 4.86775 | Free | 38 | 12 |
 
-Repeated complaint phrases: way to save (3)
+Repeated complaint phrases: again and again (3); raising the price (3); invoices per month (3)
 
-- Eventbrite, 1 star: "No excuse bugs - This is one of the buggiest apps in the App Store and with this kind of stature you’d think the developers and mgmt would take a little more pride in their work. Search functionality is terrible, deep linking doesn’t work, 404 pages instead of indicating an event is sold out so you "
-- Eventbrite, 1 star: "Eventbrite is a disaster now! - This app used to work well, but now it’s a mess. I was ripped off for a ticket and it never showed up on the app. The AI chat it was useless."
-- Eventbrite, 1 star: "Poor execution - I have registered for this event three times. My colleagues have registered and are actually in the event, but I cannot get in neither by phone nor computer. What a joke."
-- Eventbrite, 1 star: "Not user friendly - Having changed jobs, I need to change my email address in Eventbrite. There is no simple way to accomplish that. It makes this not worth my using."
-- Eventbrite, 1 star: "Not able to open - I cannot open for my ticket for turkey on 11/18"
-- Eventbrite, 1 star: "worthless - unlike every other ticket app in the universe, this one has no support for Apple wallet.  It also has no way to add tickets to your account, so if somebody buys tickets and sends them to you, there is no way to save them.  it claims to let you download tickets, but all it does is open a "
+- Pogo: Earn Cash & Rewards, 1 star: "Not worth the app - I tried to redeem my rewards. Ordinary for you to redeem them you have to submit your driver’s license."
+- Pogo: Earn Cash & Rewards, 1 star: "Not great anymore - I’ve been using this app for a few years and used to love it. They would give you points when you would visit places but now they don’t. They only give you videos to watch or long surveys that are not worth much. It takes so much longer to earn points now. I don’t know if I’ll co"
+- Pogo: Earn Cash & Rewards, 1 star: "Not worth your time - Honestly this is one of the worst ones out there. They advertise “INSTANT CASHOUTS”   BUT, if it’s over $4 you’re gonna easily sit and wait while it processes for atleast 24hrs while they dig under the couch cushions to find enough loose change to afford to pay out."
+- Fetch: Earn Rewards Every Day, 1 star: "Unable to sync Walmart - This app has bugs frequently & customer service isn't helpful. I have tried multiple times over the past week to sync Walmart & always receive error messages. I've done all of the troubleshooting & customer service can't help. Their solution is to manually send them all the "
+- Ibotta: Save & Earn Cash Back, 1 star: "This app used to be great! - This app used to be great! Receipts would be processed is 24-48 hours. You used to get credit for the products you bought. The customer service used to be timely. Now, when you submit a receipt even though you’ve added all the products to the app, you’ve scanned all the "
+- Ibotta: Save & Earn Cash Back, 1 star: "Removing app - This program is worthless.  Claim they can’t read the receipts, items aren’t the correct ones (but it’s the exact in the picture), every excuse to not credit you for the items you bought! I had been using and quit for awhile because of the same issue and thought I would give it anothe"
