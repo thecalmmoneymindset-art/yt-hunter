@@ -1,599 +1,665 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "rows": [
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 17.28,
-   "likes": 369,
-   "text": "For anyone wondering what's the app name it's Astra Ai"
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
-   "url": "https://youtu.be/eAfufDq6Sas",
+   "cat": "photography & video",
+   "video": "DaVinci Resolve Full Course (3+ Hours)",
+   "url": "https://youtu.be/MheQ2Ww7EMQ",
    "signals": [
     "would_pay"
    ],
-   "score": 14.42,
-   "likes": 44,
-   "text": "9999 for a noise product is very expensive. 4999 is the max i will pay"
+   "score": 16.75,
+   "likes": 97,
+   "text": "The only person on this platform who I'd happily pay to take lessons from, but he refuses to put up a paid course and keeps giving away lessons worth more than some of the college degrees out there FOR FREE. God bless!!!"
   },
   {
-   "cat": "languages & translation",
-   "video": "Learn English with TANGLED \u2014 Rapunzel's Birthday Wish",
-   "url": "https://youtu.be/oZXiFpqxTuw",
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
    "signals": [
-    "wish_build"
+    "result_report"
    ],
-   "score": 11.47,
-   "likes": 113,
-   "text": "I started learning english 3 years ago from zero and now I've got to the point where I confidently communicate with natives while expressing myself in a way I'd like. I stopped practicing english  almost a year ago. I just came here as this is the greatest and most helpful channel that I had back when I was still learning. I just wanted to stop by to inform how grateful I am for all the lessons I "
+   "score": 9.84,
+   "likes": 259,
+   "text": "This doesn't work with the free version of Claude as the video claims. Claude needs access to your local folders and can best do this through addons like cowork; which are available only on the paid versions of Claude."
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
+   "cat": "creators & sellers",
+   "video": "How I Prep & Ship Walmart Clearance to Amazon FBA @TryBoxem",
+   "url": "https://youtu.be/s4eMfjhYx7Y",
    "signals": [
-    "ask_for_tool"
+    "result_report"
    ],
-   "score": 8.71,
-   "likes": 11,
-   "text": "What is the name of this app?"
+   "score": 8.44,
+   "likes": 101,
+   "text": "This is nefarious! Thank you for the heads up on your scam! I will never anything like this from Amazon. (What's more amazing is that she thinks she is a genius for making a YouTube post about scamming people, and they're going to love it.)"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
-   "url": "https://youtu.be/uS6BrQrBiGo",
+   "cat": "writing & publishing",
+   "video": "AI Detection Is Destroying Writers",
+   "url": "https://youtu.be/x3f44jarlE8",
+   "signals": [
+    "result_report"
+   ],
+   "score": 7.89,
+   "likes": 70,
+   "text": "i'll say it a million times: AI detectors are a scam. LLM need databases that are not made by AI to get trained. What better way to get actua humanl writing than a software that claims to check if AI was used or not"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "manual_pain"
    ],
-   "score": 7.99,
-   "likes": 8,
-   "text": "I had a CRIQA for a month and I ended up returning it, I use an Applewatch ultra 2 for my trainings and really wanted to start using garmin or being inside the garmin ecosystem with the CIRQA, hwever for training , even though it is true it gives you a lot of data , it is not able to pick one single training automatically. I run, swim, do hyrox and strength training, and I had to start every singl"
+   "score": 6.98,
+   "likes": 5,
+   "text": "I created a workflow in n8n using  Claude. The purpose was to read my script, break it into different sections, generate an image for each section, and then turn each image into a short video. All the outputs, including the images and videos, were saved to a folder on my G drive.  I used Gemini to generate the videos and ChatGPT to create the images. It took me about a day and a half to set everyt"
   },
   {
-   "cat": "languages & translation",
-   "video": "Everyone is Bad at Languages Until They Learn THIS",
-   "url": "https://youtu.be/doBxlUxVZxY",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 7.83,
-   "likes": 4,
-   "text": "I was stationed in Spain when I was in the military. I really like motorcycles so I would buy motorcycles magazines and read them with the help of my Spanish / English dictionary. Once, after I had been doing this for a while and was getting a handle on it, I was having a real tough time reading. The words were spelled funny and the verbs weren't conjugating properly. I finally figured out that I "
-  },
-  {
-   "cat": "languages & translation",
-   "video": "Everyone is Bad at Languages Until They Learn THIS",
-   "url": "https://youtu.be/doBxlUxVZxY",
+   "cat": "writing & publishing",
+   "video": "AI Detection Is Destroying Writers",
+   "url": "https://youtu.be/x3f44jarlE8",
    "signals": [
     "result_report"
    ],
-   "score": 7.59,
-   "likes": 57,
-   "text": "In School I couldn't really follow my French and English teacher. What I did was reading as a refresher \"The Eagle has landed\" in German, a book I had read several times before. Then I bought the same book in English and French and read them both consecutively and several times. Within a year my grades in both languages had gone up. Although it didn't work for Latin. That was in the early 80's and"
+   "score": 6.88,
+   "likes": 35,
+   "text": "Traditional publishing has become too dangerous. I have some trad pub deals, but most of my work is indie published, since 2008. I'm thinking I'm better off avoiding the entire trad pub industry going forward.  Also, Pangram and AI detection is all a huge scam."
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 7.36,
-   "likes": 6,
-   "text": "Tell me name of this app please didi"
-  },
-  {
-   "cat": "cars & motoring",
-   "video": "Car Simulator : Driving School - Trailer (PS5 & PS4)",
-   "url": "https://youtu.be/zKt8sqyA08g",
+   "cat": "photography & video",
+   "video": "I Tried Fully Automating My Video Editing With AI (RAW RESULTS)",
+   "url": "https://youtu.be/C0jOKDJtK9s",
    "signals": [
     "result_report"
    ],
-   "score": 7.03,
-   "likes": 39,
-   "text": "Genuinely it's not worth it for 20$"
+   "score": 6.88,
+   "likes": 35,
+   "text": "The \u201ctedious work\u201d that AI outsources is what builds fundamentals for future skill sets. This is not worth the environmental impact."
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
+   "cat": "resellers & second-hand",
+   "video": "My Reseller Inventory System: Thrift Haul to Shipped (Start to Finish) EP. 6 Reselling Unfiltered",
+   "url": "https://youtu.be/m3oDe-wYNoA",
    "signals": [
-    "ask_for_tool"
+    "manual_pain"
    ],
    "score": 5.97,
    "likes": 3,
-   "text": "What is the name of this app  I really need  Not only me everyone needs it"
+   "text": "I like the idea of logging everything in a spreadsheet.  I am just not sure I would be disciplined enough to follow through.  I've thought about purchasing apps that do everything like that, but those can cost a fair bit of money for small revenue stores.  Thanks again for the video, happy reselling."
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
+   "cat": "resellers & second-hand",
+   "video": "Why I Don't Use Crosslisting Apps",
+   "url": "https://youtu.be/Dj0tfop8LD8",
    "signals": [
-    "ask_for_tool"
+    "manual_pain"
    ],
-   "score": 5.97,
-   "likes": 3,
-   "text": "Name of the app / website"
+   "score": 5.25,
+   "likes": 2,
+   "text": "I manually crossl list as well. The apps are costly and they are not really allowed to be used by ebay ect. Its an easy way to lose your accounts."
   },
   {
-   "cat": "languages & translation",
-   "video": "Everyone is Bad at Languages Until They Learn THIS",
-   "url": "https://youtu.be/doBxlUxVZxY",
-   "signals": [
-    "result_report"
-   ],
-   "score": 5.84,
-   "likes": 17,
-   "text": "German experiment doesn't work as well if you're a native speaker \ud83d\ude14"
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "Debt Confession: Student Loan Edition - Sharing my Student Loan Balance and SAVE Plan Update",
-   "url": "https://youtu.be/gdGBGjiwbPc",
+   "cat": "photography & video",
+   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
+   "url": "https://youtu.be/AsvN_feasyY",
    "signals": [
     "result_report"
    ],
-   "score": 5.66,
-   "likes": 15,
-   "text": "I remain in awe of you, Jen. You have come so far in your journey. You inspire me. I am the kid who took out $120k to go to law school. I wouldn\u2019t change what I did because it got me to where I am. But I\u2019ll never let my kids make this decision. I remember saying \u201cI know it\u2019s good debt but this seems like so much!\u201d And then I spent 10 years paying the minimums. And still owed $80k. I got my butt in"
+   "score": 5.1,
+   "likes": 10,
+   "text": "The moment you mention the scam company that is higgsfield  you lose all credibility. I stopped watching."
   },
   {
-   "cat": "personal finance & admin",
-   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
-   "url": "https://youtu.be/uS6BrQrBiGo",
-   "signals": [
-    "would_pay"
-   ],
-   "score": 5.08,
-   "likes": 1,
-   "text": "I really REALLY want to love my Fitbit air as I think the premium AI coach is awesome but I have had mine for 4 months now and it does everything great, except my HRV which I get a flat 300ms most nights and so it thinks my range is 270-310 and when it does drop down to an equally unlikely 150 It tanks my readiness score.  I have tried resets clearing data, repairing it and have just got it back f"
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "Debt Confession: Student Loan Edition - Sharing my Student Loan Balance and SAVE Plan Update",
-   "url": "https://youtu.be/gdGBGjiwbPc",
+   "cat": "writing & publishing",
+   "video": "AI Detection Is Destroying Writers",
+   "url": "https://youtu.be/x3f44jarlE8",
    "signals": [
     "result_report"
    ],
    "score": 4.62,
    "likes": 7,
-   "text": "Girl we are the same age! I\u2019ll be 49 in November too. I\u2019m trying to get hustling like you with Shipt but hubby thinks it\u2019s not worth it with gas & miles. My rebuttal is that we need money quick! This weekend I start back up after a month of not doing it."
+   "text": "Excellent analysis time someone pointed out the reputation ruin scam of these so-called AI detectors"
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "What's the name of this app"
+   "text": "Tella only allows one camera. What would you recommend for a three camera set up? Is there a software you would use?"
   },
   {
-   "cat": "languages & translation",
-   "video": "Help why pingo cries like a babyy \ud83d\udc76\ud83c\udffc\ud83d\ude2d\ud83c\udf7c #funny #learnenglish #english #languageapp #pingoai",
-   "url": "https://youtu.be/iOdcl1tKDj4",
+   "cat": "photography & video",
+   "video": "How to Make Viral Animated Shorts Using Claude (Full Workflow)",
+   "url": "https://youtu.be/OtbLL6OBNE4",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "Lol the fact that with this style 3d render by claude code in cloud would take hours ..and if you want to save your time you need to render locally on machine and for that you need good Gpu....bdw....the repo is insane brother thanks for that \u2764\ufe0f"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Should I Sell on Vinted?  Open Reseller Discussion about this Growing Platform",
+   "url": "https://youtu.be/y6yhzqP4iUo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I have a 2 fold strategy with Vinted. I source for my whatnot shows and manually list lower value items or my own pieces over there. I also use Nifty and wish they were integrated. I have a separate bin for just vinted inventory."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Vinted Beat ALL My Reselling Platforms This Week! What Sold on Vinted, Poshmark, and eBay",
+   "url": "https://youtu.be/-Nwp6opVRNo",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 4.23,
+   "likes": 1,
+   "text": "I just cannot figure out Vinted so thank you for your thoughts. I need Vendoo to allow listing there, doing it manually is killing me lol"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Make Insane Motion Graphics With Opus 5.5",
+   "url": "https://youtu.be/747ZnEtsRbg",
    "signals": [
     "ask_for_tool"
    ],
    "score": 4.23,
    "likes": 1,
-   "text": "What is that app name please answer me if you see this message"
+   "text": "is there a way to get the files to be editable in f.e. premiere pro or after effects to make the final changes in there?"
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
    "signals": [
     "result_report"
    ],
-   "score": 4.19,
-   "likes": 5,
-   "text": "My journey from a topper to a normal average student , without studying much I used to score 97-98% but this did not work in class 9th nd scored 74%(**got distracted : l started to watch kdramas to much nd l was like 1 show start kiya hai toh pura complete karna hai \ud83d\ude22)   But had to score good marks in 10th so I scored 97.4%, basically mai exam se pahle nhi padhti thii nd this made my downfall   So"
+   "score": 3.91,
+   "likes": 4,
+   "text": "For an experiment, I typed in a page from a Sanderson novel, and the Substack AI detector said it was only 55% Human. There is no way that can be true. Sanderson does love his em dashes, so that's probably why. AI detectors are a scam, and all writers hurt by them need to sue!"
   },
   {
-   "cat": "languages & translation",
-   "video": "Everyone is Bad at Languages Until They Learn THIS",
-   "url": "https://youtu.be/doBxlUxVZxY",
+   "cat": "writing & publishing",
+   "video": "How Substack\u2019s AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+   "url": "https://youtu.be/y41CRIVzSoI",
+   "signals": [
+    "result_report"
+   ],
+   "score": 3.91,
+   "likes": 4,
+   "text": "Never trusted AI detectors because they are massively flawed and Panscam is just as flawed. I'm not going to dumb down my writing to appease that snake oil salesman Max Spero and his scam. Let the reader decide if it's good or trash, not some software. Like you mentioned, we've been doing this for years without Panscam."
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
    "signals": [
     "result_report"
    ],
    "score": 3.15,
    "likes": 2,
-   "text": "But the problem with this idea... as good as it sounds... it seems to require you to have at least 1000 words already memorised. So it doesn't work unless you know those 1000 words. Then \"basta\" makes more sense."
+   "text": "Claude is proud of you, kid\u2014you pulled off a scam by claiming it could run on the free version, when in reality, it requires payment."
   },
   {
-   "cat": "personal finance & admin",
-   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
-   "url": "https://youtu.be/eAfufDq6Sas",
+   "cat": "creators & sellers",
+   "video": "Best Laptop In Amazon, Flipkart BBD, & GREAT INDIAN FESTIVAL SALE 2026",
+   "url": "https://youtu.be/XK-HRm0VHCI",
    "signals": [
     "would_pay"
    ],
    "score": 3.0,
    "likes": 0,
-   "text": "Bro i want to buy it but I don't have money i am fitness king of boy and i play cricket also i want it but money problem I order that 5 time but not have i cancel it so if you help me please I lik that to much, first when i watch that i think i will buy it"
+   "text": "I am very confused muje Samaj nhi aa rha kaun sa lu kyuki mai esa laptop chata hu jiska processor shi ho 16 gb and 512 ssd de because mI video editing and graphic designing Krna hai or jiska battery backup bhi shi hai jsime kamse kam 4 thred ya isse jyada  rahe..or budget 50000 hai ..sir if u r free pls suggest me.. Which one I will buy..."
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "freelancers & admin",
+   "video": "My Honest Mercor Experience: $50/Hour Working Remotely from India?",
+   "url": "https://youtu.be/uXQ4aI3-oIY",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "I have used this...it doesn't work on meh\ud83e\udd21"
+   "text": "MERCOR is SCAM... you keep applying for Jobs and get no response what so ever... SCAM  If you guys are facing the same .. like this comment"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "I Wore Both for 2 Weeks - Noise REP vs Fitbit Air",
-   "url": "https://youtu.be/eAfufDq6Sas",
+   "cat": "writing & publishing",
+   "video": "Why Smart Authors Aren't Worried About AI",
+   "url": "https://youtu.be/_eCckkUWYDk",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "Dear sir, Don,t purchase this product, sleep data and recovery data not generation after 4 days use, waste of money"
+   "text": "For writing, I prefer Claude Projects in the primary system. While the formal automations in all their forms are great for scientific tasks like programming or creating documentation, the ecosystem is fundamentally different. Also, the process of writing is different. With the primary system project, you form a history and working relationship with the models that has more or less become seamless "
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Debt Confession: Student Loan Edition - Sharing my Student Loan Balance and SAVE Plan Update",
-   "url": "https://youtu.be/gdGBGjiwbPc",
+   "cat": "writing & publishing",
+   "video": "AI Detection Is Destroying Writers",
+   "url": "https://youtu.be/x3f44jarlE8",
    "signals": [
     "result_report"
    ],
    "score": 2.54,
    "likes": 1,
-   "text": "1st of all, I have no opinion about you helping your kids. I never had children but my parents helped me with no thought of me paying them back.  There is a UTUBE channel ( I think it\u2019s just called Rachel) , she lives in the Tampa area & she had student loans for her. One or more was from that Phoenix university. It  wasn\u2019t a scam. She filed and they were forgiven. Her other loans were from North "
+   "text": "It\u2019s funny how this video showed up in my recommendations exactly at the time when I was venting my frustration from the fact that I could not even test this lauded AI detector. Because after having to register an account, answer their stupid questionnaire and completing the quest of finding \u201cuse for free\u201d line in very fine print at the bottom of the page with paid options, I was given 20 credits "
   },
   {
-   "cat": "languages & translation",
-   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
-   "url": "https://youtu.be/_z9ddExksrc",
+   "cat": "resellers & second-hand",
+   "video": "Storing 1200 items in 45 sq ft! Reseller Organization!",
+   "url": "https://youtu.be/DhpaNjAuONo",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Great! A good inventory storage system is key! Trying to find a misplaced item is hectic and a waste of time. Thanks for sharing."
+  },
+  {
+   "cat": "photography & video",
+   "video": "Can ChatGPT 6 Astra Edit better than a Real Video Editor ?",
+   "url": "https://youtu.be/rDrCO1ZHYLY",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "Me and my life  In 2022 10th 2 baar deya term 1&2 2024 me neet scam 2025 me neet sab se hard  2026 me neet scam fir se  Abhi video editing start keya aur ye  Pata nhi life me aab kya karu \ud83d\ude05\ud83d\ude2e\ud83d\ude22"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Create AI Motion Graphics in Minutes (FREE Master Prompt)",
+   "url": "https://youtu.be/n50KkoucMpU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "How your Google flow worked so well. My Google flow does not work so well, he add all the text of the prompt in a frame And all Colour codes in background \ud83d\ude2d now how I can make"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "ChatGPT Just Changed Everything for Etsy POD Sellers (HUGE Update)",
+   "url": "https://youtu.be/Y9nbNH3QFBU",
+   "signals": [
+    "result_report"
+   ],
+   "score": 2.54,
+   "likes": 1,
+   "text": "I've watched so many of these YouTube videos where I am told that AI is going to do some marvelous thing and it always ends up being a waste of time. But not this one! WOW! I was shocked at the results I got. I learned so much and even got validation on things I wasn't sure I was doing right. Thank you soooo much for telling us about this new way of researching our listings. I know it gets said wa"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Does anyone know what app is best to use for learning Korean? I'm using teuida but I'm not sure if I will be able to learn proper Korean from it"
+   "text": "Does anyone know if this could work with voiceovers? For example if I had hours of art creation footage with no sound and made a voiceover about it, could it match up the two? Speeding up, slowing down and cutting the footage as required around the voiceover? Or is that way too complex for this? I feel like I already know the answer but thought I'd check because it would save soooooo much time! Ch"
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Shane can you tell what app is she using"
+   "text": "Is there a way to connect Claude or Codex to Premiere Pro so that I can still add some personal touches to the video?"
   },
   {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What is the name of this app \u2764 please"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "The name of this app is  Astra AI"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Tell the name of the app plsssss"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Whats the name of the app girll???"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What's the name of this app , pls"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "what app is this? can you tell me ?"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What is the name of the app bro"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Bro what is the name of the app"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "Whats the name of this app"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What is this app plz tell"
-  },
-  {
-   "cat": "education & study",
-   "video": "Found the best study hacks for good grades #astraai #studytips #studytools #fyp #shorts #exams",
-   "url": "https://youtu.be/m877QS66emc",
-   "signals": [
-    "ask_for_tool"
-   ],
-   "score": 2.5,
-   "likes": 0,
-   "text": "What is the name of the app"
-  },
-  {
-   "cat": "jobs & careers",
-   "video": "I Automated My Job Search Using AI | Step by Step with Live Demo | Find Jobs and Auto Apply",
-   "url": "https://youtu.be/V_OlWyt8g7I",
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "This is so relatable! I was spending hours every day manually applying. I recently started using Jobbyo and it actually handles the whole mind-numbing application part on autopilot, which let me focus on my portfolio and creative direction again. Saved me so much time and burnout. Great breakdown in the video btw!"
+   "text": "It wont edit my final cut property videos where I might have say 10 different versions of a clip but i choose the very best cuts manually?  how can i know this level of picky?"
   },
   {
-   "cat": "education & study",
-   "video": "How to use one of the most underrated revision tools you already own \ud83d\udcda\ud83e\udde0\u270d\ud83c\udffc",
-   "url": "https://youtu.be/ImiKbRenTFo",
+   "cat": "photography & video",
+   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
+   "url": "https://youtu.be/AsvN_feasyY",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Hi , does anyone know what the background music is pls"
+   "text": "Does anyone know why \"motion\" doesn't appear in my artifacts?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
-   "url": "https://youtu.be/Bmdiqqz2am0",
+   "cat": "creators & sellers",
+   "video": "Amazon Just Gave Claude Access to Seller Central",
+   "url": "https://youtu.be/c5oYYQ7nn6o",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Hey Chris, very informative video like always.  Is there a way to get the Amazon Claude skills? I tried doing the AI brand Audi to get the skill but your calendar is fully booked. Thank you in advance"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "Stop Wasting Time & Paper! \ud83d\uded1 Print 4 Labels on 1 Page (Meesho, Flipkart, Amazon)",
+   "url": "https://youtu.be/lyRFji4QSxE",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Hi,  What is the Website URL  ???"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "I Sold AI Digital Products For 7 Days (100% FREE Tools)",
+   "url": "https://youtu.be/nSdGiqJ9y_k",
    "signals": [
     "manual_pain"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Does it auto detect workouts and sleep or should I select it manually everytime?"
+   "text": "Hello Ma'am! I am a student and I run a small digital studio called Webloom Studio. I offer website development and AI advertisement creation services, but I am struggling to find clients despite trying to approach many businesses.  Could you please guide me on how I can find clients and get my first few projects? Your guidance would really mean a lot to me. Thank you! \u2764"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "I Found a Way to Use WHOOP Without Paying $300/Year! \ud83d\ude31",
-   "url": "https://youtu.be/Bmdiqqz2am0",
+   "cat": "creators & sellers",
+   "video": "Easiest Way to Start A.I. Print on Demand in 2026",
+   "url": "https://youtu.be/-dOMKhDYo3c",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "23:42 can I use my own psd mockup in listing view? this basic free mockup I used  for years always worked but I manually place the graphics in there it takes time. was hoping I can just load up design files and do multiple mockup images together."
+  },
+  {
+   "cat": "photography & video",
+   "video": "My Secret Weapon for Wedding Photography: Aftershoot AI",
+   "url": "https://youtu.be/GjmyD1o9SbI",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "is that software edit image automatically or we haver to  do manually"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Tested The Viral Github Repo That Reverse Engineers Anything",
+   "url": "https://youtu.be/dAzs_rU6080",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "Bro, what is this app called nobody"
+   "text": "Yo, loving the Brave experience on Mac. It feels so clean.  Got a video idea tho: can you figure out a way to make Spotify work with Siri on macOS? Like, saying \u201cHey Siri, play [song] on Spotify\u201d or asking it to skip or pause, instead of Siri saying Spotify doesn\u2019t support it. \ud83d\udc80  Also, would be sick if it worked with Spotify web apps added to the Dock from Brave, Safari, or any Chromium browser, j"
   },
   {
-   "cat": "languages & translation",
-   "video": "at this point #gojosatoru has ruined my AI\ud83d\ude2d Bunpo app - ad #learnjapanese #studyjapanese",
-   "url": "https://youtu.be/cLZpuI_Ca5Q",
+   "cat": "photography & video",
+   "video": "How to Create AI Motion Graphics in Minutes (FREE Master Prompt)",
+   "url": "https://youtu.be/n50KkoucMpU",
    "signals": [
     "ask_for_tool"
    ],
    "score": 2.5,
    "likes": 0,
-   "text": "I wonder what app do you use"
+   "text": "What is the website for prompt link?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Why I abandoned Whoop",
-   "url": "https://youtu.be/DJJrvjCu3H0",
+   "cat": "photography & video",
+   "video": "How to Actually Code with AI (ft. Matt Pocock)",
+   "url": "https://youtu.be/mU8WKII1gpk",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Now this is excellent content, and a lot of this stuff is what I'm doing myself on this experimental project I'm doing, though by hand... and a hell of a lot of stuff I'm not doing. GREAT content."
+  },
+  {
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "If we create images manually and also voice over then it's cost less right?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
+   "url": "https://youtu.be/hffQ4UleKUU",
+   "signals": [
+    "manual_pain"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Thank you! I have been stalling my channel for the last 2 years. You are a life saver. Editing takes forever. I use Claude every day as a developer but never thought you could do that with claude."
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "How I Store Thousands of eBay Items Without Losing Anything",
+   "url": "https://youtu.be/DM9v4dEaxqM",
+   "signals": [
+    "ask_for_tool"
+   ],
+   "score": 2.5,
+   "likes": 0,
+   "text": "Is there a way to increase the volume of items when you\u2019re new without purchasing a store ?"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "How to Write a Book with AI in 2026 (Full Step-By-Step Tutorial)",
+   "url": "https://youtu.be/KrRDFpSjcR4",
    "signals": [
     "wish_build"
    ],
    "score": 2.0,
    "likes": 0,
-   "text": "\u304a\u306f\u3088\u3046Eric! Watching from Japan! I'm using an Apple Watch SE2 instead of an Ultra, but I think you could use Just Press Record to start recording with the Action Button. Even on the SE2, you can use gestures to start and stop recordings (though they don't always work reliably, which is why I wish I had a physical button). Since the audio files sync through iCloud, you can have an AI agent on your co"
+   "text": "this looks amazing! I wish I could afford it. I'm sure it's worth every penny though"
   },
   {
-   "cat": "languages & translation",
-   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
-   "url": "https://youtu.be/_z9ddExksrc",
+   "cat": "music & podcasting",
+   "video": "Can The OBSBOT Talent 2 Replace An Entire Podcast Studio?",
+   "url": "https://youtu.be/jHrwNtdjbXg",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "That\u2019s cool I wish I could afford one for my set up"
+  },
+  {
+   "cat": "writing & publishing",
+   "video": "Best iPad Case for Productivity: MOFT Dynamic Folio \ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udcf1\u270d\ud83c\udffc",
+   "url": "https://youtu.be/_AVC6i7IiCQ",
+   "signals": [
+    "wish_build"
+   ],
+   "score": 2.0,
+   "likes": 0,
+   "text": "I wish there was something like this for the galaxy tabs"
+  },
+  {
+   "cat": "photography & video",
+   "video": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+   "url": "https://youtu.be/HzXD4GVqXwM",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "it doesnt work that way they updated course -.-"
+   "text": "doesn't work for me, on the stage of setup"
   },
   {
-   "cat": "languages & translation",
-   "video": "POV: you learnt Korean on Duolingo \ud83d\udc40 #learnkorean #studykorean #duolingo",
-   "url": "https://youtu.be/_z9ddExksrc",
+   "cat": "freelancers & admin",
+   "video": "My Honest Mercor Experience: $50/Hour Working Remotely from India?",
+   "url": "https://youtu.be/uXQ4aI3-oIY",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Duolingo does not work good i heard it sucks at teaching"
+   "text": "Oh so this is legit?? .... I ignored them thinking it's a scam"
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "writing & publishing",
+   "video": "How to Find UNTAPPED Amazon KDP Keywords in Seconds Using AI",
+   "url": "https://youtu.be/fPnFZ3eoJGI",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "It doesn't work on subjects which need extensive study."
+   "text": "Awesome way to create value quickly and reduce waste of time and money! Thanks for the great video Sean."
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "resellers & second-hand",
+   "video": "I Changed How I Run My Reselling Business | Inventory, Photos & Storage",
+   "url": "https://youtu.be/6luGmnHJ-zo",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Pehla dialogue hi scam hai !!!!!! Jab iski vdo dekh li to history me nikal lo"
+   "text": "You don\u2019t have usps pick up your packages at your front door? I don\u2019t do international\u2026. Not worth the headache"
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "writing & publishing",
+   "video": "\u201cI Can\u2019t Afford to Self-Publish\u201d \u2014 Yes, You Can",
+   "url": "https://youtu.be/X4vHkh6WDZY",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "This won\u2019t scam right ? Cause me doing from google"
+   "text": "When you said, what's the name? What's the term? My mind instantly said scam, and then you said it. L o l"
   },
   {
-   "cat": "education & study",
-   "video": "Study with this tool\ud83e\udd2f #studymotivation",
-   "url": "https://youtu.be/F2XY4tCKfkg",
+   "cat": "resellers & second-hand",
+   "video": "Vinted Beat ALL My Reselling Platforms This Week! What Sold on Vinted, Poshmark, and eBay",
+   "url": "https://youtu.be/-Nwp6opVRNo",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "What is the point of not studying hard enough ? \ud83d\ude02 We study for the development of our brain so it can take decisions, remember things when we need to, that's the whole point, what is the benefit of getting good marks without studying, and this scheme does not work."
+   "text": "Im confused u sold jeans $30 u only got 26. Change why??? Please dont tell me u r paying to bump your items cause irs a waste of money"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Ultimate Claude Code Tutorial: How to Use Claude Code for Beginners in 2026",
-   "url": "https://youtu.be/WdZjoMi6W7Y",
+   "cat": "photography & video",
+   "video": "How to Create AI Motion Graphics in Minutes (FREE Master Prompt)",
+   "url": "https://youtu.be/n50KkoucMpU",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "I\u2019m a beginner, but I haven\u2019t a clue what\u2019s happening! It\u2019s all meaningless. A total waste of time."
+   "text": "Nope! Does not work. I tested it and it doesn't pull any views."
   },
   {
-   "cat": "personal finance & admin",
-   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
-   "url": "https://youtu.be/uS6BrQrBiGo",
+   "cat": "photography & video",
+   "video": "Claude Edited My Entire CapCut Video (I Didn\u2019t Touch the Timeline)",
+   "url": "https://youtu.be/5N1moUCsVhI",
    "signals": [
     "result_report"
    ],
    "score": 1.5,
    "likes": 0,
-   "text": "Since you asked, I think they are a waste of money if you have even the most basic sports watch and probably even if you don't. Good overview though!"
+   "text": "I have installed capcut and claude on my pc but it doesnt work. Is there a missing part i ned to setup to link both?"
   },
   {
-   "cat": "personal finance & admin",
-   "video": "Budget Loan App 2026 || Budget Loan Real Or Fake || Budget Loan Review ",
-   "url": "https://youtu.be/dVHqE2JGoI4",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Mera id hi nahi ban raha he inlog ke sath mene hi scam kardiya he 2 bar 1200 1200 nikal ke alag alag app se loan leker Unown number block call per daldo Or whatapp only contact per kardo setting me app option he use on kardo mobile secure 1 week tak aese hi rehne do wo khud call sms karna ban karenge Or aap ne jiska number diya he reference me uska mobile me bhi aesa hi kardo scamer ke sath scam f"
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "\ud83d\udd25 Noise Rep Unboxing & Review \u2014 Is It Better Than Fitbit & Whoop? | No Subscription! || In Telugu ||",
-   "url": "https://youtu.be/5svKHdl0iZI",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "Dear brother, Don't purchase noise rep this product, sleep data and recovery data not generation after 4 days use, waste of money"
-  },
-  {
-   "cat": "cars & motoring",
-   "video": "Track DIY Maintenance And Oil Changes With This App | How To Set Up & Features Explained",
-   "url": "https://youtu.be/5CnUjbSiV_Y",
-   "signals": [
-    "result_report"
-   ],
-   "score": 1.5,
-   "likes": 0,
-   "text": "That's why buying a new car or truck is just not worth it you can't even work on a vehicle you bought. Lease is sounding like a lot better option like with my Toyota 3yr free old change."
-  },
-  {
-   "cat": "personal finance & admin",
-   "video": "WHOOP vs FitBit Air vs Garmin Cirqa vs Amazfit Helio: Which one do YOU Get?!",
-   "url": "https://youtu.be/uS6BrQrBiGo",
+   "cat": "resellers & second-hand",
+   "video": "I Completely Rebuilt My Reselling Inventory System",
+   "url": "https://youtu.be/PBrwsNiDn_U",
    "signals": [
     "link_ask"
    ],
-   "score": 0.63,
-   "likes": 2,
-   "text": "I like that Fitbit air band! Where can I get one from?"
+   "score": 0.51,
+   "likes": 1,
+   "text": "Hello. Where can I find this bags?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Make Viral Stickman Animated Shorts Using FREE AI TOOLS (NO CLAUDE CODE)",
+   "url": "https://youtu.be/-fgNFJCQZGk",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "where can i get the prompt?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How to Make Insane Motion Graphics With Opus 5.5",
+   "url": "https://youtu.be/747ZnEtsRbg",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.51,
+   "likes": 1,
+   "text": "Great film, I have one question Where can I find that python prompt 6:50 ? I don't see that on X"
+  },
+  {
+   "cat": "creators & sellers",
+   "video": "Newly Crafted: What\u2019s New At Etsy? | Etsy Up 2026",
+   "url": "https://youtu.be/QymLKY9dAPg",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Where can I find AI stats assistant??"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
+   "url": "https://youtu.be/AsvN_feasyY",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "where can i get the flim skill md?  is it the paper flim skill?"
+  },
+  {
+   "cat": "photography & video",
+   "video": "How To Create VOX STYLE Animation 100% FREE (NO PAID TOOLS)",
+   "url": "https://youtu.be/_9YXliQTAkg",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "That's a great sharing. Where can I get your guide?"
+  },
+  {
+   "cat": "resellers & second-hand",
+   "video": "Work with me VLOG | I'm Changing EVERYTHING | New Inventory System",
+   "url": "https://youtu.be/lXXVIC8RNgs",
+   "signals": [
+    "link_ask"
+   ],
+   "score": 0.3,
+   "likes": 0,
+   "text": "Can you share the link to purchase the same hanging racks? I would love to have those in my personal closet."
   }
  ]
 }

@@ -1,49 +1,49 @@
-# App Store review report — 2026-11-25
-Keyword groups today: property & home, family & parenting | countries: gb, us
+# App Store review report — 2026-11-26
+Keyword groups today: health & fitness, pets | countries: gb, us
 Fetch errors: none
 
-## property & home
+## health & fitness
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Zillow Real Estate & Rentals](https://apps.apple.com/us/app/zillow-real-estate-rentals/id310738695?uo=4) (us) | 7243227 | 4.80008 | Free | 44 | 12 |
-| [Apartment List: Apt rentals](https://apps.apple.com/us/app/apartment-list-apt-rentals/id659694038?uo=4) (us) | 509274 | 4.69128 | Free | 38 | 16 |
-| [Redfin: Buy, Sell & Rent Homes](https://apps.apple.com/us/app/redfin-buy-sell-rent-homes/id327962480?uo=4) (us) | 1657157 | 4.7984 | Free | 34 | 7 |
-| [Realtor.com Real Estate & Rent](https://apps.apple.com/us/app/realtor-com-real-estate-rent/id336698281?uo=4) (us) | 1092272 | 4.78918 | Free | 25 | 13 |
-| [Trulia Real Estate & Rentals](https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321?uo=4) (us) | 1415972 | 4.8164 | Free | 27 | 8 |
-| [Rent. Apartments and Homes](https://apps.apple.com/us/app/rent-apartments-and-homes/id388038507?uo=4) (us) | 222998 | 4.73806 | Free | 30 | 7 |
-| [Houzz - Home Design & Remodel](https://apps.apple.com/us/app/houzz-home-design-remodel/id399563465?uo=4) (us) | 325211 | 4.84306 | Free | 20 | 6 |
-| [Thumbtack: Home Service Pros](https://apps.apple.com/us/app/thumbtack-home-service-pros/id852703300?uo=4) (us) | 483915 | 4.89021 | Free | 8 | 3 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4) (us) | 2397887 | 4.71396 | Free | 0 | 0 |
+| [MyFitnessPal: Calorie Counter](https://apps.apple.com/gb/app/myfitnesspal-calorie-counter/id341232718?uo=4) (gb) | 477235 | 4.70401 | Free | 36 | 7 |
+| [Reminders](https://apps.apple.com/us/app/reminders/id1108187841?uo=4) (us) | 1073387 | 4.828 | Free | 11 | 3 |
+| [BetterSleep: Relax and Sleep](https://apps.apple.com/us/app/bettersleep-relax-and-sleep/id314498713?uo=4) (us) | 390939 | 4.74139 | Free | 38 | 28 |
+| [ShutEye®: Sleep Tracker, Sound](https://apps.apple.com/us/app/shuteye-sleep-tracker-sound/id1490078804?uo=4) (us) | 350551 | 4.76401 | Free | 39 | 20 |
+| [Workout for Women: Home & Gym](https://apps.apple.com/us/app/workout-for-women-home-gym/id839285684?uo=4) (us) | 532580 | 4.84603 | Free | 17 | 5 |
+| [Finch: Self-Care Pet](https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4) (us) | 779483 | 4.94724 | Free | 2 | 0 |
+| [Tasty: Recipes, Cooking Videos](https://apps.apple.com/us/app/tasty-recipes-cooking-videos/id1217456898?uo=4) (us) | 433019 | 4.90796 | Free | 11 | 3 |
 
-Repeated complaint phrases: matching your search (3); filters to find (3); find more homes (3)
+Repeated complaint phrases: used to love (5); subscription to use (3)
 
-- Zillow Real Estate & Rentals, 2 star: "WAS great - I wish they would stop messing with it. Every week is a new update. Really, no one needs to update every week. But this last one actually did something. It made it horrible-covering up the map with the listing bar. Now you get tons of extraneous areas you don’t want to look at or you can"
-- Zillow Real Estate & Rentals, 1 star: "Photos to small. - Please fix the app, since updated the pictures are so small. Should have left it alone, the app was great before."
-- Zillow Real Estate & Rentals, 2 star: "Misleading - While the app has good features like drawing your own map boundary, the fact it cannot accurately filter homes based off of filters, especially the bathrooms, this causes a lot of frustration, and has only driven me to utilize other platforms"
-- Trulia Real Estate & Rentals, 1 star: "Missing the most important feature - For the life of me, I can’t understand why the search feature doesn’t allow you to narrow by geographic area. Every single day, the app is sending me recommended listings for the wrong part of the city and there is NO way to stop it from doing this. I’ve deleted "
-- Trulia Real Estate & Rentals, 1 star: "Used to be my favorite home-search app — please fix Map Search - I’ve used Trulia for years, and it’s astonishing that one change to the app has made me dislike using it this much.  I search primarily using the map with very specific filters already set. Previously, if I moved the map into an area w"
-- Apartment List: Apt rentals, 1 star: "Scams - People posting real apartments and claiming availability and changing the phone numbers to theirs so you’re calling them not the actual place. They want to steal your info when you apply and take your money when you pay application fees and or even deposits if you don’t tour. Only way to pro"
+- Workout for Women: Home & Gym, 2 star: "Used to love this app - I used to love this app when it was free. Now they want you to pay a subscription. I thought there was a free version but it’s not"
+- BetterSleep: Relax and Sleep, 1 star: "Pay Wall - I actually used to love this app. I was even considering subscribing to get all its features. Then one day my super basic mix that I used on the free version stopped being free. I thought well that’s odd. Then I come to discover 90% of what was free is now behind a pay wall. Wow. Insane g"
+- BetterSleep: Relax and Sleep, 1 star: "Disappointed - This is so disappointing. I’ve been using this app for years. I had a favorite sound for sleeping and now all those sounds I use are blocked behind a subscription paywall. Sad to see this app go down. I would’ve been open to a one-time fee but the sub model is so annoying. We have too"
+- BetterSleep: Relax and Sleep, 1 star: "Greedy app - I’ve had this app for years and a lot of sounds used to be free. Now you only get three free sounds, crazy. The developers got greedy."
+- Reminders, 3 star: "Missing one key feature - Where is the start and end dates?"
+- Reminders, 3 star: "Organizer cant be organized - The Reminder option has been very useful in helping organize my day but i cannot seem to organize/arrange my reminders. They are stuck in the order in which i made them.  Also, days should not be mixed. Its confusing if you just happen to glance at the list for a quick "
 
-## family & parenting
+## pets
 Read the table as: many ratings = proven demand; a low average = unhappy customers = room for a better, cheaper or simpler product.
 
 | App | Ratings | Avg | Price | Low-star reviews read | Complaints found |
 | --- | ---: | ---: | --- | ---: | ---: |
-| [Flo Cycle & Period Tracker](https://apps.apple.com/us/app/flo-cycle-period-tracker/id1038369065?uo=4) (us) | 2031197 | 4.74034 | Free | 33 | 16 |
-| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860?uo=4) (us) | 404232 | 4.80699 | Free | 3 | 1 |
-| [Baby Tracker - Newborn Log](https://apps.apple.com/us/app/baby-tracker-newborn-log/id779656557?uo=4) (us) | 229760 | 4.8005 | Free | 4 | 0 |
-| [Pregnancy Tracker App - WTE](https://apps.apple.com/us/app/pregnancy-tracker-app-wte/id289560144?uo=4) (us) | 381436 | 4.87059 | Free | 3 | 0 |
-| [BabyCenter Pregnancy Tracker](https://apps.apple.com/us/app/babycenter-pregnancy-tracker/id386022579?uo=4) (us) | 299469 | 4.89201 | Free | 2 | 0 |
-| [Babylist Baby Registry](https://apps.apple.com/us/app/babylist-baby-registry/id718582092?uo=4) (us) | 144979 | 4.92353 | Free | 19 | 5 |
-| [Pregnancy + | Tracker App](https://apps.apple.com/gb/app/pregnancy-tracker-app/id505864483?uo=4) (gb) | 40208 | 4.8169 | Free | 12 | 2 |
-| [TimeTree: Shared Calendar](https://apps.apple.com/gb/app/timetree-shared-calendar/id952578473?uo=4) (gb) | 45407 | 4.82967 | Free | 9 | 3 |
+| [Care.com Caregiver: Find Jobs](https://apps.apple.com/us/app/care-com-caregiver-find-jobs/id1367528046?uo=4) (us) | 166730 | 4.62655 | Free | 18 | 8 |
+| [Chewy - Pet Care & Pharmacy](https://apps.apple.com/us/app/chewy-pet-care-pharmacy/id1149449468?uo=4) (us) | 1286012 | 4.91017 | Free | 5 | 0 |
+| [Instawork: Work when you want](https://apps.apple.com/us/app/instawork-work-when-you-want/id1123819773?uo=4) (us) | 104582 | 4.71458 | Free | 17 | 3 |
+| [PetDesk](https://apps.apple.com/us/app/petdesk/id631377773?uo=4) (us) | 514046 | 4.85916 | Free | 13 | 3 |
+| [Rover – Pet Sitters](https://apps.apple.com/us/app/rover-pet-sitters/id547320928?uo=4) (us) | 523211 | 4.88539 | Free | 9 | 2 |
+| [Wag! - Dog Walkers & Sitters](https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609?uo=4) (us) | 68140 | 4.76494 | Free | 31 | 6 |
+| [AllTrails: Hike, Run & Walk](https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943?uo=4) (gb) | 65767 | 4.84447 | Free | 12 | 5 |
+| [Finch: Self-Care Pet](https://apps.apple.com/gb/app/finch-self-care-pet/id1528595748?uo=4) (gb) | 79973 | 4.92995 | Free | 6 | 3 |
 
-Repeated complaint phrases: every time open (3); waste of time (3)
+Repeated complaint phrases: bug after bug (3)
 
-- Flo Cycle & Period Tracker, 1 star: "Too many pop ups - Used to absolutely love this app. Recently downloaded it back to track my cycle again and every time I open the app I have to exit out of 3-4 pop ups asking me to upgrade to plus before I can even use the app."
-- Flo Cycle & Period Tracker, 2 star: "Only enjoyable if you buy a subscription (not worth it) - I was hoping to get some wellness help and track my cycles, and I kept seeing ads of this app everywhere. They made it look like you could do so much with just the app, but mostly everything requires a subscription that I cannot afford. I thi"
-- Flo Cycle & Period Tracker, 1 star: "Greedy for money - You used to be able to do so much without having to be charged for every minor thing. The pop ups are RIDICULOUS. I used this app for years before it got ridiculous with blocking off everything unless you paid. If anything this app was just easier to track if i was lazy to use a r"
-- Flo Cycle & Period Tracker, 1 star: "Full of hidden subscriptions - Tried to sign up for a free 14 day trial, they made me put mu card information in, and made me confirm a 0 dollar payment. I then look into my bank account 30 minutes later and they charged me 40 dollars, I NEVER AGREED TO IT!!!! THIS APP IS SO BUGGY AND TERRIBLE I CAN"
-- Flo Cycle & Period Tracker, 3 star: "The Annoying Push for Premium Access - I have had flo for many years. It has helped me in my teens due to having irregular periods and even now where they are now more regular. It’s easy and insightful but it’s so annoying how much you cant see or use due to not having the “premium version” of flo. "
-- Flo Cycle & Period Tracker, 1 star: "Pop-up to subscribe if you click on anything - The first time I was pregnant. I feel like I was almost scammed into subscribing because that was the only way I was able to find out anything about my baby and pregnancy. It was like $65 for a year for information I could find on other apps or now  AI "
+- AllTrails: Hike, Run & Walk, 2 star: "Purposefully blocking loaded maps - I don’t use the app frequently enough to warrant a subscription. Over the years I have navigated with AllTrails, I haven’t had any issues with disruption to my data - the map loads when there is a signal and stays loaded. Or at least, it used to. In what appears t"
+- Rover – Pet Sitters, 1 star: "Keeps crashing - App keeps crashing while using it. Can’t complete my pets profiles because it keeps crashing…"
+- Rover – Pet Sitters, 2 star: "More stars comes with more money - Don’t get very many requests for dogs. Wish I had more"
+- PetDesk, 1 star: "Bad - Cannot get into the app. I entered all my information, clicked on the link to validate my email, but it sends me right back to the page that says “check your email”. I tried two different times in two different browsers. Circular trap."
+- PetDesk, 1 star: "Useless - Phone apps should never log out, especially if they have needlessly complex password requirements like this one does"
+- PetDesk, 1 star: "Software is written for Phones - I use my iPad for most all of my internet work. This program is set-up for use on a phone in portrait mode. I use a keyboard  with my iPad so my screen is in Landscape mode all of the time. When I run across programs like this it requires me to read the screen on its"
